@@ -1,0 +1,50 @@
+{
+  "status": "pass",
+  "date": "2026-11-08",
+  "repository": "https://github.com/cuicuicuicui1/srw3-remix4-cn",
+  "release": "https://github.com/cuicuicuicui1/srw3-remix4-cn/releases/tag/r1-20261027",
+  "source_commit_verified": "51e47cf805a9257fc18753289f7f5799eefffcd0",
+  "remote_clone_files_byte_equal": 152,
+  "downloaded_assets": {
+    "identity.json": {
+      "sha256": "22e787875176f9cdc18fcded268d6f67d0fb1b0c7d83a41d79b7e03a4b8cb22a",
+      "bytes": 345
+    },
+    "remix4-cn-R1.bps": {
+      "sha256": "02e1faedf958940303802ea976fb3b37c662d420c71f9ec2f0e9166718d96696",
+      "bytes": 524460
+    },
+    "SHA256SUMS.txt": {
+      "sha256": "7a15f702d3b14e53781b23f545972309d77678813185c32ca1064838cbe1a8a7",
+      "bytes": 365
+    },
+    "SRW3-ReMix4-CN-R1-patch.zip": {
+      "sha256": "f9be455f365e1e5069c575ff182106ff70952bae5553297d35d14109d4d357c3",
+      "bytes": 145011
+    },
+    "SRW3-ReMix4-JP-text-extraction-R1.zip": {
+      "sha256": "d1b9f0e62928eb321f0ceac8882a1c51c7b738882ce94ad436314ed4f6a3014d",
+      "bytes": 2419431
+    }
+  },
+  "zip_inner_manifests": "pass",
+  "ROM_saves_memory_dumps_not_in_assets": true,
+  "downloaded_zip_new_process_patch_replay_sha256": "bcde4e317f945b23c4ceac6bca89e6725812eb94e53d3cd51cc0e09e0dd608cd",
+  "github_ci": [
+    {
+      "conclusion": "success",
+      "databaseId": 42393895736,
+      "headSha": "51e47cf805a9257fc18753289f7f5799eefffcd0",
+      "status": "completed",
+      "url": "https://github.com/cuicuicuicui1/srw3-remix4-cn/actions/runs/42393895736"
+    },
+    {
+      "conclusion": "success",
+      "databaseId": 42393853439,
+      "headSha": "51e47cf805a9257fc18753289f7f5799eefffcd0",
+      "status": "completed",
+      "url": "https://github.com/cuicuicuicui1/srw3-remix4-cn/actions/runs/42393853439"
+    }
+  ],
+  "runtime_rerun": false
+}
