@@ -1,0 +1,74 @@
+[
+  {
+    "id": "name-06-F3C3",
+    "source": "コロニ－",
+    "translation": "殖民卫星",
+    "width": 48,
+    "budget": 32,
+    "group": 23
+  },
+  {
+    "id": "name-06-F3C8",
+    "source": "ソロモン",
+    "translation": "所罗门",
+    "width": 36,
+    "budget": 32,
+    "group": 23
+  },
+  {
+    "id": "name-06-F3CD",
+    "source": "ア・バオア・ク－",
+    "translation": "阿·巴瓦·库",
+    "width": 72,
+    "budget": 64,
+    "group": 23
+  },
+  {
+    "id": "name-06-F3D6",
+    "source": "ラビアンロ－ズ",
+    "translation": "拉比安罗斯",
+    "width": 60,
+    "budget": 56,
+    "group": 23
+  },
+  {
+    "id": "name-06-F3FB",
+    "source": "ルナⅡ",
+    "translation": "月神Ⅱ",
+    "width": 32,
+    "budget": 24,
+    "group": 23
+  },
+  {
+    "id": "name-06-F3FF",
+    "source": "アクシズ",
+    "translation": "阿克西斯",
+    "width": 48,
+    "budget": 32,
+    "group": 23
+  },
+  {
+    "id": "name-06-F6F7",
+    "source": "時をこえて",
+    "translation": "穿越时空",
+    "width": 48,
+    "budget": 44,
+    "group": 24
+  },
+  {
+    "id": "name-06-F717",
+    "source": "ゲッタ－ロボ！",
+    "translation": "盖塔机器人！",
+    "width": 68,
+    "budget": 56,
+    "group": 24
+  },
+  {
+    "id": "name-06-F556",
+    "source": "ド圧性",
+    "translation": "大根性",
+    "width": 36,
+    "budget": 32,
+    "group": 25
+  }
+]

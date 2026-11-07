@@ -1,0 +1,255 @@
+{
+  "source_rom_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "entries": [
+    {
+      "id": "menu-03-C0C3-C0C7",
+      "japanese": "ボタン　",
+      "translation": "按钮"
+    },
+    {
+      "id": "menu-03-C0C8-C0CC",
+      "japanese": "スピ－ド",
+      "translation": "速度"
+    },
+    {
+      "id": "menu-03-C221-C239",
+      "japanese": "マウスをさしこんで　なにかボタンをおしてください",
+      "translation": "请插入鼠标，然后按任意按钮。"
+    },
+    {
+      "id": "menu-03-C23A-C252",
+      "japanese": "パッドをさしこんで　なにかボタンをおしてください",
+      "translation": "请插入手柄，然后按任意按钮。"
+    },
+    {
+      "id": "menu-03-C4D6-C4F3",
+      "japanese": "たとえＨＰが残り少なくとも、必ず反撃を行います",
+      "translation": "即使ＨＰ所剩无几，也一定会反击。"
+    },
+    {
+      "id": "menu-03-C4F4-C527",
+      "japanese": "敵の攻撃によってＨＰが０になってしまう可能性のある\nユニット以外は反撃を行います",
+      "translation": "除因敌人攻击而可能使ＨＰ归零的\n机体外，其余均会反击。"
+    },
+    {
+      "id": "menu-03-C528-C559",
+      "japanese": "ＨＰが１／２以下のユニットは回避か防御、\nそれ以上のユニットは反撃を行います",
+      "translation": "ＨＰ1/2以下的机体回避或防御，\n高于此值的机体则反击。"
+    },
+    {
+      "id": "menu-03-C55A-C590",
+      "japanese": "反撃を行わず、回避能力が高ければ回避、\n防御能力が高ければ防御を行います",
+      "translation": "不反击；回避能力较高时回避，\n防御能力较高时则防御。"
+    },
+    {
+      "id": "menu-03-D783-D78C",
+      "japanese": "ル－トＡ　　　　　",
+      "translation": "路线Ａ"
+    },
+    {
+      "id": "menu-03-D797-D7A0",
+      "japanese": "フォン＝ブラウン　",
+      "translation": "冯·布朗"
+    },
+    {
+      "id": "menu-03-D7AD-D7B9",
+      "japanese": "早乙女研究所",
+      "translation": "早乙女研究所"
+    },
+    {
+      "id": "menu-03-D7DC-D7E5",
+      "japanese": "バミュ－ダ　　　　",
+      "translation": "百慕大"
+    },
+    {
+      "id": "menu-03-D805-D80F",
+      "japanese": "謎の敵　　　　　",
+      "translation": "神秘敌人"
+    },
+    {
+      "id": "menu-03-D81A-D824",
+      "japanese": "ＤＣを追撃　　　",
+      "translation": "追击DC"
+    },
+    {
+      "id": "menu-03-DCC4-DCCD",
+      "japanese": "デ－タがありません",
+      "translation": "没有数据"
+    },
+    {
+      "id": "menu-03-DCCE-DCDB",
+      "japanese": "デ－タが破壊されました",
+      "translation": "数据已被破坏"
+    },
+    {
+      "id": "menu-03-DF6E-DF7F",
+      "japanese": "どいつをパワ－アップさせるんだ？」",
+      "translation": "要改造哪台机体？”"
+    },
+    {
+      "id": "menu-03-DF80-DF9E",
+      "japanese": "そいつはこれ以上パワ－アップ\n　できんぜ。限界だよ」",
+      "translation": "那台不能再改造了，\n已到极限啦。”"
+    },
+    {
+      "id": "menu-03-DF9F-DFAE",
+      "japanese": "どのパラメ－タをあげるって？」",
+      "translation": "要提升哪个参数？”"
+    },
+    {
+      "id": "menu-03-DFAF-DFC7",
+      "japanese": "そのパラメ－タは、これ以上\n　あげられんよ」",
+      "translation": "这参数不能再提升，\n到顶啦。”"
+    },
+    {
+      "id": "menu-03-DFD6-DFF4",
+      "japanese": "おいおい、資金がたりね－ぞ。\n　ないそではふれねぇって」",
+      "translation": "喂喂，资金不够啊。\n没钱免谈。”"
+    },
+    {
+      "id": "menu-03-DFF5-DFFE",
+      "japanese": "ちょっとまってな・",
+      "translation": "稍等一下……"
+    },
+    {
+      "id": "menu-03-E6E2-E704",
+      "japanese": "おやおや、ハデにやってくれましたね。\n　ま、まかしといてくださいよ」",
+      "translation": "哎呀呀，弄得可真够惨啊。\n放、放心交给我吧。”"
+    },
+    {
+      "id": "menu-03-E705-E725",
+      "japanese": "はい、これでよし・・・と、\n　あんまりムチャしないでくださいよ」",
+      "translation": "好，这样就行……\n那，请别太乱来啊。”"
+    },
+    {
+      "id": "menu-03-E810-E823",
+      "japanese": "自分のＨＰを１／３回復します。",
+      "translation": "恢复自身ＨＰ的１／３。"
+    },
+    {
+      "id": "menu-03-E824-E836",
+      "japanese": "自分のＨＰを全回復します。",
+      "translation": "完全恢复自身的ＨＰ。"
+    },
+    {
+      "id": "menu-03-E837-E854",
+      "japanese": "指定したユニットのエネルギ－を完全補給します。",
+      "translation": "为指定机体完全补给能量。"
+    },
+    {
+      "id": "menu-03-E855-E868",
+      "japanese": "全員のＨＰを１／２回復します。",
+      "translation": "恢复全员ＨＰ的１／２。"
+    },
+    {
+      "id": "menu-03-E869-E87B",
+      "japanese": "全員のＨＰを全回復します。",
+      "translation": "完全恢复全员的ＨＰ。"
+    },
+    {
+      "id": "menu-03-E87C-E895",
+      "japanese": "敵全員にダメ－ジをあたえます。１０～１０００",
+      "translation": "对敌方全体造成伤害。10～1000"
+    },
+    {
+      "id": "menu-03-E896-E8AB",
+      "japanese": "自分の気力を１５ポイントあげます。",
+      "translation": "提升自身１５点气力。"
+    },
+    {
+      "id": "menu-03-E8AC-E8BF",
+      "japanese": "１回だけ移動力が＋５されます。",
+      "translation": "仅一次，移动力＋５。"
+    },
+    {
+      "id": "menu-03-E8C0-E8D7",
+      "japanese": "必ずクリティカルヒットになります。回数１",
+      "translation": "必定暴击。次数１"
+    },
+    {
+      "id": "menu-03-E8D8-E8F5",
+      "japanese": "自分の命中率が１タ－ンの間１００％になります。",
+      "translation": "自身命中率在１回合内变为１００％。"
+    },
+    {
+      "id": "menu-03-E8F6-E911",
+      "japanese": "自分の回避率が１回だけ１００％になります。",
+      "translation": "自身回避率仅１次变为１００％。"
+    },
+    {
+      "id": "menu-03-E912-E933",
+      "japanese": "１回だけ敵からもらえる経験値、お金が２倍になります。",
+      "translation": "仅１次，击敌所得经验值与资金变为２倍。"
+    },
+    {
+      "id": "menu-03-E934-E949",
+      "japanese": "１タ－ンの間、直感が＋５０されます。",
+      "translation": "１回合内，直觉＋５０。"
+    },
+    {
+      "id": "menu-0C-BFDB-BFE1",
+      "japanese": "　反撃　",
+      "translation": "反击"
+    },
+    {
+      "id": "menu-0C-BFE2-BFE8",
+      "japanese": "　防御　",
+      "translation": "防御"
+    },
+    {
+      "id": "menu-0C-BFE9-BFEF",
+      "japanese": "　回避　",
+      "translation": "回避"
+    },
+    {
+      "id": "menu-0C-BFF0-BFF6",
+      "japanese": "　回避　",
+      "translation": "回避"
+    },
+    {
+      "id": "menu-0C-C894-C898",
+      "japanese": "水中",
+      "translation": "水中"
+    },
+    {
+      "id": "menu-0C-C899-C89D",
+      "japanese": "地上",
+      "translation": "地面"
+    },
+    {
+      "id": "menu-0C-C89E-C8A2",
+      "japanese": "宇宙",
+      "translation": "宇宙"
+    },
+    {
+      "id": "menu-0C-C8A3-C8A7",
+      "japanese": "空中",
+      "translation": "空中"
+    },
+    {
+      "id": "menu-0C-C8A8-C8AD",
+      "japanese": "けいしょう",
+      "translation": "轻伤"
+    },
+    {
+      "id": "menu-0C-C8AE-C8B1",
+      "japanese": "ふつう",
+      "translation": "正常"
+    },
+    {
+      "id": "menu-0C-C8B2-C8B5",
+      "japanese": "ひんし",
+      "translation": "濒死"
+    },
+    {
+      "id": "menu-0C-C8B6-C8BA",
+      "japanese": "死亡",
+      "translation": "死亡"
+    },
+    {
+      "id": "menu-0C-C9AA-C9AC",
+      "japanese": "バ　",
+      "translation": "B"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "source_rom_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "entries": [
+    {
+      "id": "name-06-F44F",
+      "source_cpu": 455759,
+      "source_offset": 226383,
+      "source_hex": "d9c991353030ff",
+      "japanese": "リペア５００",
+      "original_pixel_width": 48,
+      "aliases": [
+        {
+          "table_cpu": 455727,
+          "entry": 0
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "name-06-F456",
+      "source_cpu": 455766,
+      "source_offset": 226390,
+      "source_hex": "d9c99132303030ff",
+      "japanese": "リペア２０００",
+      "original_pixel_width": 56,
+      "aliases": [
+        {
+          "table_cpu": 455727,
+          "entry": 1
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "name-06-F45E",
+      "source_cpu": 455774,
+      "source_offset": 226398,
+      "source_hex": "d9c99122162dff",
+      "japanese": "リペアＭＡＸ",
+      "original_pixel_width": 48,
+      "aliases": [
+        {
+          "table_cpu": 455727,
+          "entry": 2
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "name-06-F465",
+      "source_cpu": 455781,
+      "source_offset": 226405,
+      "source_hex": "97bcda9d11c0b29eff",
+      "japanese": "エネルギ－パック",
+      "original_pixel_width": 64,
+      "aliases": [
+        {
+          "table_cpu": 455727,
+          "entry": 3
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "name-06-F46E",
+      "source_cpu": 455790,
+      "source_offset": 226414,
+      "source_hex": "f188f1fef0a3f062ff",
+      "japanese": "予備弾装",
+      "original_pixel_width": 48,
+      "aliases": [
+        {
+          "table_cpu": 455727,
+          "entry": 4
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "name-06-F477",
+      "source_cpu": 455799,
+      "source_offset": 226423,
+      "source_hex": "f075f0f7f14ef0c215ff",
+      "japanese": "気合一発！",
+      "original_pixel_width": 56,
+      "aliases": [
+        {
+          "table_cpu": 455727,
+          "entry": 5
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "name-06-F481",
+      "source_cpu": 455809,
+      "source_offset": 226433,
+      "source_hex": "f103f0756d568a56313030ff",
+      "japanese": "勇気のしるし１００",
+      "original_pixel_width": 80,
+      "aliases": [
+        {
+          "table_cpu": 455727,
+          "entry": 6
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "name-06-F48D",
+      "source_cpu": 455821,
+      "source_offset": 226445,
+      "source_hex": "f103f0756d568a5622162dff",
+      "japanese": "勇気のしるしＭＡＸ",
+      "original_pixel_width": 80,
+      "aliases": [
+        {
+          "table_cpu": 455727,
+          "entry": 7
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "name-06-F499",
+      "source_cpu": 455833,
+      "source_offset": 226457,
+      "source_hex": "f07ff1656df0d089ff",
+      "japanese": "正義の怒り",
+      "original_pixel_width": 52,
+      "aliases": [
+        {
+          "table_cpu": 455727,
+          "entry": 8
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "name-06-F4A2",
+      "source_cpu": 455842,
+      "source_offset": 226466,
+      "source_hex": "f249f1986d67624e8fff",
+      "japanese": "秘密のとっくん",
+      "original_pixel_width": 64,
+      "aliases": [
+        {
+          "table_cpu": 455727,
+          "entry": 9
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "name-06-F4AC",
+      "source_cpu": 455852,
+      "source_offset": 226476,
+      "source_hex": "91cca7d111ae11ff",
+      "japanese": "アポジモ－タ－",
+      "original_pixel_width": 56,
+      "aliases": [
+        {
+          "table_cpu": 455727,
+          "entry": 10
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "name-06-F4B4",
+      "source_cpu": 455860,
+      "source_offset": 226484,
+      "source_hex": "cd9fbcb2b7a211b7ff",
+      "japanese": "マグネットコ－ト",
+      "original_pixel_width": 64,
+      "aliases": [
+        {
+          "table_cpu": 455727,
+          "entry": 11
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "name-06-F4BD",
+      "source_cpu": 455869,
+      "source_offset": 226493,
+      "source_hex": "f04bf0f7f0f32fff",
+      "japanese": "超合金Ｚ",
+      "original_pixel_width": 44,
+      "aliases": [
+        {
+          "table_cpu": 455727,
+          "entry": 12
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "name-06-F4C5",
+      "source_cpu": 455877,
+      "source_offset": 226501,
+      "source_hex": "b0d6bfcf9111cd11ff",
+      "japanese": "チョバムア－マ－",
+      "original_pixel_width": 64,
+      "aliases": [
+        {
+          "table_cpu": 455727,
+          "entry": 13
+        }
+      ],
+      "translation": ""
+    }
+  ],
+  "scope": "independent 16-slot item-label table; last two empty; actual consumers not yet located"
+}

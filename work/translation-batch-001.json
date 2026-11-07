@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "source_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "scope": "independent native group32 FF-terminated strings; control-bearing/random resources excluded pending parser",
+  "entries": [
+    {
+      "id": "group32-00",
+      "source_offset": 262272,
+      "pointer_slots": [
+        "0x40000"
+      ],
+      "original_hex": "a6d2913e3b3b3b7e67805e4e6943816d5f693b3b3bf236f0bdf236f15f6df3f21c5485476d41837d60674345816d8e3b3b3b3fff",
+      "japanese": "シャア「・・・みとめたくないものだな・・・自分自身の\n若さゆえのあやまちというものを・・・」",
+      "translation": ""
+    },
+    {
+      "id": "group32-01",
+      "source_offset": 262324,
+      "pointer_slots": [
+        "0x40002"
+      ],
+      "original_hex": "c6da3e471162151400814583806082456d1514f3816267415c7b45871162153fff",
+      "japanese": "プル「え－っ！？　もうやめちゃうの！？\nもっとあそぼうよ－っ！」",
+      "translation": ""
+    },
+    {
+      "id": "group32-02",
+      "source_offset": 262357,
+      "pointer_slots": [
+        "0x40004"
+      ],
+      "original_hex": "9dd2d9acdf3e5c8b666e3a5385624e896749f2317e4e5f5443e4f349634a8bf0c7665355437d565e3fff",
+      "japanese": "ギャリソン「それでは、ごゆっくりとお休みください。\nおつかれ様でございました」",
+      "translation": ""
+    },
+    {
+      "id": "group32-03",
+      "source_offset": 262399,
+      "pointer_slots": [
+        "0x40006"
+      ],
+      "original_hex": "bedc3ebedc1500bedc150099b39adb150099b39adb153fff",
+      "japanese": "ハロ「ハロ！　ハロ！　オツカレ！　オツカレ！」",
+      "translation": ""
+    },
+    {
+      "id": "group32-04",
+      "source_offset": 262423,
+      "pointer_slots": [
+        "0x40008"
+      ],
+      "original_hex": "f001f0023e56624a898362654e8b87693a7d625e4e3fff",
+      "japanese": "甲児「しっかりやってくれよな、まったく」",
+      "translation": ""
+    },
+    {
+      "id": "group32-05",
+      "source_offset": 262446,
+      "pointer_slots": [
+        "0x4000a"
+      ],
+      "original_hex": "aa93d83e4e5750596a4b8f6f6265e40041695e6988664c8a8d3fff",
+      "japanese": "セイラ「くじけずにがんばって。　あなたならできるわ」",
+      "translation": ""
+    },
+    {
+      "id": "group32-06",
+      "source_offset": 262473,
+      "pointer_slots": [
+        "0x4000c"
+      ],
+      "original_hex": "91da3e696a8362658f5f873a814515150056624a89566587153fff",
+      "japanese": "アル「なにやってんだよ、もう！！　しっかりしてよ！」",
+      "translation": ""
+    },
+    {
+      "id": "group32-18",
+      "source_offset": 262532,
+      "pointer_slots": [
+        "0x40024"
+      ],
+      "original_hex": "d9d6953eb096121211dfa700a1b2ae11311515f3a893b2b00099df15153fff",
+      "japanese": "リョウ「チェ――－ンジ　ゲッタ－１！！\nスイッチ　オン！！」",
+      "translation": ""
+    },
+    {
+      "id": "group32-19",
+      "source_offset": 262563,
+      "pointer_slots": [
+        "0x40026"
+      ],
+      "original_hex": "bed3b73eb096dfa700a1b2ae11321515f3a893b2b00099df15153fff",
+      "japanese": "ハヤト「チェンジ　ゲッタ－２！！\nスイッチ　オン！！」",
+      "translation": ""
+    },
+    {
+      "id": "group32-20",
+      "source_offset": 262591,
+      "pointer_slots": [
+        "0x40028"
+      ],
+      "original_hex": "cfa4a63eb096dfa700a1b2ae11331515f3a893b2b00099df15153fff",
+      "japanese": "ムサシ「チェンジ　ゲッタ－３！！\nスイッチ　オン！！」",
+      "translation": ""
+    },
+    {
+      "id": "group32-21",
+      "source_offset": 262619,
+      "pointer_slots": [
+        "0x4002a"
+      ],
+      "original_hex": "d9d6953eb096121211dfa700b8d8a3df1515f3a893b2b00099df15153fff",
+      "japanese": "リョウ「チェ――－ンジ　ドラゴン！！\nスイッチ　オン！！」",
+      "translation": ""
+    },
+    {
+      "id": "group32-22",
+      "source_offset": 262649,
+      "pointer_slots": [
+        "0x4002c"
+      ],
+      "original_hex": "bed3b73eb096dfa700d8939b111515f3a893b2b00099df15153fff",
+      "japanese": "ハヤト「チェンジ　ライガ－！！\nスイッチ　オン！！」",
+      "translation": ""
+    },
+    {
+      "id": "group32-23",
+      "source_offset": 262676,
+      "pointer_slots": [
+        "0x4002e"
+      ],
+      "original_hex": "c8dfa0933eb096dfa700ccaa93b8df1515f3a893b2b00099df15153fff",
+      "japanese": "ベンケイ「チェンジ　ポセイドン！！\nスイッチ　オン！！」",
+      "translation": ""
+    },
+    {
+      "id": "group32-27",
+      "source_offset": 262756,
+      "pointer_slots": [
+        "0x40036"
+      ],
+      "original_hex": "b6d4119e3eaf93a511009edca8153fff",
+      "japanese": "デュ－ク「ダイザ－　クロス！」",
+      "translation": ""
+    },
+    {
+      "id": "group32-28",
+      "source_offset": 262772,
+      "pointer_slots": [
+        "0x40038"
+      ],
+      "original_hex": "b6d4119e3eaf93a51100a311153fff",
+      "japanese": "デュ－ク「ダイザ－　ゴ－！」",
+      "translation": ""
+    },
+    {
+      "id": "group32-29",
+      "source_offset": 262787,
+      "pointer_slots": [
+        "0x4003a"
+      ],
+      "original_hex": "b6d4119e3ea2dfc2bc11a6d6df009edca8153fff",
+      "japanese": "デュ－ク「コンビネ－ション　クロス！」",
+      "translation": ""
+    },
+    {
+      "id": "group32-30",
+      "source_offset": 262807,
+      "pointer_slots": [
+        "0x4003c"
+      ],
+      "original_hex": "f0938ef0e9f0ee545a8a5267f3f3ff",
+      "japanese": "敵を全滅させること\n\n",
+      "translation": ""
+    },
+    {
+      "id": "group32-33",
+      "source_offset": 262822,
+      "pointer_slots": [
+        "0x40042"
+      ],
+      "original_hex": "f0eff0a86df0e9f0eef3f3ff",
+      "japanese": "味方の全滅\n\n",
+      "translation": ""
+    },
+    {
+      "id": "group32-34",
+      "source_offset": 262834,
+      "pointer_slots": [
+        "0x40044"
+      ],
+      "original_hex": "cadd93b7c811a86df01cf0b200498772f0eff0a86df0e9f0eef3f3ff",
+      "japanese": "ホワイトベ－スの破壊　および味方の全滅\n\n",
+      "translation": ""
+    },
+    {
+      "id": "group32-35",
+      "source_offset": 262862,
+      "pointer_slots": [
+        "0x40046"
+      ],
+      "original_hex": "ceb6916df01cf0b200498772f0eff0a86df0e9f0eef3f3ff",
+      "japanese": "ミデアの破壊　および味方の全滅\n\n",
+      "translation": ""
+    },
+    {
+      "id": "group32-36",
+      "source_offset": 262886,
+      "pointer_slots": [
+        "0x40048"
+      ],
+      "original_hex": "bc96da3b91119bcd6df01cf0b200498772f0eff0a86df0e9f0eef3f3ff",
+      "japanese": "ネェル・ア－ガマの破壊　および味方の全滅\n\n",
+      "translation": ""
+    },
+    {
+      "id": "group32-37",
+      "source_offset": 262915,
+      "pointer_slots": [
+        "0x4004a"
+      ],
+      "original_hex": "bfb7dacda6df6df01cf0b200498772f0eff0a86df0e9f0eef3f3ff",
+      "japanese": "バトルマシンの破壊　および味方の全滅\n\n",
+      "translation": ""
+    }
+  ]
+}

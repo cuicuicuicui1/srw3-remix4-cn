@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "target_sha256": "bcde4e317f945b23c4ceac6bca89e6725812eb94e53d3cd51cc0e09e0dd608cd",
+  "cases": {
+    "separate_process_exact_replay": "pass",
+    "wrong-source": "pass",
+    "truncated-source": "pass",
+    "corrupt-patch": "pass",
+    "truncated-patch": "pass",
+    "existing-output-preserved": "pass",
+    "source-output-alias-refused": "pass"
+  }
+}

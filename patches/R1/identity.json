@@ -1,0 +1,8 @@
+{
+  "source_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "source_size": 1572864,
+  "target_sha256": "bcde4e317f945b23c4ceac6bca89e6725812eb94e53d3cd51cc0e09e0dd608cd",
+  "target_size": 2097152,
+  "patch_sha256": "02e1faedf958940303802ea976fb3b37c662d420c71f9ec2f0e9166718d96696",
+  "patch_size": 524460
+}

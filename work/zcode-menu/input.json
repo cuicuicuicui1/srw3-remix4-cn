@@ -1,0 +1,3080 @@
+{
+  "source_rom_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "root_count": 665,
+  "scope": "low script F4 glyph-mode literals only; native controls remain in source ROM; table lengths bounded by explicit provisional schema",
+  "entries": [
+    {
+      "id": "menu-03-BD8E-BD95",
+      "source_cpu": 245134,
+      "end_cpu": 245141,
+      "source_hex": "2c1627231e231c",
+      "japanese": "ＷＡＲＮＩＮＧ",
+      "source_line_pixel_widths": [
+        56
+      ],
+      "source_root": 245122,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-BD98-BDE2",
+      "source_cpu": 245144,
+      "end_cpu": 245218,
+      "source_hex": "000000291d1e28001c16221a0025161820001e2800232429f3191a281e1c1e231a19002e242a2700282a251a27001b16221e182423f300000000000000242700282a251a2700231a283a",
+      "japanese": "　　　ＴＨＩＳ　ＧＡＭＥ　ＰＡＣＫ　ＩＳ　ＮＯＴ\nＤＥＳＩＧＩＮＥＤ　ＹＯＵＲ　ＳＵＰＥＲ　ＦＡＭＩＣＯＮ\n　　　　　　　ＯＲ　ＳＵＰＥＲ　ＮＥＳ、",
+      "source_line_pixel_widths": [
+        192,
+        224,
+        160
+      ],
+      "source_root": 245122,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-BDE5-BDED",
+      "source_cpu": 245221,
+      "end_cpu": 245229,
+      "source_hex": "17162325271a2829",
+      "japanese": "ＢＡＮＰＲＥＳＴ",
+      "source_line_pixel_widths": [
+        64
+      ],
+      "source_root": 245122,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-BE5B-BE61",
+      "source_cpu": 245339,
+      "end_cpu": 245345,
+      "source_hex": "f3dbc8da0000",
+      "japanese": "\nレベル　　",
+      "source_line_pixel_widths": [
+        0,
+        40
+      ],
+      "source_root": 245234,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-BE6A-BE6F",
+      "source_cpu": 245354,
+      "end_cpu": 245359,
+      "source_hex": "f3001d2500",
+      "japanese": "\n　ＨＰ　",
+      "source_line_pixel_widths": [
+        0,
+        32
+      ],
+      "source_root": 245234,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-BE71-BE72",
+      "source_cpu": 245361,
+      "end_cpu": 245362,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 245234,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-BE9E-BECB",
+      "source_cpu": 245406,
+      "end_cpu": 245451,
+      "source_hex": "ae11dff0e4f0e5f3f0e6f0e7f0e8f3f0e9f074cdb2c6f3f057f042f3a6a8b5cff3f0c9f0eaf037f0ebf3aa11c5",
+      "japanese": "タ－ン終了\n部隊表\n全体マップ\n命令\nシステム\n勝利条件\nセ－ブ",
+      "source_line_pixel_widths": [
+        48,
+        36,
+        48,
+        24,
+        32,
+        48,
+        24
+      ],
+      "source_root": 245369,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-BEED-BEF4",
+      "source_cpu": 245485,
+      "end_cpu": 245492,
+      "source_hex": "ae11dff0ec0000",
+      "japanese": "タ－ン数　　",
+      "source_line_pixel_widths": [
+        52
+      ],
+      "source_root": 245369,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-BEF9-BEFB",
+      "source_cpu": 245497,
+      "end_cpu": 245499,
+      "source_hex": "1806",
+      "japanese": "Ｃｒ",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 245369,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-BF3C-BF50",
+      "source_cpu": 245564,
+      "end_cpu": 245584,
+      "source_hex": "ae11df8ef0e4f0e5567d58f3878c564366584a14",
+      "japanese": "タ－ンを終了します\nよろしいですか？",
+      "source_line_pixel_widths": [
+        80,
+        64
+      ],
+      "source_root": 245519,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-BF92-BF98",
+      "source_cpu": 245650,
+      "end_cpu": 245656,
+      "source_hex": "6e43f3434347",
+      "japanese": "はい\nいいえ",
+      "source_line_pixel_widths": [
+        16,
+        24
+      ],
+      "source_root": 245605,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-BFE9-BFF8",
+      "source_cpu": 245737,
+      "end_cpu": 245752,
+      "source_hex": "aa11c5567d58f3878c564366584a14",
+      "japanese": "セ－ブします\nよろしいですか？",
+      "source_line_pixel_widths": [
+        48,
+        64
+      ],
+      "source_root": 245692,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C02A-C03D",
+      "source_cpu": 245802,
+      "end_cpu": 245821,
+      "source_hex": "f0c9f0eaf037f0ebf3f3f0edf018f037f0ebf3",
+      "japanese": "勝利条件\n\n敗北条件\n",
+      "source_line_pixel_widths": [
+        48,
+        0,
+        48,
+        0
+      ],
+      "source_root": 245757,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C088-C09B",
+      "source_cpu": 245896,
+      "end_cpu": 245915,
+      "source_hex": "91bad0f3a89e9791f3a495dfb8f3f0f0f017f3",
+      "japanese": "アニメ\nスクエア\nサウンド\n操作\n",
+      "source_line_pixel_widths": [
+        24,
+        32,
+        32,
+        24,
+        0
+      ],
+      "source_root": 245851,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C102-C108",
+      "source_cpu": 246018,
+      "end_cpu": 246024,
+      "source_hex": "2423f3241b1b",
+      "japanese": "ＯＮ\nＯＦＦ",
+      "source_line_pixel_widths": [
+        16,
+        24
+      ],
+      "source_root": 245965,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C17E-C187",
+      "source_cpu": 246142,
+      "end_cpu": 246151,
+      "source_hex": "a8b5db99f3d1bdd8da",
+      "japanese": "ステレオ\nモノラル",
+      "source_line_pixel_widths": [
+        32,
+        32
+      ],
+      "source_root": 246089,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C1E0-C1E7",
+      "source_cpu": 246240,
+      "end_cpu": 246247,
+      "source_hex": "cd95a8f3c0b2b8",
+      "japanese": "マウス\nパッド",
+      "source_line_pixel_widths": [
+        24,
+        24
+      ],
+      "source_root": 246187,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C298-C2A3",
+      "source_cpu": 246424,
+      "end_cpu": 246435,
+      "source_hex": "495c43f3746345f36e8343",
+      "japanese": "おそい\nふつう\nはやい",
+      "source_line_pixel_widths": [
+        24,
+        24,
+        24
+      ],
+      "source_root": 246371,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C31D-C330",
+      "source_cpu": 246557,
+      "end_cpu": 246576,
+      "source_hex": "f105f106f39cd2dfaadaf3a8c311b891b2c6f3",
+      "japanese": "決定\nキャンセル\nスピ－ドアップ\n",
+      "source_line_pixel_widths": [
+        24,
+        40,
+        56,
+        0
+      ],
+      "source_root": 246492,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C333-C339",
+      "source_cpu": 246579,
+      "end_cpu": 246585,
+      "source_hex": "16f316f316f3",
+      "japanese": "Ａ\nＡ\nＡ\n",
+      "source_line_pixel_widths": [
+        8,
+        8,
+        8,
+        0
+      ],
+      "source_root": 246492,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C33C-C342",
+      "source_cpu": 246588,
+      "end_cpu": 246594,
+      "source_hex": "17f317f317f3",
+      "japanese": "Ｂ\nＢ\nＢ\n",
+      "source_line_pixel_widths": [
+        8,
+        8,
+        8,
+        0
+      ],
+      "source_root": 246492,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C345-C34B",
+      "source_cpu": 246597,
+      "end_cpu": 246603,
+      "source_hex": "2df32df32df3",
+      "japanese": "Ｘ\nＸ\nＸ\n",
+      "source_line_pixel_widths": [
+        8,
+        8,
+        8,
+        0
+      ],
+      "source_root": 246492,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C34E-C354",
+      "source_cpu": 246606,
+      "end_cpu": 246612,
+      "source_hex": "2ef32ef32ef3",
+      "japanese": "Ｙ\nＹ\nＹ\n",
+      "source_line_pixel_widths": [
+        8,
+        8,
+        8,
+        0
+      ],
+      "source_root": 246492,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C437-C466",
+      "source_cpu": 246839,
+      "end_cpu": 246886,
+      "source_hex": "f08959f065f0555a8715f3f10af10bf10c6a435015f3f109f0df6e588a6915f3f08959f071f0724af07bf07c5a8715",
+      "japanese": "必ず反撃せよ！\n積極的にいけ！\n無理はするな！\n必ず回避か防御せよ！",
+      "source_line_pixel_widths": [
+        68,
+        68,
+        64,
+        100
+      ],
+      "source_root": 246749,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C5BE-C5CF",
+      "source_cpu": 247230,
+      "end_cpu": 247247,
+      "source_hex": "526df06ff081666ef0c2f1b3664c7d5a8f",
+      "japanese": "この地形では発進できません",
+      "source_line_pixel_widths": [
+        120
+      ],
+      "source_root": 247185,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C640-C648",
+      "source_cpu": 247360,
+      "end_cpu": 247368,
+      "source_hex": "f3f057f058f059f3",
+      "japanese": "\n命中率\n",
+      "source_line_pixel_widths": [
+        0,
+        36,
+        0
+      ],
+      "source_root": 247252,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C64B-C64F",
+      "source_cpu": 247371,
+      "end_cpu": 247375,
+      "source_hex": "f07bf07c",
+      "japanese": "防御",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 247252,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C6A1-C6AB",
+      "source_cpu": 247457,
+      "end_cpu": 247467,
+      "source_hex": "28242a231900291a2829",
+      "japanese": "ＳＯＵＮＤ　ＴＥＳＴ",
+      "source_line_pixel_widths": [
+        80
+      ],
+      "source_root": 247412,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C741-C742",
+      "source_cpu": 247617,
+      "end_cpu": 247618,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 247607,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C786-C789",
+      "source_cpu": 247686,
+      "end_cpu": 247689,
+      "source_hex": "416700",
+      "japanese": "あと　",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 247678,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C78B-C78D",
+      "source_cpu": 247691,
+      "end_cpu": 247693,
+      "source_hex": "f0e1",
+      "japanese": "機",
+      "source_line_pixel_widths": [
+        12
+      ],
+      "source_root": 247678,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C7F2-C805",
+      "source_cpu": 247794,
+      "end_cpu": 247813,
+      "source_hex": "f122f055d5bab2b78ef123f12456654e5f5443",
+      "japanese": "出撃ユニットを選択してください",
+      "source_line_pixel_widths": [
+        136
+      ],
+      "source_root": 247749,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C837-C84C",
+      "source_cpu": 247863,
+      "end_cpu": 247884,
+      "source_hex": "5c6dd5bab2b76e5252666ef122f055664c7d5a8f15",
+      "japanese": "そのユニットはここでは出撃できません！",
+      "source_line_pixel_widths": [
+        160
+      ],
+      "source_root": 247818,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C8A1-C8AD",
+      "source_cpu": 247969,
+      "end_cpu": 247981,
+      "source_hex": "528b6600878c564366584a14",
+      "japanese": "これで　よろしいですか？",
+      "source_line_pixel_widths": [
+        96
+      ],
+      "source_root": 247889,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-C8B0-C8B6",
+      "source_cpu": 247984,
+      "end_cpu": 247990,
+      "source_hex": "6e43f3434347",
+      "japanese": "はい\nいいえ",
+      "source_line_pixel_widths": [
+        16,
+        24
+      ],
+      "source_root": 247889,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CBB3-CBB6",
+      "source_cpu": 248755,
+      "end_cpu": 248758,
+      "source_hex": "c911a7",
+      "japanese": "ペ－ジ",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 248607,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CBB9-CBBD",
+      "source_cpu": 248761,
+      "end_cpu": 248765,
+      "source_hex": "d5bab2b7",
+      "japanese": "ユニット",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 248607,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CBC0-CBC5",
+      "source_cpu": 248768,
+      "end_cpu": 248773,
+      "source_hex": "c093dcb2b7",
+      "japanese": "パイロット",
+      "source_line_pixel_widths": [
+        40
+      ],
+      "source_root": 248607,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CBC8-CBCA",
+      "source_cpu": 248776,
+      "end_cpu": 248778,
+      "source_hex": "1d25",
+      "japanese": "ＨＰ",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 248607,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CBCD-CBCF",
+      "source_cpu": 248781,
+      "end_cpu": 248783,
+      "source_hex": "212b",
+      "japanese": "ＬＶ",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 248607,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CA17-CA1D",
+      "source_cpu": 248343,
+      "end_cpu": 248349,
+      "source_hex": "f0e6f0e7f0e8",
+      "japanese": "部隊表",
+      "source_line_pixel_widths": [
+        36
+      ],
+      "source_root": 248337,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CA28-CA29",
+      "source_cpu": 248360,
+      "end_cpu": 248361,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 248350,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CAC2-CAC3",
+      "source_cpu": 248514,
+      "end_cpu": 248515,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 248504,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CC5A-CC69",
+      "source_cpu": 248922,
+      "end_cpu": 248937,
+      "source_hex": "5c6dd5bab2b76ef08cf051597e6658",
+      "japanese": "そのユニットは行動ずみです",
+      "source_line_pixel_widths": [
+        112
+      ],
+      "source_root": 248877,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CDA9-CDB1",
+      "source_cpu": 249257,
+      "end_cpu": 249265,
+      "source_hex": "d5bab2b7f079f02c",
+      "japanese": "ユニット能力",
+      "source_line_pixel_widths": [
+        56
+      ],
+      "source_root": 248958,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CDB4-CDBD",
+      "source_cpu": 249268,
+      "end_cpu": 249277,
+      "source_hex": "c093dcb2b7f079f02c",
+      "japanese": "パイロット能力",
+      "source_line_pixel_widths": [
+        64
+      ],
+      "source_root": 248958,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CDC0-CDC8",
+      "source_cpu": 249280,
+      "end_cpu": 249288,
+      "source_hex": "f00af056f101f079",
+      "japanese": "武器性能",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 248958,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CDD1-CDD9",
+      "source_cpu": 249297,
+      "end_cpu": 249305,
+      "source_hex": "dbc8daf3f075f02c",
+      "japanese": "レベル\n気力",
+      "source_line_pixel_widths": [
+        24,
+        24
+      ],
+      "source_root": 248958,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CDEA-CDED",
+      "source_cpu": 249322,
+      "end_cpu": 249325,
+      "source_hex": "1d2500",
+      "japanese": "ＨＰ　",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 248958,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CDEF-CDF0",
+      "source_cpu": 249327,
+      "end_cpu": 249328,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 248958,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CDFC-CE00",
+      "source_cpu": 249340,
+      "end_cpu": 249344,
+      "source_hex": "1a230000",
+      "japanese": "ＥＮ　　",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 248958,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CE02-CE03",
+      "source_cpu": 249346,
+      "end_cpu": 249347,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 248958,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CE17-CE2F",
+      "source_cpu": 249367,
+      "end_cpu": 249391,
+      "source_hex": "ae93c6f3f050f051f02cf3f062f001f3f063f064f065f066",
+      "japanese": "タイプ\n移動力\n装甲\n限界反応",
+      "source_line_pixel_widths": [
+        24,
+        36,
+        24,
+        48
+      ],
+      "source_root": 248958,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CE3D-CE3F",
+      "source_cpu": 249405,
+      "end_cpu": 249407,
+      "source_hex": "30f3",
+      "japanese": "０\n",
+      "source_line_pixel_widths": [
+        8,
+        0
+      ],
+      "source_root": 248958,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CE44-CE4C",
+      "source_cpu": 249412,
+      "end_cpu": 249420,
+      "source_hex": "f06ff081f0fff066",
+      "japanese": "地形適応",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 248958,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CE4F-CE5D",
+      "source_cpu": 249423,
+      "end_cpu": 249437,
+      "source_hex": "f0b6f3f0f1f3f04ff3f06cf06df3",
+      "japanese": "空\n陸\n海\n宇宙\n",
+      "source_line_pixel_widths": [
+        12,
+        12,
+        12,
+        24,
+        0
+      ],
+      "source_root": 248958,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CF51-CF59",
+      "source_cpu": 249681,
+      "end_cpu": 249689,
+      "source_hex": "d5bab2b7f079f02c",
+      "japanese": "ユニット能力",
+      "source_line_pixel_widths": [
+        56
+      ],
+      "source_root": 249492,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CF70-CF73",
+      "source_cpu": 249712,
+      "end_cpu": 249715,
+      "source_hex": "1d2500",
+      "japanese": "ＨＰ　",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 249492,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CF75-CF76",
+      "source_cpu": 249717,
+      "end_cpu": 249718,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 249492,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CF82-CF86",
+      "source_cpu": 249730,
+      "end_cpu": 249734,
+      "source_hex": "1a230000",
+      "japanese": "ＥＮ　　",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 249492,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CF88-CF89",
+      "source_cpu": 249736,
+      "end_cpu": 249737,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 249492,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CF9D-CFB5",
+      "source_cpu": 249757,
+      "end_cpu": 249781,
+      "source_hex": "ae93c6f3f050f051f02cf3f062f001f3f063f064f065f066",
+      "japanese": "タイプ\n移動力\n装甲\n限界反応",
+      "source_line_pixel_widths": [
+        24,
+        36,
+        24,
+        48
+      ],
+      "source_root": 249492,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CFC3-CFC5",
+      "source_cpu": 249795,
+      "end_cpu": 249797,
+      "source_hex": "30f3",
+      "japanese": "０\n",
+      "source_line_pixel_widths": [
+        8,
+        0
+      ],
+      "source_root": 249492,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CFCA-CFD2",
+      "source_cpu": 249802,
+      "end_cpu": 249810,
+      "source_hex": "f06ff081f0fff066",
+      "japanese": "地形適応",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 249492,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-CFD5-CFE3",
+      "source_cpu": 249813,
+      "end_cpu": 249827,
+      "source_hex": "f0b6f3f0f1f3f04ff3f06cf06df3",
+      "japanese": "空\n陸\n海\n宇宙\n",
+      "source_line_pixel_widths": [
+        12,
+        12,
+        12,
+        24,
+        0
+      ],
+      "source_root": 249492,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D0D9-D0E2",
+      "source_cpu": 250073,
+      "end_cpu": 250082,
+      "source_hex": "c093dcb2b7f079f02c",
+      "japanese": "パイロット能力",
+      "source_line_pixel_widths": [
+        64
+      ],
+      "source_root": 249861,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D0E8-D0F4",
+      "source_cpu": 250088,
+      "end_cpu": 250100,
+      "source_hex": "f3f078f006cc93dfb7000000",
+      "japanese": "\n精神ポイント　　　",
+      "source_line_pixel_widths": [
+        0,
+        80
+      ],
+      "source_root": 249861,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D0F6-D0F7",
+      "source_cpu": 250102,
+      "end_cpu": 250103,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 249861,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D0FC-D100",
+      "source_cpu": 250108,
+      "end_cpu": 250112,
+      "source_hex": "dbc8da00",
+      "japanese": "レベル　",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 249861,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D105-D10A",
+      "source_cpu": 250117,
+      "end_cpu": 250122,
+      "source_hex": "f054f05500",
+      "japanese": "攻撃　",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 249861,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D10C-D10E",
+      "source_cpu": 250124,
+      "end_cpu": 250126,
+      "source_hex": "30f3",
+      "japanese": "０\n",
+      "source_line_pixel_widths": [
+        8,
+        0
+      ],
+      "source_root": 249861,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D114-D11A",
+      "source_cpu": 250132,
+      "end_cpu": 250138,
+      "source_hex": "f057f0580000",
+      "japanese": "命中　　",
+      "source_line_pixel_widths": [
+        40
+      ],
+      "source_root": 249861,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D125-D12B",
+      "source_cpu": 250149,
+      "end_cpu": 250155,
+      "source_hex": "f0f0f24a0000",
+      "japanese": "操縦　　",
+      "source_line_pixel_widths": [
+        40
+      ],
+      "source_root": 249861,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D134-D13A",
+      "source_cpu": 250164,
+      "end_cpu": 250170,
+      "source_hex": "f065f0660000",
+      "japanese": "反応　　",
+      "source_line_pixel_widths": [
+        40
+      ],
+      "source_root": 249861,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D145-D14B",
+      "source_cpu": 250181,
+      "end_cpu": 250187,
+      "source_hex": "f075f02c0000",
+      "japanese": "気力　　",
+      "source_line_pixel_widths": [
+        40
+      ],
+      "source_root": 249861,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D14D-D154",
+      "source_cpu": 250189,
+      "end_cpu": 250196,
+      "source_hex": "f3f076f0770000",
+      "japanese": "\n直感　　",
+      "source_line_pixel_widths": [
+        0,
+        40
+      ],
+      "source_root": 249861,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D159-D165",
+      "source_cpu": 250201,
+      "end_cpu": 250213,
+      "source_hex": "f104478af078f006a2cddfb8",
+      "japanese": "使える精神コマンド",
+      "source_line_pixel_widths": [
+        84
+      ],
+      "source_root": 249861,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D2C0-D2C8",
+      "source_cpu": 250560,
+      "end_cpu": 250568,
+      "source_hex": "f00af056f101f079",
+      "japanese": "武器性能",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D2CB-D2CE",
+      "source_cpu": 250571,
+      "end_cpu": 250574,
+      "source_hex": "c911a7",
+      "japanese": "ペ－ジ",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D2D1-D2D5",
+      "source_cpu": 250577,
+      "end_cpu": 250581,
+      "source_hex": "f054f055",
+      "japanese": "攻撃",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D2D8-D2DC",
+      "source_cpu": 250584,
+      "end_cpu": 250588,
+      "source_hex": "f05af05b",
+      "japanese": "射程",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D2DF-D2E3",
+      "source_cpu": 250591,
+      "end_cpu": 250595,
+      "source_hex": "f057f058",
+      "japanese": "命中",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D2E6-D2EA",
+      "source_cpu": 250598,
+      "end_cpu": 250602,
+      "source_hex": "f060f0a3",
+      "japanese": "残弾",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D2ED-D2F5",
+      "source_cpu": 250605,
+      "end_cpu": 250613,
+      "source_hex": "f06ff081f0fff066",
+      "japanese": "地形適応",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D2F8-D2FA",
+      "source_cpu": 250616,
+      "end_cpu": 250618,
+      "source_hex": "f0b6",
+      "japanese": "空",
+      "source_line_pixel_widths": [
+        12
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D2FD-D2FF",
+      "source_cpu": 250621,
+      "end_cpu": 250623,
+      "source_hex": "f0f1",
+      "japanese": "陸",
+      "source_line_pixel_widths": [
+        12
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D302-D304",
+      "source_cpu": 250626,
+      "end_cpu": 250628,
+      "source_hex": "f04f",
+      "japanese": "海",
+      "source_line_pixel_widths": [
+        12
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D307-D30B",
+      "source_cpu": 250631,
+      "end_cpu": 250635,
+      "source_hex": "f06cf06d",
+      "japanese": "宇宙",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D30E-D314",
+      "source_cpu": 250638,
+      "end_cpu": 250644,
+      "source_hex": "f0c8f0f41a23",
+      "japanese": "消費ＥＮ",
+      "source_line_pixel_widths": [
+        40
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D317-D318",
+      "source_cpu": 250647,
+      "end_cpu": 250648,
+      "source_hex": "3c",
+      "japanese": "（",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D31A-D31B",
+      "source_cpu": 250650,
+      "end_cpu": 250651,
+      "source_hex": "3d",
+      "japanese": "）",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D31E-D326",
+      "source_cpu": 250654,
+      "end_cpu": 250662,
+      "source_hex": "f089f091f075f02c",
+      "japanese": "必要気力",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D329-D32A",
+      "source_cpu": 250665,
+      "end_cpu": 250666,
+      "source_hex": "3c",
+      "japanese": "（",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D32C-D32D",
+      "source_cpu": 250668,
+      "end_cpu": 250669,
+      "source_hex": "3d",
+      "japanese": "）",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 250302,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D338-D339",
+      "source_cpu": 250680,
+      "end_cpu": 250681,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 250670,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D34F-D350",
+      "source_cpu": 250703,
+      "end_cpu": 250704,
+      "source_hex": "30",
+      "japanese": "０",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 250670,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D470-D485",
+      "source_cpu": 250992,
+      "end_cpu": 251013,
+      "source_hex": "aa11c5b611ae4b3af0c84765567d6265437d581515",
+      "japanese": "セ－ブデ－タが、消えてしまっています！！",
+      "source_line_pixel_widths": [
+        164
+      ],
+      "source_root": 250951,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D4B1-D4C9",
+      "source_cpu": 251057,
+      "end_cpu": 251081,
+      "source_hex": "aa11c5f0e4f0e5567d565e3a00a111cf8e6364507d584a14",
+      "japanese": "セ－ブ終了しました、　ゲ－ムをつづけますか？",
+      "source_line_pixel_widths": [
+        184
+      ],
+      "source_root": 251016,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D561-D571",
+      "source_cpu": 251233,
+      "end_cpu": 251249,
+      "source_hex": "30313233343536373839161718191a1b",
+      "japanese": "０１２３４５６７８９ＡＢＣＤＥＦ",
+      "source_line_pixel_widths": [
+        128
+      ],
+      "source_root": 251188,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D57C-D57E",
+      "source_cpu": 251260,
+      "end_cpu": 251262,
+      "source_hex": "30e3",
+      "japanese": "０＝",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 251250,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D5C4-D5D0",
+      "source_cpu": 251332,
+      "end_cpu": 251344,
+      "source_hex": "f052f053f13df0f9f1f4f2bb",
+      "japanese": "戦闘結果報告",
+      "source_line_pixel_widths": [
+        72
+      ],
+      "source_root": 251295,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D5DF-D5E4",
+      "source_cpu": 251359,
+      "end_cpu": 251364,
+      "source_hex": "f057f05800",
+      "japanese": "命中　",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 251295,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D5E6-D5EF",
+      "source_cpu": 251366,
+      "end_cpu": 251375,
+      "source_hex": "0ef3f3f3f057f05800",
+      "japanese": "％\n\n\n命中　",
+      "source_line_pixel_widths": [
+        8,
+        0,
+        0,
+        32
+      ],
+      "source_root": 251295,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D5F1-D5F2",
+      "source_cpu": 251377,
+      "end_cpu": 251378,
+      "source_hex": "0e",
+      "japanese": "％",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 251295,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D601-D606",
+      "source_cpu": 251393,
+      "end_cpu": 251398,
+      "source_hex": "afd011a700",
+      "japanese": "ダメ－ジ　",
+      "source_line_pixel_widths": [
+        40
+      ],
+      "source_root": 251295,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D608-D610",
+      "source_cpu": 251400,
+      "end_cpu": 251408,
+      "source_hex": "f3f3f3afd011a700",
+      "japanese": "\n\n\nダメ－ジ　",
+      "source_line_pixel_widths": [
+        0,
+        0,
+        0,
+        40
+      ],
+      "source_root": 251295,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D646-D64F",
+      "source_cpu": 251462,
+      "end_cpu": 251471,
+      "source_hex": "f069f06af06bc6d8a8",
+      "japanese": "経験値プラス",
+      "source_line_pixel_widths": [
+        60
+      ],
+      "source_root": 251425,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D651-D659",
+      "source_cpu": 251473,
+      "end_cpu": 251481,
+      "source_hex": "00f1f1f0f3c6d8a8",
+      "japanese": "　資金プラス",
+      "source_line_pixel_widths": [
+        56
+      ],
+      "source_root": 251425,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D685-D68D",
+      "source_cpu": 251525,
+      "end_cpu": 251533,
+      "source_hex": "dbc8da91b2c61515",
+      "japanese": "レベルアップ！！",
+      "source_line_pixel_widths": [
+        64
+      ],
+      "source_root": 251488,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D71D-D71F",
+      "source_cpu": 251677,
+      "end_cpu": 251679,
+      "source_hex": "2de5",
+      "japanese": "Ｘ：",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 251640,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D721-D724",
+      "source_cpu": 251681,
+      "end_cpu": 251684,
+      "source_hex": "002ee5",
+      "japanese": "　Ｙ：",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 251640,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D776-D77E",
+      "source_cpu": 251766,
+      "end_cpu": 251774,
+      "source_hex": "f017f052f276f11a",
+      "japanese": "作戦画面",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 251691,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D95E-D967",
+      "source_cpu": 252254,
+      "end_cpu": 252263,
+      "source_hex": "f0bdf05d567d584a14",
+      "japanese": "分離しますか？",
+      "source_line_pixel_widths": [
+        64
+      ],
+      "source_root": 252209,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D9A1-D9AA",
+      "source_cpu": 252321,
+      "end_cpu": 252330,
+      "source_hex": "1c16221a00242b1a27",
+      "japanese": "ＧＡＭＥ　ＯＶＥＲ",
+      "source_line_pixel_widths": [
+        72
+      ],
+      "source_root": 252284,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D9D4-D9DB",
+      "source_cpu": 252372,
+      "end_cpu": 252379,
+      "source_hex": "a111cff0e4f0e5",
+      "japanese": "ゲ－ム終了",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 252335,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DAA4-DAAD",
+      "source_cpu": 252580,
+      "end_cpu": 252589,
+      "source_hex": "93dfae11ceb2a6d6df",
+      "japanese": "インタ－ミッション",
+      "source_line_pixel_widths": [
+        72
+      ],
+      "source_root": 252384,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DAB0-DAB4",
+      "source_cpu": 252592,
+      "end_cpu": 252596,
+      "source_hex": "a2cddfb8",
+      "japanese": "コマンド",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 252384,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DAB7-DAE0",
+      "source_cpu": 252599,
+      "end_cpu": 252640,
+      "source_hex": "b611aeaa11c5f3c0dd1191b2c6f3a8b511aea8f36d894a47f3d5bab2b758658af3f07e6dcdb2c677f3",
+      "japanese": "デ－タセ－ブ\nパワ－アップ\nステ－タス\nのりかえ\nユニットすてる\n次のマップへ\n",
+      "source_line_pixel_widths": [
+        48,
+        48,
+        40,
+        32,
+        56,
+        52,
+        0
+      ],
+      "source_root": 252384,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DAE3-DAEC",
+      "source_cpu": 252643,
+      "end_cpu": 252652,
+      "source_hex": "f157f16b6df1abf1d0",
+      "japanese": "現在の状況",
+      "source_line_pixel_widths": [
+        56
+      ],
+      "source_root": 252384,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DAEF-DB0F",
+      "source_cpu": 252655,
+      "end_cpu": 252687,
+      "source_hex": "f0e9d5bab2b7f3f0e9c093dcb2b7f3c093dcb2b76d6d6265436943d5bab2b7f3",
+      "japanese": "全ユニット\n全パイロット\nパイロットののっていないユニット\n",
+      "source_line_pixel_widths": [
+        44,
+        52,
+        128,
+        0
+      ],
+      "source_root": 252384,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DB16-DB1B",
+      "source_cpu": 252694,
+      "end_cpu": 252699,
+      "source_hex": "f0e1f3f2ff",
+      "japanese": "機\n ",
+      "source_line_pixel_widths": [
+        12,
+        12
+      ],
+      "source_root": 252384,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DB1D-DB22",
+      "source_cpu": 252701,
+      "end_cpu": 252706,
+      "source_hex": "f008f3f2ff",
+      "japanese": "人\n ",
+      "source_line_pixel_widths": [
+        12,
+        12
+      ],
+      "source_root": 252384,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DB24-DB27",
+      "source_cpu": 252708,
+      "end_cpu": 252711,
+      "source_hex": "f0e1f3",
+      "japanese": "機\n",
+      "source_line_pixel_widths": [
+        12,
+        0
+      ],
+      "source_root": 252384,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DB2A-DB32",
+      "source_cpu": 252714,
+      "end_cpu": 252722,
+      "source_hex": "f1f1f0f300000000",
+      "japanese": "資金　　　　",
+      "source_line_pixel_widths": [
+        56
+      ],
+      "source_root": 252384,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DB34-DB3D",
+      "source_cpu": 252724,
+      "end_cpu": 252733,
+      "source_hex": "f3f0f6ae11dff0ec00",
+      "japanese": "\n総タ－ン数　",
+      "source_line_pixel_widths": [
+        0,
+        56
+      ],
+      "source_root": 252384,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DB3F-DB4A",
+      "source_cpu": 252735,
+      "end_cpu": 252746,
+      "source_hex": "ae11dff3f157f16b00f2ff",
+      "japanese": "タ－ン\n現在　 ",
+      "source_line_pixel_widths": [
+        24,
+        44
+      ],
+      "source_root": 252384,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DB4C-DB53",
+      "source_cpu": 252748,
+      "end_cpu": 252755,
+      "source_hex": "f14a7d669ed991",
+      "japanese": "話までクリア",
+      "source_line_pixel_widths": [
+        52
+      ],
+      "source_root": 252384,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DC9F-DCA3",
+      "source_cpu": 253087,
+      "end_cpu": 253091,
+      "source_hex": "b611ae31",
+      "japanese": "デ－タ１",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 252866,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DCAC-DCB0",
+      "source_cpu": 253100,
+      "end_cpu": 253104,
+      "source_hex": "b611ae32",
+      "japanese": "デ－タ２",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 252866,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DCB9-DCBD",
+      "source_cpu": 253113,
+      "end_cpu": 253117,
+      "source_hex": "b611ae33",
+      "japanese": "デ－タ３",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 252866,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DB6D-DB73",
+      "source_cpu": 252781,
+      "end_cpu": 252787,
+      "source_hex": "b611aeaa11c5",
+      "japanese": "デ－タセ－ブ",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 252775,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DD45-DD60",
+      "source_cpu": 253253,
+      "end_cpu": 253280,
+      "source_hex": "f10df0f86db611ae6ef0c84765567d437d58e44a7d437d5a8f4a14",
+      "japanese": "以前のデ－タは消えてしまいます。かまいませんか？",
+      "source_line_pixel_widths": [
+        204
+      ],
+      "source_root": 253208,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DD9A-DDAD",
+      "source_cpu": 253338,
+      "end_cpu": 253357,
+      "source_hex": "aa11c5f0e4f0e5e4a111cf8ef216507d584a14",
+      "japanese": "セ－ブ終了。ゲ－ムを続けますか？",
+      "source_line_pixel_widths": [
+        140
+      ],
+      "source_root": 253301,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DEAE-DEB4",
+      "source_cpu": 253614,
+      "end_cpu": 253620,
+      "source_hex": "c0dd1191b2c6",
+      "japanese": "パワ－アップ",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 253362,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DEB7-DEBB",
+      "source_cpu": 253623,
+      "end_cpu": 253627,
+      "source_hex": "f1f1f0f3",
+      "japanese": "資金",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 253362,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DEBE-DEC4",
+      "source_cpu": 253630,
+      "end_cpu": 253636,
+      "source_hex": "d5bab2b7f0da",
+      "japanese": "ユニット名",
+      "source_line_pixel_widths": [
+        44
+      ],
+      "source_root": 253362,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DEC7-DECB",
+      "source_cpu": 253639,
+      "end_cpu": 253643,
+      "source_hex": "f065f066",
+      "japanese": "反応",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 253362,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DECE-DED2",
+      "source_cpu": 253646,
+      "end_cpu": 253650,
+      "source_hex": "f062f001",
+      "japanese": "装甲",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 253362,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DED5-DED7",
+      "source_cpu": 253653,
+      "end_cpu": 253655,
+      "source_hex": "1a23",
+      "japanese": "ＥＮ",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 253362,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DEDA-DEDC",
+      "source_cpu": 253658,
+      "end_cpu": 253660,
+      "source_hex": "1d25",
+      "japanese": "ＨＰ",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 253362,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DEF0-DEF1",
+      "source_cpu": 253680,
+      "end_cpu": 253681,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 253665,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DF04-DF06",
+      "source_cpu": 253700,
+      "end_cpu": 253702,
+      "source_hex": "3000",
+      "japanese": "０　",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 253665,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DF5F-DF66",
+      "source_cpu": 253791,
+      "end_cpu": 253798,
+      "source_hex": "91a8b7b911a73e",
+      "japanese": "アストナ－ジ「",
+      "source_line_pixel_widths": [
+        56
+      ],
+      "source_root": 253770,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E007-E008",
+      "source_cpu": 253959,
+      "end_cpu": 253960,
+      "source_hex": "3b",
+      "japanese": "・",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 253951,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E015-E016",
+      "source_cpu": 253973,
+      "end_cpu": 253974,
+      "source_hex": "3b",
+      "japanese": "・",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 253965,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E023-E026",
+      "source_cpu": 253987,
+      "end_cpu": 253990,
+      "source_hex": "242015",
+      "japanese": "ＯＫ！",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 253979,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E029-E02C",
+      "source_cpu": 253993,
+      "end_cpu": 253996,
+      "source_hex": "528b66",
+      "japanese": "これで",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 253979,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E02F-E030",
+      "source_cpu": 253999,
+      "end_cpu": 254000,
+      "source_hex": "6e",
+      "japanese": "は",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 253979,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E032-E03A",
+      "source_cpu": 254002,
+      "end_cpu": 254010,
+      "source_hex": "f0704b625e5b153f",
+      "japanese": "上がったぜ！」",
+      "source_line_pixel_widths": [
+        60
+      ],
+      "source_root": 253979,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E0BE-E0C2",
+      "source_cpu": 254142,
+      "end_cpu": 254146,
+      "source_hex": "f065f066",
+      "japanese": "反応",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 254015,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E0C5-E0C9",
+      "source_cpu": 254149,
+      "end_cpu": 254153,
+      "source_hex": "f062f001",
+      "japanese": "装甲",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 254015,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E0CC-E0CE",
+      "source_cpu": 254156,
+      "end_cpu": 254158,
+      "source_hex": "1a23",
+      "japanese": "ＥＮ",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 254015,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E0D1-E0D3",
+      "source_cpu": 254161,
+      "end_cpu": 254163,
+      "source_hex": "1d25",
+      "japanese": "ＨＰ",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 254015,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E0DD-E0DE",
+      "source_cpu": 254173,
+      "end_cpu": 254174,
+      "source_hex": "30",
+      "japanese": "０",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 254015,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E12C-E130",
+      "source_cpu": 254252,
+      "end_cpu": 254256,
+      "source_hex": "6d894a47",
+      "japanese": "のりかえ",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 254244,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E13F-E140",
+      "source_cpu": 254271,
+      "end_cpu": 254272,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 254261,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E155-E159",
+      "source_cpu": 254293,
+      "end_cpu": 254297,
+      "source_hex": "dbc8da00",
+      "japanese": "レベル　",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 254261,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E222-E226",
+      "source_cpu": 254498,
+      "end_cpu": 254502,
+      "source_hex": "6d894a47",
+      "japanese": "のりかえ",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 254362,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E229-E230",
+      "source_cpu": 254505,
+      "end_cpu": 254512,
+      "source_hex": "c093dcb2b70000",
+      "japanese": "パイロット　　",
+      "source_line_pixel_widths": [
+        56
+      ],
+      "source_root": 254362,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E236-E23A",
+      "source_cpu": 254518,
+      "end_cpu": 254522,
+      "source_hex": "dbc8da00",
+      "japanese": "レベル　",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 254362,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E24B-E24C",
+      "source_cpu": 254539,
+      "end_cpu": 254540,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 254529,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E261-E264",
+      "source_cpu": 254561,
+      "end_cpu": 254564,
+      "source_hex": "1d2500",
+      "japanese": "ＨＰ　",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 254529,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E29C-E2A9",
+      "source_cpu": 254620,
+      "end_cpu": 254633,
+      "source_hex": "f2338e6d894a47545a7d584a14",
+      "japanese": "誰をのりかえさせますか？",
+      "source_line_pixel_widths": [
+        100
+      ],
+      "source_root": 254617,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E305-E315",
+      "source_cpu": 254725,
+      "end_cpu": 254741,
+      "source_hex": "526df2a77ef0f78d5a66434366584a14",
+      "japanese": "この組み合わせでいいですか？",
+      "source_line_pixel_widths": [
+        120
+      ],
+      "source_root": 254717,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E3BE-E3C9",
+      "source_cpu": 254910,
+      "end_cpu": 254921,
+      "source_hex": "f2a77ef0f78d5af079f02c",
+      "japanese": "組み合わせ能力",
+      "source_line_pixel_widths": [
+        72
+      ],
+      "source_root": 254746,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E3CC-E3D6",
+      "source_cpu": 254924,
+      "end_cpu": 254934,
+      "source_hex": "d5bab2b7f3c093dcb2b7",
+      "japanese": "ユニット\nパイロット",
+      "source_line_pixel_widths": [
+        32,
+        40
+      ],
+      "source_root": 254746,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E3E3-E3E6",
+      "source_cpu": 254947,
+      "end_cpu": 254950,
+      "source_hex": "1d2500",
+      "japanese": "ＨＰ　",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 254746,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E3E8-E3EE",
+      "source_cpu": 254952,
+      "end_cpu": 254958,
+      "source_hex": "f3dbc8da0000",
+      "japanese": "\nレベル　　",
+      "source_line_pixel_widths": [
+        0,
+        40
+      ],
+      "source_root": 254746,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E3F3-E410",
+      "source_cpu": 254963,
+      "end_cpu": 254992,
+      "source_hex": "f1eef0638e45508af079f02c003c3df1896ef17ef1596df079f02cf06b",
+      "japanese": "制限をうける能力　（）内は本来の能力値",
+      "source_line_pixel_widths": [
+        192
+      ],
+      "source_root": 254746,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E413-E421",
+      "source_cpu": 254995,
+      "end_cpu": 255009,
+      "source_hex": "f057f058f3f0f0f24af3f065f066",
+      "japanese": "命中\n操縦\n反応",
+      "source_line_pixel_widths": [
+        24,
+        24,
+        24
+      ],
+      "source_root": 254746,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E424-E42C",
+      "source_cpu": 255012,
+      "end_cpu": 255020,
+      "source_hex": "f063f064f065f066",
+      "japanese": "限界反応",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 254746,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E431-E433",
+      "source_cpu": 255025,
+      "end_cpu": 255027,
+      "source_hex": "003c",
+      "japanese": "　（",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 254746,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E435-E437",
+      "source_cpu": 255029,
+      "end_cpu": 255031,
+      "source_hex": "3df3",
+      "japanese": "）\n",
+      "source_line_pixel_widths": [
+        8,
+        0
+      ],
+      "source_root": 254746,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E439-E43B",
+      "source_cpu": 255033,
+      "end_cpu": 255035,
+      "source_hex": "003c",
+      "japanese": "　（",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 254746,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E43D-E43F",
+      "source_cpu": 255037,
+      "end_cpu": 255039,
+      "source_hex": "3df3",
+      "japanese": "）\n",
+      "source_line_pixel_widths": [
+        8,
+        0
+      ],
+      "source_root": 254746,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E441-E443",
+      "source_cpu": 255041,
+      "end_cpu": 255043,
+      "source_hex": "003c",
+      "japanese": "　（",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 254746,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E445-E446",
+      "source_cpu": 255045,
+      "end_cpu": 255046,
+      "source_hex": "3d",
+      "japanese": "）",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 254746,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E44E-E456",
+      "source_cpu": 255054,
+      "end_cpu": 255062,
+      "source_hex": "f06ff081f0fff066",
+      "japanese": "地形適応",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 254746,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E459-E466",
+      "source_cpu": 255065,
+      "end_cpu": 255078,
+      "source_hex": "f0b6f3f0f1f3f04ff3f06cf06d",
+      "japanese": "空\n陸\n海\n宇宙",
+      "source_line_pixel_widths": [
+        12,
+        12,
+        12,
+        24
+      ],
+      "source_root": 254746,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E4F4-E4FB",
+      "source_cpu": 255220,
+      "end_cpu": 255227,
+      "source_hex": "d5bab2b758658a",
+      "japanese": "ユニットすてる",
+      "source_line_pixel_widths": [
+        56
+      ],
+      "source_root": 255212,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E545-E548",
+      "source_cpu": 255301,
+      "end_cpu": 255304,
+      "source_hex": "1d2500",
+      "japanese": "ＨＰ　",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 255232,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E54D-E555",
+      "source_cpu": 255309,
+      "end_cpu": 255317,
+      "source_hex": "f050f051f02cf2ff",
+      "japanese": "移動力 ",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 255232,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E55E-E568",
+      "source_cpu": 255326,
+      "end_cpu": 255336,
+      "source_hex": "f063f064f065f0660000",
+      "japanese": "限界反応　　",
+      "source_line_pixel_widths": [
+        64
+      ],
+      "source_root": 255232,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E56A-E573",
+      "source_cpu": 255338,
+      "end_cpu": 255347,
+      "source_hex": "f3f062f00100000000",
+      "japanese": "\n装甲　　　　",
+      "source_line_pixel_widths": [
+        0,
+        56
+      ],
+      "source_root": 255232,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E575-E576",
+      "source_cpu": 255349,
+      "end_cpu": 255350,
+      "source_hex": "30",
+      "japanese": "０",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 255232,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E579-E57F",
+      "source_cpu": 255353,
+      "end_cpu": 255359,
+      "source_hex": "c093dcb2b700",
+      "japanese": "パイロット　",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 255232,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E585-E58E",
+      "source_cpu": 255365,
+      "end_cpu": 255374,
+      "source_hex": "f071f20cf1f1f0f300",
+      "japanese": "回収資金　",
+      "source_line_pixel_widths": [
+        56
+      ],
+      "source_root": 255232,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E68D-E695",
+      "source_cpu": 255629,
+      "end_cpu": 255637,
+      "source_hex": "d5bab2b7f07df0df",
+      "japanese": "ユニット修理",
+      "source_line_pixel_widths": [
+        56
+      ],
+      "source_root": 255495,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E698-E69C",
+      "source_cpu": 255640,
+      "end_cpu": 255644,
+      "source_hex": "f1f1f0f3",
+      "japanese": "資金",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 255495,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E6B7-E6C0",
+      "source_cpu": 255671,
+      "end_cpu": 255680,
+      "source_hex": "f07df0dff0f4f06ef3",
+      "japanese": "修理費用\n",
+      "source_line_pixel_widths": [
+        48,
+        0
+      ],
+      "source_root": 255649,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E781-E789",
+      "source_cpu": 255873,
+      "end_cpu": 255881,
+      "source_hex": "f078f006cc93dfb7",
+      "japanese": "精神ポイント",
+      "source_line_pixel_widths": [
+        56
+      ],
+      "source_root": 255782,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E78E-E78F",
+      "source_cpu": 255886,
+      "end_cpu": 255887,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 255782,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E976-E985",
+      "source_cpu": 256374,
+      "end_cpu": 256389,
+      "source_hex": "634a626581f0f5f0f94b41897d5a8f",
+      "japanese": "つかっても効果がありません",
+      "source_line_pixel_widths": [
+        112
+      ],
+      "source_root": 256353,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E9EB-E9F2",
+      "source_cpu": 256491,
+      "end_cpu": 256498,
+      "source_hex": "f3f057f058f059",
+      "japanese": "\n命中率",
+      "source_line_pixel_widths": [
+        0,
+        36
+      ],
+      "source_root": 256425,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E9F5-E9F8",
+      "source_cpu": 256501,
+      "end_cpu": 256504,
+      "source_hex": "dbc8da",
+      "japanese": "レベル",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 256425,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E9FF-EA00",
+      "source_cpu": 256511,
+      "end_cpu": 256512,
+      "source_hex": "0e",
+      "japanese": "％",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 256425,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-EA0E-EA15",
+      "source_cpu": 256526,
+      "end_cpu": 256533,
+      "source_hex": "f3f057f058f059",
+      "japanese": "\n命中率",
+      "source_line_pixel_widths": [
+        0,
+        36
+      ],
+      "source_root": 256425,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-EA18-EA1B",
+      "source_cpu": 256536,
+      "end_cpu": 256539,
+      "source_hex": "dbc8da",
+      "japanese": "レベル",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 256425,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-EA22-EA23",
+      "source_cpu": 256546,
+      "end_cpu": 256547,
+      "source_hex": "0e",
+      "japanese": "％",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 256425,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-EA64-EA6E",
+      "source_cpu": 256612,
+      "end_cpu": 256622,
+      "source_hex": "d5bab2b7f3c093dcb2b7",
+      "japanese": "ユニット\nパイロット",
+      "source_line_pixel_widths": [
+        32,
+        40
+      ],
+      "source_root": 256567,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-EA71-EA80",
+      "source_cpu": 256625,
+      "end_cpu": 256640,
+      "source_hex": "6860886da8b511aea88e7e7d584a14",
+      "japanese": "どちらのステ－タスをみますか？",
+      "source_line_pixel_widths": [
+        120
+      ],
+      "source_root": 256567,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-EB19-EB22",
+      "source_cpu": 256793,
+      "end_cpu": 256802,
+      "source_hex": "d5bab2b7a8b511aea8",
+      "japanese": "ユニットステ－タス",
+      "source_line_pixel_widths": [
+        72
+      ],
+      "source_root": 256785,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-EB2F-EB39",
+      "source_cpu": 256815,
+      "end_cpu": 256825,
+      "source_hex": "c093dcb2b7a8b511aea8",
+      "japanese": "パイロットステ－タス",
+      "source_line_pixel_widths": [
+        80
+      ],
+      "source_root": 256807,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-EB89-EBA7",
+      "source_cpu": 256905,
+      "end_cpu": 256935,
+      "source_hex": "01ef0eef23ef30ef3def4aef57ef64ef71ef86ef9befb0efcdefdaefe7ef",
+      "japanese": "Ⅱ ％ Ｎ ０ ） か じ づ ひ ょ ガ チ マ ル ± ",
+      "source_line_pixel_widths": [
+        240
+      ],
+      "source_root": 256849,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-EBA9-ED54",
+      "source_cpu": 256937,
+      "end_cpu": 257364,
+      "source_hex": "01f00ef01bf028f035f042f04ff064f079f08ef0abf0b8f0c5f0d2f0dff0ecf0f9f006f113f120f12df13af147f154f161f16ef17bf188f195f1a2f1aff1bcf1c9f1d6f1e3f1f0f1fdf10af217f224f231f23ef24bf258f265f272f27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff27ff2fff0048024",
+      "japanese": "Ⅱ浪洸乙香令海界能型散高拝雷理数果神森右失注配援違余両予撤成立俗葉然旗浄準積跡夢休去加認設読務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務 竜めＯ",
+      "source_line_pixel_widths": [
+        2568
+      ],
+      "source_root": 256849,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-BED1-BED5",
+      "source_cpu": 835281,
+      "end_cpu": 835285,
+      "source_hex": "1d250000",
+      "japanese": "ＨＰ　　",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 835273,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-BED7-BED8",
+      "source_cpu": 835287,
+      "end_cpu": 835288,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 835273,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-BEE6-BEEA",
+      "source_cpu": 835302,
+      "end_cpu": 835306,
+      "source_hex": "1d250000",
+      "japanese": "ＨＰ　　",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 835273,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-BEEC-BEED",
+      "source_cpu": 835308,
+      "end_cpu": 835309,
+      "source_hex": "0f",
+      "japanese": "／",
+      "source_line_pixel_widths": [
+        8
+      ],
+      "source_root": 835273,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C02C-C04B",
+      "source_cpu": 835628,
+      "end_cpu": 835659,
+      "source_hex": "f2ff00f0e9f085f0648ef1a1f1b56d45596a7d4c528f5f3e1918f052f13f3f",
+      "japanese": " 　全世界を混乱のうずにまきこんだ「ＤＣ戦争」",
+      "source_line_pixel_widths": [
+        216
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C04E-C06B",
+      "source_cpu": 835662,
+      "end_cpu": 835691,
+      "source_hex": "0000003cf05f32f07ea811c011dccbb2b7f016f0523d4a88f22ff0943a",
+      "japanese": "　　　（第２次ス－パ－ロボット大戦）から半年、",
+      "source_line_pixel_widths": [
+        208
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C06E-C089",
+      "source_cpu": 835694,
+      "end_cpu": 835721,
+      "source_hex": "0000000000f085f0646e8745834ef111f1cb8e67898168565ee4f3",
+      "japanese": "　　　　　世界はようやく平和をとりもどした。\n",
+      "source_line_pixel_widths": [
+        192,
+        0
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C08F-C0AB",
+      "source_cpu": 835727,
+      "end_cpu": 835755,
+      "source_hex": "f2ff0000005f4b3af14ef0386ef0bdf2f4565e4a6a7e475e19184b3a",
+      "japanese": " 　　　だが、一時は分裂したかにみえたＤＣが、",
+      "source_line_pixel_widths": [
+        204
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C0AE-C0CD",
+      "source_cpu": 835758,
+      "end_cpu": 835789,
+      "source_hex": "0000a5c2f1d86df295f1476a8789f1db72f02c8ef1b489f1dc56636341893a",
+      "japanese": "　　ザビ家の支配により再び力を取り戻しつつあり、",
+      "source_line_pixel_widths": [
+        220
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C0D0-C0EC",
+      "source_cpu": 835792,
+      "end_cpu": 835820,
+      "source_hex": "f2ff005c8b6a678169433a1918f060f1326da1d9d8f052f2dc6a878a",
+      "japanese": " 　それにともない、ＤＣ残党のゲリラ戦術による",
+      "source_line_pixel_widths": [
+        204
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C0EF-C108",
+      "source_cpu": 835823,
+      "end_cpu": 835848,
+      "source_hex": "f2ff0000000000f241f24281f0164c4e6962654c65435ee4f3",
+      "japanese": " 　　　　　被害も大きくなってきていた。\n",
+      "source_line_pixel_widths": [
+        176,
+        0
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C10E-C12B",
+      "source_cpu": 835854,
+      "end_cpu": 835883,
+      "source_hex": "00000052526af21262653af085f064f1a7f082818745834ef2b0f14e6d",
+      "japanese": "　　　ここに至って、世界各国もようやく統一の",
+      "source_line_pixel_widths": [
+        204
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C12E-C151",
+      "source_cpu": 835886,
+      "end_cpu": 835921,
+      "source_hex": "f089f091f1018ef077575f563af082f1256af1bf8d8af2105e69f082f29df0e1f24d3a",
+      "japanese": "必要性を感じだし、国連に代わる新たな国際機関、",
+      "source_line_pixel_widths": [
+        232
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C154-C16E",
+      "source_cpu": 835924,
+      "end_cpu": 835950,
+      "source_hex": "f2ff000000003ef06ff1ccf125f1263f4bf081f1a2548b5ee4f3",
+      "japanese": " 　　　　「地球連邦」が形成された。\n",
+      "source_line_pixel_widths": [
+        172,
+        0
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C174-C195",
+      "source_cpu": 835956,
+      "end_cpu": 835989,
+      "source_hex": "00003e1918f052f13f3f6df1c2f1c3f14c6e3af125f1266df110f0e6f0e6f0e73a",
+      "japanese": "　　「ＤＣ戦争」の英姫達は、連邦の外部部隊、",
+      "source_line_pixel_widths": [
+        220
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C198-C1B7",
+      "source_cpu": 835992,
+      "end_cpu": 836023,
+      "source_hex": "003edcdfb8e3c8da3f675665f1a7f082f0aff2b26df2206af1975e625e4b3a",
+      "japanese": "　「ロンド＝ベル」として各国治安の任に当たったが、",
+      "source_line_pixel_widths": [
+        224
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C1BA-C1D9",
+      "source_cpu": 836026,
+      "end_cpu": 836057,
+      "source_hex": "f2ff005c6df2d33af137886df02c8ef29b8b5ef2fef0aff1d8f14c6a876265",
+      "japanese": " 　その実、彼らの力を恐れた政治家達によって",
+      "source_line_pixel_widths": [
+        212
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C1DC-C1F6",
+      "source_cpu": 836060,
+      "end_cpu": 836086,
+      "source_hex": "f2ff00000000f1edf2cf548b65438a674345f1abf19d6641893a",
+      "japanese": " 　　　　監視されているという状態であり、",
+      "source_line_pixel_widths": [
+        188
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C1F9-C213",
+      "source_cpu": 836089,
+      "end_cpu": 836115,
+      "source_hex": "00000000008c4e69f062f1fe81f2255e548b6543694a625ee4f3",
+      "japanese": "　　　　　ろくな装備も持たされていなかった。\n",
+      "source_line_pixel_widths": [
+        188,
+        0
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C219-C233",
+      "source_cpu": 836121,
+      "end_cpu": 836147,
+      "source_hex": "f2ff00000000005245565ef151f2b2f10669f102f12e6df0583a",
+      "japanese": " 　　　　　こうした不安定な情勢の中、",
+      "source_line_pixel_widths": [
+        180
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C236-C253",
+      "source_cpu": 836150,
+      "end_cpu": 836179,
+      "source_hex": "f300000000f2105e69f23cf0fd4b4967598b8745675665435e3b3b3bf3",
+      "japanese": "\n　　　　新たな窓威がおとずれようとしていた・・・\n",
+      "source_line_pixel_widths": [
+        0,
+        204,
+        0
+      ],
+      "source_root": 835600,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C287-C340",
+      "source_cpu": 836231,
+      "end_cpu": 836416,
+      "source_hex": "3b3b3bf10df0704b3a526df0683230f09475896af0cef202548b5e3af3f2d1f2d2f008f052f13f3af3f1bc6af1c845f05f33f07ea811c011dccbb2b7f016f0526df1d2f2d366418ae4f3f3526df0b7f01669f102f1f48e3230f094816df1604a4e56636450654c5ef3f125f1266d8389f2f06a6ef12df0868ef2ba57f2086943e4f35f4b3a52455665f1d2f2d38ef1db72f073f0346df1aa6af033884a6af3588a52674b664c5ef0a66a87893af16ce26ef28557f23d608ef3",
+      "japanese": "・・・以上が、この度２０年ぶりに公開された、\n異星人戦争、\n俗に言う第３次ス－パ－ロボット大戦の真実である。\n\nこの重大な情報を２０年もの間かくしつづけてきた\n連邦のやり口には失望を禁じ得ない。\nだが、こうして真実を再び白日の元に明らかに\nすることができた事により、我々は同じ過ちを\n",
+      "source_line_pixel_widths": [
+        200,
+        68,
+        224,
+        0,
+        208,
+        164,
+        196,
+        184,
+        0
+      ],
+      "source_root": 836226,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C34A-C406",
+      "source_cpu": 836426,
+      "end_cpu": 836614,
+      "source_hex": "4e894a4754596a587f52674bf10ff07966418a67f164478ae4f3f39596dfb8dc883af2d1f2d2f0086ef14ef074f135f1f26641625e6d4a3af3f12f6af2126265815c6df07ff0746ef033884a666e69434b3af35e5f716763f1c8478a52674b418ae4f35c8b6e3af008f2fc4bf12f7d666d874569f236f0bdf0c9f10869f16447f0a88ef3f04a806943f063893af137886d874569f26ff16b4b3af16ce2f008f2fc8ef33ef06cf06d6df0933f67566541634a4566418c4552675fe4f3",
+      "japanese": "くりかえさずにすむことが可能であると考える。\n\nウェンドロら、異星人は一体何者であったのか、\n今に至ってもその正体は明らかではないが、\nただひとつ言えることがある。\nそれは、人障が今までのような自分勝手な考え方を\n改めない限り、彼らのような存在が、我々人障を\n「宇宙の敵」としてあつかうであろうことだ。\n",
+      "source_line_pixel_widths": [
+        188,
+        0,
+        204,
+        180,
+        116,
+        220,
+        208,
+        180,
+        0
+      ],
+      "source_root": 836421,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C410-C49B",
+      "source_cpu": 836624,
+      "end_cpu": 836763,
+      "source_hex": "f3f0578e4a50653a526df06ff1cc8ef1a862654e8b5e3af13788f3dcdfb8e3c8da6d52528c55568ef1096a5669435e806a81f3f16ce26ef12ff14ef0683af008f2fc6df16b89f0a8674345816d8ef3f2ae43f2cff19f663af16447657e8af089f0914b418a6d666ef369435f8c454ae4f3f3526ddbcc11b78ef2728f664e8b65438a3a5c5665528b4a88f3",
+      "japanese": "\n命をかけて、この地球を救ってくれた、彼ら\nロンド＝ベルのこころざしを無にしないためにも\n我々は今一度、人障の在り方というものを\n広い視点で、考えてみる必要があるのでは\nないだろうか。\n\nこのレポ－トを読んでくれている、そしてこれから\n",
+      "source_line_pixel_widths": [
+        0,
+        180,
+        180,
+        184,
+        176,
+        56,
+        0,
+        188,
+        0
+      ],
+      "source_root": 836619,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C4A5-C529",
+      "source_cpu": 836773,
+      "end_cpu": 836905,
+      "source_hex": "f2728f664e8b8a66418c455878656df008e26a3a8d5e566ef3f173434a505e43e4f3f3f16ce2f008f2fc6e3a685277f08c5245675665438a6d4a14f35c56653af1358e6958784c696d4a14f3f33b3b3b5c6df0b0f2136e3a41695e4b5ef14ef008f14ef0086df15a6df3f0586a41893a5c56653a5c8b525c4b528b4a886df008f2fc6df3",
+      "japanese": "読んでくれるであろうすべての人々に、わたしは\n問いかけたい。\n\n我々人障は、どこへ行こうとしているのか？\nそして、何をなすべきなのか？\n\n・・・その解答は、あなたがた一人一人の心の\n中にあり、そして、それこそがこれからの人障の\n",
+      "source_line_pixel_widths": [
+        184,
+        60,
+        0,
+        176,
+        116,
+        0,
+        196,
+        188,
+        0
+      ],
+      "source_root": 836768,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C537-C549",
+      "source_cpu": 836919,
+      "end_cpu": 836937,
+      "source_hex": "f1947f784cf1178e56805665438a6d5fe4f3",
+      "japanese": "歩むべき道をしめしているのだ。\n",
+      "source_line_pixel_widths": [
+        128,
+        0
+      ],
+      "source_root": 836910,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C553-C5F9",
+      "source_cpu": 836947,
+      "end_cpu": 837113,
+      "source_hex": "526df053436ef14b6a3af05f33f07ea811c011dccbb2b7f016f05267f3f2186f8b8a87456a69625ee4f3f3526df052f13f4bf16ce26a815e88565ef09bf28a6ef1355f625e6d4a14f3f3f157f16b6af2128a813af085f064f1a7f06f66f0c2f12b5665438af052f1b56df0dc8ef3f1768a5e726a3a8d5e566ef236f173f236f2135a596a6e43888b6943e4f35f4b3af07af08667414c88804a886ef13581f12b7d8b6943e4f3",
+      "japanese": "この闘いは後に、第３次ス－パ－ロボット大戦と\n呼ばれるようになった。\n\nこの戦争が我々にもたらした教訓は何だったのか？\n\n現在に至るも、世界各地で発生している戦乱の火を\n見るたびに、わたしは自問自答せずにはいられない。\nだが、絶望とあきらめからは何も生まれない。\n",
+      "source_line_pixel_widths": [
+        200,
+        92,
+        0,
+        208,
+        0,
+        232,
+        212,
+        184,
+        0
+      ],
+      "source_root": 836942,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C603-C6A6",
+      "source_cpu": 837123,
+      "end_cpu": 837286,
+      "source_hex": "f39596dfb8dc883af2d1f2d2f0086ef14ef074f135f1f26641625e6d4a3af3f12f6af2126265815c6df07ff0746ef033884a666e69434b3af35e5f716763f1c8478a52674b418ae4f35c8b6e3af008f2fc4bf12f7d666d874569f236f0bdf0c9f10869f16447f0a88ef3f04a806943f063893af137886d874569f26ff16b4b3af16ce2f008f2fc8ef33ef06cf06d6df0933f67566541634a4566418c4552675fe4f3f3",
+      "japanese": "\nウェンドロら、異星人は一体何者であったのか、\n今に至ってもその正体は明らかではないが、\nただひとつ言えることがある。\nそれは、人障が今までのような自分勝手な考え方を\n改めない限り、彼らのような存在が、我々人障を\n「宇宙の敵」としてあつかうであろうことだ。\n\n",
+      "source_line_pixel_widths": [
+        0,
+        204,
+        180,
+        116,
+        220,
+        208,
+        180,
+        0,
+        0
+      ],
+      "source_root": 837118,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C6B0-C715",
+      "source_cpu": 837296,
+      "end_cpu": 837397,
+      "source_hex": "5e67473af0195469f14ef19466416265813a747e5f5469508b6ff3f1b37f52676e664c6943e4f3f3f16ce26ef09d5659633af1948f66f08c4a6c6f698869436d5fe4f3f3f0f96556694ef175433a5c5665f0836a7e605ef085f0646af0a94a62653b3b3bf3",
+      "japanese": "たとえ、小さな一歩であっても、ふみださなければ\n進むことはできない。\n\n我々は少しずつ、歩んで行かねばならないのだ。\n\n果てしなく遠い、そして光にみちた世界に向かって・・・\n",
+      "source_line_pixel_widths": [
+        196,
+        84,
+        0,
+        192,
+        0,
+        232,
+        0
+      ],
+      "source_root": 837291,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C71F-C7DF",
+      "source_cpu": 837407,
+      "end_cpu": 837599,
+      "source_hex": "a6d495e3a6d89add3b3b3bf1376df130f10c4bf14ef074698f6641625e6d4ae4f35c8b8ef18689458a5e5ff14ef0086df03c3acda49ce391dfb8116e3a526df3f052436df14b3a435952776781694ef2d08ef0c8565ee4f3f12f676962656e5c8b8ef1868a87568169434b3aa6d4956df08cf0516ef3f16ce26a3af1354a8ef1b2478745675665435e6d666e694a8c454a14f3f3f02c6d7e8ef1fb438167808a816d6e3a43598bf02c6a876265f0ee7b548b65f3567d4567f1c84552678ee4f3",
+      "japanese": "シュウ＝シラカワ・・・彼の目的が一体なんであったのか。\nそれを知りうるただ一人の男、マサキ＝アンド－は、この\n戦いの後、いずこへともなく姿を消した。\n今となってはそれを知るよしもないが、シュウの行動は\n我々に、何かを伝えようとしていたのではなかろうか？\n\n力のみを追いもとめるものは、いずれ力によって滅ぼされて\nしまうと言うことを。\n",
+      "source_line_pixel_widths": [
+        236,
+        224,
+        168,
+        216,
+        212,
+        0,
+        232,
+        84,
+        0
+      ],
+      "source_root": 837402,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C7E9-C87A",
+      "source_cpu": 837609,
+      "end_cpu": 837754,
+      "source_hex": "f12f6df16ce26e3af02c6a876265564af0b0f1056df1178ef1766350888b69433af3f1c5f2dff1f26a584d6943e4f3f35f4b3a43634a6e3a526df085f0644bf02c5f50666e694e3af0086df1cb6af3876265f081f017888b8af0344bf1598ae4f3f33b3b3b43833af1598a3a6d666e6943e4f3f16ce24b5c6df0346af0a94a6265f1948f66434a6c6f698869436d5fe4f3",
+      "japanese": "今の我々は、力によってしか解決の道を見つけられない、\n未熟者にすぎない。\n\nだが、いつかは、この世界が力だけではなく、人の和に\nよって形作られる日が来る。\n\n・・・いや、来る、のではない。\n我々がその日に向かって歩んでいかねばならないのだ。\n",
+      "source_line_pixel_widths": [
+        236,
+        84,
+        0,
+        220,
+        120,
+        0,
+        124,
+        216,
+        0
+      ],
+      "source_root": 837604,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C887-C88B",
+      "source_cpu": 837767,
+      "end_cpu": 837771,
+      "source_hex": "dbc8da00",
+      "japanese": "レベル　",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 837765,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C8FF-C904",
+      "source_cpu": 837887,
+      "end_cpu": 837892,
+      "source_hex": "f3cdb2c600",
+      "japanese": "\nマップ　",
+      "source_line_pixel_widths": [
+        0,
+        32
+      ],
+      "source_root": 837819,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C906-C90C",
+      "source_cpu": 837894,
+      "end_cpu": 837900,
+      "source_hex": "0000f0b85400",
+      "japanese": "　　高さ　",
+      "source_line_pixel_widths": [
+        44
+      ],
+      "source_root": 837819,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C958-C95D",
+      "source_cpu": 837976,
+      "end_cpu": 837981,
+      "source_hex": "f3cdb2c600",
+      "japanese": "\nマップ　",
+      "source_line_pixel_widths": [
+        0,
+        32
+      ],
+      "source_root": 837819,
+      "translation": ""
+    },
+    {
+      "id": "menu-0C-C95F-C965",
+      "source_cpu": 837983,
+      "end_cpu": 837989,
+      "source_hex": "0000f0b85400",
+      "japanese": "　　高さ　",
+      "source_line_pixel_widths": [
+        44
+      ],
+      "source_root": 837819,
+      "translation": ""
+    }
+  ],
+  "overlap_conflicts": [],
+  "unknown": []
+}

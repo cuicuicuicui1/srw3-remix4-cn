@@ -1,0 +1,1 @@
+local out=assert(os.getenv("REMIX_OUT"));local f=assert(io.open(out.."/api.txt","w"));for k,v in pairs(emu)do f:write(k.."="..type(v).."\n")end;f:close();emu.addEventCallback(function()emu.stop(0)end,emu.eventType.endFrame)

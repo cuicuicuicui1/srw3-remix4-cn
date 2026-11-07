@@ -1,0 +1,13 @@
+{
+  "returncode": 0,
+  "source_sha256": "bcde4e317f945b23c4ceac6bca89e6725812eb94e53d3cd51cc0e09e0dd608cd",
+  "loaded_rom": "<LOCAL_PROJECT>\\work\\build\\graph-012\\remix4-cn.sfc",
+  "script_sha256": "09ca365435042f460a97ae5f190620e158b1923e2bf13bf41d3a3fc13d08f72a",
+  "mesen_sha256": "d2eb03c2590c648bf329f127ebcfefd70130e7690a9e2ccdba8616faea1fe96b",
+  "elapsed_seconds": 148.43729639053345,
+  "fixture": "same-ROM native text checkpoint; declared text/condition/PRNG argument probes",
+  "cases_sha256": "4606fc3ff078cd45437f29242454975cccf95e3e636529df10567beb4d5d6fbc",
+  "actual_script_sha256": "23f894dbe9121dbbbe16b4574d6c08bb53a7317495a7f045d77bd2e820aad083",
+  "isolated_rom_basename": "srw3-remix4-final-matrix-012.sfc",
+  "fresh_sram_before_native_reset": true
+}

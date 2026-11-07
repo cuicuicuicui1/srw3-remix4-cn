@@ -1,0 +1,95 @@
+{
+  "source_rom_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "entries": [
+    {
+      "id": "menu-03-D38A-D395",
+      "japanese": "次のレベルまであと\n",
+      "translation": "距下一级还差\n"
+    },
+    {
+      "id": "menu-03-D3B2-D3B9",
+      "japanese": "経験値\n",
+      "translation": "经验值\n"
+    },
+    {
+      "id": "menu-03-D3C2-D3CD",
+      "japanese": "次のレベルまであと\n",
+      "translation": "经验值\n"
+    },
+    {
+      "id": "menu-03-D7C7-D7D1",
+      "japanese": "北アメリカ 　　",
+      "translation": "北美      "
+    },
+    {
+      "id": "menu-03-DB7E-DB84",
+      "japanese": "デ－タロ－ド",
+      "translation": "读取数据"
+    },
+    {
+      "id": "menu-03-DCDE-DCEB",
+      "japanese": "話までクリア\nユニット　",
+      "translation": "话已通关\n机体  "
+    },
+    {
+      "id": "menu-03-DCED-DCF0",
+      "japanese": "機\n",
+      "translation": "机\n"
+    },
+    {
+      "id": "menu-03-DCF3-DCFA",
+      "japanese": "総タ－ン数",
+      "translation": "总回合数"
+    },
+    {
+      "id": "menu-03-DCFC-DD09",
+      "japanese": "タ－ン\nパイロット　　　　",
+      "translation": "回合\n驾驶员    "
+    },
+    {
+      "id": "menu-03-DD0B-DD15",
+      "japanese": "名\n資金　　　",
+      "translation": "名\n资金   "
+    },
+    {
+      "id": "menu-03-DFCA-DFD5",
+      "japanese": "かかるぜ、いいかい？」",
+      "translation": "块，行吗？”"
+    },
+    {
+      "id": "menu-03-E2B1-E2C4",
+      "japanese": "のりかえ可能なパイロットがいません",
+      "translation": "没有可换乘的驾驶员"
+    },
+    {
+      "id": "menu-03-E2CC-E2DD",
+      "japanese": "どのユニットにのりかえさせますか？",
+      "translation": "要换乘到哪架机体？"
+    },
+    {
+      "id": "menu-03-E2E5-E2F8",
+      "japanese": "のりかえ可能なユニットがありません",
+      "translation": "没有可换乘的机体"
+    },
+    {
+      "id": "menu-03-E598-E5AB",
+      "japanese": "どのユニットをはいきしょぶんしますか？",
+      "translation": "要废弃哪架机体？"
+    },
+    {
+      "id": "menu-03-E5B3-E5C5",
+      "japanese": "はいき可能なユニットがありません",
+      "translation": "没有可废弃的机体"
+    },
+    {
+      "id": "menu-03-E5CD-E5DA",
+      "japanese": "このユニットでいいですか？",
+      "translation": "这架机体行吗？"
+    },
+    {
+      "id": "menu-03-E5E4-E5F2",
+      "japanese": "の資金を回収しました",
+      "translation": "资金已回收"
+    }
+  ]
+}

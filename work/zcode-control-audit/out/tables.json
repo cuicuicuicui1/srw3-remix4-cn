@@ -1,0 +1,228 @@
+[
+  {
+    "root": 32768,
+    "end": 32896,
+    "count": 64,
+    "zero_entries": [],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 32,
+    "bank": 8
+  },
+  {
+    "root": 33566,
+    "end": 33920,
+    "count": 177,
+    "zero_entries": [],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 33,
+    "bank": 8
+  },
+  {
+    "root": 32768,
+    "end": 33280,
+    "count": 256,
+    "zero_entries": [
+      255
+    ],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 34,
+    "bank": 9
+  },
+  {
+    "root": 51832,
+    "end": 52344,
+    "count": 256,
+    "zero_entries": [
+      255
+    ],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 35,
+    "bank": 9
+  },
+  {
+    "root": 32768,
+    "end": 33280,
+    "count": 256,
+    "zero_entries": [
+      255
+    ],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 36,
+    "bank": 10
+  },
+  {
+    "root": 48074,
+    "end": 48586,
+    "count": 256,
+    "zero_entries": [
+      255
+    ],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 37,
+    "bank": 10
+  },
+  {
+    "root": 32768,
+    "end": 33280,
+    "count": 256,
+    "zero_entries": [
+      255
+    ],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 38,
+    "bank": 11
+  },
+  {
+    "root": 44128,
+    "end": 44640,
+    "count": 256,
+    "zero_entries": [
+      255
+    ],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 39,
+    "bank": 11
+  },
+  {
+    "root": 57138,
+    "end": 57492,
+    "count": 177,
+    "zero_entries": [],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 40,
+    "bank": 12
+  },
+  {
+    "root": 32768,
+    "end": 32896,
+    "count": 64,
+    "zero_entries": [],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 41,
+    "bank": 8
+  },
+  {
+    "root": 32768,
+    "end": 32896,
+    "count": 64,
+    "zero_entries": [],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 42,
+    "bank": 8
+  },
+  {
+    "root": 37523,
+    "end": 37683,
+    "count": 80,
+    "zero_entries": [],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 43,
+    "bank": 8
+  },
+  {
+    "root": 57763,
+    "end": 58275,
+    "count": 256,
+    "zero_entries": [
+      255
+    ],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 44,
+    "bank": 11
+  },
+  {
+    "root": 62383,
+    "end": 62671,
+    "count": 144,
+    "zero_entries": [],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 45,
+    "bank": 11
+  },
+  {
+    "root": 39670,
+    "end": 40182,
+    "count": 256,
+    "zero_entries": [
+      255
+    ],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 46,
+    "bank": 8
+  },
+  {
+    "root": 53263,
+    "end": 53775,
+    "count": 256,
+    "zero_entries": [
+      255
+    ],
+    "nonzero_below_end": [],
+    "inference": "first text address = min nonzero word; every nonzero word before it is >= it",
+    "confidence": "medium",
+    "verified_layout": true,
+    "note": "Table length is inferred from layout; entries may be unused, aliases, or non-text. No total-coverage claim.",
+    "group": 47,
+    "bank": 8
+  }
+]

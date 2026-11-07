@@ -1,0 +1,68 @@
+{
+  "batch_id": "bulk-07",
+  "notes": [
+    {
+      "id": "0A-E98F-E9BB",
+      "type": "typo",
+      "source_text": "半抵休息",
+      "interpreted_as": "半日休息",
+      "translation_choice": "这是半天的休息吧？",
+      "explanation": "「半抵」应为「半日」之误；结合“上陸許可ももらってる”判断为半天休整，按上下文译出。"
+    },
+    {
+      "id": "0A-EE19-EE39",
+      "type": "typo",
+      "source_text": "強行矢破",
+      "interpreted_as": "強行突破",
+      "translation_choice": "从正面强行突破",
+      "explanation": "「矢破」应为「突破」之误，按军事语境译作“强行突破”。"
+    },
+    {
+      "id": "0A-EF55-EF79",
+      "type": "typo",
+      "source_text": "地球罠",
+      "interpreted_as": "地球圏",
+      "translation_choice": "跑到地球圈来的",
+      "explanation": "「罠」应为「圏」之误；此处指阿克西斯进入地球圈。"
+    },
+    {
+      "id": "0B-8CF1-8D33",
+      "type": "typo",
+      "source_text": "世界証服",
+      "interpreted_as": "世界征服",
+      "translation_choice": "在策划征服世界",
+      "explanation": "「証服」应为「征服」之误。"
+    },
+    {
+      "id": "0B-985E-9878",
+      "type": "typo",
+      "source_text": "ざれあう",
+      "interpreted_as": "じゃれあう",
+      "translation_choice": "别和敌人纠缠",
+      "explanation": "「ざれあう」应为「じゃれあう」之误；在战场语境下译作“纠缠”。"
+    },
+    {
+      "id": "0B-A22C-A247",
+      "type": "typo",
+      "source_text": "矢入",
+      "interpreted_as": "突入",
+      "translation_choice": "即将进入敌人的防线",
+      "explanation": "「矢入」应为「突入」之误。"
+    },
+    {
+      "id": "0B-9225-9272",
+      "type": "glossary_conflict",
+      "source_text": "モビルア－マ－",
+      "glossary_value": "机械恐龙兹",
+      "translation_choice": "机动装甲",
+      "explanation": "术语表把「モビルア－マ－」标成“机械恐龙兹”，与上下文（GP-03与武装基座接合后作为MA运用）不符；“机械恐龙”对应的是メカザウルス。此处按原意译作“机动装甲”，建议父级修正术语表。"
+    },
+    {
+      "id": "0A-F2FF-F322, 0A-F380-F3A9",
+      "type": "naming",
+      "source_text": "エルピ－＝プル",
+      "translation_choice": "普露",
+      "explanation": "全名按术语表可对应短称「プル」，为与同角色后续称呼保持一致，统一使用“普露”。"
+    }
+  ]
+}

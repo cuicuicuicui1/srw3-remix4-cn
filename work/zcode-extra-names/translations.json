@@ -1,0 +1,89 @@
+{
+  "source_rom_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "entries": [
+    {
+      "id": "name-06-F44F",
+      "japanese": "リペア５００",
+      "translation": "修复包500",
+      "display": "修复500"
+    },
+    {
+      "id": "name-06-F456",
+      "japanese": "リペア２０００",
+      "translation": "修复包2000",
+      "display": "修复2000"
+    },
+    {
+      "id": "name-06-F45E",
+      "japanese": "リペアＭＡＸ",
+      "translation": "修复包MAX",
+      "display": "修复MAX"
+    },
+    {
+      "id": "name-06-F465",
+      "japanese": "エネルギ－パック",
+      "translation": "能量包",
+      "display": "能量包"
+    },
+    {
+      "id": "name-06-F46E",
+      "japanese": "予備弾装",
+      "translation": "备用弹药",
+      "display": "备用弹药"
+    },
+    {
+      "id": "name-06-F477",
+      "japanese": "気合一発！",
+      "translation": "气合一发！",
+      "display": "气合一发"
+    },
+    {
+      "id": "name-06-F481",
+      "japanese": "勇気のしるし１００",
+      "translation": "勇气之证100",
+      "display": "勇气之证100"
+    },
+    {
+      "id": "name-06-F48D",
+      "japanese": "勇気のしるしＭＡＸ",
+      "translation": "勇气之证MAX",
+      "display": "勇气之证MAX"
+    },
+    {
+      "id": "name-06-F499",
+      "japanese": "正義の怒り",
+      "translation": "正义之怒",
+      "display": "正义之怒"
+    },
+    {
+      "id": "name-06-F4A2",
+      "japanese": "秘密のとっくん",
+      "translation": "秘密特训",
+      "display": "秘密特训"
+    },
+    {
+      "id": "name-06-F4AC",
+      "japanese": "アポジモ－タ－",
+      "translation": "微调推进器",
+      "display": "微调马达"
+    },
+    {
+      "id": "name-06-F4B4",
+      "japanese": "マグネットコ－ト",
+      "translation": "磁气覆膜",
+      "display": "磁气覆膜"
+    },
+    {
+      "id": "name-06-F4BD",
+      "japanese": "超合金Ｚ",
+      "translation": "超合金Z",
+      "display": "超合金Z"
+    },
+    {
+      "id": "name-06-F4C5",
+      "japanese": "チョバムア－マ－",
+      "translation": "乔巴姆装甲",
+      "display": "乔巴姆装甲"
+    }
+  ]
+}

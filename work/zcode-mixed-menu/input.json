@@ -1,0 +1,260 @@
+{
+  "source_rom_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "root_count": 13,
+  "scope": "low script F4 glyph-mode literals only; native controls remain in source ROM; table lengths bounded by explicit provisional schema",
+  "entries": [
+    {
+      "id": "menu-03-D38A-D395",
+      "source_cpu": 250762,
+      "end_cpu": 250773,
+      "source_hex": "f07e6ddbc8da7d664167f3",
+      "japanese": "次のレベルまであと\n",
+      "source_line_pixel_widths": [
+        76,
+        0
+      ],
+      "source_root": 250762,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D3B2-D3B9",
+      "source_cpu": 250802,
+      "end_cpu": 250809,
+      "source_hex": "f069f06af06bf3",
+      "japanese": "経験値\n",
+      "source_line_pixel_widths": [
+        36,
+        0
+      ],
+      "source_root": 250802,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D3C2-D3CD",
+      "source_cpu": 250818,
+      "end_cpu": 250829,
+      "source_hex": "f07e6ddbc8da7d664167f3",
+      "japanese": "次のレベルまであと\n",
+      "source_line_pixel_widths": [
+        76,
+        0
+      ],
+      "source_root": 250802,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-D7C7-D7D1",
+      "source_cpu": 251847,
+      "end_cpu": 251857,
+      "source_hex": "f01891d0d99af2ff0000",
+      "japanese": "北アメリカ 　　",
+      "source_line_pixel_widths": [
+        72
+      ],
+      "source_root": 251847,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DB7E-DB84",
+      "source_cpu": 252798,
+      "end_cpu": 252804,
+      "source_hex": "b611aedc11b8",
+      "japanese": "デ－タロ－ド",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 252792,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DCDE-DCEB",
+      "source_cpu": 253150,
+      "end_cpu": 253163,
+      "source_hex": "f14a7d669ed991f3d5bab2b700",
+      "japanese": "話までクリア\nユニット　",
+      "source_line_pixel_widths": [
+        52,
+        40
+      ],
+      "source_root": 253148,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DCED-DCF0",
+      "source_cpu": 253165,
+      "end_cpu": 253168,
+      "source_hex": "f0e1f3",
+      "japanese": "機\n",
+      "source_line_pixel_widths": [
+        12,
+        0
+      ],
+      "source_root": 253148,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DCF3-DCFA",
+      "source_cpu": 253171,
+      "end_cpu": 253178,
+      "source_hex": "f0f6ae11dff0ec",
+      "japanese": "総タ－ン数",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 253148,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DCFC-DD09",
+      "source_cpu": 253180,
+      "end_cpu": 253193,
+      "source_hex": "ae11dff3c093dcb2b700000000",
+      "japanese": "タ－ン\nパイロット　　　　",
+      "source_line_pixel_widths": [
+        24,
+        72
+      ],
+      "source_root": 253148,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DD0B-DD15",
+      "source_cpu": 253195,
+      "end_cpu": 253205,
+      "source_hex": "f0daf3f1f1f0f3000000",
+      "japanese": "名\n資金　　　",
+      "source_line_pixel_widths": [
+        12,
+        48
+      ],
+      "source_root": 253148,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-DFCA-DFD5",
+      "source_cpu": 253898,
+      "end_cpu": 253909,
+      "source_hex": "4a4a8a5b3a43434a43143f",
+      "japanese": "かかるぜ、いいかい？」",
+      "source_line_pixel_widths": [
+        88
+      ],
+      "source_root": 253896,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E2B1-E2C4",
+      "source_cpu": 254641,
+      "end_cpu": 254660,
+      "source_hex": "6d894a47f10ff07969c093dcb2b74b437d5a8f",
+      "japanese": "のりかえ可能なパイロットがいません",
+      "source_line_pixel_widths": [
+        144
+      ],
+      "source_root": 254638,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E2CC-E2DD",
+      "source_cpu": 254668,
+      "end_cpu": 254685,
+      "source_hex": "686dd5bab2b76a6d894a47545a7d584a14",
+      "japanese": "どのユニットにのりかえさせますか？",
+      "source_line_pixel_widths": [
+        136
+      ],
+      "source_root": 254665,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E2E5-E2F8",
+      "source_cpu": 254693,
+      "end_cpu": 254712,
+      "source_hex": "6d894a47f10ff07969d5bab2b74b41897d5a8f",
+      "japanese": "のりかえ可能なユニットがありません",
+      "source_line_pixel_widths": [
+        144
+      ],
+      "source_root": 254690,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E598-E5AB",
+      "source_cpu": 255384,
+      "end_cpu": 255403,
+      "source_hex": "686dd5bab2b78e6e434c5686758f567d584a14",
+      "japanese": "どのユニットをはいきしょぶんしますか？",
+      "source_line_pixel_widths": [
+        152
+      ],
+      "source_root": 255381,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E5B3-E5C5",
+      "source_cpu": 255411,
+      "end_cpu": 255429,
+      "source_hex": "6e434cf10ff07969d5bab2b74b41897d5a8f",
+      "japanese": "はいき可能なユニットがありません",
+      "source_line_pixel_widths": [
+        136
+      ],
+      "source_root": 255408,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E5CD-E5DA",
+      "source_cpu": 255437,
+      "end_cpu": 255450,
+      "source_hex": "526dd5bab2b766434366584a14",
+      "japanese": "このユニットでいいですか？",
+      "source_line_pixel_widths": [
+        104
+      ],
+      "source_root": 255434,
+      "translation": ""
+    },
+    {
+      "id": "menu-03-E5E4-E5F2",
+      "source_cpu": 255460,
+      "end_cpu": 255474,
+      "source_hex": "6df1f1f0f38ef071f20c567d565e",
+      "japanese": "の資金を回収しました",
+      "source_line_pixel_widths": [
+        96
+      ],
+      "source_root": 255455,
+      "translation": ""
+    }
+  ],
+  "overlap_conflicts": [],
+  "unknown": [],
+  "excluded": [
+    {
+      "id": "menu-03-DBC2-DBC5",
+      "source_cpu": 252866,
+      "end_cpu": 252869,
+      "source_hex": "f10020",
+      "japanese": "愛Ｋ",
+      "source_line_pixel_widths": [
+        20
+      ],
+      "source_root": 252866,
+      "translation": "",
+      "reason": "border tile IDs as in other native frame templates; not language"
+    },
+    {
+      "id": "menu-03-E283-E286",
+      "source_cpu": 254595,
+      "end_cpu": 254598,
+      "source_hex": "f10020",
+      "japanese": "愛Ｋ",
+      "source_line_pixel_widths": [
+        20
+      ],
+      "source_root": 254595,
+      "translation": "",
+      "reason": "border tile IDs as in other native frame templates; not language"
+    }
+  ]
+}

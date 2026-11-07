@@ -1,0 +1,33 @@
+{
+  "status": "pass",
+  "rom_sha256": "bcde4e317f945b23c4ceac6bca89e6725812eb94e53d3cd51cc0e09e0dd608cd",
+  "source_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "literal_spans": 4768,
+  "menu_literals": 306,
+  "title_labels": 3,
+  "native_consumer_cases": {
+    "CALL": 2,
+    "F7": 465,
+    "F8": 2,
+    "F9": 86,
+    "LONG": 3,
+    "ORPHAN": 10
+  },
+  "native_consumer_total": 568,
+  "glyph_count": 1817,
+  "hook_model_cases": 17805,
+  "source_changed_bytes": 46,
+  "repeat_equal": {
+    "remix4-cn.sfc": true,
+    "manifest.json": true
+  },
+  "native_title_vram_bytes_compared": 12288,
+  "sram_route": "native save -> isolated SRAM import before cold reset -> CONTINUE -> map unit-menu open/cancel",
+  "not_claimed": [
+    "all pointer table lengths independently proved",
+    "all possible hidden resources found",
+    "all natural story routes completed",
+    "whole-game bug freedom",
+    "hardware validation"
+  ]
+}

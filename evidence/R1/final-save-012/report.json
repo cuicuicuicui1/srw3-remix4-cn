@@ -1,0 +1,20 @@
+{
+  "returncode": 0,
+  "source_sha256": "bcde4e317f945b23c4ceac6bca89e6725812eb94e53d3cd51cc0e09e0dd608cd",
+  "loaded_rom": "<LOCAL_PROJECT>\\work\\build\\graph-012\\remix4-cn.sfc",
+  "script_sha256": "adb146939df5449ec01c0019b91c6f087790e65a2b63a9080a400f1d6660e1b1",
+  "mesen_sha256": "d2eb03c2590c648bf329f127ebcfefd70130e7690a9e2ccdba8616faea1fe96b",
+  "elapsed_seconds": 5.869356155395508,
+  "fixture": "same final ROM natural map menu checkpoint; joypad-only native save; SRAM exported for cold reload",
+  "actual_script_sha256": "adb146939df5449ec01c0019b91c6f087790e65a2b63a9080a400f1d6660e1b1",
+  "isolated_rom_basename": "srw3-remix4-final-save-012.sfc",
+  "fresh_sram_before_native_reset": false,
+  "REMIX_STATE": {
+    "path": "<LOCAL_PROJECT>\\work\\runtime\\final-global-012\\menu.State",
+    "sha256": "c07c78a5ba040cf6a54efd7bcb6d6822e6bece72f49a49d04f70f3677057f4be"
+  },
+  "REMIX_ACTIONS": {
+    "path": "<LOCAL_PROJECT>\\work\\runtime-actions\\save.lua",
+    "sha256": "3620807e5345b53050451eef9559635d27b4d6de98aa1e0b6c6bf671f853455a"
+  }
+}

@@ -1,0 +1,687 @@
+[
+  {
+    "batch": "zcode-bulk-01",
+    "data": {
+      "batch_id": "bulk-01",
+      "notes": [
+        {
+          "id": "08-8166-8174",
+          "kind": "term",
+          "note": "「オープン・ゲット」按盖塔合体口令处理，译为“开启·合体”。"
+        },
+        {
+          "id": "08-8177-8183",
+          "kind": "term",
+          "note": "同 08-8166-8174，「オープン・ゲット」译为“开启·合体”。"
+        },
+        {
+          "id": "08-8AAB-8AB9",
+          "kind": "typo",
+          "note": "原文「昭準」按上下文应为「照準」，译为“瞄准设定”。"
+        },
+        {
+          "id": "08-8BAE-8BB6",
+          "kind": "ambiguity",
+          "note": "「やるかよ」可作正面“干就干”或反面“想得美”，本批按正面语气译为“干就干”。见 questions.json。"
+        },
+        {
+          "id": "08-8C16-8C25",
+          "kind": "ambiguity",
+          "note": "「かとんぼ」所指对象不明确，暂按“火蜻蜓”处理。见 questions.json。"
+        },
+        {
+          "id": "08-8E4C-8E60",
+          "kind": "style",
+          "note": "「ラ・・・ラァ・・・」为无实义喊声，译为“啦……啦……”。"
+        },
+        {
+          "id": "08-8F34-8F49",
+          "kind": "term",
+          "note": "「アカシック・バスター」译为“阿卡夏·破坏炮”。"
+        },
+        {
+          "id": "08-8FE4-9001",
+          "kind": "ambiguity",
+          "note": "「ラァイ」可能为“雷”或单纯战吼，暂译为“雷”。见 questions.json。"
+        },
+        {
+          "id": "08-9024-9030",
+          "kind": "ambiguity",
+          "note": "「ラァイ」单条战吼，暂按“雷”处理。见 questions.json。"
+        },
+        {
+          "id": "08-91BD-91D3",
+          "kind": "term",
+          "note": "「サイ・フラッシュ」按 Psy Flash 译为“精神闪光”。"
+        },
+        {
+          "id": "08-9485-9490",
+          "kind": "dialect",
+          "note": "「脱出するタイ」的「タイ」为方言/语气强调，未单独译出。见 questions.json。"
+        },
+        {
+          "id": "08-993E-9981",
+          "kind": "term",
+          "note": "「ガン」按上下文译为“癌”，指地球与宇宙的癌。"
+        },
+        {
+          "id": "08-9E96-9ED6",
+          "kind": "format",
+          "note": "原文「１８、４」「６９、５」中的逗号为小数点，译为18.4、69.5。"
+        },
+        {
+          "id": "08-A117-A141",
+          "kind": "typo",
+          "note": "原文「学障」按上下文应为「学校」，译为“学校”。"
+        },
+        {
+          "id": "08-A43B-A454",
+          "kind": "typo",
+          "note": "原文「大気罠矢入」按上下文应为「大気圏突入」，译为“大气圈突入”。"
+        },
+        {
+          "id": "08-A457-A465",
+          "kind": "typo",
+          "note": "原文「矢入」按上下文应为「突入」，译为“突入”。"
+        },
+        {
+          "id": "08-AFDE-B018",
+          "kind": "format",
+          "note": "原文末尾多出一个「」」，译文按正常引号收束，未复制多余符号。"
+        },
+        {
+          "id": "08-B198-B1CC",
+          "kind": "ambiguity",
+          "note": "「ズメズメ」为不常见拟态/拟声词，暂译为“磨磨蹭蹭的”。见 questions.json。"
+        },
+        {
+          "id": "08-B268-B29B",
+          "kind": "fragment",
+          "note": "「あなたさえ…」语义中断，按迟疑语气译为“就连你……”，未补全后续内容。"
+        }
+      ]
+    }
+  },
+  {
+    "batch": "zcode-bulk-02",
+    "data": {
+      "batch_id": "bulk-02",
+      "notes": [
+        {
+          "id": "08-C5F2-C61E",
+          "issue": "原文「矢破」应为「突破」，按上下文译作“突破”。"
+        },
+        {
+          "id": "08-CA3A-CA84",
+          "issue": "原文「窓威」应为「脅威」，按上下文译作“威胁”。"
+        },
+        {
+          "id": "08-CDBE-CE0D",
+          "issue": "原文「人障」应为「人類」或「人間」，按上下文译作“人类”。"
+        },
+        {
+          "id": "08-CF3E-CF87",
+          "issue": "原文「もうし開き」应为「申し開き」，译作“交代”。"
+        },
+        {
+          "id": "08-E2BF-E304",
+          "issue": "原文「沈脳」应为「洗脳」，译作“洗脑”。"
+        },
+        {
+          "id": "08-E305-E31A",
+          "issue": "原文「沈脳」应为「洗脳」，译作“洗脑”。"
+        },
+        {
+          "id": "08-E31B-E359",
+          "issue": "原文「なりたくないければ」应为「なりたくなければ」，按“不想变成那样”处理。"
+        },
+        {
+          "id": "08-E50F-E561",
+          "issue": "原文「地球罠」应为「地球圏」，译作“地球圈”。"
+        },
+        {
+          "id": "08-FA0B-FA44",
+          "issue": "原文「頬得」疑为「得」或「利益」，按“好处”处理。"
+        },
+        {
+          "id": "08-D447-D47A",
+          "issue": "原文「ヤケにつかれる」语义含混，结合实验语境按“用起来让人精疲力竭”处理。"
+        },
+        {
+          "id": "08-D5A4-D5DD",
+          "issue": "原文「センタク」假名可指「洗濯」或「選択」，按剧情语境取“洗衣服”，存疑。"
+        },
+        {
+          "id": "08-EA76-EA9A",
+          "issue": "原文「ふゆかい」应为「不愉快」，译作“不痛快”。"
+        },
+        {
+          "id": "08-FAC3-FB0D",
+          "issue": "原文「あつっくるしい」应为「暑っ苦しい」，译作“闷热”。"
+        },
+        {
+          "id": "08-C43E-C45E",
+          "issue": "「ロンド」为蕾柯亚的姓（Londe），译作“隆德”，并非隆德贝尔。"
+        },
+        {
+          "id": "08-E3A6-E3DD",
+          "issue": "原文「あなたのこと・・・好・・・」在「好」处中断（未写完「好き」），译文保留为「我……喜……」。"
+        }
+      ]
+    }
+  },
+  {
+    "batch": "zcode-bulk-04",
+    "data": {
+      "source_rom_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+      "batch_id": "bulk-04",
+      "notes": [
+        {
+          "id": "09-B925-B94B",
+          "japanese_fragment": "入浄する",
+          "note": "原文“入浄”按上下文应为“入城”，译为“进入冯·布朗市”。"
+        },
+        {
+          "id": "09-BD10-BD26",
+          "japanese_fragment": "あったそうそうに",
+          "note": "疑为“会ったそうそうに”（刚见面就），按此意译。"
+        },
+        {
+          "id": "09-C01B-C072",
+          "japanese_fragment": "失そう事件",
+          "note": "原文以平假名书写“失そう”，按“失踪事件”理解。"
+        },
+        {
+          "id": "09-C8E5-C902",
+          "japanese_fragment": "矢入する",
+          "note": "原文“矢入”按上下文应为“突入”，译为“突入所罗门内部”。"
+        },
+        {
+          "id": "09-C93C-C971",
+          "japanese_fragment": "南律５度１５分",
+          "note": "“南律”应为“南緯”，译为“南纬5度15分”。"
+        },
+        {
+          "id": "09-DC62-DCA3",
+          "japanese_fragment": "アレックスとネモを２体",
+          "note": "按“阿雷克斯与尼莫共两台”理解，与后文两名驾驶员相对应。"
+        },
+        {
+          "id": "09-E261-E29D",
+          "japanese_fragment": "半抵休息",
+          "note": "“半抵”按航海用语疑为“半舷”，译为“半数人员轮休”。"
+        },
+        {
+          "id": "09-E2DC-E2F7",
+          "japanese_fragment": "みぎ抵だから",
+          "note": "“みぎ抵”按上下文疑为“右舷”，译为“值右舷班”。"
+        },
+        {
+          "id": "09-E5EB-E607",
+          "japanese_fragment": "矢然レ－ダ－",
+          "note": "“矢然”应为“突然”，译为“雷达突然有反应”。"
+        },
+        {
+          "id": "09-ECCD-ED14",
+          "japanese_fragment": "息の圧を止めてやる",
+          "note": "“息の圧”按惯用表达应为“息の根”，译为“要了你的命”。"
+        },
+        {
+          "id": "09-F1D3-F224",
+          "japanese_fragment": "窓威",
+          "note": "“窓威”应为“脅威”，译为“威胁”。"
+        }
+      ]
+    }
+  },
+  {
+    "batch": "zcode-bulk-05",
+    "data": {
+      "batch_id": "bulk-05",
+      "notes": [
+        {
+          "id": "09-F9BA-FA01",
+          "source": "ボロットさ～まのおとおりだ～いっと",
+          "treatment": "正如波洛特大人所言",
+          "reason": "波士的口语转述，按上下文译意。"
+        },
+        {
+          "id": "09-FCCD-FD14",
+          "source": "協力をあおごう",
+          "treatment": "想请他们协助",
+          "reason": "「あおごう」疑为「仰ごう」之误，按上下文译意。"
+        },
+        {
+          "id": "0A-836D-8387",
+          "source": "化右獣",
+          "treatment": "化右兽",
+          "reason": "原文反复使用「化右獣」，按字面保留为「化右兽」，未擅自改作其他名称。"
+        },
+        {
+          "id": "0A-8B3A-8B67",
+          "source": "ちまつり",
+          "treatment": "血祭",
+          "reason": "疑为「血祭り」的口语或误写，按上下文译意。"
+        },
+        {
+          "id": "0A-9612-9643",
+          "source": "英姫",
+          "treatment": "英雄",
+          "reason": "疑为「英雄」之误；结合“前大战的英雄”这一上下文译意。"
+        },
+        {
+          "id": "0A-99C4-99D8",
+          "source": "左抵",
+          "treatment": "左舷",
+          "reason": "疑为「左舷」之误，按舰船方位译意。"
+        },
+        {
+          "id": "0A-9AE1-9B0F",
+          "source": "いい圧性",
+          "treatment": "胆子倒不小",
+          "reason": "疑为「いい根性」之误，按上下文译意。"
+        },
+        {
+          "id": "0A-9CAB-9CC6",
+          "source": "みねるばなんたら",
+          "treatment": "密涅瓦什么的",
+          "reason": "十三对「ミネルバＸ」的戏谑误称，保留其不准确的说法。"
+        },
+        {
+          "id": "0A-A420-A463",
+          "source": "マイクかせ",
+          "treatment": "把麦克风给我",
+          "reason": "按「マイク貸せ」理解；后文提到麦克风已被关掉，语义相合。"
+        },
+        {
+          "id": "0A-AAAF-AADC",
+          "source": "矢入",
+          "treatment": "突入",
+          "reason": "疑为「突入」之误，按上下文译意。"
+        },
+        {
+          "id": "0A-ABA4-ABCB",
+          "source": "なきっつらにハチ",
+          "treatment": "雪上加霜",
+          "reason": "「泣き面に蜂」的俗语，用中文对应成语译出。"
+        },
+        {
+          "id": "0A-AD90-ADDE",
+          "source": "総師代行",
+          "treatment": "总帅代理",
+          "reason": "疑为「総帥代行」之误，按基连的职位译意。"
+        },
+        {
+          "id": "0A-ADDF-AE18",
+          "source": "降謀",
+          "treatment": "阴谋",
+          "reason": "疑为「陰謀」之误，按上下文译意。"
+        },
+        {
+          "id": "0A-AE4F-AE87",
+          "source": "矢入",
+          "treatment": "突入",
+          "reason": "疑为「突入」之误，按上下文译意。"
+        }
+      ]
+    }
+  },
+  {
+    "batch": "zcode-bulk-06",
+    "data": {
+      "batch_id": "bulk-06",
+      "notes": [
+        {
+          "id": "0A-B06D-B0A7",
+          "source_fragment": "頬害",
+          "interpreted_as": "被害",
+          "reason": "按上下文“我方的损失”译出。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-B0A8-B0D0",
+          "source_fragment": "矢入",
+          "interpreted_as": "突入",
+          "reason": "“全員、突入準備”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-B82B-B868",
+          "source_fragment": "劇道",
+          "interpreted_as": "軌道",
+          "reason": "“改变殖民卫星轨道”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-B894-B8DC",
+          "source_fragment": "哀士山",
+          "interpreted_as": "富士山",
+          "reason": "“高度相当于富士山的8倍”。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-BE75-BEB9",
+          "source_fragment": "矢然",
+          "interpreted_as": "突然",
+          "reason": "“突然出现异星人”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-C3F6-C41E",
+          "source_fragment": "類酔",
+          "interpreted_as": "泥酔",
+          "reason": "结合舱门被打开、有人擅自使用的语境，推测为“泥酔”，译为“喝醉”。",
+          "confidence": "medium"
+        },
+        {
+          "id": "0A-C4CD-C4F1",
+          "source_fragment": "センタク",
+          "interpreted_as": "戦闘",
+          "reason": "与“楽しかった”搭配，结合卡拉好战的语气，推测为“戦闘”的OCR误认，译为“战斗”。",
+          "confidence": "medium"
+        },
+        {
+          "id": "0A-C6E2-C733",
+          "source_fragment": "作戦要網",
+          "interpreted_as": "作戦要綱",
+          "reason": "“作战纲要”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-CD57-CD94",
+          "source_fragment": "映前",
+          "interpreted_as": "腕前",
+          "reason": "“让我见识你的本领”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-CF9A-CFC3",
+          "source_fragment": "頬害",
+          "interpreted_as": "被害",
+          "reason": "“我方的损失也不小”。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-D020-D033",
+          "source_fragment": "矢入",
+          "interpreted_as": "突入",
+          "reason": "“全机突入”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-D15A-D1AA",
+          "source_fragment": "ほおむりさって",
+          "interpreted_as": "葬り去って",
+          "reason": "“彻底抹杀/清除”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-D3FE-D437",
+          "source_fragment": "つらよごし",
+          "interpreted_as": "面汚し",
+          "reason": "“DC的耻辱”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-D496-D4C6",
+          "source_fragment": "かりず",
+          "interpreted_as": "借りず",
+          "reason": "“不借你们的力量”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-D6E9-D72B",
+          "source_fragment": "人障",
+          "interpreted_as": "人類",
+          "reason": "“扫荡地球上的人类”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-D7A3-D7E9",
+          "source_fragment": "人障",
+          "interpreted_as": "人類",
+          "reason": "“不让人类继续向宇宙扩张”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-D984-D9D1",
+          "source_fragment": "盗麗",
+          "interpreted_as": "盗聴",
+          "reason": "结合“通信では話せん”，判断为“盗聴”（被窃听）的误字，译为“被窃听”。",
+          "confidence": "medium"
+        },
+        {
+          "id": "0A-DA5E-DAA2",
+          "source_fragment": "大気罠矢入",
+          "interpreted_as": "大気圏突入",
+          "reason": "“进入大气层”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-DDD7-DE2D",
+          "source_fragment": "要網",
+          "interpreted_as": "要綱",
+          "reason": "“作战纲要”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-DEBE-DEE0",
+          "source_fragment": "矢っぱしろう",
+          "interpreted_as": "突っ走ろう",
+          "reason": "“一口气冲过去”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-E124-E172",
+          "source_fragment": "包囲綱 / 矢破",
+          "interpreted_as": "包囲網 / 突破",
+          "reason": "“包围网”“突破”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-E511-E543",
+          "source_fragment": "勢力罠内",
+          "interpreted_as": "勢力圏内",
+          "reason": "“在联邦势力范围内”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-E829-E841",
+          "source_fragment": "クエス",
+          "interpreted_as": "クェス",
+          "reason": "同一人物クェス・パラヤ的错拼，统一译为“柯丝”。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-E8B6-E8D9",
+          "source_fragment": "入浄",
+          "interpreted_as": "入港",
+          "reason": "“进入贝尔法斯特港”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-BA70-BA98",
+          "source_fragment": "いっしむくいる",
+          "interpreted_as": "一矢報いる",
+          "reason": "“回敬一下”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-BDF6-BE21",
+          "source_fragment": "キナくさく",
+          "interpreted_as": "きな臭く",
+          "reason": "“局势紧张起来”之意。",
+          "confidence": "high"
+        },
+        {
+          "id": "0A-C8AD-C8D3",
+          "source_fragment": "なくこと",
+          "interpreted_as": "泣くこと",
+          "reason": "结合后文“わたしとて、人間だよ”（我毕竟也是人类）及前后关于情感的对话，读作“泣くこと”（哭），译为“有哭的时候”。",
+          "confidence": "high"
+        }
+      ],
+      "name_notes": [
+        {
+          "source": "クワトロ",
+          "translation": "克瓦特罗",
+          "note": "与シャア（夏亚）为同一人物；本批次按说话人标记译作“克瓦特罗”，卡多称呼“シャア大佐”时译作“夏亚大佐”。"
+        },
+        {
+          "source": "デューク",
+          "translation": "迪克",
+          "note": "即宇门大介、古连泰沙的驾驶员，与甲儿台词中的“大介先生”为同一人物。"
+        },
+        {
+          "source": "コウ",
+          "translation": "宏",
+          "note": "即浦木宏，说话人标记简作“宏”。"
+        },
+        {
+          "source": "ファ",
+          "translation": "雨里",
+          "note": "即ファ・ユイリィ，说话人标记简作“雨里”。"
+        },
+        {
+          "source": "リョウ",
+          "translation": "龙马",
+          "note": "即流龙马；本批次没有リュウ（龙·霍塞）出场。"
+        }
+      ]
+    }
+  },
+  {
+    "batch": "zcode-bulk-07",
+    "data": {
+      "batch_id": "bulk-07",
+      "notes": [
+        {
+          "id": "0A-E98F-E9BB",
+          "type": "typo",
+          "source_text": "半抵休息",
+          "interpreted_as": "半日休息",
+          "translation_choice": "这是半天的休息吧？",
+          "explanation": "「半抵」应为「半日」之误；结合“上陸許可ももらってる”判断为半天休整，按上下文译出。"
+        },
+        {
+          "id": "0A-EE19-EE39",
+          "type": "typo",
+          "source_text": "強行矢破",
+          "interpreted_as": "強行突破",
+          "translation_choice": "从正面强行突破",
+          "explanation": "「矢破」应为「突破」之误，按军事语境译作“强行突破”。"
+        },
+        {
+          "id": "0A-EF55-EF79",
+          "type": "typo",
+          "source_text": "地球罠",
+          "interpreted_as": "地球圏",
+          "translation_choice": "跑到地球圈来的",
+          "explanation": "「罠」应为「圏」之误；此处指阿克西斯进入地球圈。"
+        },
+        {
+          "id": "0B-8CF1-8D33",
+          "type": "typo",
+          "source_text": "世界証服",
+          "interpreted_as": "世界征服",
+          "translation_choice": "在策划征服世界",
+          "explanation": "「証服」应为「征服」之误。"
+        },
+        {
+          "id": "0B-985E-9878",
+          "type": "typo",
+          "source_text": "ざれあう",
+          "interpreted_as": "じゃれあう",
+          "translation_choice": "别和敌人纠缠",
+          "explanation": "「ざれあう」应为「じゃれあう」之误；在战场语境下译作“纠缠”。"
+        },
+        {
+          "id": "0B-A22C-A247",
+          "type": "typo",
+          "source_text": "矢入",
+          "interpreted_as": "突入",
+          "translation_choice": "即将进入敌人的防线",
+          "explanation": "「矢入」应为「突入」之误。"
+        },
+        {
+          "id": "0B-9225-9272",
+          "type": "glossary_conflict",
+          "source_text": "モビルア－マ－",
+          "glossary_value": "机械恐龙兹",
+          "translation_choice": "机动装甲",
+          "explanation": "术语表把「モビルア－マ－」标成“机械恐龙兹”，与上下文（GP-03与武装基座接合后作为MA运用）不符；“机械恐龙”对应的是メカザウルス。此处按原意译作“机动装甲”，建议父级修正术语表。"
+        },
+        {
+          "id": "0A-F2FF-F322, 0A-F380-F3A9",
+          "type": "naming",
+          "source_text": "エルピ－＝プル",
+          "translation_choice": "普露",
+          "explanation": "全名按术语表可对应短称「プル」，为与同角色后续称呼保持一致，统一使用“普露”。"
+        }
+      ]
+    }
+  },
+  {
+    "batch": "zcode-bulk-09",
+    "data": {
+      "batch_id": "bulk-09",
+      "notes": [
+        {
+          "id": "0B-E118-E131",
+          "issue": "原文“入浄準備”应为“入渠準備”",
+          "resolution": "按“入渠（进坞）”理解，译作“进坞准备”"
+        },
+        {
+          "id": "0B-ECC4-ECCF",
+          "issue": "原文句末多出一个“」”",
+          "resolution": "译文按一对引号规范化，不保留多余引号"
+        },
+        {
+          "id": "0B-ED83-ED9C",
+          "issue": "原文“左抵”应为“左舷”",
+          "resolution": "按“左舷”翻译"
+        },
+        {
+          "id": "0B-F35C-F375",
+          "issue": "原文句末多出一个“」”",
+          "resolution": "译文按一对引号规范化，不保留多余引号"
+        },
+        {
+          "id": "0B-FC10-FC1E / 0B-FC22-FC26 / 0B-FC27-FC2F",
+          "issue": "原文为同一句台词拆分的三个span，后两个span分别以“ぼうや」”“おじょうちゃん」”收尾",
+          "resolution": "保留残句结构：365译作“呵呵，挺可爱的嘛，”，366、367分别译作“小男孩”“小姑娘”并保留收尾引号"
+        },
+        {
+          "id": "0C-E19E-E1D1",
+          "issue": "原文“人障”按上下文应为“人類”",
+          "resolution": "译作“人类”"
+        },
+        {
+          "id": "0C-E27C-E2BF",
+          "issue": "原文“いっしむくいねば”应为“一矢報いねば”",
+          "resolution": "按“一矢之报”翻译"
+        },
+        {
+          "id": "0C-E654-E671",
+          "issue": "原文“矢入するぞ”应为“突入するぞ”",
+          "resolution": "按“突入”翻译"
+        },
+        {
+          "id": "0C-E96D-E985",
+          "issue": "原文“矢入するぞ”应为“突入するぞ”",
+          "resolution": "按“突入”翻译"
+        },
+        {
+          "id": "0C-EB80-EBB1",
+          "issue": "原文“人障”按上下文应为“人類”",
+          "resolution": "译作“人类”"
+        },
+        {
+          "id": "0C-EBB2-EBE1",
+          "issue": "原文“人障”应为“人類”，“窓威”应为“脅威”",
+          "resolution": "分别按“人类”“威胁”翻译"
+        }
+      ]
+    }
+  }
+]

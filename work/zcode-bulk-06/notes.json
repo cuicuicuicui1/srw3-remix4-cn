@@ -1,0 +1,221 @@
+{
+ "batch_id": "bulk-06",
+ "notes": [
+  {
+   "id": "0A-B06D-B0A7",
+   "source_fragment": "頬害",
+   "interpreted_as": "被害",
+   "reason": "按上下文“我方的损失”译出。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-B0A8-B0D0",
+   "source_fragment": "矢入",
+   "interpreted_as": "突入",
+   "reason": "“全員、突入準備”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-B82B-B868",
+   "source_fragment": "劇道",
+   "interpreted_as": "軌道",
+   "reason": "“改变殖民卫星轨道”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-B894-B8DC",
+   "source_fragment": "哀士山",
+   "interpreted_as": "富士山",
+   "reason": "“高度相当于富士山的8倍”。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-BE75-BEB9",
+   "source_fragment": "矢然",
+   "interpreted_as": "突然",
+   "reason": "“突然出现异星人”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-C3F6-C41E",
+   "source_fragment": "類酔",
+   "interpreted_as": "泥酔",
+   "reason": "结合舱门被打开、有人擅自使用的语境，推测为“泥酔”，译为“喝醉”。",
+   "confidence": "medium"
+  },
+  {
+   "id": "0A-C4CD-C4F1",
+   "source_fragment": "センタク",
+   "interpreted_as": "戦闘",
+   "reason": "与“楽しかった”搭配，结合卡拉好战的语气，推测为“戦闘”的OCR误认，译为“战斗”。",
+   "confidence": "medium"
+  },
+  {
+   "id": "0A-C6E2-C733",
+   "source_fragment": "作戦要網",
+   "interpreted_as": "作戦要綱",
+   "reason": "“作战纲要”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-CD57-CD94",
+   "source_fragment": "映前",
+   "interpreted_as": "腕前",
+   "reason": "“让我见识你的本领”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-CF9A-CFC3",
+   "source_fragment": "頬害",
+   "interpreted_as": "被害",
+   "reason": "“我方的损失也不小”。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-D020-D033",
+   "source_fragment": "矢入",
+   "interpreted_as": "突入",
+   "reason": "“全机突入”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-D15A-D1AA",
+   "source_fragment": "ほおむりさって",
+   "interpreted_as": "葬り去って",
+   "reason": "“彻底抹杀/清除”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-D3FE-D437",
+   "source_fragment": "つらよごし",
+   "interpreted_as": "面汚し",
+   "reason": "“DC的耻辱”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-D496-D4C6",
+   "source_fragment": "かりず",
+   "interpreted_as": "借りず",
+   "reason": "“不借你们的力量”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-D6E9-D72B",
+   "source_fragment": "人障",
+   "interpreted_as": "人類",
+   "reason": "“扫荡地球上的人类”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-D7A3-D7E9",
+   "source_fragment": "人障",
+   "interpreted_as": "人類",
+   "reason": "“不让人类继续向宇宙扩张”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-D984-D9D1",
+   "source_fragment": "盗麗",
+   "interpreted_as": "盗聴",
+   "reason": "结合“通信では話せん”，判断为“盗聴”（被窃听）的误字，译为“被窃听”。",
+   "confidence": "medium"
+  },
+  {
+   "id": "0A-DA5E-DAA2",
+   "source_fragment": "大気罠矢入",
+   "interpreted_as": "大気圏突入",
+   "reason": "“进入大气层”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-DDD7-DE2D",
+   "source_fragment": "要網",
+   "interpreted_as": "要綱",
+   "reason": "“作战纲要”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-DEBE-DEE0",
+   "source_fragment": "矢っぱしろう",
+   "interpreted_as": "突っ走ろう",
+   "reason": "“一口气冲过去”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-E124-E172",
+   "source_fragment": "包囲綱 / 矢破",
+   "interpreted_as": "包囲網 / 突破",
+   "reason": "“包围网”“突破”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-E511-E543",
+   "source_fragment": "勢力罠内",
+   "interpreted_as": "勢力圏内",
+   "reason": "“在联邦势力范围内”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-E829-E841",
+   "source_fragment": "クエス",
+   "interpreted_as": "クェス",
+   "reason": "同一人物クェス・パラヤ的错拼，统一译为“柯丝”。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-E8B6-E8D9",
+   "source_fragment": "入浄",
+   "interpreted_as": "入港",
+   "reason": "“进入贝尔法斯特港”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-BA70-BA98",
+   "source_fragment": "いっしむくいる",
+   "interpreted_as": "一矢報いる",
+   "reason": "“回敬一下”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-BDF6-BE21",
+   "source_fragment": "キナくさく",
+   "interpreted_as": "きな臭く",
+   "reason": "“局势紧张起来”之意。",
+   "confidence": "high"
+  },
+  {
+   "id": "0A-C8AD-C8D3",
+   "source_fragment": "なくこと",
+   "interpreted_as": "泣くこと",
+   "reason": "结合后文“わたしとて、人間だよ”（我毕竟也是人类）及前后关于情感的对话，读作“泣くこと”（哭），译为“有哭的时候”。",
+   "confidence": "high"
+  }
+ ],
+ "name_notes": [
+  {
+   "source": "クワトロ",
+   "translation": "克瓦特罗",
+   "note": "与シャア（夏亚）为同一人物；本批次按说话人标记译作“克瓦特罗”，卡多称呼“シャア大佐”时译作“夏亚大佐”。"
+  },
+  {
+   "source": "デューク",
+   "translation": "迪克",
+   "note": "即宇门大介、古连泰沙的驾驶员，与甲儿台词中的“大介先生”为同一人物。"
+  },
+  {
+   "source": "コウ",
+   "translation": "宏",
+   "note": "即浦木宏，说话人标记简作“宏”。"
+  },
+  {
+   "source": "ファ",
+   "translation": "雨里",
+   "note": "即ファ・ユイリィ，说话人标记简作“雨里”。"
+  },
+  {
+   "source": "リョウ",
+   "translation": "龙马",
+   "note": "即流龙马；本批次没有リュウ（龙·霍塞）出场。"
+  }
+ ]
+}

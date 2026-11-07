@@ -1,0 +1,12 @@
+{
+  "returncode": 0,
+  "source_sha256": "bcde4e317f945b23c4ceac6bca89e6725812eb94e53d3cd51cc0e09e0dd608cd",
+  "loaded_rom": "<LOCAL_PROJECT>\\work\\build\\graph-012\\remix4-cn.sfc",
+  "script_sha256": "c24fe419b109ee2f579210f28db5ea00e2bbd32aa77282863b9677c0a25ebe13",
+  "mesen_sha256": "d2eb03c2590c648bf329f127ebcfefd70130e7690a9e2ccdba8616faea1fe96b",
+  "elapsed_seconds": 48.74550175666809,
+  "fixture": "cold identified ROM; natural joypad input only; no PC/WRAM writes",
+  "actual_script_sha256": "54cbf7c23570c3e53eb0a6d0cd371975c19676fcdf7cbe491990ebb4f64a1753",
+  "isolated_rom_basename": "srw3-remix4-final-help-012.sfc",
+  "fresh_sram_before_native_reset": true
+}

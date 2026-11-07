@@ -1,0 +1,16 @@
+{
+  "returncode": 0,
+  "source_sha256": "bcde4e317f945b23c4ceac6bca89e6725812eb94e53d3cd51cc0e09e0dd608cd",
+  "loaded_rom": "<LOCAL_PROJECT>\\work\\build\\graph-012\\remix4-cn.sfc",
+  "script_sha256": "a4fc410bc3a6680c1cd1b3ed05a1b8f3966a1edd9533f58a297c3915bb042902",
+  "mesen_sha256": "d2eb03c2590c648bf329f127ebcfefd70130e7690a9e2ccdba8616faea1fe96b",
+  "elapsed_seconds": 21.757582426071167,
+  "fixture": "cold final ROM with its native ordinary SRAM imported only into SRAM; continue, menu open/cancel via joypad; no WRAM or PC edits",
+  "actual_script_sha256": "d522a04d3e29cf69ee1fdae2ed2f1f076a4fd9efe3c6400570ef79cc1194f269",
+  "isolated_rom_basename": "srw3-remix4-final-continue-012.sfc",
+  "fresh_sram_before_native_reset": false,
+  "REMIX_SRAM": {
+    "path": "<LOCAL_PROJECT>\\work\\runtime\\final-save-012\\ordinary.srm",
+    "sha256": "dbf6db3a57463eeddcedc008ae6ae6c07a256d794a3bb995044796df7d4f46cc"
+  }
+}

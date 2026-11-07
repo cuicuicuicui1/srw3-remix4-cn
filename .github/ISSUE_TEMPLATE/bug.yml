@@ -1,0 +1,27 @@
+name: Bug / 卡关或显示问题
+description: 请提供能定位版本和触发条件的信息；不要附游戏ROM。
+body:
+  - type: input
+    id: rom_sha
+    attributes:
+      label: 补丁版本和实际 ROM SHA256
+    validations:
+      required: true
+  - type: input
+    id: emulator
+    attributes:
+      label: 模拟器及版本
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: 场景、队伍、触发步骤及实际表现
+      description: 能否复现？卡在哪句、哪个事件？可附截图，不要公开ROM。
+    validations:
+      required: true
+  - type: textarea
+    id: comparison
+    attributes:
+      label: 同一日文改版是否也出现？
+      description: 未对照请写未测试。跨版即时存档不能单独证明同条件对照。

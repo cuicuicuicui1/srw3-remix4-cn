@@ -1,0 +1,2 @@
+Adapted from local ZCode audit extractor; upstream SHA256 f05a6bfeb85fc4c19f34c7db1eeb039f1c451c4e9d003203d436453ee9de32c0
+Parent changes: recognize explicit unknown markers; stop at unconditional F9 to form graph nodes. Original audit bank-return claim superseded by parent-control-review.json.

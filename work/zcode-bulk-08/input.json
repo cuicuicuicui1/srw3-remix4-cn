@@ -1,0 +1,4504 @@
+{
+  "source_rom_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "batch_id": "bulk-08",
+  "entries": [
+    {
+      "id": "0B-A4D8-A4E9",
+      "japanese": "プル「ううん、だいじょうぶ・・・」",
+      "alias_ids": [
+        "0B-A4D8-A4E9"
+      ],
+      "hosts": [
+        763024
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A4EC-A507",
+      "japanese": "リィナ「だめよ、無理しちゃ。　ベッドでねてなさい」",
+      "alias_ids": [
+        "0B-A4EC-A507"
+      ],
+      "hosts": [
+        763024
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A50A-A51B",
+      "japanese": "プル「いや！！　あたし、出る！」",
+      "alias_ids": [
+        "0B-A50A-A51B"
+      ],
+      "hosts": [
+        763024
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A51E-A52E",
+      "japanese": "ジュド－「あ、待て、プル！！」",
+      "alias_ids": [
+        "0B-A51E-A52E"
+      ],
+      "hosts": [
+        763024
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A534-A569",
+      "japanese": "ジュド－「なんだ・・・？　呼んでいる？　プル・・・\nいや、ちがうな。　これはプルじゃない・・・誰だ？」",
+      "alias_ids": [
+        "0B-A534-A569"
+      ],
+      "hosts": [
+        763186
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A56C-A57C",
+      "japanese": "カミ－ユ「どうした、ジュド－？」",
+      "alias_ids": [
+        "0B-A56C-A57C"
+      ],
+      "hosts": [
+        763186
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A57F-A59D",
+      "japanese": "ジュド－「なんか気になるんです。　オレもＺＺで出ます！」",
+      "alias_ids": [
+        "0B-A57F-A59D"
+      ],
+      "hosts": [
+        763186
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A5A0-A5B4",
+      "japanese": "アムロ「どうしたんだ、ジュド－のヤツ？」",
+      "alias_ids": [
+        "0B-A5A0-A5B4"
+      ],
+      "hosts": [
+        763186
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A5B7-A5D4",
+      "japanese": "カミ－ユ「何だか呼んでるって言ってましたけど・・・」",
+      "alias_ids": [
+        "0B-A5B7-A5D4"
+      ],
+      "hosts": [
+        763186
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A5D7-A5F7",
+      "japanese": "豹馬「こちら、豹馬！　敵を発見した！　ＤＣだぜ！」",
+      "alias_ids": [
+        "0B-A5D7-A5F7"
+      ],
+      "hosts": [
+        763024,
+        763349,
+        763186
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A613-A630",
+      "japanese": "メキボス「ありゃりゃ、おされてるぜ。　ちょいとヤバイかな」",
+      "alias_ids": [
+        "0B-A613-A630"
+      ],
+      "hosts": [
+        763411
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A631-A653",
+      "japanese": "ヴィガジ「くそっ、こうなったらすべての兵力を\n投入する！！」",
+      "alias_ids": [
+        "0B-A631-A653"
+      ],
+      "hosts": [
+        763441
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A654-A66E",
+      "japanese": "メキボス「おいおい、あんまり熱くなるな、ヴィガジ」",
+      "alias_ids": [
+        "0B-A654-A66E"
+      ],
+      "hosts": [
+        763476
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A66F-A686",
+      "japanese": "ヴィガジ「うるさいっ！　リ－ダ－はオレだぞ！」",
+      "alias_ids": [
+        "0B-A66F-A686"
+      ],
+      "hosts": [
+        763503
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A687-A691",
+      "japanese": "メキボス「へいへい」",
+      "alias_ids": [
+        "0B-A687-A691"
+      ],
+      "hosts": [
+        763527
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A692-A6BB",
+      "japanese": "ヴィガジ「アギ－ハの奴がきちんと補給をとどけていれば\nこんなことには・・・」",
+      "alias_ids": [
+        "0B-A692-A6BB"
+      ],
+      "hosts": [
+        763538
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A6BC-A6D2",
+      "japanese": "フォウ「くっ・・・頭が・・・いたい・・・」",
+      "alias_ids": [
+        "0B-A6BC-A6D2"
+      ],
+      "hosts": [
+        763580
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A6D3-A6EB",
+      "japanese": "デュ－ク「ひかるさん、しっかりつかまっててくれ」",
+      "alias_ids": [
+        "0B-A6D3-A6EB"
+      ],
+      "hosts": [
+        763603
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A6EE-A703",
+      "japanese": "ひかる「だいじょうぶなの、大介さん？」",
+      "alias_ids": [
+        "0B-A6EE-A703"
+      ],
+      "hosts": [
+        763603
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A706-A727",
+      "japanese": "デュ－ク「心配しないでいい。　ぼくが必ず\nまもってみせる！」",
+      "alias_ids": [
+        "0B-A706-A727"
+      ],
+      "hosts": [
+        763603
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A728-A738",
+      "japanese": "アムロ「アムロ、行きます！！」",
+      "alias_ids": [
+        "0B-A728-A738"
+      ],
+      "hosts": [
+        763688
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A73B-A750",
+      "japanese": "チェ－ン「アムロさん、がんばってください」",
+      "alias_ids": [
+        "0B-A73B-A750"
+      ],
+      "hosts": [
+        763688
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A753-A779",
+      "japanese": "ベルト－チカ「ちょっと！！　それはあたしのセリフよ！\nアムロ、がんばって！」",
+      "alias_ids": [
+        "0B-A753-A779"
+      ],
+      "hosts": [
+        763688
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A77A-A79E",
+      "japanese": "コンスコン「全滅・・・だと！？　このわしが・・・\nそんなバカな！？」",
+      "alias_ids": [
+        "0B-A77A-A79E"
+      ],
+      "hosts": [
+        763770
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A79F-A7EE",
+      "japanese": "シロッコ「オデッサでの闘いぶりは見事だったが・・・\n今、宇宙に出られては不都合なこともあるのでな。\nしばらく時間を稼がせてもらう！」",
+      "alias_ids": [
+        "0B-A79F-A7EE"
+      ],
+      "hosts": [
+        763807
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A7EF-A7F7",
+      "japanese": "レコア「・・・」",
+      "alias_ids": [
+        "0B-A7EF-A7F7"
+      ],
+      "hosts": [
+        763887
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A7F8-A817",
+      "japanese": "シロッコ「レコア＝ロンド、今回の出撃はみあわせるか？」",
+      "alias_ids": [
+        "0B-A7F8-A817"
+      ],
+      "hosts": [
+        763896
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A818-A827",
+      "japanese": "レコア「いえ！　いきます！！」",
+      "alias_ids": [
+        "0B-A818-A827"
+      ],
+      "hosts": [
+        763928
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A828-A83F",
+      "japanese": "カミ－ユ「え！？　この気配・・・まさか？」",
+      "alias_ids": [
+        "0B-A828-A83F"
+      ],
+      "hosts": [
+        763944
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A840-A866",
+      "japanese": "あしゅら「なに！？　シロッコだと！？　ぬけぬけと生きて\nおったとはな！！」",
+      "alias_ids": [
+        "0B-A840-A866"
+      ],
+      "hosts": [
+        763968
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A867-A8BE",
+      "japanese": "シロッコ「フ・・・いずれは貴様等ＤＣとも決着を\nつける日がこようが、今はロンド＝ベルをあしどめするほうが\n先決だ。　そのくらいは理解してほしいものだな」",
+      "alias_ids": [
+        "0B-A867-A8BE"
+      ],
+      "hosts": [
+        764007
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A8BF-A8EA",
+      "japanese": "あしゅら「ほざくな！！・・・まあいいわ、しばらくは\n貴様のくび、あずけておこう！」",
+      "alias_ids": [
+        "0B-A8BF-A8EA"
+      ],
+      "hosts": [
+        764095
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A8EB-A8FF",
+      "japanese": "カミ－ユ「えっ！？　ま・・・まさか！？」",
+      "alias_ids": [
+        "0B-A8EB-A8FF"
+      ],
+      "hosts": [
+        764139
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A900-A915",
+      "japanese": "レコア「・・・強くなったわね、カミ－ユ」",
+      "alias_ids": [
+        "0B-A900-A915"
+      ],
+      "hosts": [
+        764160
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A916-A93F",
+      "japanese": "カミ－ユ「レ・・・レコアさん！？　生きていたんですね！\nで、でもどうして・・・」",
+      "alias_ids": [
+        "0B-A916-A93F"
+      ],
+      "hosts": [
+        764182
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A940-A95B",
+      "japanese": "レコア「カミ－ユ・・・わたしはあなたの敵になったの」",
+      "alias_ids": [
+        "0B-A940-A95B"
+      ],
+      "hosts": [
+        764224
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A95C-A996",
+      "japanese": "カミ－ユ「う・・・ウソですよね、レコアさん！？\nそうか、これも任務なんでしょ？　シロッコをさぐる\nために・・・」",
+      "alias_ids": [
+        "0B-A95C-A996"
+      ],
+      "hosts": [
+        764252
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A997-A9CC",
+      "japanese": "レコア「カミ－ユ・・・あなた、やさしいのね・・・\nでも、これは事実よ。　わたしはシロッコについた！！」",
+      "alias_ids": [
+        "0B-A997-A9CC"
+      ],
+      "hosts": [
+        764311
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A9CD-A9E0",
+      "japanese": "カミ－ユ「そんな！？　レコアさん！！」",
+      "alias_ids": [
+        "0B-A9CD-A9E0"
+      ],
+      "hosts": [
+        764365
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A9E1-A9F4",
+      "japanese": "レコア「あなた、ファ＝ユイリィね！？」",
+      "alias_ids": [
+        "0B-A9E1-A9F4"
+      ],
+      "hosts": [
+        764385
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-A9F5-AA09",
+      "japanese": "ファ「え、この声・・・レコアさん！？」",
+      "alias_ids": [
+        "0B-A9F5-AA09"
+      ],
+      "hosts": [
+        764405
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AA0A-AA25",
+      "japanese": "レコア「ファ、あなたとは戦いたくなかったけど・・・」",
+      "alias_ids": [
+        "0B-AA0A-AA25"
+      ],
+      "hosts": [
+        764426
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AA26-AA44",
+      "japanese": "ファ「え！？　そ、そんな・・・どうして！？\nレコアさん！！」",
+      "alias_ids": [
+        "0B-AA26-AA44"
+      ],
+      "hosts": [
+        764454
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AA45-AA59",
+      "japanese": "クワトロ「なに！？　レコア＝ロンド！？」",
+      "alias_ids": [
+        "0B-AA45-AA59"
+      ],
+      "hosts": [
+        764485
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AA5A-AA81",
+      "japanese": "レコア「クワトロ大尉・・・いえ、シャア＝アズナブル！\nあなたはいつも！！」",
+      "alias_ids": [
+        "0B-AA5A-AA81"
+      ],
+      "hosts": [
+        764506
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AA82-AA8D",
+      "japanese": "クワトロ「ちいっ！！」",
+      "alias_ids": [
+        "0B-AA82-AA8D"
+      ],
+      "hosts": [
+        764546
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AA8E-AAA4",
+      "japanese": "アムロ「なに！？　レコア少尉なのか！？」",
+      "alias_ids": [
+        "0B-AA8E-AAA4"
+      ],
+      "hosts": [
+        764558
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AAA5-AAB4",
+      "japanese": "レコア「アムロ大尉・・・」",
+      "alias_ids": [
+        "0B-AAA5-AAB4"
+      ],
+      "hosts": [
+        764581
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AAB5-AAC6",
+      "japanese": "アムロ「よせ、レコア少尉！！」",
+      "alias_ids": [
+        "0B-AAB5-AAC6"
+      ],
+      "hosts": [
+        764597
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AAC7-AAEA",
+      "japanese": "レコア「いえ・・・これはわたしが選んだ道！\nやめるわけにはっ！！」",
+      "alias_ids": [
+        "0B-AAC7-AAEA"
+      ],
+      "hosts": [
+        764615
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AAEB-AB1C",
+      "japanese": "ジュド－「え！？　レコアさん！？　う・・・\nウソだろ！？　何でレコアさんがシロッコなんかと！？」",
+      "alias_ids": [
+        "0B-AAEB-AB1C"
+      ],
+      "hosts": [
+        764651
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AB1D-AB40",
+      "japanese": "レコア「ジュド－・・・あなたは子供だから、\nわからないでしょうね」",
+      "alias_ids": [
+        "0B-AB1D-AB40"
+      ],
+      "hosts": [
+        764701
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AB41-AB5A",
+      "japanese": "ジュド－「そんな・・・大人の理屈でっ！！」",
+      "alias_ids": [
+        "0B-AB41-AB5A"
+      ],
+      "hosts": [
+        764737
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AB5B-AB70",
+      "japanese": "カミ－ユ「レコアさん・・・どうして・・・」",
+      "alias_ids": [
+        "0B-AB5B-AB70"
+      ],
+      "hosts": [
+        764763
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AB71-AB81",
+      "japanese": "クワトロ「レコア＝ロンド・・・」",
+      "alias_ids": [
+        "0B-AB71-AB81"
+      ],
+      "hosts": [
+        764785
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AB82-ABA6",
+      "japanese": "鉄甲鬼「ゲッタ－ロボが来たか！　あいつはオレに\nやらせてくれ！」",
+      "alias_ids": [
+        "0B-AB82-ABA6"
+      ],
+      "hosts": [
+        764802
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-ABA7-ABB9",
+      "japanese": "暗黒大将軍「好きにしろ」",
+      "alias_ids": [
+        "0B-ABA7-ABB9"
+      ],
+      "hosts": [
+        764839
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-ABBA-ABD8",
+      "japanese": "鉄甲鬼「ゲッタ－ロボ！！　このオレと勝負しろ！！」",
+      "alias_ids": [
+        "0B-ABBA-ABD8"
+      ],
+      "hosts": [
+        764858
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-ABD9-ABF7",
+      "japanese": "鉄甲鬼「ゲッタ－ロボはどうした！？　おじけづいたか！」",
+      "alias_ids": [
+        "0B-ABD9-ABF7"
+      ],
+      "hosts": [
+        764889
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-ABF8-AC29",
+      "japanese": "万丈「アバオアク－はＤＣの最終防衛ラインだ。\nかなりの戦力がまちうけてるだろうな」",
+      "alias_ids": [
+        "0B-ABF8-AC29"
+      ],
+      "hosts": [
+        764920
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AC2C-AC47",
+      "japanese": "ジュド－「ＤＣさえ倒せば、あとは異星人だけか」",
+      "alias_ids": [
+        "0B-AC2C-AC47"
+      ],
+      "hosts": [
+        764920
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AC4F-AC5F",
+      "japanese": "プル「がんばろ－ね、ジュド－！」",
+      "alias_ids": [
+        "0B-AC4F-AC5F"
+      ],
+      "hosts": [
+        765004
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AE60-AEA7",
+      "japanese": "ガルマ「やはりここに来たか、ロンド＝ベル。\nわざわざ包囲綱の中に入ってくるとは感心なことだ。\nシャア、君のいったとおりだな」",
+      "alias_ids": [
+        "0B-AE60-AEA7"
+      ],
+      "hosts": [
+        765536
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AEA8-AEEC",
+      "japanese": "ガルマ「これでわたしも姉上に対して顔向けができると\nいうものだ。　わたしにてがらをたてさせて\nくれようという心づかいかい？」",
+      "alias_ids": [
+        "0B-AEA8-AEEC"
+      ],
+      "hosts": [
+        765536
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AEED-AEFD",
+      "japanese": "シャア「フフフ・・・ははははは」",
+      "alias_ids": [
+        "0B-AEED-AEFD"
+      ],
+      "hosts": [
+        765677
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AEFE-AF16",
+      "japanese": "ガルマ「・・・わらうなよ・・・兵が見ている」",
+      "alias_ids": [
+        "0B-AEFE-AF16"
+      ],
+      "hosts": [
+        765694
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AF17-AF37",
+      "japanese": "カイ「どうやら、ＤＣのやつらだぜ。　あいつらも\nヒマなこったな」",
+      "alias_ids": [
+        "0B-AF17-AF37"
+      ],
+      "hosts": [
+        765719
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AF38-AF67",
+      "japanese": "ハヤト「のんきなこといってる場合じゃないですよ、\nカイさん！　完全に囲まれてます！」",
+      "alias_ids": [
+        "0B-AF38-AF67"
+      ],
+      "hosts": [
+        765752
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AF68-AF7A",
+      "japanese": "アムロ「！？・・・シャアがいる！？」",
+      "alias_ids": [
+        "0B-AF68-AF7A"
+      ],
+      "hosts": [
+        765800
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AF7B-AF90",
+      "japanese": "ガルマ「シャア、てはずどおりたのんだぞ！」",
+      "alias_ids": [
+        "0B-AF7B-AF90"
+      ],
+      "hosts": [
+        765819
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AF91-AFAD",
+      "japanese": "シャア「わかっている。　勝利の栄光を、君に！」",
+      "alias_ids": [
+        "0B-AF91-AFAD"
+      ],
+      "hosts": [
+        765841
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AFAE-AFD0",
+      "japanese": "リュウ「何だ、あのケンプファ－！？　こっちへ\nつっこんでくるぞ！」",
+      "alias_ids": [
+        "0B-AFAE-AFD0"
+      ],
+      "hosts": [
+        765870
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AFD1-AFDE",
+      "japanese": "甲児「なんだぁっ！？」",
+      "alias_ids": [
+        "0B-AFD1-AFDE"
+      ],
+      "hosts": [
+        765905
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AFDF-AFF6",
+      "japanese": "リョウ「いかん！　ホワイトベ－スが危ない！」",
+      "alias_ids": [
+        "0B-AFDF-AFF6"
+      ],
+      "hosts": [
+        765919
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-AFF7-B01F",
+      "japanese": "ガルマ「シャア、いまだ！　やつらはホワイトベ－スを\nまもるのにせいいっぱいだ！」",
+      "alias_ids": [
+        "0B-AFF7-B01F"
+      ],
+      "hosts": [
+        765943
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B020-B029",
+      "japanese": "シャア「・・・・」",
+      "alias_ids": [
+        "0B-B020-B029"
+      ],
+      "hosts": [
+        765984
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B02A-B047",
+      "japanese": "ガルマ「シャア、何をやっている！？　今がチャンスだ！」",
+      "alias_ids": [
+        "0B-B02A-B047"
+      ],
+      "hosts": [
+        765994
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B048-B058",
+      "japanese": "ガルマ「シャア！　どうした！？」",
+      "alias_ids": [
+        "0B-B048-B058"
+      ],
+      "hosts": [
+        766024
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B059-B06D",
+      "japanese": "シャア「・・・フフフ・・・ははははは！」",
+      "alias_ids": [
+        "0B-B059-B06D"
+      ],
+      "hosts": [
+        766041
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B06E-B078",
+      "japanese": "ガルマ「シャア！？」",
+      "alias_ids": [
+        "0B-B06E-B078"
+      ],
+      "hosts": [
+        766062
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B079-B09E",
+      "japanese": "シャア「ガルマ、聞こえていたら君の生まれの不幸を\nのろうがいい」",
+      "alias_ids": [
+        "0B-B079-B09E"
+      ],
+      "hosts": [
+        766073
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B09F-B0B1",
+      "japanese": "ガルマ「なに！？　不幸だと！？」",
+      "alias_ids": [
+        "0B-B09F-B0B1"
+      ],
+      "hosts": [
+        766111
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B0B2-B0C2",
+      "japanese": "シャア「そう、不幸だ・・・」",
+      "alias_ids": [
+        "0B-B0B2-B0C2"
+      ],
+      "hosts": [
+        766130
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B0C3-B0DD",
+      "japanese": "ガルマ「シャ・・・シャア！！　お・・・お前は！？」",
+      "alias_ids": [
+        "0B-B0C3-B0DD"
+      ],
+      "hosts": [
+        766147
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B0DE-B101",
+      "japanese": "シャア「君はいい友人だったが、君の父上が\nいけないのだよ」",
+      "alias_ids": [
+        "0B-B0DE-B101"
+      ],
+      "hosts": [
+        766174
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B102-B118",
+      "japanese": "ガルマ「シャア！？　はかったな、シャア！！」",
+      "alias_ids": [
+        "0B-B102-B118"
+      ],
+      "hosts": [
+        766210
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B119-B130",
+      "japanese": "カミ－ユ「それ以上好きにはさせない！！」",
+      "alias_ids": [
+        "0B-B119-B130"
+      ],
+      "hosts": [
+        766233
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B131-B13C",
+      "japanese": "アムロ「カミ－ユ！？」",
+      "alias_ids": [
+        "0B-B131-B13C"
+      ],
+      "hosts": [
+        766257
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B13D-B15F",
+      "japanese": "カミ－ユ「ようやく追いつきましたよ。　ぼくも\n手伝います！！」",
+      "alias_ids": [
+        "0B-B13D-B15F"
+      ],
+      "hosts": [
+        766269
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B160-B182",
+      "japanese": "リョウ「カミ－ユ、君はヘンケン艦長の部隊に\nいたんじゃ？」",
+      "alias_ids": [
+        "0B-B160-B182"
+      ],
+      "hosts": [
+        766304
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B183-B1B9",
+      "japanese": "カミ－ユ「ええ、そのヘンケン艦長の命令なんです。\n戦力は集中したほうがいいっていってました」",
+      "alias_ids": [
+        "0B-B183-B1B9"
+      ],
+      "hosts": [
+        766339
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B1BA-B1E5",
+      "japanese": "ブライト「なるほどな・・・了解した！\nカミ－ユはみんなの援護にまわってくれ！」",
+      "alias_ids": [
+        "0B-B1BA-B1E5"
+      ],
+      "hosts": [
+        766394
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B1E6-B224",
+      "japanese": "ブライト「よし、予定時間までにかたづいたようだな。\n大気罠矢入準備に入る。　全機帰環せよ！」",
+      "alias_ids": [
+        "0B-B1E6-B224"
+      ],
+      "hosts": [
+        766438
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B225-B259",
+      "japanese": "ブライト「いかん、このままでは予定時間を\nオ－バ－してしまう！　急いで敵をかたづけるんだ！」",
+      "alias_ids": [
+        "0B-B225-B259"
+      ],
+      "hosts": [
+        766501
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B25A-B296",
+      "japanese": "ブライト「予定時間にかなり遅れてしまったようだ。\nこのままのコ－スだと太平洋上に出てしまうな・・・」",
+      "alias_ids": [
+        "0B-B25A-B296"
+      ],
+      "hosts": [
+        766554
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B297-B2B3",
+      "japanese": "ブライト「大気罠矢入カウントダウン開始！」",
+      "alias_ids": [
+        "0B-B297-B2B3"
+      ],
+      "hosts": [
+        766615
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B2B6-B2D3",
+      "japanese": "フラウ「１０秒前・・・５　４　３　２　１　矢入！」",
+      "alias_ids": [
+        "0B-B2B6-B2D3"
+      ],
+      "hosts": [
+        766615
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B2D4-B2FE",
+      "japanese": "ブライト「思ったより時間がかかったな・・・\nフラウ、矢入準備をたのむ」",
+      "alias_ids": [
+        "0B-B2D4-B2FE"
+      ],
+      "hosts": [
+        766676
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B2FF-B314",
+      "japanese": "ブライト「まだ敵に追いつかんのか！？」",
+      "alias_ids": [
+        "0B-B2FF-B314"
+      ],
+      "hosts": [
+        766719
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B317-B337",
+      "japanese": "アストナ－ジ「メインエンジンの出力があがんないん\nですよ！」",
+      "alias_ids": [
+        "0B-B317-B337"
+      ],
+      "hosts": [
+        766719
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B33A-B34C",
+      "japanese": "ベルト－チカ「レ－ダ－に反応！」",
+      "alias_ids": [
+        "0B-B33A-B34C"
+      ],
+      "hosts": [
+        766719
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B34F-B359",
+      "japanese": "リョウ「敵か！？」",
+      "alias_ids": [
+        "0B-B34F-B359"
+      ],
+      "hosts": [
+        766719
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B35C-B386",
+      "japanese": "ベルト－チカ「いえ、識別信号は味方のものです。\nあっ！　敵もいます！」",
+      "alias_ids": [
+        "0B-B35C-B386"
+      ],
+      "hosts": [
+        766719
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B389-B395",
+      "japanese": "アムロ「新手か！？」",
+      "alias_ids": [
+        "0B-B389-B395"
+      ],
+      "hosts": [
+        766719
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B398-B3A6",
+      "japanese": "カミ－ユ「急ぎましょう！」",
+      "alias_ids": [
+        "0B-B398-B3A6"
+      ],
+      "hosts": [
+        766719
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B3A7-B3EA",
+      "japanese": "ル－「あれぇ・・・へんねえ・・・確かこの辺に\nア－ガマがいるって聞いてたんだけど・・・\n道、間違えたかな・・・どうしよう」",
+      "alias_ids": [
+        "0B-B3A7-B3EA"
+      ],
+      "hosts": [
+        766887
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B3EB-B402",
+      "japanese": "ル－「・・・！？　敵！？　見つかった！？」",
+      "alias_ids": [
+        "0B-B3EB-B402"
+      ],
+      "hosts": [
+        766955
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B403-B42B",
+      "japanese": "グレミ－「こんなところでたった一機でうろうろしている\nとは・・・スパイか？」",
+      "alias_ids": [
+        "0B-B403-B42B"
+      ],
+      "hosts": [
+        766979
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B42C-B43E",
+      "japanese": "ル－（ど、どうしよう・・・そうだ！）",
+      "alias_ids": [
+        "0B-B42C-B43E"
+      ],
+      "hosts": [
+        767020
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B43F-B456",
+      "japanese": "ル－「あ、そこのお方、助けてください！！」",
+      "alias_ids": [
+        "0B-B43F-B456"
+      ],
+      "hosts": [
+        767020
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B457-B469",
+      "japanese": "グレミ－「き、君は女の子か？」",
+      "alias_ids": [
+        "0B-B457-B469"
+      ],
+      "hosts": [
+        767063
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B46A-B491",
+      "japanese": "ル－「あたし、ル－＝ルカっていいます！\n道に迷ってこまっていたんです！！」",
+      "alias_ids": [
+        "0B-B46A-B491"
+      ],
+      "hosts": [
+        767082
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B492-B4C7",
+      "japanese": "グレミ－「・・・君はロンド＝ベルの一員か？\n識別信号はロンド＝ベルのもののようだけど・・・」",
+      "alias_ids": [
+        "0B-B492-B4C7"
+      ],
+      "hosts": [
+        767122
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B4C8-B509",
+      "japanese": "ル－「え・・・あの、わたし、サイド２、１５バンチの\nものです。　何だか知らないけど、これ、とどけてくれって\n言われて・・・」",
+      "alias_ids": [
+        "0B-B4C8-B509"
+      ],
+      "hosts": [
+        767176
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B50A-B526",
+      "japanese": "ル－「この辺初めてだし、道に迷っちゃうし・・・」",
+      "alias_ids": [
+        "0B-B50A-B526"
+      ],
+      "hosts": [
+        767176
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B527-B531",
+      "japanese": "グレミ－「えっ！？」",
+      "alias_ids": [
+        "0B-B527-B531"
+      ],
+      "hosts": [
+        767271
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B532-B541",
+      "japanese": "グレミ－（か・・・かわいい！）",
+      "alias_ids": [
+        "0B-B532-B541"
+      ],
+      "hosts": [
+        767282
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B542-B57E",
+      "japanese": "グレミ－「わかりました。　ぼくが責任もって送りとどけて\nあげますよ、ル－さん。　ぼくはグレミ－＝トトと言います」",
+      "alias_ids": [
+        "0B-B542-B57E"
+      ],
+      "hosts": [
+        767282
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B57F-B5AF",
+      "japanese": "ル－（さて、うまくだませたけど・・・これからどうしよう\n・・・しゃあない、なりゆきにまかせるか）",
+      "alias_ids": [
+        "0B-B57F-B5AF"
+      ],
+      "hosts": [
+        767359
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B5B0-B5E6",
+      "japanese": "グレミ－「いかん！　ロンド＝ベルのやつらだ！\nル－さん、ここにいては危険だ！　戦闘にまきこまれる！」",
+      "alias_ids": [
+        "0B-B5B0-B5E6"
+      ],
+      "hosts": [
+        767408
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B5E7-B609",
+      "japanese": "ル－「えっ！？　ロンド＝ベル！？　きゃっほ－っ！\nツイてる－っ！！」",
+      "alias_ids": [
+        "0B-B5E7-B609"
+      ],
+      "hosts": [
+        767463
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B60A-B62B",
+      "japanese": "ル－「グレミ－さん、いろいろとありがとう・・・\nほんとうにっ！！」",
+      "alias_ids": [
+        "0B-B60A-B62B"
+      ],
+      "hosts": [
+        767498
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B62C-B650",
+      "japanese": "グレミ－「わっ！？　な、何をする！？　ル－＝ルカ、\nだましたなっ！！」",
+      "alias_ids": [
+        "0B-B62C-B650"
+      ],
+      "hosts": [
+        767532
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B651-B65A",
+      "japanese": "ル－「ごめんね！」",
+      "alias_ids": [
+        "0B-B651-B65A"
+      ],
+      "hosts": [
+        767569
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B65B-B66F",
+      "japanese": "コウ「あれ、なにやってんだろ、あそこ？」",
+      "alias_ids": [
+        "0B-B65B-B66F"
+      ],
+      "hosts": [
+        767579
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B670-B68E",
+      "japanese": "ニナ「リ・ガズィみたいね・・・敵に追われてるのかしら？」",
+      "alias_ids": [
+        "0B-B670-B68E"
+      ],
+      "hosts": [
+        767600
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B68F-B6C4",
+      "japanese": "ル－「わたし、ヘンケン艦長の部隊からきました！\nル－＝ルカって言います！　助けてください！！」",
+      "alias_ids": [
+        "0B-B68F-B6C4"
+      ],
+      "hosts": [
+        767631
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B6C5-B6F2",
+      "japanese": "グレミ－「な、なんて言い方だ！　それではまるでぼくが\n襲っているみたいじゃないか！」",
+      "alias_ids": [
+        "0B-B6C5-B6F2"
+      ],
+      "hosts": [
+        767685
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B6F3-B70C",
+      "japanese": "甲児「なんかしらねぇけど助けに行こうぜ！」",
+      "alias_ids": [
+        "0B-B6F3-B70C"
+      ],
+      "hosts": [
+        767731
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B70D-B744",
+      "japanese": "バスク「ふん、何かと思えば、ヒヨッコのグレミ－の\n部隊か・・・わざわざ助けに来ることもなかったな」",
+      "alias_ids": [
+        "0B-B70D-B744"
+      ],
+      "hosts": [
+        767757
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B745-B75B",
+      "japanese": "キャラ「いいんですか、そんなこと言って？」",
+      "alias_ids": [
+        "0B-B745-B75B"
+      ],
+      "hosts": [
+        767813
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B75C-B780",
+      "japanese": "バスク「グレミ－の救援は貴様にまかせる！\n勝手にするがいい」",
+      "alias_ids": [
+        "0B-B75C-B780"
+      ],
+      "hosts": [
+        767836
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B781-B78D",
+      "japanese": "キャラ「わかりました！」",
+      "alias_ids": [
+        "0B-B781-B78D"
+      ],
+      "hosts": [
+        767873
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B78E-B7A2",
+      "japanese": "キャラ「さ－て、行くよ、ゴットン！！」",
+      "alias_ids": [
+        "0B-B78E-B7A2"
+      ],
+      "hosts": [
+        767886
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B7A3-B7B1",
+      "japanese": "ゴットン「はい、キャラ様」",
+      "alias_ids": [
+        "0B-B7A3-B7B1"
+      ],
+      "hosts": [
+        767907
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B7B2-B7C8",
+      "japanese": "キャラ「あ－っ、もう、ウデがなるね－っ！！」",
+      "alias_ids": [
+        "0B-B7B2-B7C8"
+      ],
+      "hosts": [
+        767922
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B7C9-B7E3",
+      "japanese": "ゴットン「キャラ様、あまりコウフンされては・・・」",
+      "alias_ids": [
+        "0B-B7C9-B7E3"
+      ],
+      "hosts": [
+        767945
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B7E4-B7F4",
+      "japanese": "キャラ「おだまり、ゴットン！！」",
+      "alias_ids": [
+        "0B-B7E4-B7F4"
+      ],
+      "hosts": [
+        767972
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B7F5-B827",
+      "japanese": "ゴットン（マシュマ－様といい、キャラ様といい、\nつくづく上司にめぐまれないな、オレは・・・）",
+      "alias_ids": [
+        "0B-B7F5-B827"
+      ],
+      "hosts": [
+        767989
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B828-B836",
+      "japanese": "キャラ「なんかいったかい？」",
+      "alias_ids": [
+        "0B-B828-B836"
+      ],
+      "hosts": [
+        768040
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B837-B843",
+      "japanese": "ゴットン「いいええ！！」",
+      "alias_ids": [
+        "0B-B837-B843"
+      ],
+      "hosts": [
+        768055
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B844-B869",
+      "japanese": "キャラ「わたしのようないい女にやられるなんて、\nあんたは幸運だよ！」",
+      "alias_ids": [
+        "0B-B844-B869"
+      ],
+      "hosts": [
+        768068
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B86A-B882",
+      "japanese": "ジュド－「オバサンなんかに殺されてたまるか！」",
+      "alias_ids": [
+        "0B-B86A-B882"
+      ],
+      "hosts": [
+        768106
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B883-B8B1",
+      "japanese": "キャラ「オ、オバサン！？　よくもいったねガキが！\nお前なんかズタズタに切りさいてやる！」",
+      "alias_ids": [
+        "0B-B883-B8B1"
+      ],
+      "hosts": [
+        768131
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B8B2-B8C7",
+      "japanese": "キャラ「しまったっ！！　脱出する！！」",
+      "alias_ids": [
+        "0B-B8B2-B8C7"
+      ],
+      "hosts": [
+        768178
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B8C8-B8DA",
+      "japanese": "ゴットン「キャラ様はどうした！？」",
+      "alias_ids": [
+        "0B-B8C8-B8DA"
+      ],
+      "hosts": [
+        768200
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B8DB-B90A",
+      "japanese": "兵士「それが・・・行方不明で・・・脱出されたのは\n確認したんですが・・・」",
+      "alias_ids": [
+        "0B-B8DB-B90A"
+      ],
+      "hosts": [
+        768219
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B90B-B921",
+      "japanese": "ゴットン「ロンド＝ベルにつかまったか・・・」",
+      "alias_ids": [
+        "0B-B90B-B921"
+      ],
+      "hosts": [
+        768267
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B922-B935",
+      "japanese": "ジュド－「よう、こんなもんひろったぜ」",
+      "alias_ids": [
+        "0B-B922-B935"
+      ],
+      "hosts": [
+        768290
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B938-B973",
+      "japanese": "アムロ「脱出ポッドか！　ＤＣのパイロットが\n乗っているかもしれない。　なにか情報が\n聞き出せれば・・・」",
+      "alias_ids": [
+        "0B-B938-B973"
+      ],
+      "hosts": [
+        768290
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B976-B98A",
+      "japanese": "キャラ「なにすんだよ！　おはなしっ！！」",
+      "alias_ids": [
+        "0B-B976-B98A"
+      ],
+      "hosts": [
+        768290
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B98D-B9A1",
+      "japanese": "ブライト「君の所属と名前は？」",
+      "alias_ids": [
+        "0B-B98D-B9A1"
+      ],
+      "hosts": [
+        768290
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B9A4-B9E0",
+      "japanese": "キャラ「ＤＣ第３宇宙軍所属、キャラ＝ス－ン。\n階級は少佐だよ。　これ以上はしゃべんないからね！」",
+      "alias_ids": [
+        "0B-B9A4-B9E0"
+      ],
+      "hosts": [
+        768290
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B9E8-B9FB",
+      "japanese": "ジュド－「ありゃ、さっきのオバサン！」",
+      "alias_ids": [
+        "0B-B9E8-B9FB"
+      ],
+      "hosts": [
+        768486
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-B9FE-BA11",
+      "japanese": "キャラ「えっ！？　あ、あのガキかい！」",
+      "alias_ids": [
+        "0B-B9FE-BA11"
+      ],
+      "hosts": [
+        768486
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BA14-BA42",
+      "japanese": "ジュド－「ねえ、オバ・・・じゃなかった、\nおねえさん、バスクがなに考えてんのか教えてよ」",
+      "alias_ids": [
+        "0B-BA14-BA42"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BA45-BA6F",
+      "japanese": "キャラ「ハン！　いまさらネコなで声だしたってダメだよ。\nあたしは口がカタイんだ」",
+      "alias_ids": [
+        "0B-BA45-BA6F"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BA72-BA88",
+      "japanese": "ジュド－「ふ－ん、そうなんだ。　でも・・・」",
+      "alias_ids": [
+        "0B-BA72-BA88"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BA8B-BAB0",
+      "japanese": "キャラ「な、なんだい！？　なにする気だい！？\nこ、こら、ちかよるなっ！」",
+      "alias_ids": [
+        "0B-BA8B-BAB0"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BAB3-BAD3",
+      "japanese": "ジュド－「こうすんのさ！！　それっ！！\nこちょこちょこちょ！！」",
+      "alias_ids": [
+        "0B-BAB3-BAD3"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BAD6-BB1C",
+      "japanese": "キャラ「きゃ－っ！！　きゃははははっ！！　や、\nやめろっ！　こ、この・・・きゃははははっ\nあ、あたしゃ感じやすいんだよっ！　きゃははっ！」",
+      "alias_ids": [
+        "0B-BAD6-BB1C"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BB1D-BB4D",
+      "japanese": "キャラ「ひ－っ・・・も、もうだめっ！！　わ、\nわかった、しゃ、しゃべるよ！　しゃべるからっ！！」",
+      "alias_ids": [
+        "0B-BB1D-BB4D"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BB50-BB6A",
+      "japanese": "ジュド－「ほんとだな！　もしウソだったらまた・・・」",
+      "alias_ids": [
+        "0B-BB50-BB6A"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BB6D-BB93",
+      "japanese": "キャラ「わ、わかってるよ！　バスクはね、異星人と\nとりひきしてんのさ」",
+      "alias_ids": [
+        "0B-BB6D-BB93"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BB96-BBA6",
+      "japanese": "ブライト「それは本当か！？」",
+      "alias_ids": [
+        "0B-BB96-BBA6"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BBA9-BBF2",
+      "japanese": "キャラ「そう改まって聞かれると自信ないけどさ・・・\nそういうウワサだよ。　上の方のやってることなんて\nあたしにゃ、かんけ－ないからね」",
+      "alias_ids": [
+        "0B-BBA9-BBF2"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BBF5-BC29",
+      "japanese": "クワトロ「異星人とＤＣのむすびつきか・・・\nほうってはおけんな。　バスクはどこへ向かったんだ？」",
+      "alias_ids": [
+        "0B-BBF5-BC29"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BC2C-BC38",
+      "japanese": "キャラ「知るもんか！」",
+      "alias_ids": [
+        "0B-BC2C-BC38"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BC3B-BC53",
+      "japanese": "ジュド－「あ、そ－ゆ－こというの？　なら・・・」",
+      "alias_ids": [
+        "0B-BC3B-BC53"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BC56-BC96",
+      "japanese": "キャラ「わ－っ！　わかったよっ！！　いうったら！！\n・・・サイド１のシャングリラだよ。　そこでなにが\nあるかまでは知らないよ」",
+      "alias_ids": [
+        "0B-BC56-BC96"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BC99-BCBC",
+      "japanese": "ジュド－「シャングリラだって！？　あそこには\nリィナがいるんだぞ！！」",
+      "alias_ids": [
+        "0B-BC99-BCBC"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BCBF-BCC9",
+      "japanese": "クワトロ「リィナ？」",
+      "alias_ids": [
+        "0B-BCBF-BCC9"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BCCC-BD00",
+      "japanese": "ジュド－「妹だよ！！　くそっ、こんなことしちゃ\nいられねえっ！！　急いでシャングリラへ行こうぜ！」",
+      "alias_ids": [
+        "0B-BCCC-BD00"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BD03-BD1F",
+      "japanese": "ブライト「よし、サイド１、シャングリラへ急行する！」",
+      "alias_ids": [
+        "0B-BD03-BD1F"
+      ],
+      "hosts": [
+        768486,
+        768530
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BD20-BD5C",
+      "japanese": "ガト－「ロンド＝ベルのエ－ス、アムロ＝レイもいるか・・・\n相手にとって不足はない！　お手合わせ願おう！！」",
+      "alias_ids": [
+        "0B-BD20-BD5C"
+      ],
+      "hosts": [
+        769312
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BD5D-BD7B",
+      "japanese": "リョウ「みんながもどるまで、うかつにア－ガマを離れるな！」",
+      "alias_ids": [
+        "0B-BD5D-BD7B"
+      ],
+      "hosts": [
+        769373
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BD7E-BD99",
+      "japanese": "ムサシ「水中のやつらは、おいらが引き受けた！」",
+      "alias_ids": [
+        "0B-BD7E-BD99"
+      ],
+      "hosts": [
+        769373
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BD9A-BDCC",
+      "japanese": "シ－マ「おや・・・あんた、シャアじゃないかい？　なるほど\nそういう事だったとは・・・楽しいねェ」",
+      "alias_ids": [
+        "0B-BD9A-BDCC"
+      ],
+      "hosts": [
+        769434
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BDCD-BDF6",
+      "japanese": "クワトロ「ガルマ・・・わたしの手向けだ。　姉上と\n仲良くくらすがいい」",
+      "alias_ids": [
+        "0B-BDCD-BDF6"
+      ],
+      "hosts": [
+        769485
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BDF7-BE03",
+      "japanese": "キシリア「シャアか！？」",
+      "alias_ids": [
+        "0B-BDF7-BE03"
+      ],
+      "hosts": [
+        769527
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BE04-BE55",
+      "japanese": "キャラ「ぶつぶつ・・・何だってあたしがこんな事\nしなきゃなんないんだよ・・・いくら人手がたりない\nからって・・・南極条約違反でうったえてやる」",
+      "alias_ids": [
+        "0B-BE04-BE55"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BE58-BE9A",
+      "japanese": "ファ「ほら、手を休めないの！　それに南極条約って\n戦時条約でしょ。　今のあなたたちには\n適用されないわよ」",
+      "alias_ids": [
+        "0B-BE58-BE9A"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BE9D-BED6",
+      "japanese": "キャラ「うるさいねっ！　大体なんであたしがセンタクなんて\nしなきゃなんないんだよ！　捕虜ギャクタイだよ！」",
+      "alias_ids": [
+        "0B-BE9D-BED6"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BED9-BF09",
+      "japanese": "ジュド－「ここじゃ人手がたんないんだよ！　たとえ\n捕虜でも使えるものは使えってね！」",
+      "alias_ids": [
+        "0B-BED9-BF09"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BF0C-BF3F",
+      "japanese": "キャラ「ねぇ、ジュド－！　お願いだよ、なんとかしとくれよ。\nあんたとは他人じゃないんだしさぁ　」",
+      "alias_ids": [
+        "0B-BF0C-BF3F"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BF42-BF6E",
+      "japanese": "ジュド－「わっばか！　なにすんだよっ！　そ、そんな\n言い方、誤解をまねくだろ！」",
+      "alias_ids": [
+        "0B-BF42-BF6E"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BF71-BFA3",
+      "japanese": "キャラ「なに言ってんのさ。　あたしの体、さわったろ？\n何だったら、もっといい事してやるよ　」",
+      "alias_ids": [
+        "0B-BF71-BFA3"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BFA6-BFCA",
+      "japanese": "ジュド－「バ、バカやろ！　よせって！　ムネをおしつけるな\n・・・うっぷ」",
+      "alias_ids": [
+        "0B-BFA6-BFCA"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BFCD-BFE3",
+      "japanese": "キャラ「あはっ、テレてんだ。　かわいいねぇ」",
+      "alias_ids": [
+        "0B-BFCD-BFE3"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BFE6-BFFA",
+      "japanese": "ファ「ちょっと！！　よしなさいよっ！！」",
+      "alias_ids": [
+        "0B-BFE6-BFFA"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-BFFD-C037",
+      "japanese": "キャラ「はは－ん、くやしかったらあんたもやってみなよ。\nもっとも、そのヒンジャクなムネじゃ到底ムリだろうけどね」",
+      "alias_ids": [
+        "0B-BFFD-C037"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C03A-C05A",
+      "japanese": "リョウ「なにをドタバタやってるんだ！　もうじき\nサイド１だぞ！」",
+      "alias_ids": [
+        "0B-C03A-C05A"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C05D-C06C",
+      "japanese": "ジュド－「えっ！　もうかよ！」",
+      "alias_ids": [
+        "0B-C05D-C06C"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C06F-C087",
+      "japanese": "リョウ「急いでパイロットデッキに行くんだ！」",
+      "alias_ids": [
+        "0B-C06F-C087"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C08A-C096",
+      "japanese": "ジュド－「了解っ！」",
+      "alias_ids": [
+        "0B-C08A-C096"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C099-C0AA",
+      "japanese": "ベルト－チカ「敵機発見！」",
+      "alias_ids": [
+        "0B-C099-C0AA"
+      ],
+      "hosts": [
+        769540
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C0C1-C0D4",
+      "japanese": "アムロ「ドゴスギア・・・バスクか！？」",
+      "alias_ids": [
+        "0B-C0C1-C0D4"
+      ],
+      "hosts": [
+        770241
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C0D5-C116",
+      "japanese": "バスク「ちっ！　ロンド＝ベルめ、こんなところまで\nきおったか！　ロザミア！　シャリア＝ブル！\nやつらをこれ以上ちかづけるな！」",
+      "alias_ids": [
+        "0B-C0D5-C116"
+      ],
+      "hosts": [
+        770261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C117-C123",
+      "japanese": "ロザミア「わかってる！」",
+      "alias_ids": [
+        "0B-C117-C123"
+      ],
+      "hosts": [
+        770327
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C124-C12D",
+      "japanese": "シャリア「・・・」",
+      "alias_ids": [
+        "0B-C124-C12D"
+      ],
+      "hosts": [
+        770340
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C12E-C161",
+      "japanese": "バスク「いいか、異星人が現われても手を出すな！\nロンド＝ベルをたたくことに専念しろ！」",
+      "alias_ids": [
+        "0B-C12E-C161"
+      ],
+      "hosts": [
+        770350
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C162-C188",
+      "japanese": "ガト－「バスク大佐の救援とは・・・任務とはいえ\n気が進まぬ」",
+      "alias_ids": [
+        "0B-C162-C188"
+      ],
+      "hosts": [
+        770402
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C189-C195",
+      "japanese": "カリウス「まったくです」",
+      "alias_ids": [
+        "0B-C189-C195"
+      ],
+      "hosts": [
+        770441
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C196-C1C2",
+      "japanese": "ガト－「とはいえ、闘いに私情を持ちこむわけにも\nいかぬ。　カリウス、行くぞ！」",
+      "alias_ids": [
+        "0B-C196-C1C2"
+      ],
+      "hosts": [
+        770454
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C1C3-C1E4",
+      "japanese": "バスク「ガト－だと！？　余計なところででしゃばり\nおって！！」",
+      "alias_ids": [
+        "0B-C1C3-C1E4"
+      ],
+      "hosts": [
+        770499
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C1E5-C205",
+      "japanese": "ガト－「異星人か！　ならばまず、異星人をたたく！！」",
+      "alias_ids": [
+        "0B-C1E5-C205"
+      ],
+      "hosts": [
+        770533
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C206-C232",
+      "japanese": "バスク「ちっ・・・ガト－少佐！　異星人などに\nかまわずロンド＝ベルをたたけ！」",
+      "alias_ids": [
+        "0B-C206-C232"
+      ],
+      "hosts": [
+        770566
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C233-C269",
+      "japanese": "ガト－「なんだと！？　解せぬことを・・・我等\nＤＣは異星人と闘ってこそ大義があるのだ！！」",
+      "alias_ids": [
+        "0B-C233-C269"
+      ],
+      "hosts": [
+        770611
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C26A-C28C",
+      "japanese": "バスク「・・・バカが・・・これは命令だぞ！\nガト－少佐！！」",
+      "alias_ids": [
+        "0B-C26A-C28C"
+      ],
+      "hosts": [
+        770666
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C28D-C2BA",
+      "japanese": "ガト－「わたしはギレン閣下直属の部隊だ！\n貴様の命令など受けぬ！！」",
+      "alias_ids": [
+        "0B-C28D-C2BA"
+      ],
+      "hosts": [
+        770701
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C2BB-C2D4",
+      "japanese": "バスク「くっ！！・・・ゲ－ツ、ガト－をおさえろ！」",
+      "alias_ids": [
+        "0B-C2BB-C2D4"
+      ],
+      "hosts": [
+        770747
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C2D5-C307",
+      "japanese": "ゲ－ツ「は。　しかし、相手はガト－です。　そう\n簡単に言うことをきくとも思えませんが？」",
+      "alias_ids": [
+        "0B-C2D5-C307"
+      ],
+      "hosts": [
+        770773
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C308-C334",
+      "japanese": "バスク「・・・ガト－は事類で倒れるのだ。　戦闘中の\n不幸な事類でな」",
+      "alias_ids": [
+        "0B-C308-C334"
+      ],
+      "hosts": [
+        770824
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C335-C343",
+      "japanese": "ゲ－ツ「そういうことですか」",
+      "alias_ids": [
+        "0B-C335-C343"
+      ],
+      "hosts": [
+        770869
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C344-C359",
+      "japanese": "バスク「そういうことだ。　フフフフ・・・」",
+      "alias_ids": [
+        "0B-C344-C359"
+      ],
+      "hosts": [
+        770884
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C35A-C364",
+      "japanese": "ゲ－ツ「ガト－！！」",
+      "alias_ids": [
+        "0B-C35A-C364"
+      ],
+      "hosts": [
+        770906
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C365-C36E",
+      "japanese": "ガト－「なに！？」",
+      "alias_ids": [
+        "0B-C365-C36E"
+      ],
+      "hosts": [
+        770917
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C36F-C389",
+      "japanese": "ガト－「ゲ－ツ＝キャパ、貴様、何のつもりだ！」",
+      "alias_ids": [
+        "0B-C36F-C389"
+      ],
+      "hosts": [
+        770927
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C38A-C3B0",
+      "japanese": "ゲ－ツ「貴様は正直すぎたのさ！　正直者は\n長生きできん！」",
+      "alias_ids": [
+        "0B-C38A-C3B0"
+      ],
+      "hosts": [
+        770954
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C3B1-C3C8",
+      "japanese": "豹馬「なんだありゃ！？　仲間われか？」",
+      "alias_ids": [
+        "0B-C3B1-C3C8"
+      ],
+      "hosts": [
+        770993
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C3C9-C3DD",
+      "japanese": "コウ「ガト－が・・・どういうことだ！？」",
+      "alias_ids": [
+        "0B-C3C9-C3DD"
+      ],
+      "hosts": [
+        771017
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C3DE-C3F3",
+      "japanese": "ニナ「コウ！　ガト－を助けてあげて！！」",
+      "alias_ids": [
+        "0B-C3DE-C3F3"
+      ],
+      "hosts": [
+        771038
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C3F4-C415",
+      "japanese": "コウ「え！？　ニナ！　何いってるんだ！？\nガト－は敵だぞ！！」",
+      "alias_ids": [
+        "0B-C3F4-C415"
+      ],
+      "hosts": [
+        771060
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C416-C45B",
+      "japanese": "ニナ「そうじゃない、そうじゃないのよ！！\n彼は私たちと同じよ！　地球を異星人から守ろうと\nしてるの！！　本当よ！！」",
+      "alias_ids": [
+        "0B-C416-C45B"
+      ],
+      "hosts": [
+        771094
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C45C-C470",
+      "japanese": "コウ「なぜそんなことがわかるんだよ！？」",
+      "alias_ids": [
+        "0B-C45C-C470"
+      ],
+      "hosts": [
+        771164
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C471-C47F",
+      "japanese": "ニナ「そ・・・それは・・・」",
+      "alias_ids": [
+        "0B-C471-C47F"
+      ],
+      "hosts": [
+        771185
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C480-C49F",
+      "japanese": "ガト－「くっ！　ＧＰ－０２が・・・おのれ、\nバスク＝オム！！」",
+      "alias_ids": [
+        "0B-C480-C49F"
+      ],
+      "hosts": [
+        771200
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C4A0-C4B5",
+      "japanese": "ゲ－ツ「ちっ！　ジャマが入ったか・・・」",
+      "alias_ids": [
+        "0B-C4A0-C4B5"
+      ],
+      "hosts": [
+        771232
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C4B6-C4D6",
+      "japanese": "ガト－「・・・礼は言わん。　だが、このかりは\n必ず返す」",
+      "alias_ids": [
+        "0B-C4B6-C4D6"
+      ],
+      "hosts": [
+        771254
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C4D7-C4E7",
+      "japanese": "甲児「またきやがったか！？」",
+      "alias_ids": [
+        "0B-C4D7-C4E7"
+      ],
+      "hosts": [
+        771287
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C4E8-C4F8",
+      "japanese": "レコア「待って！　わたしよ！」",
+      "alias_ids": [
+        "0B-C4E8-C4F8"
+      ],
+      "hosts": [
+        771304
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C4F9-C504",
+      "japanese": "ファ「レコアさん！？」",
+      "alias_ids": [
+        "0B-C4F9-C504"
+      ],
+      "hosts": [
+        771321
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C505-C520",
+      "japanese": "カミ－ユ「無事だったんですか！？　よかった・・・」",
+      "alias_ids": [
+        "0B-C505-C520"
+      ],
+      "hosts": [
+        771333
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C521-C54F",
+      "japanese": "レコア「・・・ルナツ－の調査中に捕まってしまって・・・\n何とか脱出してきたの」",
+      "alias_ids": [
+        "0B-C521-C54F"
+      ],
+      "hosts": [
+        771361
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C550-C579",
+      "japanese": "レコア「ルナツ－にはもう、敵はいなかったわ。\n引き上げたあとだったみたい。」",
+      "alias_ids": [
+        "0B-C550-C579"
+      ],
+      "hosts": [
+        771361
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C57A-C59E",
+      "japanese": "ブライト「すまなかったな、レコア少尉。　しばらく\n休んでいたまえ」",
+      "alias_ids": [
+        "0B-C57A-C59E"
+      ],
+      "hosts": [
+        771450
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C59F-C5A9",
+      "japanese": "レコア「・・・はい」",
+      "alias_ids": [
+        "0B-C59F-C5A9"
+      ],
+      "hosts": [
+        771487
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C5AA-C5C2",
+      "japanese": "クワトロ「バスクめ・・・ここで何をしていた？」",
+      "alias_ids": [
+        "0B-C5AA-C5C2"
+      ],
+      "hosts": [
+        771498
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C5C5-C5E0",
+      "japanese": "万丈「中に入って調べてみる必要があるな」",
+      "alias_ids": [
+        "0B-C5C5-C5E0"
+      ],
+      "hosts": [
+        771498
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C5E3-C5F2",
+      "japanese": "ブライト「よし、中を・・・」",
+      "alias_ids": [
+        "0B-C5E3-C5F2"
+      ],
+      "hosts": [
+        771498
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C5F5-C608",
+      "japanese": "ファ「ジュド－！！　待ちなさいっ！」",
+      "alias_ids": [
+        "0B-C5F5-C608"
+      ],
+      "hosts": [
+        771498
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C61A-C629",
+      "japanese": "ファ「ジュド－が勝手に！」",
+      "alias_ids": [
+        "0B-C61A-C629"
+      ],
+      "hosts": [
+        771498
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C62C-C64F",
+      "japanese": "ブライト「ジュド－！　待つんだ！！　一人で行って\nどうなる！」",
+      "alias_ids": [
+        "0B-C62C-C64F"
+      ],
+      "hosts": [
+        771498
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C652-C66B",
+      "japanese": "ジュド－「リィナが心配なんだ！　すぐ戻る！」",
+      "alias_ids": [
+        "0B-C652-C66B"
+      ],
+      "hosts": [
+        771498
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C66E-C692",
+      "japanese": "ブライト「まったく・・・みんな、急いでシャングリラ内に\n入るぞ！」",
+      "alias_ids": [
+        "0B-C66E-C692"
+      ],
+      "hosts": [
+        771498
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C693-C6B7",
+      "japanese": "ジュド－「別に何もないなあ・・・キャラのヤツ、\nだましやがったか？」",
+      "alias_ids": [
+        "0B-C693-C6B7"
+      ],
+      "hosts": [
+        771731
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C6B8-C704",
+      "japanese": "ジュド－「うわっ！？　こいつら異星人か！？\nキャラの言ってたことも、まんざらウソじゃないってわけだ！\nきやがれ！　オレが相手をしてやるぜ！」",
+      "alias_ids": [
+        "0B-C6B8-C704"
+      ],
+      "hosts": [
+        771768
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C705-C72E",
+      "japanese": "ジュド－「・・・とは言ったものの、こりゃちょっと\n数が多いぜ・・・マズイな」",
+      "alias_ids": [
+        "0B-C705-C72E"
+      ],
+      "hosts": [
+        771845
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C72F-C748",
+      "japanese": "シ－ブック「ＺＺに乗っているのはジュド－か！？」",
+      "alias_ids": [
+        "0B-C72F-C748"
+      ],
+      "hosts": [
+        771887
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C749-C76D",
+      "japanese": "ジュド－「Ｆ－９１！　シ－ブックさんか！　ありがたい\n助かったぜ！！」",
+      "alias_ids": [
+        "0B-C749-C76D"
+      ],
+      "hosts": [
+        771913
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C76E-C785",
+      "japanese": "カミ－ユ「ジュド－！　まったくムチャをして！」",
+      "alias_ids": [
+        "0B-C76E-C785"
+      ],
+      "hosts": [
+        771950
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C786-C793",
+      "japanese": "ジュド－「ハハハ、わりィ」",
+      "alias_ids": [
+        "0B-C786-C793"
+      ],
+      "hosts": [
+        771974
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C794-C7A5",
+      "japanese": "カミ－ユ「ジュド－、無事か！」",
+      "alias_ids": [
+        "0B-C794-C7A5"
+      ],
+      "hosts": [
+        771988
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C7A6-C7B9",
+      "japanese": "ジュド－「すまない、やられちまった！」",
+      "alias_ids": [
+        "0B-C7A6-C7B9"
+      ],
+      "hosts": [
+        772006
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C7BA-C7D5",
+      "japanese": "ブライト「さて、ここでいったい何があったのか・・・」",
+      "alias_ids": [
+        "0B-C7BA-C7D5"
+      ],
+      "hosts": [
+        772026
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C7D8-C808",
+      "japanese": "ビ－チャ「あの異星人どもの事かい？　それならさっき\n変なもんひろったぜ。　ほら、これ」",
+      "alias_ids": [
+        "0B-C7D8-C808"
+      ],
+      "hosts": [
+        772026
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C80B-C817",
+      "japanese": "万丈「これは・・・」",
+      "alias_ids": [
+        "0B-C80B-C817"
+      ],
+      "hosts": [
+        772026
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C81A-C83E",
+      "japanese": "ギャリソン「光ディスクですな。　何やら手がかりに\nなりそうですぞ」",
+      "alias_ids": [
+        "0B-C81A-C83E"
+      ],
+      "hosts": [
+        772026
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C841-C883",
+      "japanese": "ブライト「ふむ、ニナ君、これの解析を頼む。\nしばらく敵の出方を見てみよう。　補給のため、\nサイド６へ向かう！」",
+      "alias_ids": [
+        "0B-C841-C883"
+      ],
+      "hosts": [
+        772026
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C884-C8AA",
+      "japanese": "甲児「おまたせ！！　さあて、オレが来たからには\n百人力だぜ！！」",
+      "alias_ids": [
+        "0B-C884-C8AA"
+      ],
+      "hosts": [
+        772228
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C8AB-C8C1",
+      "japanese": "キ－ス「こいつらいったい何なんだよっ！？」",
+      "alias_ids": [
+        "0B-C8AB-C8C1"
+      ],
+      "hosts": [
+        772267
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C8C2-C8F2",
+      "japanese": "コウ「ぼくに聞くな！　とにかくこれ以上こいつらを\n基地に近づけないようにするんだ！」",
+      "alias_ids": [
+        "0B-C8C2-C8F2"
+      ],
+      "hosts": [
+        772290
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C8F3-C91C",
+      "japanese": "ライラ「見てな、ジェリド！　宇宙での戦い方ってのを\n教えてやるよ！！」",
+      "alias_ids": [
+        "0B-C8F3-C91C"
+      ],
+      "hosts": [
+        772339
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C91D-C943",
+      "japanese": "エマ「あのムサイの積んでるコンテナ・・・いったい\nなんなのかしら・・・？」",
+      "alias_ids": [
+        "0B-C91D-C943"
+      ],
+      "hosts": [
+        772381
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C944-C95C",
+      "japanese": "エマ「ともかく！　作戦のジャマはさせない！」",
+      "alias_ids": [
+        "0B-C944-C95C"
+      ],
+      "hosts": [
+        772420
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C95D-C971",
+      "japanese": "デニム「ジ－ン、ムチャなまねはするな！」",
+      "alias_ids": [
+        "0B-C95D-C971"
+      ],
+      "hosts": [
+        772445
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C972-C97F",
+      "japanese": "ジ－ン「わかってますよ！」",
+      "alias_ids": [
+        "0B-C972-C97F"
+      ],
+      "hosts": [
+        772466
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C980-C997",
+      "japanese": "ジ－ン「へへ・・・こいつはオレがいただくぜ！」",
+      "alias_ids": [
+        "0B-C980-C997"
+      ],
+      "hosts": [
+        772480
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C998-C9C7",
+      "japanese": "マ　クベ「わたしは負けるわけにはいかんのだ！\nシャアをずに乗らせるわけにはいかんのだよ！」",
+      "alias_ids": [
+        "0B-C998-C9C7"
+      ],
+      "hosts": [
+        772504
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C9C8-C9D8",
+      "japanese": "キ－ス「た、助かったあ・・・」",
+      "alias_ids": [
+        "0B-C9C8-C9D8"
+      ],
+      "hosts": [
+        772552
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-C9D9-CA02",
+      "japanese": "リョウ「よせ！　そんなことをしてどうなる！？\n復讐は復讐をよぶだけだぞ！」",
+      "alias_ids": [
+        "0B-C9D9-CA02"
+      ],
+      "hosts": [
+        772569
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CA03-CA16",
+      "japanese": "リュ－ネ「知ったようなことをっ！！」",
+      "alias_ids": [
+        "0B-CA03-CA16"
+      ],
+      "hosts": [
+        772611
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CA17-CA54",
+      "japanese": "マサキ「へえ、ビアンのおっさんのむすめっていうから、\nどんないかつい顔かと思ってたけど、結構かわいい\nじゃないの」",
+      "alias_ids": [
+        "0B-CA17-CA54"
+      ],
+      "hosts": [
+        772631
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CA55-CA68",
+      "japanese": "リュ－ネ「な・・・何をいってる！！」",
+      "alias_ids": [
+        "0B-CA55-CA68"
+      ],
+      "hosts": [
+        772693
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CA69-CA82",
+      "japanese": "マサキ（おや、こいつ、意外と純情なんだな）",
+      "alias_ids": [
+        "0B-CA69-CA82"
+      ],
+      "hosts": [
+        772713
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CA83-CA9A",
+      "japanese": "マサキ「ところでちょいと聞きたいんだけどよ」",
+      "alias_ids": [
+        "0B-CA83-CA9A"
+      ],
+      "hosts": [
+        772713
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CA9B-CAA6",
+      "japanese": "リュ－ネ「何だ！？」",
+      "alias_ids": [
+        "0B-CA9B-CAA6"
+      ],
+      "hosts": [
+        772763
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CAA7-CABB",
+      "japanese": "マサキ「おまえ、ＤＣのメンバ－なのか？」",
+      "alias_ids": [
+        "0B-CAA7-CABB"
+      ],
+      "hosts": [
+        772775
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CABC-CAFF",
+      "japanese": "リュ－ネ「・・・今のＤＣはおやじの作ったものとは違う。\nザビ家の独裁組織だ！　あんなものとは一切\n関係ない！」",
+      "alias_ids": [
+        "0B-CABC-CAFF"
+      ],
+      "hosts": [
+        772796
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CB00-CB22",
+      "japanese": "マサキ「だったら、今そこに出現しようとしているのは\nなんだ？」",
+      "alias_ids": [
+        "0B-CB00-CB22"
+      ],
+      "hosts": [
+        772864
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CB23-CB2D",
+      "japanese": "リュ－ネ「えっ！？」",
+      "alias_ids": [
+        "0B-CB23-CB2D"
+      ],
+      "hosts": [
+        772899
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CB2E-CB69",
+      "japanese": "カロッゾ「ほう、おもしろいものがいるではないか。\nあれはヴァルシオ－ネ・・・リュ－ネめ、木星から\n帰ってきたか」",
+      "alias_ids": [
+        "0B-CB2E-CB69"
+      ],
+      "hosts": [
+        772910
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CB6A-CB79",
+      "japanese": "リュ－ネ「ＤＣの部隊！？」",
+      "alias_ids": [
+        "0B-CB6A-CB79"
+      ],
+      "hosts": [
+        772970
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CB7A-CB95",
+      "japanese": "マサキ「お前、本当にＤＣとは関係ないのか？」",
+      "alias_ids": [
+        "0B-CB7A-CB95"
+      ],
+      "hosts": [
+        772986
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CB96-CBB8",
+      "japanese": "リュ－ネ「くどい！！　それほど言うなら証拠を\n見せてやる！」",
+      "alias_ids": [
+        "0B-CB96-CBB8"
+      ],
+      "hosts": [
+        773014
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CBB9-CBDF",
+      "japanese": "カロッゾ「なに！？　リュ－ネ、貴様、何をする！？\n裏切ったか！？」",
+      "alias_ids": [
+        "0B-CBB9-CBDF"
+      ],
+      "hosts": [
+        773049
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CBE0-CC24",
+      "japanese": "リュ－ネ「裏切りだって！？　裏切ったのはあんたたち\nだろ！　おやじの作ったＤＣは、毒ガスなんて使わなかった\nはずだよ！！」",
+      "alias_ids": [
+        "0B-CBE0-CC24"
+      ],
+      "hosts": [
+        773088
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CC25-CC35",
+      "japanese": "カロッゾ「・・・何のことだ？」",
+      "alias_ids": [
+        "0B-CC25-CC35"
+      ],
+      "hosts": [
+        773157
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CC36-CC85",
+      "japanese": "リュ－ネ「とぼけたってムダさ。　バスクのヤツが\nサイド５で、裏切り者を消すために毒ガスを使った。\n関係ない人を大勢まきぞえにしてね！！」",
+      "alias_ids": [
+        "0B-CC36-CC85"
+      ],
+      "hosts": [
+        773174
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CC86-CCBA",
+      "japanese": "カロッゾ「・・・ククク、それがどうした。　しょせん\n我々にくみせぬものは遅かれ早かれそうなるのだ」",
+      "alias_ids": [
+        "0B-CC86-CCBA"
+      ],
+      "hosts": [
+        773254
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CCBB-CCCC",
+      "japanese": "リュ－ネ「・・・許せないっ！！」",
+      "alias_ids": [
+        "0B-CCBB-CCCC"
+      ],
+      "hosts": [
+        773307
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CCCD-CD03",
+      "japanese": "リュ－ネ「ジャマすんじゃないよ！　こいつらはあたしが\nしとめる！　あんたらの相手は後でやってやるよ！」",
+      "alias_ids": [
+        "0B-CCCD-CD03"
+      ],
+      "hosts": [
+        773325
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CD04-CD2D",
+      "japanese": "リュ－ネ「なにすんのさ！・・・そうかい、そっちが\nその気なら、あたしだって！！」",
+      "alias_ids": [
+        "0B-CD04-CD2D"
+      ],
+      "hosts": [
+        773380
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CD2E-CD51",
+      "japanese": "リュ－ネ「くっ！！　おぼえといで！　このカタキは\n討たせてもらう！」",
+      "alias_ids": [
+        "0B-CD2E-CD51"
+      ],
+      "hosts": [
+        773422
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CD52-CD70",
+      "japanese": "リュ－ネ「さて、待たせたね・・・決着をつけようか！！」",
+      "alias_ids": [
+        "0B-CD52-CD70"
+      ],
+      "hosts": [
+        773458
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CD71-CD88",
+      "japanese": "マサキ「よせよ。　お前、もうぼろぼろだろ？」",
+      "alias_ids": [
+        "0B-CD71-CD88"
+      ],
+      "hosts": [
+        773489
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CD89-CD9B",
+      "japanese": "リュ－ネ「フン！　この程度！！」",
+      "alias_ids": [
+        "0B-CD89-CD9B"
+      ],
+      "hosts": [
+        773513
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CD9C-CDB7",
+      "japanese": "リュ－ネ「さ、これでＯＫ。　さあ、誰から来る！？」",
+      "alias_ids": [
+        "0B-CD9C-CDB7"
+      ],
+      "hosts": [
+        773532
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CDB8-CDCB",
+      "japanese": "マサキ「・・・よせっていってんだろ！」",
+      "alias_ids": [
+        "0B-CDB8-CDCB"
+      ],
+      "hosts": [
+        773560
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CDCC-CDD9",
+      "japanese": "リュ－ネ「うるさいっ！！」",
+      "alias_ids": [
+        "0B-CDCC-CDD9"
+      ],
+      "hosts": [
+        773580
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CDDA-CE29",
+      "japanese": "リュ－ネ「アハハハ・・・やっぱり勝てなかったか・・・\nでもこれですっきりした。　おやじはおやじ、あたしはあたし\n・・・あたし、あんた達が気に入ったよ」",
+      "alias_ids": [
+        "0B-CDDA-CE29"
+      ],
+      "hosts": [
+        773594
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CE2A-CE68",
+      "japanese": "リュ－ネ「とくにマサキ、あんた、結構いい男だしね。\nあたしにかわいいなんて言ってくれたのは、あんたが\n初めてだよ」",
+      "alias_ids": [
+        "0B-CE2A-CE68"
+      ],
+      "hosts": [
+        773594
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CE69-CEAD",
+      "japanese": "リュ－ネ「あのインケンなザビ家の連中にくらべたら\nあんたらと一緒にいたほうが面白そうだしね。\nあたしも一緒に戦うよ」",
+      "alias_ids": [
+        "0B-CE69-CEAD"
+      ],
+      "hosts": [
+        773594
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CEAE-CEC1",
+      "japanese": "マサキ「おいおい、強引なやつだな」",
+      "alias_ids": [
+        "0B-CEAE-CEC1"
+      ],
+      "hosts": [
+        773806
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CEC2-CED7",
+      "japanese": "アムロ「ス・・・スレッガ－中尉・・・」",
+      "alias_ids": [
+        "0B-CEC2-CED7"
+      ],
+      "hosts": [
+        773826
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CED8-CEE8",
+      "japanese": "ミライ「・・・スレッガ－・・・」",
+      "alias_ids": [
+        "0B-CED8-CEE8"
+      ],
+      "hosts": [
+        773848
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CEE9-CEFD",
+      "japanese": "豹馬「ちっ！　異星人どもか！」",
+      "alias_ids": [
+        "0B-CEE9-CEFD"
+      ],
+      "hosts": [
+        773865
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CEFE-CF20",
+      "japanese": "ハヤト「おい、リョウ！！　あれはメカ凸蝶鬼じゃ\nないのか！？」",
+      "alias_ids": [
+        "0B-CEFE-CF20"
+      ],
+      "hosts": [
+        773886
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CF23-CF49",
+      "japanese": "リョウ「なんだって！？・・・そうだ、凸蝶さんだ！\n生きていたのか！？」",
+      "alias_ids": [
+        "0B-CF23-CF49"
+      ],
+      "hosts": [
+        773886
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CF4C-CF63",
+      "japanese": "ムサシ「・・・でも、何だかようすが変だぜ」",
+      "alias_ids": [
+        "0B-CF4C-CF63"
+      ],
+      "hosts": [
+        773886
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CF64-CF7F",
+      "japanese": "リョウ「凸蝶さん！！　どうしたんだ、いったい！？」",
+      "alias_ids": [
+        "0B-CF64-CF7F"
+      ],
+      "hosts": [
+        773988
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CF80-CF99",
+      "japanese": "凸蝶「誰？　なぜ私の事を知っている？」",
+      "alias_ids": [
+        "0B-CF80-CF99"
+      ],
+      "hosts": [
+        774016
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CF9A-CFC0",
+      "japanese": "リョウ「まさか・・・記憶そう失か！？　オレだ、\n流竜馬だよ！！」",
+      "alias_ids": [
+        "0B-CF9A-CFC0"
+      ],
+      "hosts": [
+        774042
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CFC1-CFF3",
+      "japanese": "凸蝶「流・・・竜馬・・・ううっ・・・頭がいたい！\nなにも・・・何も思い出せない！」",
+      "alias_ids": [
+        "0B-CFC1-CFF3"
+      ],
+      "hosts": [
+        774081
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-CFF4-D014",
+      "japanese": "ハヤト「もう少しだ！　リョウ、もう一度説得してみろ！」",
+      "alias_ids": [
+        "0B-CFF4-D014"
+      ],
+      "hosts": [
+        774132
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D015-D03D",
+      "japanese": "リョウ「思い出すんだ、凸蝶さん！！　一緒にＤＣと\n戦った事を！」",
+      "alias_ids": [
+        "0B-D015-D03D"
+      ],
+      "hosts": [
+        774165
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D03E-D06E",
+      "japanese": "凸蝶「ううっ！　リョウ・・・ながれ・・・\nりょう・・ま・・・！！　リョウ！！　リョウか！！」",
+      "alias_ids": [
+        "0B-D03E-D06E"
+      ],
+      "hosts": [
+        774206
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D06F-D082",
+      "japanese": "リョウ「思い出してくれたのか！？」",
+      "alias_ids": [
+        "0B-D06F-D082"
+      ],
+      "hosts": [
+        774255
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D083-D0AE",
+      "japanese": "凸蝶「・・・そうか、わたしは操られていたのか・・・\nすまない、迷惑をかけた」",
+      "alias_ids": [
+        "0B-D083-D0AE"
+      ],
+      "hosts": [
+        774275
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D0AF-D0BC",
+      "japanese": "ムサシ「いいってことよ！」",
+      "alias_ids": [
+        "0B-D0AF-D0BC"
+      ],
+      "hosts": [
+        774319
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D0C7-D0E4",
+      "japanese": "コウ「ニナ、聞いてもいいかな・・・ガト－の事\n・・・」",
+      "alias_ids": [
+        "0B-D0C7-D0E4"
+      ],
+      "hosts": [
+        774333
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D0E7-D0FC",
+      "japanese": "ニナ「ごめんなさい・・・今はまだ・・・」",
+      "alias_ids": [
+        "0B-D0E7-D0FC"
+      ],
+      "hosts": [
+        774333
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D0FF-D11F",
+      "japanese": "コウ「・・・どうしてなんだ？　どうして君は\nガト－の事を？」",
+      "alias_ids": [
+        "0B-D0FF-D11F"
+      ],
+      "hosts": [
+        774333
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D122-D12A",
+      "japanese": "ニナ「・・・・」",
+      "alias_ids": [
+        "0B-D122-D12A"
+      ],
+      "hosts": [
+        774333
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D12D-D153",
+      "japanese": "コウ「あ！？　ニナ！？　待ってくれ！・・・\nわっ！？　レ、レコアさん！？」",
+      "alias_ids": [
+        "0B-D12D-D153"
+      ],
+      "hosts": [
+        774333
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D156-D197",
+      "japanese": "レコア「コウ、あなたちょっとデリカシ－にかけるわね。\nそのうち彼女から話してくれるわ。　今はそっとして\nおいてあげなさい」",
+      "alias_ids": [
+        "0B-D156-D197"
+      ],
+      "hosts": [
+        774333
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D19A-D1A5",
+      "japanese": "コウ「で、でも・・・」",
+      "alias_ids": [
+        "0B-D19A-D1A5"
+      ],
+      "hosts": [
+        774333
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D1A8-D1C5",
+      "japanese": "フラウ「ミノフスキ－干渉波に反応！　敵です！」",
+      "alias_ids": [
+        "0B-D1A8-D1C5"
+      ],
+      "hosts": [
+        774333
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D1C8-D1D5",
+      "japanese": "ブライト「距離は！？」",
+      "alias_ids": [
+        "0B-D1C8-D1D5"
+      ],
+      "hosts": [
+        774333
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D1D8-D1EC",
+      "japanese": "フラウ「２時の方向、１１０キロ！」",
+      "alias_ids": [
+        "0B-D1D8-D1EC"
+      ],
+      "hosts": [
+        774333
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D1EF-D206",
+      "japanese": "ブライト「総員第一戦闘配置！」",
+      "alias_ids": [
+        "0B-D1EF-D206"
+      ],
+      "hosts": [
+        774333
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D207-D24E",
+      "japanese": "ドズル「これ以上ロンド＝ベルをのさばらせるわけには\nいかん！　総攻撃でやつらをたたきつぶす！！\nサイコガンダムは出られるのか！？」",
+      "alias_ids": [
+        "0B-D207-D24E"
+      ],
+      "hosts": [
+        774663
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D251-D270",
+      "japanese": "ハマ－ン「フォウの再沈脳は、まだ完全ではありません」",
+      "alias_ids": [
+        "0B-D251-D270"
+      ],
+      "hosts": [
+        774663
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D273-D28E",
+      "japanese": "ドズル「かまわん！　サイコガンダムを前面にだせ！」",
+      "alias_ids": [
+        "0B-D273-D28E"
+      ],
+      "hosts": [
+        774663
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D291-D2B7",
+      "japanese": "ハマ－ン「しかたがない・・・サイコガンダムのサイコミュの\nパワ－をあげろ！」",
+      "alias_ids": [
+        "0B-D291-D2B7"
+      ],
+      "hosts": [
+        774663
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D2B8-D2D1",
+      "japanese": "カミ－ユ「この感覚・・・フォウがいるのか！？」",
+      "alias_ids": [
+        "0B-D2B8-D2D1"
+      ],
+      "hosts": [
+        774840
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D2D2-D2E8",
+      "japanese": "ジュド－「カミ－ユさん！　あれ見てよ！！」",
+      "alias_ids": [
+        "0B-D2D2-D2E8"
+      ],
+      "hosts": [
+        774866
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D2E9-D302",
+      "japanese": "カミ－ユ「サイコガンダム！？　まさか、フォウ！？」",
+      "alias_ids": [
+        "0B-D2E9-D302"
+      ],
+      "hosts": [
+        774889
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D303-D32C",
+      "japanese": "カミ－ユ「フォウ！　フォウなんだろ！？　やめるんだ！！\nオレだ、カミ－ユだよ！！」",
+      "alias_ids": [
+        "0B-D303-D32C"
+      ],
+      "hosts": [
+        774915
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D32D-D348",
+      "japanese": "フォウ「カミ－ユ・・・ううっ！　あ、頭がいたい！！」",
+      "alias_ids": [
+        "0B-D32D-D348"
+      ],
+      "hosts": [
+        774957
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D349-D370",
+      "japanese": "アムロ「カミ－ユ、いけるぞ！！　フォウの沈脳はまだ\n完全じゃない！！」",
+      "alias_ids": [
+        "0B-D349-D370"
+      ],
+      "hosts": [
+        774985
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D371-D383",
+      "japanese": "カミ－ユ「フォウ、思い出せ！！」",
+      "alias_ids": [
+        "0B-D371-D383"
+      ],
+      "hosts": [
+        775025
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D384-D3AC",
+      "japanese": "フォウ「カミ－ユ・・・カミ－ユ！！　わ、わたし\nどうして・・・うっ、頭が！！」",
+      "alias_ids": [
+        "0B-D384-D3AC"
+      ],
+      "hosts": [
+        775044
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D3AD-D3E1",
+      "japanese": "アムロ「カミ－ユ、サイコガンダムを破壊しろ！！\nそのマシ－ンがフォウに戦闘を強制している！」",
+      "alias_ids": [
+        "0B-D3AD-D3E1"
+      ],
+      "hosts": [
+        775085
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D3E2-D3EF",
+      "japanese": "カミ－ユ「で、でも・・・」",
+      "alias_ids": [
+        "0B-D3E2-D3EF"
+      ],
+      "hosts": [
+        775138
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D3F0-D42D",
+      "japanese": "アムロ「コクピットを破壊しなければ、だいじょうぶだ！\nサイコガンダムのコクピットは、そう簡単に\n壊れはしない！」",
+      "alias_ids": [
+        "0B-D3F0-D42D"
+      ],
+      "hosts": [
+        775152
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D42E-D43C",
+      "japanese": "カミ－ユ「わかりました！！」",
+      "alias_ids": [
+        "0B-D42E-D43C"
+      ],
+      "hosts": [
+        775214
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D43D-D452",
+      "japanese": "カミ－ユ「フォウ！！　無事なのか！？」",
+      "alias_ids": [
+        "0B-D43D-D452"
+      ],
+      "hosts": [
+        775229
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D453-D466",
+      "japanese": "フォウ「カミ－ユ・・・わたし・・・？」",
+      "alias_ids": [
+        "0B-D453-D466"
+      ],
+      "hosts": [
+        775251
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D467-D474",
+      "japanese": "カミ－ユ「よかった・・・」",
+      "alias_ids": [
+        "0B-D467-D474"
+      ],
+      "hosts": [
+        775271
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D475-D4A1",
+      "japanese": "ハマ－ン「戦況はよくないようです。　キシリア閣下に\n救援をもとめられては？」",
+      "alias_ids": [
+        "0B-D475-D4A1"
+      ],
+      "hosts": [
+        775285
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D4A4-D4C7",
+      "japanese": "ドズル「これしきのことでか？　ＤＣ中のものわらいの\nタネになるわ！」",
+      "alias_ids": [
+        "0B-D4A4-D4C7"
+      ],
+      "hosts": [
+        775285
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D4C8-D4E4",
+      "japanese": "ドズル「むうう・・・ビグザムを出せ！　わしが出る！」",
+      "alias_ids": [
+        "0B-D4C8-D4E4"
+      ],
+      "hosts": [
+        775368
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D4E7-D4FA",
+      "japanese": "ハマ－ン「それは・・・危険です！」",
+      "alias_ids": [
+        "0B-D4E7-D4FA"
+      ],
+      "hosts": [
+        775368
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D4FD-D52E",
+      "japanese": "ドズル「戦力をズタズタにされすぎた・・・ここは\nもうもたん。　ハマ－ン、お前も脱出しろ」",
+      "alias_ids": [
+        "0B-D4FD-D52E"
+      ],
+      "hosts": [
+        775368
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D531-D53D",
+      "japanese": "ハマ－ン「しかし・・・」",
+      "alias_ids": [
+        "0B-D531-D53D"
+      ],
+      "hosts": [
+        775368
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D540-D56B",
+      "japanese": "ドズル「これは命令だ！！　お前には生きてＤＣを\n再興してもらわねばならん」",
+      "alias_ids": [
+        "0B-D540-D56B"
+      ],
+      "hosts": [
+        775368
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D56E-D57D",
+      "japanese": "ハマ－ン「・・・わかりました」",
+      "alias_ids": [
+        "0B-D56E-D57D"
+      ],
+      "hosts": [
+        775368
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D580-D5AD",
+      "japanese": "ドズル「あんずるな、このドズル＝ザビ、やすやすとは\n死なんよ。　ビグザム、出るぞ！！」",
+      "alias_ids": [
+        "0B-D580-D5AD"
+      ],
+      "hosts": [
+        775368
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D5AE-D5C7",
+      "japanese": "ハマ－ン「ドズル閣下・・・ご無事で・・・」",
+      "alias_ids": [
+        "0B-D5AE-D5C7"
+      ],
+      "hosts": [
+        775598
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D5C8-D5F9",
+      "japanese": "スレッガ－「ビグザムか！　あのデカブツじゃ、遠くから\nドンパチやっても、ラチあかないのよね！！」",
+      "alias_ids": [
+        "0B-D5C8-D5F9"
+      ],
+      "hosts": [
+        775624
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D5FA-D615",
+      "japanese": "アムロ「スレッガ－さん！？　特攻するつもりか！？」",
+      "alias_ids": [
+        "0B-D5FA-D615"
+      ],
+      "hosts": [
+        775674
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D616-D630",
+      "japanese": "スレッガ－「かなしいけど、これ、戦争なのよね！」",
+      "alias_ids": [
+        "0B-D616-D630"
+      ],
+      "hosts": [
+        775702
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D631-D64E",
+      "japanese": "ドズル「なに！？　特攻だと！！　対空防御！！」",
+      "alias_ids": [
+        "0B-D631-D64E"
+      ],
+      "hosts": [
+        775729
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D64F-D65E",
+      "japanese": "スレッガ－「まだまだぁっ！！」",
+      "alias_ids": [
+        "0B-D64F-D65E"
+      ],
+      "hosts": [
+        775759
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D65F-D671",
+      "japanese": "スレッガ－「うおおおおおおっ！！！」",
+      "alias_ids": [
+        "0B-D65F-D671"
+      ],
+      "hosts": [
+        775775
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D672-D69B",
+      "japanese": "カミ－ユ「フォウ！！　目を覚ましてくれ、フォウ！！\nアムロさん、フォウは！？」",
+      "alias_ids": [
+        "0B-D672-D69B"
+      ],
+      "hosts": [
+        775794
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D69C-D6D6",
+      "japanese": "アムロ「心配しないでいい、カミ－ユ。　フォウは\nつかれてるだけだ。　しばらくそっとしておいてあげた\nほうがいい」",
+      "alias_ids": [
+        "0B-D69C-D6D6"
+      ],
+      "hosts": [
+        775836
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D6D7-D6F3",
+      "japanese": "フォウ「・・・う・・・ううん・・・カ・・・\nカミ－ユ？」",
+      "alias_ids": [
+        "0B-D6D7-D6F3"
+      ],
+      "hosts": [
+        775895
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D6F4-D710",
+      "japanese": "カミ－ユ「気がついたか、フォウ！　もうだいじょうぶだ」",
+      "alias_ids": [
+        "0B-D6F4-D710"
+      ],
+      "hosts": [
+        775924
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D711-D734",
+      "japanese": "アムロ「フォウ、君はもう戦わなくてもいい。　ゆっくり\n休むんだ」",
+      "alias_ids": [
+        "0B-D711-D734"
+      ],
+      "hosts": [
+        775953
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D735-D76A",
+      "japanese": "ブライト「思わぬところで時間をくってしまったが、\nこれでＤＣは、しばらくハデな動きはできんだろう」",
+      "alias_ids": [
+        "0B-D735-D76A"
+      ],
+      "hosts": [
+        775989
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D76D-D7B8",
+      "japanese": "クワトロ「いや、それはどうかな？　ドズルの配下は\n確かに弱っただろうが、まだ、キシリアの部隊がある。\nバスクがはたしてどう出るか・・・」",
+      "alias_ids": [
+        "0B-D76D-D7B8"
+      ],
+      "hosts": [
+        775989
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D7BB-D7EE",
+      "japanese": "ブライト「ふむ・・・だが、宇宙でのＤＣの動きはある程度\nおさえられたと見てもよいのでは？」",
+      "alias_ids": [
+        "0B-D7BB-D7EE"
+      ],
+      "hosts": [
+        775989
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D7F1-D81D",
+      "japanese": "クワトロ「・・・となるとやはり地球上の異星人を\nたたくのが先決か・・・」",
+      "alias_ids": [
+        "0B-D7F1-D81D"
+      ],
+      "hosts": [
+        775989
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D81E-D844",
+      "japanese": "シャア「さて・・・どうするか・・・アムロ君の言うことも\nわかるが・・・」",
+      "alias_ids": [
+        "0B-D81E-D844"
+      ],
+      "hosts": [
+        776222
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D845-D859",
+      "japanese": "豹馬「ふぇぇぇぇ・・・あちい・・・」",
+      "alias_ids": [
+        "0B-D845-D859"
+      ],
+      "hosts": [
+        776261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D85C-D889",
+      "japanese": "十三「何で、このサブブリッジだけ、エアコンが\nイカれとるんや。　ホンマ、たまらんわ」",
+      "alias_ids": [
+        "0B-D85C-D889"
+      ],
+      "hosts": [
+        776261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D88C-D8C2",
+      "japanese": "大作「なんばいうとね。　この程度のあつさ、\n心頭めっきゃくすれば火もまた涼し、ちゅうとです」",
+      "alias_ids": [
+        "0B-D88C-D8C2"
+      ],
+      "hosts": [
+        776261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D8C5-D8E8",
+      "japanese": "十三「あ－っ、もうたまらんわい！　こんなもん\n脱いでもたれ！！」",
+      "alias_ids": [
+        "0B-D8C5-D8E8"
+      ],
+      "hosts": [
+        776261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D8EB-D904",
+      "japanese": "豹馬「おっ！　涼しそ－じゃん！　オレもっ！」",
+      "alias_ids": [
+        "0B-D8EB-D904"
+      ],
+      "hosts": [
+        776261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D907-D93D",
+      "japanese": "ちずる「みんな、バトルマシンの修理、終わった・・・\nきゃあああっ！！　な、なによ！　そのかっこう！！」",
+      "alias_ids": [
+        "0B-D907-D93D"
+      ],
+      "hosts": [
+        776261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D940-D95C",
+      "japanese": "豹馬「いいじゃねぇか！　ちずるもいっしょにどうだ？」",
+      "alias_ids": [
+        "0B-D940-D95C"
+      ],
+      "hosts": [
+        776261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D95F-D996",
+      "japanese": "ちずる「何バカなこといってんのよ！　そんなことより\nバトルマシンの修理が終わったから、テストしてみて」",
+      "alias_ids": [
+        "0B-D95F-D996"
+      ],
+      "hosts": [
+        776261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D999-D9C4",
+      "japanese": "豹馬「そっか！　その手があったか！！　バトルマシンなら\nここよりは涼しいぜ！」",
+      "alias_ids": [
+        "0B-D999-D9C4"
+      ],
+      "hosts": [
+        776261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D9C7-D9E2",
+      "japanese": "十三「なるほど、豹馬もたまにはええこというな」",
+      "alias_ids": [
+        "0B-D9C7-D9E2"
+      ],
+      "hosts": [
+        776261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D9E5-D9F9",
+      "japanese": "豹馬「もしもし、ブライト艦長！」",
+      "alias_ids": [
+        "0B-D9E5-D9F9"
+      ],
+      "hosts": [
+        776261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-D9FC-DA18",
+      "japanese": "ブライト「ん？　どうした・・・なんだ、そのかっこうは！」",
+      "alias_ids": [
+        "0B-D9FC-DA18"
+      ],
+      "hosts": [
+        776261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DA1B-DA3E",
+      "japanese": "豹馬「バトルマシンのテストがてら、偵察に\n行ってきます！！」",
+      "alias_ids": [
+        "0B-DA1B-DA3E"
+      ],
+      "hosts": [
+        776261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DA41-DA5D",
+      "japanese": "ブライト「わかったから、早く服を着ろ！　まったく」",
+      "alias_ids": [
+        "0B-DA41-DA5D"
+      ],
+      "hosts": [
+        776261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DA60-DA75",
+      "japanese": "豹馬「ヘヘヘ、じゃ、行ってくるぜ！」",
+      "alias_ids": [
+        "0B-DA60-DA75"
+      ],
+      "hosts": [
+        776261
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DA76-DA9B",
+      "japanese": "リュウ「だいぶ時間を食っちまったな。　間に合うのか\n艦長？」",
+      "alias_ids": [
+        "0B-DA76-DA9B"
+      ],
+      "hosts": [
+        776822
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DA9E-DAC5",
+      "japanese": "ブライト「さっきの部隊が連絡していない以上は\nだいじょうぶだろう」",
+      "alias_ids": [
+        "0B-DA9E-DAC5"
+      ],
+      "hosts": [
+        776822
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DADC-DAEE",
+      "japanese": "ブライト「総員スタンバっておけ」",
+      "alias_ids": [
+        "0B-DADC-DAEE"
+      ],
+      "hosts": [
+        776902
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DAF1-DB02",
+      "japanese": "さやか「間に合ったのかしら？」",
+      "alias_ids": [
+        "0B-DAF1-DB02"
+      ],
+      "hosts": [
+        776902
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DB03-DB22",
+      "japanese": "ファ「早乙女研究所には連絡を取っておいたわ」",
+      "alias_ids": [
+        "0B-DB03-DB22"
+      ],
+      "hosts": [
+        776963
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DB25-DB62",
+      "japanese": "リョウ「今、早乙女研究所にはジャックの\nテキサスマックとみちるさんのゲッタ－Ｑ（クイ－ン）が\nいるはずだな」",
+      "alias_ids": [
+        "0B-DB25-DB62"
+      ],
+      "hosts": [
+        776963
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DB65-DB8A",
+      "japanese": "ムサシ「ジャックのヤロ－、みちるさんに手を出したり\nしてないだろうな」",
+      "alias_ids": [
+        "0B-DB65-DB8A"
+      ],
+      "hosts": [
+        776963
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DB8D-DBC7",
+      "japanese": "ハヤト「心配するな、ムサシ。　みちるさんはシュミがいいから\nジャックとかお前みたいなのとは、つきあわないとよ」",
+      "alias_ids": [
+        "0B-DB8D-DBC7"
+      ],
+      "hosts": [
+        776963
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DBCA-DBF1",
+      "japanese": "ムサシ「そっか、それならあんしん・・・て、そりゃどういう\n意味だハヤト！」",
+      "alias_ids": [
+        "0B-DBCA-DBF1"
+      ],
+      "hosts": [
+        776963
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DBF4-DC2C",
+      "japanese": "ファ「あら？　早乙女研究所から通信が・・・\nたいへん！　研究所が敵に襲われているわ！」",
+      "alias_ids": [
+        "0B-DBF4-DC2C"
+      ],
+      "hosts": [
+        776963
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DC2F-DC5E",
+      "japanese": "リョウ「なにっ！？　くそっ！　まさか研究所まで\nねらってくるとは・・・急がないと！！」",
+      "alias_ids": [
+        "0B-DC2F-DC5E"
+      ],
+      "hosts": [
+        776963
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DC5F-DC83",
+      "japanese": "フラウ「早乙女研究所とのレ－ザ－通信がつながり\nました」",
+      "alias_ids": [
+        "0B-DC5F-DC83"
+      ],
+      "hosts": [
+        777311
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DC86-DC9A",
+      "japanese": "リョウ「博士、どうですか、そちらは」",
+      "alias_ids": [
+        "0B-DC86-DC9A"
+      ],
+      "hosts": [
+        777311
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DC9D-DCF2",
+      "japanese": "早乙女博士「おお、リョウ君か。　オデッサ作戦は\n大成功だったそうじゃないか。　こっちもなんとか\nゲッタ－ロボＧの最終調整にまでこぎつけたよ」",
+      "alias_ids": [
+        "0B-DC9D-DCF2"
+      ],
+      "hosts": [
+        777311
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DCF5-DD23",
+      "japanese": "ハヤト「あと１５分くらいでそちらに到着します。\nシャンパンでも用意しててください」",
+      "alias_ids": [
+        "0B-DCF5-DD23"
+      ],
+      "hosts": [
+        777311
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-DD26-DD4A",
+      "japanese": "早乙女博士「ははは、そうじゃな。　楽しみに\nまっていなさい」",
+      "alias_ids": [
+        "0B-DD26-DD4A"
+      ],
+      "hosts": [
+        777311
+      ],
+      "translation": ""
+    }
+  ]
+}

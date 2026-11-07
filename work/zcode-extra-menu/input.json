@@ -1,0 +1,1505 @@
+{
+  "source_rom_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "contract": "pure glyph/F3/FF roots in low UI tables; callers can inherit glyph mode; no native controls rewritten",
+  "entries": [
+    {
+      "id": "menu-03-C0C3-C0C7",
+      "source_cpu": 245955,
+      "end_cpu": 245959,
+      "source_hex": "cbaedf00",
+      "japanese": "ボタン　",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 245955,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 30
+        }
+      ]
+    },
+    {
+      "id": "menu-03-C0C8-C0CC",
+      "source_cpu": 245960,
+      "end_cpu": 245964,
+      "source_hex": "a8c311b8",
+      "japanese": "スピ－ド",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 245960,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 31
+        }
+      ]
+    },
+    {
+      "id": "menu-03-C221-C239",
+      "source_cpu": 246305,
+      "end_cpu": 246329,
+      "source_hex": "cd95a88e5456528f6600696a4acbaedf8e4956654e5f5443",
+      "japanese": "マウスをさしこんで　なにかボタンをおしてください",
+      "source_line_pixel_widths": [
+        192
+      ],
+      "source_root": 246305,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 43
+        }
+      ]
+    },
+    {
+      "id": "menu-03-C23A-C252",
+      "source_cpu": 246330,
+      "end_cpu": 246354,
+      "source_hex": "c0b2b88e5456528f6600696a4acbaedf8e4956654e5f5443",
+      "japanese": "パッドをさしこんで　なにかボタンをおしてください",
+      "source_line_pixel_widths": [
+        192
+      ],
+      "source_root": 246330,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 44
+        }
+      ]
+    },
+    {
+      "id": "menu-03-C4D6-C4F3",
+      "source_cpu": 246998,
+      "end_cpu": 247027,
+      "source_hex": "5e67471d254bf06089f09d694e67813af08959f065f0558ef08c437d58",
+      "japanese": "たとえＨＰが残り少なくとも、必ず反撃を行います",
+      "source_line_pixel_widths": [
+        208
+      ],
+      "source_root": 246998,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 69
+        }
+      ]
+    },
+    {
+      "id": "menu-03-C4F4-C527",
+      "source_cpu": 247028,
+      "end_cpu": 247079,
+      "source_hex": "f0936df054f0556a8762651d254b306a696265567d45f10ff079f1016d418af3d5bab2b7f10df1106ef065f0558ef08c437d58",
+      "japanese": "敵の攻撃によってＨＰが０になってしまう可能性のある\nユニット以外は反撃を行います",
+      "source_line_pixel_widths": [
+        224,
+        132
+      ],
+      "source_root": 247028,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 70
+        }
+      ]
+    },
+    {
+      "id": "menu-03-C528-C559",
+      "source_cpu": 247080,
+      "end_cpu": 247129,
+      "source_hex": "1d254b310f32f10df10e6dd5bab2b76ef071f0724af07bf07c3af35c8bf10df0706dd5bab2b76ef065f0558ef08c437d58",
+      "japanese": "ＨＰが１／２以下のユニットは回避か防御、\nそれ以上のユニットは反撃を行います",
+      "source_line_pixel_widths": [
+        184,
+        156
+      ],
+      "source_root": 247080,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 71
+        }
+      ]
+    },
+    {
+      "id": "menu-03-C55A-C590",
+      "source_cpu": 247130,
+      "end_cpu": 247184,
+      "source_hex": "f065f0558ef08c8d593af071f072f079f02c4bf0b8508b6ff071f0723af3f07bf07cf079f02c4bf0b8508b6ff07bf07c8ef08c437d58",
+      "japanese": "反撃を行わず、回避能力が高ければ回避、\n防御能力が高ければ防御を行います",
+      "source_line_pixel_widths": [
+        192,
+        160
+      ],
+      "source_root": 247130,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 72
+        }
+      ]
+    },
+    {
+      "id": "menu-03-D783-D78C",
+      "source_cpu": 251779,
+      "end_cpu": 251788,
+      "source_hex": "da11b7160000000000",
+      "japanese": "ル－トＡ　　　　　",
+      "source_line_pixel_widths": [
+        72
+      ],
+      "source_root": 251779,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 146
+        }
+      ]
+    },
+    {
+      "id": "menu-03-D797-D7A0",
+      "source_cpu": 251799,
+      "end_cpu": 251808,
+      "source_hex": "c498dfe3c5d895df00",
+      "japanese": "フォン＝ブラウン　",
+      "source_line_pixel_widths": [
+        72
+      ],
+      "source_root": 251799,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 147
+        }
+      ]
+    },
+    {
+      "id": "menu-03-D7AD-D7B9",
+      "source_cpu": 251821,
+      "end_cpu": 251833,
+      "source_hex": "f027f028f029f097f098f099",
+      "japanese": "早乙女研究所",
+      "source_line_pixel_widths": [
+        72
+      ],
+      "source_root": 251821,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 148
+        }
+      ]
+    },
+    {
+      "id": "menu-03-D7DC-D7E5",
+      "source_cpu": 251868,
+      "end_cpu": 251877,
+      "source_hex": "bfced411af00000000",
+      "japanese": "バミュ－ダ　　　　",
+      "source_line_pixel_widths": [
+        72
+      ],
+      "source_root": 251868,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 150
+        }
+      ]
+    },
+    {
+      "id": "menu-03-D805-D80F",
+      "source_cpu": 251909,
+      "end_cpu": 251919,
+      "source_hex": "f12c6df0930000000000",
+      "japanese": "謎の敵　　　　　",
+      "source_line_pixel_widths": [
+        72
+      ],
+      "source_root": 251909,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 152
+        }
+      ]
+    },
+    {
+      "id": "menu-03-D81A-D824",
+      "source_cpu": 251930,
+      "end_cpu": 251940,
+      "source_hex": "19188ef1fbf055000000",
+      "japanese": "ＤＣを追撃　　　",
+      "source_line_pixel_widths": [
+        72
+      ],
+      "source_root": 251930,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 153
+        }
+      ]
+    },
+    {
+      "id": "menu-03-DCC4-DCCD",
+      "source_cpu": 253124,
+      "end_cpu": 253133,
+      "source_hex": "b611ae4b41897d5a8f",
+      "japanese": "デ－タがありません",
+      "source_line_pixel_widths": [
+        72
+      ],
+      "source_root": 253124,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 11
+        }
+      ]
+    },
+    {
+      "id": "menu-03-DCCE-DCDB",
+      "source_cpu": 253134,
+      "end_cpu": 253147,
+      "source_hex": "b611ae4bf01cf0b2548b7d565e",
+      "japanese": "デ－タが破壊されました",
+      "source_line_pixel_widths": [
+        96
+      ],
+      "source_root": 253134,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 12
+        }
+      ]
+    },
+    {
+      "id": "menu-03-DF6E-DF7F",
+      "source_cpu": 253806,
+      "end_cpu": 253823,
+      "source_hex": "6843638ec0dd1191b2c6545a8a8f5f143f",
+      "japanese": "どいつをパワ－アップさせるんだ？」",
+      "source_line_pixel_widths": [
+        136
+      ],
+      "source_root": 253806,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 22
+        }
+      ]
+    },
+    {
+      "id": "menu-03-DF80-DF9E",
+      "source_cpu": 253824,
+      "end_cpu": 253854,
+      "source_hex": "5c43636e528bf10df070c0dd1191b2c6f300664c8f5be4f063f0645f873f",
+      "japanese": "そいつはこれ以上パワ－アップ\n　できんぜ。限界だよ」",
+      "source_line_pixel_widths": [
+        120,
+        96
+      ],
+      "source_root": 253824,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 23
+        }
+      ]
+    },
+    {
+      "id": "menu-03-DF9F-DFAE",
+      "source_cpu": 253855,
+      "end_cpu": 253870,
+      "source_hex": "686dc0d8d011ae8e41518a6265143f",
+      "japanese": "どのパラメ－タをあげるって？」",
+      "source_line_pixel_widths": [
+        120
+      ],
+      "source_root": 253855,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 24
+        }
+      ]
+    },
+    {
+      "id": "menu-03-DFAF-DFC7",
+      "source_cpu": 253871,
+      "end_cpu": 253895,
+      "source_hex": "5c6dc0d8d011ae6e3a528bf10df070f3004151888b8f873f",
+      "japanese": "そのパラメ－タは、これ以上\n　あげられんよ」",
+      "source_line_pixel_widths": [
+        112,
+        64
+      ],
+      "source_root": 253871,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 25
+        }
+      ]
+    },
+    {
+      "id": "menu-03-DFD6-DFF4",
+      "source_cpu": 253910,
+      "end_cpu": 253940,
+      "source_hex": "494349433af1f1f0f34b5e896c115de4f30069435c666e748b6c4662653f",
+      "japanese": "おいおい、資金がたりね－ぞ。\n　ないそではふれねぇって」",
+      "source_line_pixel_widths": [
+        120,
+        104
+      ],
+      "source_root": 253910,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 27
+        }
+      ]
+    },
+    {
+      "id": "menu-03-DFF5-DFFE",
+      "source_cpu": 253941,
+      "end_cpu": 253950,
+      "source_hex": "608662677d6265693b",
+      "japanese": "ちょっとまってな・",
+      "source_line_pixel_widths": [
+        72
+      ],
+      "source_root": 253941,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 28
+        }
+      ]
+    },
+    {
+      "id": "menu-03-E6E2-E704",
+      "source_cpu": 255714,
+      "end_cpu": 255748,
+      "source_hex": "498349833abeb66a8362654e8b7d565e6ce4f3007d3a7d4a566743654e5f5443873f",
+      "japanese": "おやおや、ハデにやってくれましたね。\n　ま、まかしといてくださいよ」",
+      "source_line_pixel_widths": [
+        144,
+        120
+      ],
+      "source_root": 255714,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 62
+        }
+      ]
+    },
+    {
+      "id": "menu-03-E705-E725",
+      "source_cpu": 255749,
+      "end_cpu": 255781,
+      "source_hex": "6e433a528b6687563b3b3b673af300418f7d89cfb0d2566943664e5f5443873f",
+      "japanese": "はい、これでよし・・・と、\n　あんまりムチャしないでくださいよ」",
+      "source_line_pixel_widths": [
+        104,
+        144
+      ],
+      "source_root": 255749,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 63
+        }
+      ]
+    },
+    {
+      "id": "menu-03-E810-E823",
+      "source_cpu": 256016,
+      "end_cpu": 256035,
+      "source_hex": "f236f0bd6d1d258e310f33f071f259567d58e4",
+      "japanese": "自分のＨＰを１／３回復します。",
+      "source_line_pixel_widths": [
+        136
+      ],
+      "source_root": 256016,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 67
+        }
+      ]
+    },
+    {
+      "id": "menu-03-E824-E836",
+      "source_cpu": 256036,
+      "end_cpu": 256054,
+      "source_hex": "f236f0bd6d1d258ef0e9f071f259567d58e4",
+      "japanese": "自分のＨＰを全回復します。",
+      "source_line_pixel_widths": [
+        124
+      ],
+      "source_root": 256036,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 68
+        }
+      ]
+    },
+    {
+      "id": "menu-03-E837-E854",
+      "source_cpu": 256055,
+      "end_cpu": 256084,
+      "source_hex": "f1a3f106565ed5bab2b76d97bcda9d118ef2d8f0e9f1def1df567d58e4",
+      "japanese": "指定したユニットのエネルギ－を完全補給します。",
+      "source_line_pixel_widths": [
+        208
+      ],
+      "source_root": 256055,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 69
+        }
+      ]
+    },
+    {
+      "id": "menu-03-E855-E868",
+      "source_cpu": 256085,
+      "end_cpu": 256104,
+      "source_hex": "f0e9f1466d1d258e310f32f071f259567d58e4",
+      "japanese": "全員のＨＰを１／２回復します。",
+      "source_line_pixel_widths": [
+        136
+      ],
+      "source_root": 256085,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 70
+        }
+      ]
+    },
+    {
+      "id": "menu-03-E869-E87B",
+      "source_cpu": 256105,
+      "end_cpu": 256123,
+      "source_hex": "f0e9f1466d1d258ef0e9f071f259567d58e4",
+      "japanese": "全員のＨＰを全回復します。",
+      "source_line_pixel_widths": [
+        124
+      ],
+      "source_root": 256105,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 71
+        }
+      ]
+    },
+    {
+      "id": "menu-03-E87C-E895",
+      "source_cpu": 256124,
+      "end_cpu": 256149,
+      "source_hex": "f093f0e9f1466aafd011a78e415e477d58e431301331303030",
+      "japanese": "敵全員にダメ－ジをあたえます。１０～１０００",
+      "source_line_pixel_widths": [
+        188
+      ],
+      "source_root": 256124,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 72
+        }
+      ]
+    },
+    {
+      "id": "menu-03-E896-E8AB",
+      "source_cpu": 256150,
+      "end_cpu": 256171,
+      "source_hex": "f236f0bd6df075f02c8e3135cc93dfb741517d58e4",
+      "japanese": "自分の気力を１５ポイントあげます。",
+      "source_line_pixel_widths": [
+        152
+      ],
+      "source_root": 256150,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 73
+        }
+      ]
+    },
+    {
+      "id": "menu-03-E8AC-E8BF",
+      "source_cpu": 256172,
+      "end_cpu": 256191,
+      "source_hex": "31f0715f50f050f051f02c4b1035548b7d58e4",
+      "japanese": "１回だけ移動力が＋５されます。",
+      "source_line_pixel_widths": [
+        136
+      ],
+      "source_root": 256172,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 74
+        }
+      ]
+    },
+    {
+      "id": "menu-03-E8C0-E8D7",
+      "source_cpu": 256192,
+      "end_cpu": 256215,
+      "source_hex": "f089599ed9b5929adac1b2b76a69897d58e4f071f0ec31",
+      "japanese": "必ずクリティカルヒットになります。回数１",
+      "source_line_pixel_widths": [
+        172
+      ],
+      "source_root": 256192,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 75
+        }
+      ]
+    },
+    {
+      "id": "menu-03-E8D8-E8F5",
+      "source_cpu": 256216,
+      "end_cpu": 256245,
+      "source_hex": "f236f0bd6df057f058f0594b31ae11df6df1603130300e6a69897d58e4",
+      "japanese": "自分の命中率が１タ－ンの間１００％になります。",
+      "source_line_pixel_widths": [
+        208
+      ],
+      "source_root": 256216,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 76
+        }
+      ]
+    },
+    {
+      "id": "menu-03-E8F6-E911",
+      "source_cpu": 256246,
+      "end_cpu": 256273,
+      "source_hex": "f236f0bd6df071f072f0594b31f0715f503130300e6a69897d58e4",
+      "japanese": "自分の回避率が１回だけ１００％になります。",
+      "source_line_pixel_widths": [
+        192
+      ],
+      "source_root": 256246,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 77
+        }
+      ]
+    },
+    {
+      "id": "menu-03-E912-E933",
+      "source_cpu": 256274,
+      "end_cpu": 256307,
+      "source_hex": "31f0715f50f0934a888188478af069f06af06b3a49f0f34b32f2546a69897d58e4",
+      "japanese": "１回だけ敵からもらえる経験値、お金が２倍になります。",
+      "source_line_pixel_widths": [
+        236
+      ],
+      "source_root": 256274,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 78
+        }
+      ]
+    },
+    {
+      "id": "menu-03-E934-E949",
+      "source_cpu": 256308,
+      "end_cpu": 256329,
+      "source_hex": "31ae11df6df1603af076f0774b103530548b7d58e4",
+      "japanese": "１タ－ンの間、直感が＋５０されます。",
+      "source_line_pixel_widths": [
+        156
+      ],
+      "source_root": 256308,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 1,
+          "entry": 79
+        }
+      ]
+    },
+    {
+      "id": "menu-0C-BFDB-BFE1",
+      "source_cpu": 835547,
+      "end_cpu": 835553,
+      "source_hex": "00f065f05500",
+      "japanese": "　反撃　",
+      "source_line_pixel_widths": [
+        40
+      ],
+      "source_root": 835547,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 8,
+          "entry": 8
+        }
+      ]
+    },
+    {
+      "id": "menu-0C-BFE2-BFE8",
+      "source_cpu": 835554,
+      "end_cpu": 835560,
+      "source_hex": "00f07bf07c00",
+      "japanese": "　防御　",
+      "source_line_pixel_widths": [
+        40
+      ],
+      "source_root": 835554,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 8,
+          "entry": 9
+        }
+      ]
+    },
+    {
+      "id": "menu-0C-BFE9-BFEF",
+      "source_cpu": 835561,
+      "end_cpu": 835567,
+      "source_hex": "00f071f07200",
+      "japanese": "　回避　",
+      "source_line_pixel_widths": [
+        40
+      ],
+      "source_root": 835561,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 8,
+          "entry": 10
+        }
+      ]
+    },
+    {
+      "id": "menu-0C-BFF0-BFF6",
+      "source_cpu": 835568,
+      "end_cpu": 835574,
+      "source_hex": "00f071f07200",
+      "japanese": "　回避　",
+      "source_line_pixel_widths": [
+        40
+      ],
+      "source_root": 835568,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 8,
+          "entry": 11
+        }
+      ]
+    },
+    {
+      "id": "menu-0C-C894-C898",
+      "source_cpu": 837780,
+      "end_cpu": 837784,
+      "source_hex": "f209f058",
+      "japanese": "水中",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 837780,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 8,
+          "entry": 48
+        },
+        {
+          "group": 8,
+          "entry": 49
+        },
+        {
+          "group": 8,
+          "entry": 50
+        },
+        {
+          "group": 8,
+          "entry": 51
+        },
+        {
+          "group": 8,
+          "entry": 52
+        },
+        {
+          "group": 8,
+          "entry": 53
+        },
+        {
+          "group": 8,
+          "entry": 54
+        },
+        {
+          "group": 8,
+          "entry": 55
+        },
+        {
+          "group": 8,
+          "entry": 56
+        },
+        {
+          "group": 8,
+          "entry": 57
+        },
+        {
+          "group": 8,
+          "entry": 58
+        },
+        {
+          "group": 8,
+          "entry": 59
+        },
+        {
+          "group": 8,
+          "entry": 60
+        },
+        {
+          "group": 8,
+          "entry": 61
+        },
+        {
+          "group": 8,
+          "entry": 62
+        },
+        {
+          "group": 8,
+          "entry": 63
+        },
+        {
+          "group": 8,
+          "entry": 64
+        },
+        {
+          "group": 8,
+          "entry": 65
+        },
+        {
+          "group": 8,
+          "entry": 66
+        },
+        {
+          "group": 8,
+          "entry": 67
+        },
+        {
+          "group": 8,
+          "entry": 68
+        },
+        {
+          "group": 8,
+          "entry": 69
+        },
+        {
+          "group": 8,
+          "entry": 70
+        },
+        {
+          "group": 8,
+          "entry": 71
+        },
+        {
+          "group": 8,
+          "entry": 72
+        },
+        {
+          "group": 8,
+          "entry": 73
+        },
+        {
+          "group": 8,
+          "entry": 74
+        },
+        {
+          "group": 8,
+          "entry": 75
+        },
+        {
+          "group": 8,
+          "entry": 76
+        },
+        {
+          "group": 8,
+          "entry": 77
+        },
+        {
+          "group": 8,
+          "entry": 78
+        },
+        {
+          "group": 8,
+          "entry": 79
+        },
+        {
+          "group": 8,
+          "entry": 80
+        },
+        {
+          "group": 8,
+          "entry": 81
+        },
+        {
+          "group": 8,
+          "entry": 82
+        },
+        {
+          "group": 8,
+          "entry": 83
+        },
+        {
+          "group": 8,
+          "entry": 84
+        },
+        {
+          "group": 8,
+          "entry": 85
+        },
+        {
+          "group": 8,
+          "entry": 86
+        },
+        {
+          "group": 8,
+          "entry": 87
+        },
+        {
+          "group": 8,
+          "entry": 88
+        },
+        {
+          "group": 8,
+          "entry": 89
+        },
+        {
+          "group": 8,
+          "entry": 90
+        },
+        {
+          "group": 8,
+          "entry": 91
+        },
+        {
+          "group": 8,
+          "entry": 92
+        },
+        {
+          "group": 8,
+          "entry": 93
+        },
+        {
+          "group": 8,
+          "entry": 94
+        },
+        {
+          "group": 8,
+          "entry": 95
+        },
+        {
+          "group": 8,
+          "entry": 96
+        },
+        {
+          "group": 8,
+          "entry": 97
+        },
+        {
+          "group": 8,
+          "entry": 98
+        },
+        {
+          "group": 8,
+          "entry": 99
+        },
+        {
+          "group": 8,
+          "entry": 100
+        },
+        {
+          "group": 8,
+          "entry": 101
+        },
+        {
+          "group": 8,
+          "entry": 102
+        },
+        {
+          "group": 8,
+          "entry": 103
+        },
+        {
+          "group": 8,
+          "entry": 104
+        }
+      ]
+    },
+    {
+      "id": "menu-0C-C899-C89D",
+      "source_cpu": 837785,
+      "end_cpu": 837789,
+      "source_hex": "f06ff070",
+      "japanese": "地上",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 837785,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 8,
+          "entry": 105
+        }
+      ]
+    },
+    {
+      "id": "menu-0C-C89E-C8A2",
+      "source_cpu": 837790,
+      "end_cpu": 837794,
+      "source_hex": "f06cf06d",
+      "japanese": "宇宙",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 837790,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 8,
+          "entry": 106
+        }
+      ]
+    },
+    {
+      "id": "menu-0C-C8A3-C8A7",
+      "source_cpu": 837795,
+      "end_cpu": 837799,
+      "source_hex": "f0b6f058",
+      "japanese": "空中",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 837795,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 8,
+          "entry": 107
+        }
+      ]
+    },
+    {
+      "id": "menu-0C-C8A8-C8AD",
+      "source_cpu": 837800,
+      "end_cpu": 837805,
+      "source_hex": "5043568645",
+      "japanese": "けいしょう",
+      "source_line_pixel_widths": [
+        40
+      ],
+      "source_root": 837800,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 8,
+          "entry": 108
+        }
+      ]
+    },
+    {
+      "id": "menu-0C-C8AE-C8B1",
+      "source_cpu": 837806,
+      "end_cpu": 837809,
+      "source_hex": "746345",
+      "japanese": "ふつう",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 837806,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 8,
+          "entry": 109
+        }
+      ]
+    },
+    {
+      "id": "menu-0C-C8B2-C8B5",
+      "source_cpu": 837810,
+      "end_cpu": 837813,
+      "source_hex": "718f56",
+      "japanese": "ひんし",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 837810,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 8,
+          "entry": 110
+        }
+      ]
+    },
+    {
+      "id": "menu-0C-C8B6-C8BA",
+      "source_cpu": 837814,
+      "end_cpu": 837818,
+      "source_hex": "f0bff2e0",
+      "japanese": "死亡",
+      "source_line_pixel_widths": [
+        24
+      ],
+      "source_root": 837814,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 8,
+          "entry": 111
+        }
+      ]
+    },
+    {
+      "id": "menu-0C-C9AA-C9AC",
+      "source_cpu": 838058,
+      "end_cpu": 838060,
+      "source_hex": "bf00",
+      "japanese": "バ　",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 838058,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 8,
+          "entry": 113
+        },
+        {
+          "group": 8,
+          "entry": 114
+        },
+        {
+          "group": 8,
+          "entry": 115
+        },
+        {
+          "group": 8,
+          "entry": 116
+        },
+        {
+          "group": 8,
+          "entry": 117
+        },
+        {
+          "group": 8,
+          "entry": 118
+        },
+        {
+          "group": 8,
+          "entry": 119
+        },
+        {
+          "group": 8,
+          "entry": 120
+        },
+        {
+          "group": 8,
+          "entry": 121
+        },
+        {
+          "group": 8,
+          "entry": 122
+        },
+        {
+          "group": 8,
+          "entry": 123
+        },
+        {
+          "group": 8,
+          "entry": 124
+        },
+        {
+          "group": 8,
+          "entry": 125
+        },
+        {
+          "group": 8,
+          "entry": 126
+        },
+        {
+          "group": 8,
+          "entry": 127
+        }
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "id": "menu-03-C120-C124",
+      "source_cpu": 246048,
+      "end_cpu": 246052,
+      "source_hex": "2a2b2c2d",
+      "japanese": "ＵＶＷＸ",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 246048,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 34
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    },
+    {
+      "id": "menu-03-C125-C129",
+      "source_cpu": 246053,
+      "end_cpu": 246057,
+      "source_hex": "2c2d2a2b",
+      "japanese": "ＷＸＵＶ",
+      "source_line_pixel_widths": [
+        32
+      ],
+      "source_root": 246053,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 35
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    },
+    {
+      "id": "menu-03-C2C7-C2CD",
+      "source_cpu": 246471,
+      "end_cpu": 246477,
+      "source_hex": "2c2d2a2b2a2b",
+      "japanese": "ＷＸＵＶＵＶ",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 246471,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 49
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    },
+    {
+      "id": "menu-03-C2CE-C2D4",
+      "source_cpu": 246478,
+      "end_cpu": 246484,
+      "source_hex": "2a2b2c2d2a2b",
+      "japanese": "ＵＶＷＸＵＶ",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 246478,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 50
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    },
+    {
+      "id": "menu-03-C2D5-C2DB",
+      "source_cpu": 246485,
+      "end_cpu": 246491,
+      "source_hex": "2a2b2a2b2c2d",
+      "japanese": "ＵＶＵＶＷＸ",
+      "source_line_pixel_widths": [
+        48
+      ],
+      "source_root": 246485,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 51
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    },
+    {
+      "id": "menu-03-C492-C49A",
+      "source_cpu": 246930,
+      "end_cpu": 246938,
+      "source_hex": "2c2d2a2b2a2b2a2b",
+      "japanese": "ＷＸＵＶＵＶＵＶ",
+      "source_line_pixel_widths": [
+        64
+      ],
+      "source_root": 246930,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 63
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    },
+    {
+      "id": "menu-03-C49B-C4A3",
+      "source_cpu": 246939,
+      "end_cpu": 246947,
+      "source_hex": "2a2b2c2d2a2b2a2b",
+      "japanese": "ＵＶＷＸＵＶＵＶ",
+      "source_line_pixel_widths": [
+        64
+      ],
+      "source_root": 246939,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 64
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    },
+    {
+      "id": "menu-03-C4A4-C4AC",
+      "source_cpu": 246948,
+      "end_cpu": 246956,
+      "source_hex": "2a2b2a2b2c2d2a2b",
+      "japanese": "ＵＶＵＶＷＸＵＶ",
+      "source_line_pixel_widths": [
+        64
+      ],
+      "source_root": 246948,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 65
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    },
+    {
+      "id": "menu-03-C4AD-C4B5",
+      "source_cpu": 246957,
+      "end_cpu": 246965,
+      "source_hex": "2a2b2a2b2a2b2c2d",
+      "japanese": "ＵＶＵＶＵＶＷＸ",
+      "source_line_pixel_widths": [
+        64
+      ],
+      "source_root": 246957,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 66
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    },
+    {
+      "id": "menu-03-C654-C657",
+      "source_cpu": 247380,
+      "end_cpu": 247383,
+      "source_hex": "28f33d",
+      "japanese": "Ｓ\n）",
+      "source_line_pixel_widths": [
+        8,
+        8
+      ],
+      "source_root": 247380,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 75
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    },
+    {
+      "id": "menu-03-C658-C65B",
+      "source_cpu": 247384,
+      "end_cpu": 247387,
+      "source_hex": "3ef33f",
+      "japanese": "「\n」",
+      "source_line_pixel_widths": [
+        8,
+        8
+      ],
+      "source_root": 247384,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 76
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    },
+    {
+      "id": "menu-03-C65C-C65F",
+      "source_cpu": 247388,
+      "end_cpu": 247391,
+      "source_hex": "40f341",
+      "japanese": "ぁ\nあ",
+      "source_line_pixel_widths": [
+        8,
+        8
+      ],
+      "source_root": 247388,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 77
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    },
+    {
+      "id": "menu-03-C660-C669",
+      "source_cpu": 247392,
+      "end_cpu": 247401,
+      "source_hex": "f100a03ff33ef10020",
+      "japanese": "愛ケ」\n「愛Ｋ",
+      "source_line_pixel_widths": [
+        28,
+        28
+      ],
+      "source_root": 247392,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 78
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    },
+    {
+      "id": "menu-03-C66A-C673",
+      "source_cpu": 247402,
+      "end_cpu": 247411,
+      "source_hex": "f100a041f340f10020",
+      "japanese": "愛ケあ\nぁ愛Ｋ",
+      "source_line_pixel_widths": [
+        28,
+        28
+      ],
+      "source_root": 247402,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 79
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    },
+    {
+      "id": "menu-03-C7BF-C7C1",
+      "source_cpu": 247743,
+      "end_cpu": 247745,
+      "source_hex": "2a2b",
+      "japanese": "ＵＶ",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 247743,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 87
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    },
+    {
+      "id": "menu-03-C7C2-C7C4",
+      "source_cpu": 247746,
+      "end_cpu": 247748,
+      "source_hex": "2c2d",
+      "japanese": "ＷＸ",
+      "source_line_pixel_widths": [
+        16
+      ],
+      "source_root": 247746,
+      "translation": "",
+      "root_aliases": [
+        {
+          "group": 0,
+          "entry": 88
+        }
+      ],
+      "reason": "controller or frame tile sequences; original glyph IDs form graphics, not language"
+    }
+  ]
+}

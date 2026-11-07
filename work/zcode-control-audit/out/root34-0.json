@@ -1,0 +1,294 @@
+{
+  "id": "g34/e000",
+  "group": 34,
+  "entry": 0,
+  "bank": 9,
+  "start": 33280,
+  "start_hex": "8200",
+  "cpu": "09:8200",
+  "file_offset": "0x48200",
+  "end": 33681,
+  "end_hex": "8391",
+  "byte_length": 401,
+  "complete": true,
+  "stop_reason": "FF_end",
+  "segments": [
+    [
+      33280,
+      33681
+    ]
+  ],
+  "source_contiguous": true,
+  "raw": "c5d893b73e5252c492c4a8dab966f0ece1f095f0f84a88544a8f6af3f0c2f12b5665438af12c6df12d5c45f0a6f0eb6df129f12a4bf12ff0716df3f130f10c5f3ff4fd15d9d4953ef0a56df052f053f0e6f0e74b7d8a5367f0c847658a62654345f3f1316df0a6f0eb5f693ff4fd139a933e19186df060f1324b004a888f668f578269436d3ff4fd08d9d6953e5c8b6a56656ef133f1344bf0164c584d8ae400f137886a5c8f69f3f02c4bf0606265438a676ef138476943693ff4fd12c5d893b73e7d5f6e624c8967565e52676e8d4a888fe4f35f4b3af1354a4bf0514cf1368065438a6d6ef1394a5fe4f3f010f0bdf13af13b56654e8b3ff4fd14bed3b73ecebdc4a89c11f0aaf0846df13cf0684b50625245f0b843f37e5e435f693ff4fd0391cfdc3e1918f052f13f6df140f1414b3a7d5ff06062658a6d543ff4fd18c4d8953ecebdc4a89c11f142f143f1446af065f0661500f0e1f0ec6ef1453135153ff4fd139a933ef093548f3a4943666958625e5b153ff4fd12c5d893b73ef0f6f146f05ff14ef052f053f147f1fe153fff",
+  "text": "ブライト「ここフィフスルナで数ヶ月前からさかんに<F3>発生している謎の失そう事件の調査が今回の<F3>目的だ」<F4><FD:15>リュウ「軍の戦闘部隊がまるごと消えてるっていう<F3>例の事件だな」<F4><FD:13>カイ「ＤＣの残党が　からんでんじゃないの」<F4><FD:08>リョウ「それにしては規模が大きすぎる。　彼らにそんな<F3>力が残っているとは思えないな」<F4><FD:12>ブライト「まだはっきりとしたことはわからん。<F3>だが、何かが動き始めているのは確かだ。<F3>十分注意してくれ」<F4><FD:14>ハヤト「ミノフスキ－粒子の濃度がけっこう高い<F3>みたいだな」<F4><FD:03>アムロ「ＤＣ戦争の影響が、まだ残ってるのさ」<F4><FD:18>フラウ「ミノフスキ－干渉波に反応！　機数は約１５！」<F4><FD:13>カイ「敵さん、おいでなすったぜ！」<F4><FD:12>ブライト「総員第一戦闘配備！」<FF>",
+  "glyph_count": 298,
+  "controls": [
+    {
+      "offset": 33307,
+      "cpu": "09:821B",
+      "kind": "F3",
+      "raw": "f3",
+      "text": "<F3>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33338,
+      "cpu": "09:823A",
+      "kind": "F3",
+      "raw": "f3",
+      "text": "<F3>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33345,
+      "cpu": "09:8241",
+      "kind": "F4",
+      "raw": "f4",
+      "text": "<F4>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33346,
+      "cpu": "09:8242",
+      "kind": "FD",
+      "raw": "fd15",
+      "text": "<FD:15>",
+      "params": {
+        "portrait": 21,
+        "note": "16-bit over-read, 1 byte consumed"
+      },
+      "dynamic": null
+    },
+    {
+      "offset": 33377,
+      "cpu": "09:8261",
+      "kind": "F3",
+      "raw": "f3",
+      "text": "<F3>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33388,
+      "cpu": "09:826C",
+      "kind": "F4",
+      "raw": "f4",
+      "text": "<F4>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33389,
+      "cpu": "09:826D",
+      "kind": "FD",
+      "raw": "fd13",
+      "text": "<FD:13>",
+      "params": {
+        "portrait": 19,
+        "note": "16-bit over-read, 1 byte consumed"
+      },
+      "dynamic": null
+    },
+    {
+      "offset": 33414,
+      "cpu": "09:8286",
+      "kind": "F4",
+      "raw": "f4",
+      "text": "<F4>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33415,
+      "cpu": "09:8287",
+      "kind": "FD",
+      "raw": "fd08",
+      "text": "<FD:08>",
+      "params": {
+        "portrait": 8,
+        "note": "16-bit over-read, 1 byte consumed"
+      },
+      "dynamic": null
+    },
+    {
+      "offset": 33447,
+      "cpu": "09:82A7",
+      "kind": "F3",
+      "raw": "f3",
+      "text": "<F3>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33466,
+      "cpu": "09:82BA",
+      "kind": "F4",
+      "raw": "f4",
+      "text": "<F4>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33467,
+      "cpu": "09:82BB",
+      "kind": "FD",
+      "raw": "fd12",
+      "text": "<FD:12>",
+      "params": {
+        "portrait": 18,
+        "note": "16-bit over-read, 1 byte consumed"
+      },
+      "dynamic": null
+    },
+    {
+      "offset": 33491,
+      "cpu": "09:82D3",
+      "kind": "F3",
+      "raw": "f3",
+      "text": "<F3>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33515,
+      "cpu": "09:82EB",
+      "kind": "F3",
+      "raw": "f3",
+      "text": "<F3>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33529,
+      "cpu": "09:82F9",
+      "kind": "F4",
+      "raw": "f4",
+      "text": "<F4>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33530,
+      "cpu": "09:82FA",
+      "kind": "FD",
+      "raw": "fd14",
+      "text": "<FD:14>",
+      "params": {
+        "portrait": 20,
+        "note": "16-bit over-read, 1 byte consumed"
+      },
+      "dynamic": null
+    },
+    {
+      "offset": 33559,
+      "cpu": "09:8317",
+      "kind": "F3",
+      "raw": "f3",
+      "text": "<F3>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33566,
+      "cpu": "09:831E",
+      "kind": "F4",
+      "raw": "f4",
+      "text": "<F4>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33567,
+      "cpu": "09:831F",
+      "kind": "FD",
+      "raw": "fd03",
+      "text": "<FD:03>",
+      "params": {
+        "portrait": 3,
+        "note": "16-bit over-read, 1 byte consumed"
+      },
+      "dynamic": null
+    },
+    {
+      "offset": 33596,
+      "cpu": "09:833C",
+      "kind": "F4",
+      "raw": "f4",
+      "text": "<F4>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33597,
+      "cpu": "09:833D",
+      "kind": "FD",
+      "raw": "fd18",
+      "text": "<FD:18>",
+      "params": {
+        "portrait": 24,
+        "note": "16-bit over-read, 1 byte consumed"
+      },
+      "dynamic": null
+    },
+    {
+      "offset": 33633,
+      "cpu": "09:8361",
+      "kind": "F4",
+      "raw": "f4",
+      "text": "<F4>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33634,
+      "cpu": "09:8362",
+      "kind": "FD",
+      "raw": "fd13",
+      "text": "<FD:13>",
+      "params": {
+        "portrait": 19,
+        "note": "16-bit over-read, 1 byte consumed"
+      },
+      "dynamic": null
+    },
+    {
+      "offset": 33654,
+      "cpu": "09:8376",
+      "kind": "F4",
+      "raw": "f4",
+      "text": "<F4>",
+      "params": {},
+      "dynamic": null
+    },
+    {
+      "offset": 33655,
+      "cpu": "09:8377",
+      "kind": "FD",
+      "raw": "fd12",
+      "text": "<FD:12>",
+      "params": {
+        "portrait": 18,
+        "note": "16-bit over-read, 1 byte consumed"
+      },
+      "dynamic": null
+    },
+    {
+      "offset": 33680,
+      "cpu": "09:8390",
+      "kind": "FF",
+      "raw": "ff",
+      "text": "<FF>",
+      "params": {},
+      "dynamic": null
+    }
+  ],
+  "refs": [],
+  "dynamic": [],
+  "unknown_glyphs": [],
+  "reencode_ok": true,
+  "status": "complete",
+  "aliases": []
+}

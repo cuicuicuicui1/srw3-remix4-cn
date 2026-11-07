@@ -1,0 +1,8 @@
+{
+  "status": "pass",
+  "model_scope": "actual 65816 hook instructions; M/X=16 native ABI; existing model plus local BIT dp implementation; not PPU timing or natural gameplay proof",
+  "cases": 17805,
+  "max_root_hook_instructions": 431,
+  "rom_sha256": "bcde4e317f945b23c4ceac6bca89e6725812eb94e53d3cd51cc0e09e0dd608cd",
+  "model_sha256": "6fad6945f60d58c840f9699f2c76a0fe06df1df0b446daa4ca743a0cfa580b8e"
+}

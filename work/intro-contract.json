@@ -1,0 +1,202 @@
+{
+  "id": "group34-0",
+  "source_offset": 295424,
+  "source_end": 295825,
+  "source_bank": 9,
+  "source_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "raw_hex": "c5d893b73e5252c492c4a8dab966f0ece1f095f0f84a88544a8f6af3f0c2f12b5665438af12c6df12d5c45f0a6f0eb6df129f12a4bf12ff0716df3f130f10c5f3ff4fd15d9d4953ef0a56df052f053f0e6f0e74b7d8a5367f0c847658a62654345f3f1316df0a6f0eb5f693ff4fd139a933e19186df060f1324b004a888f668f578269436d3ff4fd08d9d6953e5c8b6a56656ef133f1344bf0164c584d8ae400f137886a5c8f69f3f02c4bf0606265438a676ef138476943693ff4fd12c5d893b73e7d5f6e624c8967565e52676e8d4a888fe4f35f4b3af1354a4bf0514cf1368065438a6d6ef1394a5fe4f3f010f0bdf13af13b56654e8b3ff4fd14bed3b73ecebdc4a89c11f0aaf0846df13cf0684b50625245f0b843f37e5e435f693ff4fd0391cfdc3e1918f052f13f6df140f1414b3a7d5ff06062658a6d543ff4fd18c4d8953ecebdc4a89c11f142f143f1446af065f0661500f0e1f0ec6ef1453135153ff4fd139a933ef093548f3a4943666958625e5b153ff4fd12c5d893b73ef0f6f146f05ff14ef052f053f147f1fe153fff",
+  "tokens": [
+    {
+      "span": "intro-000"
+    },
+    {
+      "control": "f4",
+      "source_offset": 295489
+    },
+    {
+      "control": "fd15",
+      "source_offset": 295490
+    },
+    {
+      "span": "intro-001"
+    },
+    {
+      "control": "f4",
+      "source_offset": 295532
+    },
+    {
+      "control": "fd13",
+      "source_offset": 295533
+    },
+    {
+      "span": "intro-002"
+    },
+    {
+      "control": "f4",
+      "source_offset": 295558
+    },
+    {
+      "control": "fd08",
+      "source_offset": 295559
+    },
+    {
+      "span": "intro-003"
+    },
+    {
+      "control": "f4",
+      "source_offset": 295610
+    },
+    {
+      "control": "fd12",
+      "source_offset": 295611
+    },
+    {
+      "span": "intro-004"
+    },
+    {
+      "control": "f4",
+      "source_offset": 295673
+    },
+    {
+      "control": "fd14",
+      "source_offset": 295674
+    },
+    {
+      "span": "intro-005"
+    },
+    {
+      "control": "f4",
+      "source_offset": 295710
+    },
+    {
+      "control": "fd03",
+      "source_offset": 295711
+    },
+    {
+      "span": "intro-006"
+    },
+    {
+      "control": "f4",
+      "source_offset": 295740
+    },
+    {
+      "control": "fd18",
+      "source_offset": 295741
+    },
+    {
+      "span": "intro-007"
+    },
+    {
+      "control": "f4",
+      "source_offset": 295777
+    },
+    {
+      "control": "fd13",
+      "source_offset": 295778
+    },
+    {
+      "span": "intro-008"
+    },
+    {
+      "control": "f4",
+      "source_offset": 295798
+    },
+    {
+      "control": "fd12",
+      "source_offset": 295799
+    },
+    {
+      "span": "intro-009"
+    },
+    {
+      "control": "ff",
+      "source_offset": 295824
+    }
+  ],
+  "spans": [
+    {
+      "id": "intro-000",
+      "offset": 295424,
+      "end": 295489,
+      "raw_hex": "c5d893b73e5252c492c4a8dab966f0ece1f095f0f84a88544a8f6af3f0c2f12b5665438af12c6df12d5c45f0a6f0eb6df129f12a4bf12ff0716df3f130f10c5f3f",
+      "japanese": "ブライト「ここフィフスルナで数ヶ月前からさかんに\n発生している謎の失そう事件の調査が今回の\n目的だ」",
+      "translation": ""
+    },
+    {
+      "id": "intro-001",
+      "offset": 295492,
+      "end": 295532,
+      "raw_hex": "d9d4953ef0a56df052f053f0e6f0e74b7d8a5367f0c847658a62654345f3f1316df0a6f0eb5f693f",
+      "japanese": "リュウ「軍の戦闘部隊がまるごと消えてるっていう\n例の事件だな」",
+      "translation": ""
+    },
+    {
+      "id": "intro-002",
+      "offset": 295535,
+      "end": 295558,
+      "raw_hex": "9a933e19186df060f1324b004a888f668f578269436d3f",
+      "japanese": "カイ「ＤＣの残党が　からんでんじゃないの」",
+      "translation": ""
+    },
+    {
+      "id": "intro-003",
+      "offset": 295561,
+      "end": 295610,
+      "raw_hex": "d9d6953e5c8b6a56656ef133f1344bf0164c584d8ae400f137886a5c8f69f3f02c4bf0606265438a676ef138476943693f",
+      "japanese": "リョウ「それにしては規模が大きすぎる。　彼らにそんな\n力が残っているとは思えないな」",
+      "translation": ""
+    },
+    {
+      "id": "intro-004",
+      "offset": 295613,
+      "end": 295673,
+      "raw_hex": "c5d893b73e7d5f6e624c8967565e52676e8d4a888fe4f35f4b3af1354a4bf0514cf1368065438a6d6ef1394a5fe4f3f010f0bdf13af13b56654e8b3f",
+      "japanese": "ブライト「まだはっきりとしたことはわからん。\nだが、何かが動き始めているのは確かだ。\n十分注意してくれ」",
+      "translation": ""
+    },
+    {
+      "id": "intro-005",
+      "offset": 295676,
+      "end": 295710,
+      "raw_hex": "bed3b73ecebdc4a89c11f0aaf0846df13cf0684b50625245f0b843f37e5e435f693f",
+      "japanese": "ハヤト「ミノフスキ－粒子の濃度がけっこう高い\nみたいだな」",
+      "translation": ""
+    },
+    {
+      "id": "intro-006",
+      "offset": 295713,
+      "end": 295740,
+      "raw_hex": "91cfdc3e1918f052f13f6df140f1414b3a7d5ff06062658a6d543f",
+      "japanese": "アムロ「ＤＣ戦争の影響が、まだ残ってるのさ」",
+      "translation": ""
+    },
+    {
+      "id": "intro-007",
+      "offset": 295743,
+      "end": 295777,
+      "raw_hex": "c4d8953ecebdc4a89c11f142f143f1446af065f0661500f0e1f0ec6ef1453135153f",
+      "japanese": "フラウ「ミノフスキ－干渉波に反応！　機数は約１５！」",
+      "translation": ""
+    },
+    {
+      "id": "intro-008",
+      "offset": 295780,
+      "end": 295798,
+      "raw_hex": "9a933ef093548f3a4943666958625e5b153f",
+      "japanese": "カイ「敵さん、おいでなすったぜ！」",
+      "translation": ""
+    },
+    {
+      "id": "intro-009",
+      "offset": 295801,
+      "end": 295824,
+      "raw_hex": "c5d893b73ef0f6f146f05ff14ef052f053f147f1fe153f",
+      "japanese": "ブライト「総員第一戦闘配備！」",
+      "translation": ""
+    }
+  ],
+  "scope": "first native opening dialogue root; fully parsed F0-F2/F3/F4/F5/FD/FE/FF only; unknown stops",
+  "pointer_slots": [
+    "0x48000"
+  ]
+}

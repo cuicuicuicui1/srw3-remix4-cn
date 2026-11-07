@@ -1,0 +1,655 @@
+{
+  "schema": "srw3-remix4-control-contracts/v1",
+  "generated": "2026-10-27",
+  "rom": {
+    "path": "inputs/remix4-original.sfc",
+    "size": 1572864,
+    "mapper": "LoROM",
+    "sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f"
+  },
+  "scope": {
+    "reader": "01:84B0-01:8C80",
+    "text_banks": [
+      "08",
+      "09",
+      "0A",
+      "0B",
+      "0C"
+    ],
+    "not_audited": [
+      "00:C804 low-level menu drawing grammar",
+      "other game systems",
+      "WRAM contents at runtime",
+      "audio/portrait back-end semantics"
+    ]
+  },
+  "reader": {
+    "call_site": "01:85A7 JSR $8B3C",
+    "getter": "01:8B3C",
+    "dispatch": "01:85E8-01:85ED",
+    "jump_table_cpu": "01:88E4",
+    "jump_table_index": "(opcode & 0x0F) * 2; opcodes F3..FF only",
+    "initial_loader": "01:84B9-01:8504",
+    "initial_entry_global": "$0E38",
+    "initial_group_relative_to_D2D7": "$0E39",
+    "dp_pointer": "$AD/$AE/$AF = low/high/bank; [dp],Y reads one byte when M=8 or a word when M=16",
+    "getter_contract": "If $0E30 != 0: decrement $0E30 and return 0. Else if $0E2F != 0: decrement $0E2F, read one byte from the $00AB13 ring buffer, return it. Else read [dp],Y, increment $AD by 1, return one byte. Evidence 01:8B3C-01:8B6C.",
+    "dp_state": {
+      "$AD/$AE/$AF": "text pointer low/high/bank",
+      "$0E2E": "F6 subcall stack byte offset, +3 per call, -3 per FF pop",
+      "$0E2F/$0E30": "delay counters consumed by getter 01:8B3C",
+      "$0E31": "wait/frame counter set to 0x1E by 01:897E",
+      "$0E32/$0E33/$0E34/$0E35": "line/page counters and flags used by 01:85F0, 01:862C, 01:8772",
+      "$0E1F/$0E21": "F6 return stack: pointer low/high at $0E1F+X/$0E20+X, caller bank at $0E21+X; $0E2E is X-3 after push. FF pop restores AD/AE with a 16-bit load from $0E22+X and restores AE/AF with an overlapping 16-bit load from $0E23+X.",
+      "$0E38/$0E39": "initial entry and main-group-relative index used at 01:84B9-01:84E5"
+    }
+  },
+  "dispatch_table_01_88E4": {
+    "cpu": "01:88E4",
+    "width": 2,
+    "entries": 16,
+    "index": "opcode & 0x0F",
+    "codes": {
+      "F3": "866A",
+      "F4": "866D",
+      "F5": "8689",
+      "F6": "86BF",
+      "F7": "8719",
+      "F8": "8731",
+      "F9": "873E",
+      "FA": "8755",
+      "FB": "8762",
+      "FC": "8772",
+      "FD": "8835",
+      "FE": "8873",
+      "FF": "8876"
+    },
+    "note": "F0/F1/F2 are consumed before this table at 01:85AF-01:85C1."
+  },
+  "opcodes": {
+    "F0": {
+      "name": "kanji_2byte_F0",
+      "param_length": {
+        "fixed": 1
+      },
+      "dpAD_effect": "+2 (opcode+1 param)",
+      "dpAE_effect": "unchanged",
+      "text_effect": "Reads the next byte with getter 01:8B3C; map key F0xx; draws via 00:C90E.",
+      "jump": null,
+      "call": null,
+      "dynamic_text": false,
+      "evidence": [
+        "01:85AF-01:85C1 (second getter read)",
+        "01:85C2-01:85E5 (draw path)"
+      ],
+      "confidence": "confirmed"
+    },
+    "F1": {
+      "name": "kanji_2byte_F1",
+      "param_length": {
+        "fixed": 1
+      },
+      "dpAD_effect": "+2 (opcode+1 param)",
+      "dpAE_effect": "unchanged",
+      "text_effect": "Reads the next byte with getter 01:8B3C; map key F1xx; draws via 00:C90E.",
+      "jump": null,
+      "call": null,
+      "dynamic_text": false,
+      "evidence": [
+        "01:85AF-01:85C1",
+        "01:85C2-01:85E5"
+      ],
+      "confidence": "confirmed"
+    },
+    "F2": {
+      "name": "kanji_2byte_F2",
+      "param_length": {
+        "fixed": 1
+      },
+      "dpAD_effect": "+2 (opcode+1 param)",
+      "dpAE_effect": "unchanged",
+      "text_effect": "Reads the next byte with getter 01:8B3C; map key F2xx; draws via 00:C90E.",
+      "jump": null,
+      "call": null,
+      "dynamic_text": false,
+      "evidence": [
+        "01:85AF-01:85C1",
+        "01:85C2-01:85E5"
+      ],
+      "confidence": "confirmed"
+    },
+    "F3": {
+      "name": "newline",
+      "param_length": {
+        "fixed": 0
+      },
+      "dpAD_effect": "+0",
+      "dpAE_effect": "unchanged",
+      "text_effect": "JMP 01:85F0; commits the line and updates page/line counters.",
+      "jump": null,
+      "call": null,
+      "dynamic_text": false,
+      "evidence": [
+        "01:88E4 table entry F3 -> 01:866A",
+        "01:866A JMP 01:85F0",
+        "01:85F0-01:8667"
+      ],
+      "confidence": "confirmed"
+    },
+    "F4": {
+      "name": "wait_or_page",
+      "param_length": {
+        "fixed": 0
+      },
+      "dpAD_effect": "+0",
+      "dpAE_effect": "unchanged",
+      "text_effect": "JSL 00:CCC8; flush pending line; set bit $4000 in $0E34; JML 01:83A8 (yield). No operand.",
+      "jump": null,
+      "call": null,
+      "dynamic_text": false,
+      "evidence": [
+        "01:866D-01:8686"
+      ],
+      "confidence": "confirmed"
+    },
+    "F5": {
+      "name": "delay",
+      "param_length": {
+        "fixed": 1,
+        "params": [
+          "delay"
+        ]
+      },
+      "dpAD_effect": "+1",
+      "dpAE_effect": "unchanged",
+      "text_effect": "Writes delay counters. p1 in 01..7F: $0E2F=p1. p1==0: $0E2F=next $00AB13 byte. p1>=80: $0E30=(p1&7F) or next $00AB13 if zero; $0E2F=next $00AB13; $0E30-=$0E2F. Getter 01:8B3C then counts these down. Exact random source is the WRAM $0200 ring buffer at 00:AB13, not proven to be uniformly random.",
+      "jump": null,
+      "call": null,
+      "dynamic_text": true,
+      "evidence": [
+        "01:8689-01:86BC",
+        "01:8B3C-01:8B6C",
+        "00:AB13-00:AB2A"
+      ],
+      "confidence": "confirmed",
+      "dynamic_reason": "p1==0 or p1>=80 consumes bytes from WRAM $0200 ring buffer"
+    },
+    "F6": {
+      "name": "subcall",
+      "param_length": {
+        "fixed": 2,
+        "params": [
+          "entry",
+          "global_group"
+        ]
+      },
+      "dpAD_effect": "AD = word at root+entry*2",
+      "dpAE_effect": "AE = root bank byte",
+      "text_effect": "Pushes return AD+2 (low/high) and caller bank (3 bytes), then loads target from 00:D277+3*group: target bank is byte 2, entry pointer is word at root+entry*2. FF in entry or group is replaced by the next $00AB13 byte. Subcall returns on FF via 01:8876; the return path restores AD, AE and AF (bank) via overlapping 16-bit loads.",
+      "jump": {
+        "kind": "subroutine",
+        "target": "directory[group].root[entry]",
+        "bank": "directory[group].bank"
+      },
+      "call": "01:8B3C-style text entry (not a JSR); FF returns",
+      "dynamic_text": true,
+      "evidence": [
+        "01:86BF-01:8716",
+        "01:8876-01:8892",
+        "00:D277 directory"
+      ],
+      "confidence": "confirmed",
+      "dynamic_reason": "0xFF in entry and/or group is replaced by WRAM $0200 ring bytes",
+      "relocation_warning": "Operands are logical (entry, group), not absolute. Relocate by changing the 00:D277 directory root/bank, not the F6 bytes. The FF return path restores the caller bank (overlapping 16-bit load at 01:888B), so cross-bank F6 calls are supported by the engine."
+    },
+    "F7": {
+      "name": "random_branch",
+      "param_length": {
+        "expression": "1 + 2*count",
+        "params": [
+          "count",
+          "count x 16-bit same-bank targets"
+        ]
+      },
+      "dpAD_effect": "AD = selected target word",
+      "dpAE_effect": "unchanged",
+      "text_effect": "count byte at dpAD; JSL 00:AE06(count) returns an index; target = word at dpAD+1+2*index. No fall-through. Targets are absolute 16-bit offsets in the current bank.",
+      "jump": {
+        "kind": "random_branch",
+        "target": "count 16-bit words after count byte",
+        "bank": "current bank (dpAE)"
+      },
+      "call": null,
+      "dynamic_text": false,
+      "evidence": [
+        "01:8719-01:872E",
+        "00:AE06-00:AE2C"
+      ],
+      "confidence": "confirmed",
+      "constraints": "Observed counts are small. Because 01:8719 enters with SEP #$30 and 01:8726 only REP #$20, Y remains 8-bit; count > 127 can wrap the target index. Treat as undefined/unknown.",
+      "relocation_warning": "Each target is a 16-bit same-bank absolute address. If text moves, every target word must be adjusted by the same in-bank delta; if the bank changes, all targets must be rewritten or kept in the original bank."
+    },
+    "F8": {
+      "name": "secondary_dispatch",
+      "param_length": {
+        "fixed": 3,
+        "params": [
+          "p1=subfunction",
+          "p2",
+          "p3"
+        ],
+        "valid_subfunctions": "0..7"
+      },
+      "dpAD_effect": "+3, or AD=target for sub 6/7",
+      "dpAE_effect": "unchanged",
+      "text_effect": "p1 indexes 01:8904 (8 entries). Sub 0..5 only advances AD by 3 (two opaque bytes). Sub 6/7 read external 04:8000 state; if external word bit15 is set, AD = p2|p3<<8, else AD += 3. No fall-through on the branch path.",
+      "jump": {
+        "kind": "secondary",
+        "table": "01:8904",
+        "entries": 8,
+        "index": "p1"
+      },
+      "call": null,
+      "dynamic_text": false,
+      "evidence": [
+        "01:8731-01:873B",
+        "01:8904-01:8913",
+        "01:8948",
+        "01:8A9A-01:8AE8",
+        "01:8AEB-01:8B39"
+      ],
+      "confidence": "confirmed",
+      "constraints": "p1 >= 8 indexes beyond the 8-word table (into the F9 table); undefined. Stop, do not guess."
+    },
+    "F9": {
+      "name": "dual_form_jump_or_secondary",
+      "param_length": {
+        "conditional": true,
+        "forms": {
+          "p2>=0x80": {
+            "length": 2,
+            "meaning": "absolute jump to p1|p2<<8"
+          },
+          "p2<=7": {
+            "length": 4,
+            "params": [
+              "p1",
+              "p2=subfunction",
+              "p3",
+              "p4"
+            ],
+            "meaning": "conditional absolute branch; target p3|p4<<8"
+          },
+          "p2 8..11": {
+            "length": 1,
+            "meaning": "set wait 0x1E, then reprocess p2 as the next text byte"
+          },
+          "p2 12..15": {
+            "length": 1,
+            "meaning": "dynamic unit text from group p2, then reprocess p2 as the next text byte"
+          },
+          "p2 16..127": {
+            "length": null,
+            "meaning": "undefined table overrun; stop"
+          }
+        }
+      },
+      "dpAD_effect": "AD=target (jump/branch) or +1/+4; AE unchanged for static targets",
+      "dpAE_effect": "unchanged for static targets; dynamic 8A08 loads directory bank",
+      "text_effect": "First reads a 16-bit word W=p1|(p2<<8). If bit15 is set, W is an absolute same-bank jump target. Otherwise p2 selects 01:8914 (16 entries). Sub 0..3 branch to p3|p4<<8 when condition bit is clear; sub 4..7 branch when set. Sub 8..11 set $0E31=0x1E and consume only p1. Sub 12..15 generate a runtime unit-name index and load group p2 from 00:D277; consume only p1.",
+      "jump": {
+        "kind": "absolute_jump_or_conditional",
+        "table": "01:8914",
+        "entries": 16
+      },
+      "call": null,
+      "dynamic_text": true,
+      "evidence": [
+        "01:873E-01:8752",
+        "01:8914-01:8933",
+        "01:8953-01:8966",
+        "01:8969-01:897B",
+        "01:897E-01:8989",
+        "01:89CF-01:89DD",
+        "01:89DF-01:8A05",
+        "01:8A08-01:8A4C",
+        "01:8A4F-01:8A78",
+        "01:8A7B-01:8A97"
+      ],
+      "confidence": "confirmed",
+      "dynamic_reason": "p2 12..15 use unit/state-dependent entries",
+      "relocation_warning": "p2>=80 jump target and p3/p4 conditional target are absolute 16-bit same-bank addresses; relocate every such word. p2 12..15 dynamic target is resolved at runtime from 00:D277 and is not in the text stream."
+    },
+    "FA": {
+      "name": "secondary_dispatch_shared_table",
+      "param_length": {
+        "fixed": 1,
+        "params": [
+          "p1=subfunction"
+        ],
+        "valid_subfunctions": "0..7"
+      },
+      "dpAD_effect": "+1; p2 is then processed as the next text byte",
+      "dpAE_effect": "unchanged (dynamic path may load directory bank)",
+      "text_effect": "p1 indexes 01:8924, which is shared with F9 entries 8..15. Sub 0..3 set wait 0x1E and consume only p1. Sub 4..7 generate a runtime unit-name index and call 8A08, but this path does NOT initialize DP $01; the group is unknown/stale. The selector byte p2 is intentionally left in the stream and processed next.",
+      "jump": {
+        "kind": "secondary",
+        "table": "01:8924",
+        "entries": 8,
+        "index": "p1"
+      },
+      "call": null,
+      "dynamic_text": true,
+      "evidence": [
+        "01:8755-01:875F",
+        "01:8924-01:8933 (shared F9[8..15])",
+        "01:897E-01:8989",
+        "01:89CF-01:8A05",
+        "01:8A08-01:8A4C"
+      ],
+      "confidence": "confirmed",
+      "dynamic_reason": "sub 4..7 call dynamic unit text with DP $01 provenance unknown",
+      "constraints": "p1 >= 8 indexes beyond the 8-word shared table; undefined. Stop. FA has no p2>=80 jump form."
+    },
+    "FB": {
+      "name": "secondary_condition_or_side_effect",
+      "param_length": {
+        "fixed": 2,
+        "params": [
+          "p1",
+          "p2=subfunction"
+        ],
+        "valid_subfunctions": "0..9"
+      },
+      "dpAD_effect": "+2",
+      "dpAE_effect": "unchanged",
+      "text_effect": "p2 indexes 01:8934 (10 entries). Sub 0..3 clear a condition bit at WRAM $101B via 00:9FEA. Sub 4..7 set it via 00:9FC8. Sub 8 stores p1 to DP $8C. Sub 9 sends p1 (and 0xF4 if p1<0xF0) to 00:DB97 and clears bit 6 of DP $C3. Condition id = p1 | ((p2&3)<<8).",
+      "jump": {
+        "kind": "secondary",
+        "table": "01:8934",
+        "entries": 10,
+        "index": "p2"
+      },
+      "call": null,
+      "dynamic_text": false,
+      "evidence": [
+        "01:8762-01:876F",
+        "01:8934-01:8947",
+        "01:898C-01:899D",
+        "01:89A0-01:89A9",
+        "01:89AB-01:89B3",
+        "01:89B5-01:89CD",
+        "00:9F9C",
+        "00:9FC8",
+        "00:9FEA",
+        "00:DB97"
+      ],
+      "confidence": "confirmed",
+      "constraints": "p2 >= 10 indexes beyond the table; undefined. FB has no p2>=80 jump form."
+    },
+    "FC": {
+      "name": "clear_page",
+      "param_length": {
+        "fixed": 0
+      },
+      "dpAD_effect": "+0",
+      "dpAE_effect": "unchanged",
+      "text_effect": "JSL 00:CCC8; flush pending line; set up VRAM address from $0E34/$0E33; reset $0E32/$0E1C; clear tilemap region at $7F8000; JML 01:83A8. No operand.",
+      "jump": null,
+      "call": null,
+      "dynamic_text": false,
+      "evidence": [
+        "01:8772-01:8832"
+      ],
+      "confidence": "confirmed"
+    },
+    "FD": {
+      "name": "portrait",
+      "param_length": {
+        "fixed": 1,
+        "params": [
+          "portrait_id"
+        ]
+      },
+      "dpAD_effect": "+1",
+      "dpAE_effect": "unchanged",
+      "text_effect": "Handler loads a 16-bit word at dpAD (01:883C / 01:885C) but advances DP by only one byte (01:884E / 01:886E). The second byte is therefore NOT an FD operand; it is the next text byte. Use only the low byte as portrait_id; the high-byte over-read is ignored/unconsumed.",
+      "jump": null,
+      "call": null,
+      "dynamic_text": false,
+      "evidence": [
+        "01:8835-01:8856",
+        "01:8859-01:8870"
+      ],
+      "confidence": "confirmed",
+      "unknown_note": "Whether 00:A17C/02:F85D ignore the over-read high byte is not fully audited; observed data and the +1 DP advance imply 1-byte operand."
+    },
+    "FE": {
+      "name": "noop",
+      "param_length": {
+        "fixed": 0
+      },
+      "dpAD_effect": "+0",
+      "dpAE_effect": "unchanged",
+      "text_effect": "JMP 01:858D. No operand, no draw, no wait.",
+      "jump": null,
+      "call": null,
+      "dynamic_text": false,
+      "evidence": [
+        "01:8873-01:8875"
+      ],
+      "confidence": "confirmed"
+    },
+    "FF": {
+      "name": "return_or_end",
+      "param_length": {
+        "fixed": 0
+      },
+      "dpAD_effect": "if stack: AD = popped pointer; else end",
+      "dpAE_effect": "if stack: AE and AF restored from overlapping 16-bit load $0E23,X; else end",
+      "text_effect": "If $0E2E != 0: decrement by 3, restore AD from $0E22,X, restore AE/AF from $0E23,X (16-bit overlap includes bank), jump 01:858D. Else JSL 00:CCC8, flush, JML 01:83AB (end of entry).",
+      "jump": null,
+      "call": null,
+      "dynamic_text": false,
+      "evidence": [
+        "01:8876-01:8892",
+        "01:8895-01:88A7",
+        "01:86C1-01:86DB"
+      ],
+      "confidence": "confirmed",
+      "relocation_warning": "The saved F6 caller bank is restored by the overlapping 16-bit load at 01:888B-01:888E. Cross-bank F6 calls are safe as long as the 8-bit stack offset does not wrap."
+    }
+  },
+  "secondary_tables": {
+    "F8": {
+      "cpu": "01:8904",
+      "entries": 8,
+      "index": "p1 (0..7)",
+      "subfunctions": {
+        "0..5": {
+          "handler": "01:8948",
+          "payload_after_opcode": 3,
+          "effect": "AD += 3; p2/p3 are opaque; no jump/call/dynamic text",
+          "confidence": "confirmed length; semantics of p2/p3 unknown"
+        },
+        "6": {
+          "handler": "01:8A9A",
+          "payload_after_opcode": 3,
+          "effect": "select unit id via $0F1E bit0 and DP $E7 bit7 ($0F24/$0F23), read 04:8000 word, dereference bank 04, test bit15 of the 16-bit word at external_record+1: set -> AD=p2|p3<<8, clear -> AD+=3",
+          "target_bank": "current bank",
+          "confidence": "control flow confirmed; external table meaning unknown"
+        },
+        "7": {
+          "handler": "01:8AEB",
+          "payload_after_opcode": 3,
+          "effect": "same as sub 6 with $0F23/$0F24 selection swapped",
+          "target_bank": "current bank",
+          "confidence": "control flow confirmed; external table meaning unknown"
+        }
+      },
+      "out_of_range": "p1 >= 8 reads 16-bit words beyond 01:8913 into the F9 table; undefined, stop."
+    },
+    "F9": {
+      "cpu": "01:8914",
+      "entries": 16,
+      "index": "p2 for p2<0x80",
+      "word_form": "p2>=0x80: W=p1|p2<<8 is an absolute same-bank jump target; length 2; no table lookup (01:8743 BMI -> 01:8750).",
+      "subfunctions": {
+        "0..3": {
+          "handler": "01:8953",
+          "payload_after_opcode": 4,
+          "condition": "id = p1 | ((p2&3)<<8); 00:9F9C returns carry=bit set",
+          "effect": "carry clear -> AD=p3|p4<<8; carry set -> AD+=4",
+          "target_bank": "current bank"
+        },
+        "4..7": {
+          "handler": "01:8969",
+          "payload_after_opcode": 4,
+          "condition": "same id; 00:9F9C",
+          "effect": "carry set -> AD=p3|p4<<8; carry clear -> AD+=4",
+          "target_bank": "current bank"
+        },
+        "8..11": {
+          "handler": "01:897E",
+          "payload_after_opcode": 1,
+          "effect": "set $0E31=0x1E; AD+=1; then p2 (8..11) is processed as the next byte",
+          "confidence": "confirmed"
+        },
+        "12": {
+          "handler": "01:89CF",
+          "payload_after_opcode": 1,
+          "effect": "dynamic text: entry=$1586[$0E82], code=0x11xx; group=p2=12 via 8A08; AD/AE=directory target; then p2 is processed",
+          "dynamic": true
+        },
+        "13": {
+          "handler": "01:89DF",
+          "payload_after_opcode": 1,
+          "effect": "dynamic text: select unit via $0F1E/DP $E7/$0F23/$0F24, entry=$1586[unit], code=0x11xx; group=p2=13",
+          "dynamic": true
+        },
+        "14": {
+          "handler": "01:8A4F",
+          "payload_after_opcode": 1,
+          "effect": "dynamic text: select unit (swapped), entry=$1606[unit], code=0x12xx; group=p2=14",
+          "dynamic": true
+        },
+        "15": {
+          "handler": "01:8A7B",
+          "payload_after_opcode": 1,
+          "effect": "dynamic text: value=$0E8E or $0E90 (if $0F1E bit7), mask 0x03FF, code=0x13xx; group=p2=15",
+          "dynamic": true
+        }
+      },
+      "out_of_range": "p2 16..127 indexes beyond the 16-word table; undefined, stop."
+    },
+    "FA": {
+      "cpu": "01:8924",
+      "entries": 8,
+      "index": "p1",
+      "note": "This table is byte-for-byte the same as F9 entries 8..15.",
+      "subfunctions": {
+        "0..3": {
+          "handler": "01:897E",
+          "payload_after_opcode": 1,
+          "effect": "set $0E31=0x1E; AD+=1; p2 processed next"
+        },
+        "4": {
+          "handler": "01:89CF",
+          "payload_after_opcode": 1,
+          "effect": "dynamic unit text; group comes from DP $01, which FA does NOT initialize; unknown/stale"
+        },
+        "5": {
+          "handler": "01:89DF",
+          "payload_after_opcode": 1,
+          "effect": "dynamic unit text; group from DP $01 unknown; selection via $0F1E/DP $E7"
+        },
+        "6": {
+          "handler": "01:8A4F",
+          "payload_after_opcode": 1,
+          "effect": "dynamic unit text; group from DP $01 unknown; entry=$1606[selected]"
+        },
+        "7": {
+          "handler": "01:8A7B",
+          "payload_after_opcode": 1,
+          "effect": "dynamic unit text; group from DP $01 unknown; entry from $0E8E/$0E90"
+        }
+      },
+      "out_of_range": "p1 >= 8 indexes beyond the 8-word table; undefined, stop. There is no high-bit jump form."
+    },
+    "FB": {
+      "cpu": "01:8934",
+      "entries": 10,
+      "index": "p2",
+      "subfunctions": {
+        "0..3": {
+          "handler": "01:898C",
+          "payload_after_opcode": 2,
+          "effect": "condition id=p1|((p2&3)<<8); 00:9FEA clears bit at WRAM $101B; AD+=2"
+        },
+        "4..7": {
+          "handler": "01:89A0",
+          "payload_after_opcode": 2,
+          "effect": "same id; 00:9FC8 sets bit at WRAM $101B; AD+=2"
+        },
+        "8": {
+          "handler": "01:89AB",
+          "payload_after_opcode": 2,
+          "effect": "DP $8C = p1 (8-bit); AD+=2; meaning unknown"
+        },
+        "9": {
+          "handler": "01:89B5",
+          "payload_after_opcode": 2,
+          "effect": "00:DB97(p1); if p1<0xF0 also 00:DB97(0xF4); clear bit 6 of DP $C3; AD+=2; exact side effect unknown"
+        }
+      },
+      "out_of_range": "p2 >= 10 indexes beyond the 10-word table; undefined, stop. There is no high-bit jump form."
+    }
+  },
+  "directory": {
+    "cpu": "00:D277",
+    "file_offset": "0x005277",
+    "format": "48 entries x 3 bytes: 16-bit table root (same bank) + bank byte",
+    "main_group_first": 32,
+    "main_group_last": 47,
+    "main_group_base_cpu": "00:D2D7 (D277+0x60)",
+    "initial_loader": "01:84B9-01:8504 uses $0E39 relative to D2D7; F6 uses the global group value directly against D277",
+    "table_entry_format": "16-bit offset within the directory root bank; text target = root_bank:(word at root+entry*2)",
+    "observed_root_tables": {
+      "32": "08:8000 (64 entries inferred; slots 38..63 point at 08:831E, the group-33 table, and were not extracted as text)",
+      "33": "08:831E (177 entries inferred)",
+      "34": "09:8000 (256 entries inferred; slots 248..254 point at 09:CA78, the group-35 table; slot 255 is zero)",
+      "35": "09:CA78 (256; slot 255 zero)",
+      "36": "0A:8000 (256; slot 255 zero)",
+      "37": "0A:BBCA (256; slot 255 zero)",
+      "38": "0B:8000 (256; slots 177..254 point at 0B:AC60, the group-39 table; slot 255 zero)",
+      "39": "0B:AC60 (256; slots 251..254 point at 0B:E1A3, group-44 table; slot 255 zero)",
+      "40": "0C:DF32 (177)",
+      "41": "08:8000 (same table as group 32)",
+      "42": "08:8000 (same table as group 32)",
+      "43": "08:9293 (80; slots 70..79 point at 08:9AF6, group-46 table)",
+      "44": "0B:E1A3 (256; slot 255 zero)",
+      "45": "0B:F3AF (144)",
+      "46": "08:9AF6 (256; slots 251..254 point at 08:D00F, group-47 table; slot 255 zero)",
+      "47": "08:D00F (256; slot 255 zero)"
+    },
+    "length_inference": "Table end = minimum nonzero entry pointer; verified every nonzero word before that address is >= it. This is a layout inference, not proof that every slot is used or that all slots are text. Zero slots and slots pointing into another root table were rejected."
+  },
+  "relocation_rules": [
+    "F7 target words, F9 p2>=80 jump words, F9 sub 0..7 p3/p4 words, and F8 sub 6/7 p2/p3 words are 16-bit same-bank absolute addresses. They contain no bank byte. If text moves within the bank, adjust every such word by the same delta. If text moves to another bank, rewrite the target or keep the target in the original bank; otherwise execution jumps to the old offset in the new bank.",
+    "F6 operands are (entry, global group), not addresses. Relocate F6 by updating the 00:D277 directory root pointer/bank (or the root table entry), not by editing the two F6 operand bytes, unless the logical entry/group assignment changes.",
+    "F6 pushes return pointer + caller bank (01:86C1-01:86DB). FF restores AD from $0E22,X and restores AE plus AF (bank) from the overlapping 16-bit load at $0E23,X (01:8886-01:888E). Cross-bank F6 calls are therefore supported; still do not relocate a callee without updating the directory/root entry it is reached through.",
+    "Root-table entries are 16-bit same-bank offsets. If a root table moves to another bank, the directory's bank byte must change and every entry in that table must be re-relocated. Moving only the text requires adjusting all root-table words, F7/F8/F9 target words, and any external pointers.",
+    "The initial loader 01:84D9/01:84DF reads a 24-bit directory root from 00:D2D7/D2D8; $0E39 is a 0..15 index relative to that base, not a global group.",
+    "Do not mix in the 00:C804 menu-drawing grammar. It is a different control language even though it also draws text."
+  ],
+  "unknowns": [
+    "F8 sub 0..5: the two bytes p2/p3 are only skipped by 01:8948; their meaning is not established.",
+    "F8 sub 6/7: branch mechanics are confirmed, but the 04:8000 external table, record layout, and exact game condition are not decoded.",
+    "FA sub 4..7: 01:8755 does not initialize DP $01, but 01:8A08 uses DP $01 as the directory group. The group is runtime/stale and cannot be statically resolved from the FA stream alone.",
+    "F7: 01:8719 enters with SEP #$30 and 01:8726 only REP #$20; Y remains 8-bit, so counts >127 can wrap the target index. Exact RNG behavior of 00:AE06/00:ADCF is not audited.",
+    "FD: the handler over-reads a 16-bit value but consumes one byte. The claim that the high byte is ignored by 00:A17C/02:F85D is inferred, not fully audited.",
+    "Condition bitfield WRAM $101B (00:9F9C test, 00:9FC8 set, 00:9FEA clear) is mapped mechanically; which event each condition id represents is not decoded.",
+    "F5's $00AB13 source is a WRAM $0200 ring buffer. Its contents/provenance are not audited, so 'random delay' is an inference.",
+    "FB sub 9 / 00:DB97 side effects are not named; only the writes/clears are known."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "critical_correction": {
+    "F6_return_bank": "RESTORED. Native 01:8876 executes REP #20 then LDA $0E22,X / STA $AD and LDA $0E23,X / STA $AE. Second overlapping 16-bit store writes AE and AF, restoring saved bank. Worker summary missed 16-bit store width. Do NOT patch FF return based on that claim.",
+    "evidence_bytes": "c220bd220e85adbd230e85aec2304c8d85"
+  },
+  "glyph_corrections": {
+    "F22B": "隻",
+    "F26A": "搬",
+    "F26E": "媒",
+    "F279": "誤",
+    "F28A": "訓",
+    "F2F7": "具",
+    "F266": "局",
+    "F2F2": "虜",
+    "F20E": "析",
+    "F2D6": "綱"
+  },
+  "scope": "parent independent ROM-byte and rendered-glyph/context review; worker report is not acceptance",
+  "counterexamples": "source 監査官 vs誤解/訓練/搬入/媒体/具体/捕虜/解析/要綱 validated source-context distinctions"
+}

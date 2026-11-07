@@ -1,0 +1,115 @@
+{
+  "source_rom_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "entries": [
+    {
+      "id": "0B-96DD-96EE",
+      "source_cpu": 759517,
+      "japanese": "ミ－ア「・・・ガル－ダ様・・・」",
+      "source_hex": "ce11913e3b3b3b9bda11aff0c73b3b3b3f",
+      "source_sha256": "5d25bd3279e91b443c1b914821d69e287f3a3358df73123d79f3c7ad9ce140bb",
+      "hosts": [
+        759515
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-96AD-96DA",
+      "source_cpu": 759469,
+      "japanese": "ガル－ダ「ロボットふぜいが口をはさむな、ミ－ア！！\nこれは男と男の闘いなのだ！！」",
+      "source_hex": "9bda11af3edccbb2b7745b434bf2f08e6e547f693ace11911515f3528b6ef03c67f03c6df05343696d5f15153f",
+      "source_sha256": "eff4b54b707b1ae242c56dd74be10b67186b164896394d98de196af1bb20af8c",
+      "hosts": [
+        759467
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0B-9695-96AA",
+      "source_cpu": 759445,
+      "japanese": "ミ－ア「おやめください、ガル－ダ様！！」",
+      "source_hex": "ce11913e4983804e5f54433a9bda11aff0c715153f",
+      "source_sha256": "4ef6a41db2281e55ae210fa62cb47cd4e09887058fc4f91b3e2a3c363a9164eb",
+      "hosts": [
+        759443
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0A-F453-F468",
+      "source_cpu": 717907,
+      "japanese": "プル「グレミ－はやさしくしてくれるもん！」",
+      "source_hex": "c6da3e9fdbce116e8354564e56654e8b8a818f153f",
+      "source_sha256": "38756433da720cc93e6843ca376d689cd00bc286ad3d691c70879fe3c2a24ddf",
+      "hosts": [
+        717907
+      ],
+      "translation": ""
+    },
+    {
+      "id": "0A-C101-C129",
+      "source_cpu": 704769,
+      "japanese": "ハヤト「どうやらそのようだな。　こんな時に\n何を考えてるのかね、まったく」",
+      "source_hex": "bed3b73e684583885c6d87455f69e400528f69f0386af3f1358ef16447658a6d4a6c3a7d625e4e3f",
+      "source_sha256": "72f0e3d6ef2c4a370920d70d2cbdc4c763b7c01e3b2537ab6e74bafffa103767",
+      "hosts": [
+        704767
+      ],
+      "translation": ""
+    },
+    {
+      "id": "09-B57F-B594",
+      "source_cpu": 636287,
+      "japanese": "デュ－ク「大丈夫か、ひかるさん！？」",
+      "source_hex": "b6d4119e3ef016f01ff1e94a3a714a8a548f15143f",
+      "source_sha256": "7e4b632e1788babf10ff1baddbb99b50e341014773eb6e6dd2f5296bfb29f211",
+      "hosts": [
+        636287
+      ],
+      "translation": ""
+    },
+    {
+      "id": "08-8EF5-8F04",
+      "source_cpu": 560885,
+      "japanese": "「いっけぇぇぇぇぇぇっ！！！」",
+      "source_hex": "3e436250464646464646621515153f",
+      "source_sha256": "3519427b8bc66abd592895d4b321d840cc66d135f2657defb633852851dfee96",
+      "hosts": [
+        560885
+      ],
+      "translation": ""
+    },
+    {
+      "id": "08-8DAB-8DB8",
+      "source_cpu": 560555,
+      "japanese": "「やるな・・・しかし！！」",
+      "source_hex": "3e838a693b3b3b564a5615153f",
+      "source_sha256": "69222b06917982d4c6897cf1f20c955e96736f5382fef4a93fe692ddf7e7720e",
+      "hosts": [
+        560555
+      ],
+      "translation": ""
+    },
+    {
+      "id": "08-8C03-8C15",
+      "source_cpu": 560131,
+      "japanese": "「へっ　あまいぜっ！　おちなっ！！」",
+      "source_hex": "3e776200417d435b6215004960696215153f",
+      "source_sha256": "0eeb70e52f6c43845d1cb1cb4c0d934b1f320be909b5980295dcede35a7547f4",
+      "hosts": [
+        560131
+      ],
+      "translation": ""
+    },
+    {
+      "id": "08-8B97-8BA3",
+      "source_cpu": 560023,
+      "japanese": "「わあぁぁぁぁ－っ！！」",
+      "source_hex": "3e8d4140404040116215153f",
+      "source_sha256": "ae8fb7924372a58b0dcd7881f751e86498ed8ff3cba76c696afca9205a79ccf6",
+      "hosts": [
+        560023
+      ],
+      "translation": ""
+    }
+  ]
+}

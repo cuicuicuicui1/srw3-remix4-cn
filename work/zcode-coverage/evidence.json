@@ -1,0 +1,1404 @@
+{
+  "audit": {
+    "source_rom": "inputs/remix4-original.sfc",
+    "source_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+    "snapshot_time": "2026-10-27 18:43 local",
+    "scope": "Read-only coverage-boundary audit of the 48-entry 00:D277 directory, main text groups 32..47, menu groups 0/1/2/8, name groups 16..26, and literal residue in text banks.",
+    "method": [
+      "Read the D277 3-byte directory and pointer tables.",
+      "Parsed entries with source/vendor/native_parser.py and compared against work/zcode-menu/input.json, work/name-contracts.json, work/text-graph/graph.json, and work/zcode-control-audit/out.",
+      "Scanned for FF-terminated Japanese runs in gaps not covered by known literals/tables.",
+      "Disassembled 00:C7CD-00:C874 to confirm the menu table selector and default glyph rendering."
+    ],
+    "limitations": [
+      "No emulator or runtime trace.",
+      "No dynamic WRAM/F5/F6 selector resolution.",
+      "Group 2 F7 operands are opaque and were not treated as text.",
+      "The standalone-table scan was targeted, not exhaustive.",
+      "Table lengths are layout bounds, not per-consumer proofs.",
+      "Parallel products work/zcode-extra-menu and work/zcode-extra-names appeared during this audit; they were consulted read-only to avoid reporting already-covered text as missing."
+    ]
+  },
+  "parallel_artifacts": {
+    "extra_menu": {
+      "input": "work/zcode-extra-menu/input.json",
+      "translations": "work/zcode-extra-menu/translations.json",
+      "entry_count": 50,
+      "translated_count": 50,
+      "covers_no_f4_menu_entries": 33,
+      "integrated_in_graph_009": false,
+      "scope": "pure glyph/F3/FF roots; native F5/F6/FC/FD/FE controls excluded"
+    },
+    "extra_names": {
+      "input": "work/zcode-extra-names/input.json",
+      "translations": "work/zcode-extra-names/translations.json",
+      "entry_count": 14,
+      "translations_present": true,
+      "translated_count": 14,
+      "covers_item_table_06F42F": true,
+      "integrated_in_graph_009": false,
+      "scope": "14 item names from the independent 16-slot table; translated but not integrated at audit time"
+    },
+    "mixed_menu": {
+      "input": "work/zcode-mixed-menu/input.json",
+      "translations": "work/zcode-mixed-menu/translations.json",
+      "entry_count": 18,
+      "translations_present": false,
+      "covers_native_control_menu_entries": 13,
+      "integrated_in_graph_009": false,
+      "scope": "glyph runs split around F5/F6/FC/FD/FE/FF; translation pending at audit time"
+    }
+  },
+  "build_integration": {
+    "manifest": "work/build/graph-009/manifest.json",
+    "manifest_present": true,
+    "extra_menu_batch_present": false,
+    "extra_names_batch_present": false,
+    "mixed_menu_batch_present": false,
+    "conclusion": "As of graph-009, the build accepts zcode-bulk-01..09 and the original 239 menu literals; it does not contain the parallel extra-menu, mixed-menu, or extra-names ids. Translation existence therefore does not yet imply integration."
+  },
+  "directory": {
+    "groups": [
+      {
+        "group": 0,
+        "raw_hex": "0fbb03",
+        "bank": "03",
+        "root": "BB0F",
+        "zero": false,
+        "alias_of": 3
+      },
+      {
+        "group": 1,
+        "raw_hex": "30d803",
+        "bank": "03",
+        "root": "D830",
+        "zero": false
+      },
+      {
+        "group": 2,
+        "raw_hex": "51eb03",
+        "bank": "03",
+        "root": "EB51",
+        "zero": false
+      },
+      {
+        "group": 3,
+        "raw_hex": "0fbb03",
+        "bank": "03",
+        "root": "BB0F",
+        "zero": false,
+        "alias_of": 0
+      },
+      {
+        "group": 4,
+        "raw_hex": "0fbb03",
+        "bank": "03",
+        "root": "BB0F",
+        "zero": false,
+        "alias_of": 0
+      },
+      {
+        "group": 5,
+        "raw_hex": "0fbb03",
+        "bank": "03",
+        "root": "BB0F",
+        "zero": false,
+        "alias_of": 0
+      },
+      {
+        "group": 6,
+        "raw_hex": "0fbb03",
+        "bank": "03",
+        "root": "BB0F",
+        "zero": false,
+        "alias_of": 0
+      },
+      {
+        "group": 7,
+        "raw_hex": "0fbb03",
+        "bank": "03",
+        "root": "BB0F",
+        "zero": false,
+        "alias_of": 0
+      },
+      {
+        "group": 8,
+        "raw_hex": "77bd0c",
+        "bank": "0C",
+        "root": "BD77",
+        "zero": false
+      },
+      {
+        "group": 9,
+        "raw_hex": "0fbb03",
+        "bank": "03",
+        "root": "BB0F",
+        "zero": false,
+        "alias_of": 0
+      },
+      {
+        "group": 10,
+        "raw_hex": "0fbb03",
+        "bank": "03",
+        "root": "BB0F",
+        "zero": false,
+        "alias_of": 0
+      },
+      {
+        "group": 11,
+        "raw_hex": "0fbb03",
+        "bank": "03",
+        "root": "BB0F",
+        "zero": false,
+        "alias_of": 0
+      },
+      {
+        "group": 12,
+        "raw_hex": "0fbb03",
+        "bank": "03",
+        "root": "BB0F",
+        "zero": false,
+        "alias_of": 0
+      },
+      {
+        "group": 13,
+        "raw_hex": "0fbb03",
+        "bank": "03",
+        "root": "BB0F",
+        "zero": false,
+        "alias_of": 0
+      },
+      {
+        "group": 14,
+        "raw_hex": "0fbb03",
+        "bank": "03",
+        "root": "BB0F",
+        "zero": false,
+        "alias_of": 0
+      },
+      {
+        "group": 15,
+        "raw_hex": "0fbb03",
+        "bank": "03",
+        "root": "BB0F",
+        "zero": false,
+        "alias_of": 0
+      },
+      {
+        "group": 16,
+        "raw_hex": "39d306",
+        "bank": "06",
+        "root": "D339",
+        "zero": false
+      },
+      {
+        "group": 17,
+        "raw_hex": "4eda06",
+        "bank": "06",
+        "root": "DA4E",
+        "zero": false
+      },
+      {
+        "group": 18,
+        "raw_hex": "33df06",
+        "bank": "06",
+        "root": "DF33",
+        "zero": false
+      },
+      {
+        "group": 19,
+        "raw_hex": "70e506",
+        "bank": "06",
+        "root": "E570",
+        "zero": false
+      },
+      {
+        "group": 20,
+        "raw_hex": "fcee06",
+        "bank": "06",
+        "root": "EEFC",
+        "zero": false,
+        "alias_of": 21
+      },
+      {
+        "group": 21,
+        "raw_hex": "fcee06",
+        "bank": "06",
+        "root": "EEFC",
+        "zero": false,
+        "alias_of": 20
+      },
+      {
+        "group": 22,
+        "raw_hex": "fcee06",
+        "bank": "06",
+        "root": "EEFC",
+        "zero": false,
+        "alias_of": 20
+      },
+      {
+        "group": 23,
+        "raw_hex": "def206",
+        "bank": "06",
+        "root": "F2DE",
+        "zero": false
+      },
+      {
+        "group": 24,
+        "raw_hex": "b7f606",
+        "bank": "06",
+        "root": "F6B7",
+        "zero": false
+      },
+      {
+        "group": 25,
+        "raw_hex": "cff406",
+        "bank": "06",
+        "root": "F4CF",
+        "zero": false
+      },
+      {
+        "group": 26,
+        "raw_hex": "91f506",
+        "bank": "06",
+        "root": "F591",
+        "zero": false
+      },
+      {
+        "group": 27,
+        "raw_hex": "000000",
+        "bank": "00",
+        "root": "0000",
+        "zero": true
+      },
+      {
+        "group": 28,
+        "raw_hex": "000000",
+        "bank": "00",
+        "root": "0000",
+        "zero": true
+      },
+      {
+        "group": 29,
+        "raw_hex": "000000",
+        "bank": "00",
+        "root": "0000",
+        "zero": true
+      },
+      {
+        "group": 30,
+        "raw_hex": "000000",
+        "bank": "00",
+        "root": "0000",
+        "zero": true
+      },
+      {
+        "group": 31,
+        "raw_hex": "000000",
+        "bank": "00",
+        "root": "0000",
+        "zero": true
+      },
+      {
+        "group": 32,
+        "raw_hex": "008008",
+        "bank": "08",
+        "root": "8000",
+        "zero": false,
+        "alias_of": 41
+      },
+      {
+        "group": 33,
+        "raw_hex": "1e8308",
+        "bank": "08",
+        "root": "831E",
+        "zero": false
+      },
+      {
+        "group": 34,
+        "raw_hex": "008009",
+        "bank": "09",
+        "root": "8000",
+        "zero": false
+      },
+      {
+        "group": 35,
+        "raw_hex": "78ca09",
+        "bank": "09",
+        "root": "CA78",
+        "zero": false
+      },
+      {
+        "group": 36,
+        "raw_hex": "00800a",
+        "bank": "0A",
+        "root": "8000",
+        "zero": false
+      },
+      {
+        "group": 37,
+        "raw_hex": "cabb0a",
+        "bank": "0A",
+        "root": "BBCA",
+        "zero": false
+      },
+      {
+        "group": 38,
+        "raw_hex": "00800b",
+        "bank": "0B",
+        "root": "8000",
+        "zero": false
+      },
+      {
+        "group": 39,
+        "raw_hex": "60ac0b",
+        "bank": "0B",
+        "root": "AC60",
+        "zero": false
+      },
+      {
+        "group": 40,
+        "raw_hex": "32df0c",
+        "bank": "0C",
+        "root": "DF32",
+        "zero": false
+      },
+      {
+        "group": 41,
+        "raw_hex": "008008",
+        "bank": "08",
+        "root": "8000",
+        "zero": false,
+        "alias_of": 32
+      },
+      {
+        "group": 42,
+        "raw_hex": "008008",
+        "bank": "08",
+        "root": "8000",
+        "zero": false,
+        "alias_of": 32
+      },
+      {
+        "group": 43,
+        "raw_hex": "939208",
+        "bank": "08",
+        "root": "9293",
+        "zero": false
+      },
+      {
+        "group": 44,
+        "raw_hex": "a3e10b",
+        "bank": "0B",
+        "root": "E1A3",
+        "zero": false
+      },
+      {
+        "group": 45,
+        "raw_hex": "aff30b",
+        "bank": "0B",
+        "root": "F3AF",
+        "zero": false
+      },
+      {
+        "group": 46,
+        "raw_hex": "f69a08",
+        "bank": "08",
+        "root": "9AF6",
+        "zero": false
+      },
+      {
+        "group": 47,
+        "raw_hex": "0fd008",
+        "bank": "08",
+        "root": "D00F",
+        "zero": false
+      }
+    ],
+    "alias_groups": {
+      "3-7": "group 0",
+      "9-15": "group 0",
+      "21-22": "group 20",
+      "41-42": "group 32"
+    },
+    "zero_groups": [
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "conclusion": "Every non-zero root is accounted for by a representative group; no distinct non-empty directory group is missing. Groups 3-7, 9-15, 21-22, 41-42 are aliases; 27-31 are zero."
+  },
+  "findings": {
+    "item_name_table_06F42F": {
+      "status": "identified; extra-names translations exist (14) but are not integrated in graph-009",
+      "table_root_cpu": "06:F42F",
+      "slot_count": 16,
+      "table_end_cpu": "06:F44F",
+      "text_start_cpu": "06:F44F",
+      "table_raw_hex": "4ff456f45ef465f46ef477f481f48df499f4a2f4acf4b4f4bdf4c5f4cef4cef4",
+      "context": "Immediately follows the last group 23 name text (ends 06:F42F) and immediately precedes group 25 root table 06:F4CF. Slots are monotonic; slot 0 pointer equals the table end, so this is a real 16-slot table, not a minimum-pointer guess.",
+      "parallel_input": "work/zcode-extra-names/input.json",
+      "parallel_input_entry_count": 14,
+      "parallel_translations_present": true,
+      "parallel_translation_entry_count": 14,
+      "integrated_in_graph_009": false,
+      "entries": [
+        {
+          "slot": 0,
+          "slot_cpu": "06:F42F",
+          "pointer_cpu": "06:F44F",
+          "raw_hex": "d9c991353030ff",
+          "japanese": "リペア５００<FF>",
+          "empty": false
+        },
+        {
+          "slot": 1,
+          "slot_cpu": "06:F431",
+          "pointer_cpu": "06:F456",
+          "raw_hex": "d9c99132303030ff",
+          "japanese": "リペア２０００<FF>",
+          "empty": false
+        },
+        {
+          "slot": 2,
+          "slot_cpu": "06:F433",
+          "pointer_cpu": "06:F45E",
+          "raw_hex": "d9c99122162dff",
+          "japanese": "リペアＭＡＸ<FF>",
+          "empty": false
+        },
+        {
+          "slot": 3,
+          "slot_cpu": "06:F435",
+          "pointer_cpu": "06:F465",
+          "raw_hex": "97bcda9d11c0b29eff",
+          "japanese": "エネルギ－パック<FF>",
+          "empty": false
+        },
+        {
+          "slot": 4,
+          "slot_cpu": "06:F437",
+          "pointer_cpu": "06:F46E",
+          "raw_hex": "f188f1fef0a3f062ff",
+          "japanese": "予備弾装<FF>",
+          "empty": false
+        },
+        {
+          "slot": 5,
+          "slot_cpu": "06:F439",
+          "pointer_cpu": "06:F477",
+          "raw_hex": "f075f0f7f14ef0c215ff",
+          "japanese": "気合一発！<FF>",
+          "empty": false
+        },
+        {
+          "slot": 6,
+          "slot_cpu": "06:F43B",
+          "pointer_cpu": "06:F481",
+          "raw_hex": "f103f0756d568a56313030ff",
+          "japanese": "勇気のしるし１００<FF>",
+          "empty": false
+        },
+        {
+          "slot": 7,
+          "slot_cpu": "06:F43D",
+          "pointer_cpu": "06:F48D",
+          "raw_hex": "f103f0756d568a5622162dff",
+          "japanese": "勇気のしるしＭＡＸ<FF>",
+          "empty": false
+        },
+        {
+          "slot": 8,
+          "slot_cpu": "06:F43F",
+          "pointer_cpu": "06:F499",
+          "raw_hex": "f07ff1656df0d089ff",
+          "japanese": "正義の怒り<FF>",
+          "empty": false
+        },
+        {
+          "slot": 9,
+          "slot_cpu": "06:F441",
+          "pointer_cpu": "06:F4A2",
+          "raw_hex": "f249f1986d67624e8fff",
+          "japanese": "秘密のとっくん<FF>",
+          "empty": false
+        },
+        {
+          "slot": 10,
+          "slot_cpu": "06:F443",
+          "pointer_cpu": "06:F4AC",
+          "raw_hex": "91cca7d111ae11ff",
+          "japanese": "アポジモ－タ－<FF>",
+          "empty": false
+        },
+        {
+          "slot": 11,
+          "slot_cpu": "06:F445",
+          "pointer_cpu": "06:F4B4",
+          "raw_hex": "cd9fbcb2b7a211b7ff",
+          "japanese": "マグネットコ－ト<FF>",
+          "empty": false
+        },
+        {
+          "slot": 12,
+          "slot_cpu": "06:F447",
+          "pointer_cpu": "06:F4BD",
+          "raw_hex": "f04bf0f7f0f32fff",
+          "japanese": "超合金Ｚ<FF>",
+          "empty": false
+        },
+        {
+          "slot": 13,
+          "slot_cpu": "06:F449",
+          "pointer_cpu": "06:F4C5",
+          "raw_hex": "b0d6bfcf9111cd11ff",
+          "japanese": "チョバムア－マ－<FF>",
+          "empty": false
+        },
+        {
+          "slot": 14,
+          "slot_cpu": "06:F44B",
+          "pointer_cpu": "06:F4CE",
+          "raw_hex": "ff",
+          "japanese": "<FF>",
+          "empty": true
+        },
+        {
+          "slot": 15,
+          "slot_cpu": "06:F44D",
+          "pointer_cpu": "06:F4CE",
+          "raw_hex": "ff",
+          "japanese": "<FF>",
+          "empty": true
+        }
+      ],
+      "provable_range": "16-slot 16-bit pointer table at 06:F42F; slots 0..13 point to 14 complete Japanese item names; slots 14..15 point to 06:F4CE (FF empty). Text occupies 06:F44F-06:F4CE.",
+      "unproven_range": "Call site/selector not located statically; display reachability and whether all 14 names are used require menu-code or runtime proof. Translations exist but are not yet in graph-009."
+    },
+    "menu_group_text_without_F4": {
+      "status": "all 46 identified; 33 translated via extra-menu; 13 extracted via mixed-menu but untranslated",
+      "all_no_f4_count": 46,
+      "covered_by_extra_menu_count": 33,
+      "extracted_by_mixed_menu_count": 13,
+      "unidentified_count": 0,
+      "translation_pending_count": 13,
+      "entry_count": 13,
+      "covered_by_extra_menu": {
+        "input": "work/zcode-extra-menu/input.json",
+        "translations": "work/zcode-extra-menu/translations.json",
+        "input_entry_count": 50,
+        "translated_entry_count": 50,
+        "addresses": [
+          "03:C221",
+          "03:C23A",
+          "03:C4D6",
+          "03:C4F4",
+          "03:C528",
+          "03:C55A",
+          "03:D797",
+          "03:D7AD",
+          "03:D7DC",
+          "03:DCC4",
+          "03:DCCE",
+          "03:DF6E",
+          "03:DF80",
+          "03:DF9F",
+          "03:DFAF",
+          "03:DFD6",
+          "03:DFF5",
+          "03:E6E2",
+          "03:E705",
+          "03:E810",
+          "03:E824",
+          "03:E837",
+          "03:E855",
+          "03:E869",
+          "03:E87C",
+          "03:E896",
+          "03:E8AC",
+          "03:E8C0",
+          "03:E8D8",
+          "03:E8F6",
+          "03:E912",
+          "03:E934",
+          "0C:C8A8"
+        ]
+      },
+      "covered_by_mixed_menu": {
+        "input": "work/zcode-mixed-menu/input.json",
+        "translations": "work/zcode-mixed-menu/translations.json",
+        "input_entry_count": 18,
+        "translations_present": false,
+        "addresses": [
+          "03:D38A",
+          "03:D3B2",
+          "03:D7C7",
+          "03:DB78",
+          "03:DCDC",
+          "03:DFC8",
+          "03:E2AE",
+          "03:E2C9",
+          "03:E2E2",
+          "03:E595",
+          "03:E5B0",
+          "03:E5CA",
+          "03:E5DF"
+        ]
+      },
+      "entries": [
+        {
+          "group": 0,
+          "entry": 126,
+          "root_cpu": "03:BB0F",
+          "source_cpu": "03:D38A",
+          "end_cpu": "03:D39B",
+          "raw_hex": "f07e6ddbc8da7d664167f3fc12fef585ff",
+          "japanese": "次のレベルまであと<F3><FC>―<FE><F5:85><FF>",
+          "byte_length": 17,
+          "input_literal_spans_overlapping": 0,
+          "context": "D277 group 0 entry 126; table root 03:BB0F; no F4 in entry; absent from zcode-menu/input.json",
+          "provable": "D277 group table slot points to a complete Japanese text stream; the menu renderer 00:C84B renders default-mode glyphs without requiring F4.",
+          "unproven": "Which screen/selection index invokes this slot; display reachability; mixed-menu translation and build integration are pending.",
+          "covered_by_extra_menu": false,
+          "covered_by_mixed_menu": true
+        },
+        {
+          "group": 0,
+          "entry": 129,
+          "root_cpu": "03:BB0F",
+          "source_cpu": "03:D3B2",
+          "end_cpu": "03:D3D3",
+          "raw_hex": "f069f06af06bf3fc12fef585f3fcee00f07e6ddbc8da7d664167f3fc12fef585ff",
+          "japanese": "経験値<F3><FC>―<FE><F5:85><F3><FC>P　次のレベルまであと<F3><FC>―<FE><F5:85><FF>",
+          "byte_length": 33,
+          "input_literal_spans_overlapping": 0,
+          "context": "D277 group 0 entry 129; table root 03:BB0F; no F4 in entry; absent from zcode-menu/input.json",
+          "provable": "D277 group table slot points to a complete Japanese text stream; the menu renderer 00:C84B renders default-mode glyphs without requiring F4.",
+          "unproven": "Which screen/selection index invokes this slot; display reachability; mixed-menu translation and build integration are pending.",
+          "covered_by_extra_menu": false,
+          "covered_by_mixed_menu": true
+        },
+        {
+          "group": 0,
+          "entry": 149,
+          "root_cpu": "03:BB0F",
+          "source_cpu": "03:D7C7",
+          "end_cpu": "03:D7D2",
+          "raw_hex": "f01891d0d99af2ff0000ff",
+          "japanese": "北アメリカ<BLANK_F2FF>　　<FF>",
+          "byte_length": 11,
+          "input_literal_spans_overlapping": 0,
+          "context": "D277 group 0 entry 149; table root 03:BB0F; no F4 in entry; absent from zcode-menu/input.json",
+          "provable": "D277 group table slot points to a complete Japanese text stream; the menu renderer 00:C84B renders default-mode glyphs without requiring F4.",
+          "unproven": "Which screen/selection index invokes this slot; display reachability; mixed-menu translation and build integration are pending.",
+          "covered_by_extra_menu": false,
+          "covered_by_mixed_menu": true
+        },
+        {
+          "group": 1,
+          "entry": 8,
+          "root_cpu": "03:D830",
+          "source_cpu": "03:DB78",
+          "end_cpu": "03:DB86",
+          "raw_hex": "f60a01fd0d82b611aedc11b8feff",
+          "japanese": "<F6:0A,01><FD:0D>ゃデ－タロ－ド<FE><FF>",
+          "byte_length": 14,
+          "input_literal_spans_overlapping": 0,
+          "context": "D277 group 1 entry 8; table root 03:D830; no F4 in entry; absent from zcode-menu/input.json",
+          "provable": "D277 group table slot points to a complete Japanese text stream; the menu renderer 00:C84B renders default-mode glyphs without requiring F4.",
+          "unproven": "Which screen/selection index invokes this slot; display reachability; mixed-menu translation and build integration are pending.",
+          "covered_by_extra_menu": false,
+          "covered_by_mixed_menu": true
+        },
+        {
+          "group": 1,
+          "entry": 13,
+          "root_cpu": "03:D830",
+          "source_cpu": "03:DCDC",
+          "end_cpu": "03:DD18",
+          "raw_hex": "f500f14a7d669ed991f3d5bab2b700f582f0e1f3fc0bfcf0f6ae11dff0ecf584ae11dff3c093dcb2b700000000f582f0daf3f1f1f0f3000000f587ff",
+          "japanese": "<F5:00>話までクリア<F3>ユニット　<F5:82>機<F3><FC>ｔ<FC>総タ－ン数<F5:84>タ－ン<F3>パイロット　　　　<F5:82>名<F3>資金　　　<F5:87><FF>",
+          "byte_length": 60,
+          "input_literal_spans_overlapping": 0,
+          "context": "D277 group 1 entry 13; table root 03:D830; no F4 in entry; absent from zcode-menu/input.json",
+          "provable": "D277 group table slot points to a complete Japanese text stream; the menu renderer 00:C84B renders default-mode glyphs without requiring F4.",
+          "unproven": "Which screen/selection index invokes this slot; display reachability; mixed-menu translation and build integration are pending.",
+          "covered_by_extra_menu": false,
+          "covered_by_mixed_menu": true
+        },
+        {
+          "group": 1,
+          "entry": 26,
+          "root_cpu": "03:D830",
+          "source_cpu": "03:DFC8",
+          "end_cpu": "03:DFD6",
+          "raw_hex": "f5004a4a8a5b3a43434a43143fff",
+          "japanese": "<F5:00>かかるぜ、いいかい？」<FF>",
+          "byte_length": 14,
+          "input_literal_spans_overlapping": 0,
+          "context": "D277 group 1 entry 26; table root 03:D830; no F4 in entry; absent from zcode-menu/input.json",
+          "provable": "D277 group table slot points to a complete Japanese text stream; the menu renderer 00:C84B renders default-mode glyphs without requiring F4.",
+          "unproven": "Which screen/selection index invokes this slot; display reachability; mixed-menu translation and build integration are pending.",
+          "covered_by_extra_menu": false,
+          "covered_by_mixed_menu": true
+        },
+        {
+          "group": 1,
+          "entry": 44,
+          "root_cpu": "03:D830",
+          "source_cpu": "03:E2AE",
+          "end_cpu": "03:E2C6",
+          "raw_hex": "f62a016d894a47f10ff07969c093dcb2b74b437d5a8ffeff",
+          "japanese": "<F6:2A,01>のりかえ可能なパイロットがいません<FE><FF>",
+          "byte_length": 24,
+          "input_literal_spans_overlapping": 0,
+          "context": "D277 group 1 entry 44; table root 03:D830; no F4 in entry; absent from zcode-menu/input.json",
+          "provable": "D277 group table slot points to a complete Japanese text stream; the menu renderer 00:C84B renders default-mode glyphs without requiring F4.",
+          "unproven": "Which screen/selection index invokes this slot; display reachability; mixed-menu translation and build integration are pending.",
+          "covered_by_extra_menu": false,
+          "covered_by_mixed_menu": true
+        },
+        {
+          "group": 1,
+          "entry": 45,
+          "root_cpu": "03:D830",
+          "source_cpu": "03:E2C9",
+          "end_cpu": "03:E2DF",
+          "raw_hex": "f62a01686dd5bab2b76a6d894a47545a7d584a14feff",
+          "japanese": "<F6:2A,01>どのユニットにのりかえさせますか？<FE><FF>",
+          "byte_length": 22,
+          "input_literal_spans_overlapping": 0,
+          "context": "D277 group 1 entry 45; table root 03:D830; no F4 in entry; absent from zcode-menu/input.json",
+          "provable": "D277 group table slot points to a complete Japanese text stream; the menu renderer 00:C84B renders default-mode glyphs without requiring F4.",
+          "unproven": "Which screen/selection index invokes this slot; display reachability; mixed-menu translation and build integration are pending.",
+          "covered_by_extra_menu": false,
+          "covered_by_mixed_menu": true
+        },
+        {
+          "group": 1,
+          "entry": 46,
+          "root_cpu": "03:D830",
+          "source_cpu": "03:E2E2",
+          "end_cpu": "03:E2FA",
+          "raw_hex": "f62a016d894a47f10ff07969d5bab2b74b41897d5a8ffeff",
+          "japanese": "<F6:2A,01>のりかえ可能なユニットがありません<FE><FF>",
+          "byte_length": 24,
+          "input_literal_spans_overlapping": 0,
+          "context": "D277 group 1 entry 46; table root 03:D830; no F4 in entry; absent from zcode-menu/input.json",
+          "provable": "D277 group table slot points to a complete Japanese text stream; the menu renderer 00:C84B renders default-mode glyphs without requiring F4.",
+          "unproven": "Which screen/selection index invokes this slot; display reachability; mixed-menu translation and build integration are pending.",
+          "covered_by_extra_menu": false,
+          "covered_by_mixed_menu": true
+        },
+        {
+          "group": 1,
+          "entry": 54,
+          "root_cpu": "03:D830",
+          "source_cpu": "03:E595",
+          "end_cpu": "03:E5AD",
+          "raw_hex": "f62a01686dd5bab2b78e6e434c5686758f567d584a14feff",
+          "japanese": "<F6:2A,01>どのユニットをはいきしょぶんしますか？<FE><FF>",
+          "byte_length": 24,
+          "input_literal_spans_overlapping": 0,
+          "context": "D277 group 1 entry 54; table root 03:D830; no F4 in entry; absent from zcode-menu/input.json",
+          "provable": "D277 group table slot points to a complete Japanese text stream; the menu renderer 00:C84B renders default-mode glyphs without requiring F4.",
+          "unproven": "Which screen/selection index invokes this slot; display reachability; mixed-menu translation and build integration are pending.",
+          "covered_by_extra_menu": false,
+          "covered_by_mixed_menu": true
+        },
+        {
+          "group": 1,
+          "entry": 55,
+          "root_cpu": "03:D830",
+          "source_cpu": "03:E5B0",
+          "end_cpu": "03:E5C7",
+          "raw_hex": "f62a016e434cf10ff07969d5bab2b74b41897d5a8ffeff",
+          "japanese": "<F6:2A,01>はいき可能なユニットがありません<FE><FF>",
+          "byte_length": 23,
+          "input_literal_spans_overlapping": 0,
+          "context": "D277 group 1 entry 55; table root 03:D830; no F4 in entry; absent from zcode-menu/input.json",
+          "provable": "D277 group table slot points to a complete Japanese text stream; the menu renderer 00:C84B renders default-mode glyphs without requiring F4.",
+          "unproven": "Which screen/selection index invokes this slot; display reachability; mixed-menu translation and build integration are pending.",
+          "covered_by_extra_menu": false,
+          "covered_by_mixed_menu": true
+        },
+        {
+          "group": 1,
+          "entry": 56,
+          "root_cpu": "03:D830",
+          "source_cpu": "03:E5CA",
+          "end_cpu": "03:E5DC",
+          "raw_hex": "f62a01526dd5bab2b766434366584a14feff",
+          "japanese": "<F6:2A,01>このユニットでいいですか？<FE><FF>",
+          "byte_length": 18,
+          "input_literal_spans_overlapping": 0,
+          "context": "D277 group 1 entry 56; table root 03:D830; no F4 in entry; absent from zcode-menu/input.json",
+          "provable": "D277 group table slot points to a complete Japanese text stream; the menu renderer 00:C84B renders default-mode glyphs without requiring F4.",
+          "unproven": "Which screen/selection index invokes this slot; display reachability; mixed-menu translation and build integration are pending.",
+          "covered_by_extra_menu": false,
+          "covered_by_mixed_menu": true
+        },
+        {
+          "group": 1,
+          "entry": 57,
+          "root_cpu": "03:D830",
+          "source_cpu": "03:E5DF",
+          "end_cpu": "03:E5F4",
+          "raw_hex": "f62a01f5006df1f1f0f38ef071f20c567d565efeff",
+          "japanese": "<F6:2A,01><F5:00>の資金を回収しました<FE><FF>",
+          "byte_length": 21,
+          "input_literal_spans_overlapping": 0,
+          "context": "D277 group 1 entry 57; table root 03:D830; no F4 in entry; absent from zcode-menu/input.json",
+          "provable": "D277 group table slot points to a complete Japanese text stream; the menu renderer 00:C84B renders default-mode glyphs without requiring F4.",
+          "unproven": "Which screen/selection index invokes this slot; display reachability; mixed-menu translation and build integration are pending.",
+          "covered_by_extra_menu": false,
+          "covered_by_mixed_menu": true
+        }
+      ],
+      "renderer_evidence": [
+        "00:C7CD reads group from dp $01 and entry from dp $00; 00:C7D6-00:C7E1 computes group*3 and reads the 24-bit root at 00:D277.",
+        "00:C7ED reads the 16-bit target from [root + entry*2].",
+        "00:C804 JSR 00:CD9E consumes one character; 00:C80B CMP #$00F0 BCS control path; 00:C810 CMP #$00E8 BCC 00:C84B; 00:C84B-00:C874 writes the glyph directly to the VRAM buffer. F4 is not required for default glyph rendering."
+      ],
+      "provable_range": "All listed slots are D277 group table entries; each raw stream contains no F4 and decodes to a complete Japanese string; no literal span from work/zcode-menu/input.json overlaps the entry. The 13 remaining entries additionally contain F5/F6/FC/FD/FE or BLANK control bytes; they are split into glyph runs by work/zcode-mixed-menu/input.json.",
+      "unproven_range": "Which screen/selection index invokes each entry; whether some entries are dead or overwritten at runtime. Table lengths remain layout upper bounds. The mixed-menu translations were not present when this audit ran, and neither extra pass is in graph-009."
+    },
+    "main_text_unreferenced_literals": {
+      "status": "confirmed text present; reachability unproven",
+      "entries": [
+        {
+          "source_cpu": "08:8B97",
+          "end_cpu": "08:8BA4",
+          "raw_hex": "3e8d4140404040116215153fff",
+          "japanese": "「わあぁぁぁぁ－っ！！」<FF>",
+          "byte_length": 13,
+          "context": "previous branch span 08:8B8E ends at 08:8B97; next branch span starts at 08:8BA4",
+          "same_bank_16bit_refs": [],
+          "root_table_slot": false,
+          "provable": "complete FF-terminated Japanese literal; not a D277 root slot; no same-bank 16-bit pointer or branch operand found",
+          "unproven": "computed/relative access or runtime path not recovered; display reachability not proven"
+        },
+        {
+          "source_cpu": "08:8C03",
+          "end_cpu": "08:8C16",
+          "raw_hex": "3e776200417d435b6215004960696215153fff",
+          "japanese": "「へっ　あまいぜっ！　おちなっ！！」<FF>",
+          "byte_length": 19,
+          "context": "previous branch span 08:8BF9 ends at 08:8C03; next branch span starts at 08:8C16",
+          "same_bank_16bit_refs": [],
+          "root_table_slot": false,
+          "provable": "complete FF-terminated Japanese literal; not a D277 root slot; no same-bank 16-bit pointer or branch operand found",
+          "unproven": "computed/relative access or runtime path not recovered; display reachability not proven"
+        },
+        {
+          "source_cpu": "08:8DAB",
+          "end_cpu": "08:8DB9",
+          "raw_hex": "3e838a693b3b3b564a5615153fff",
+          "japanese": "「やるな・・・しかし！！」<FF>",
+          "byte_length": 14,
+          "context": "g33/e069 ends at 08:8DAB; next branch span starts at 08:8DB9",
+          "same_bank_16bit_refs": [],
+          "root_table_slot": false,
+          "provable": "complete FF-terminated Japanese literal; not a D277 root slot; no same-bank 16-bit pointer or branch operand found",
+          "unproven": "computed/relative access or runtime path not recovered; display reachability not proven"
+        },
+        {
+          "source_cpu": "08:8EF5",
+          "end_cpu": "08:8F05",
+          "raw_hex": "3e436250464646464646621515153fff",
+          "japanese": "「いっけぇぇぇぇぇぇっ！！！」<FF>",
+          "byte_length": 16,
+          "context": "previous branch span 08:8EE3 ends at 08:8EF5; next branch span starts at 08:8F05",
+          "same_bank_16bit_refs": [],
+          "root_table_slot": false,
+          "provable": "complete FF-terminated Japanese literal; not a D277 root slot; no same-bank 16-bit pointer or branch operand found",
+          "unproven": "computed/relative access or runtime path not recovered; display reachability not proven"
+        },
+        {
+          "source_cpu": "09:B57F",
+          "end_cpu": "09:B595",
+          "raw_hex": "b6d4119e3ef016f01ff1e94a3a714a8a548f15143fff",
+          "japanese": "デュ－ク「大丈夫か、ひかるさん！？」<FF>",
+          "byte_length": 22,
+          "context": "g34/e184 ends at 09:B57F; g34/e185 starts at 09:B595",
+          "same_bank_16bit_refs": [],
+          "root_table_slot": false,
+          "provable": "complete FF-terminated Japanese literal; not a D277 root slot; no same-bank 16-bit pointer or branch operand found",
+          "unproven": "computed/relative access or runtime path not recovered; display reachability not proven"
+        },
+        {
+          "source_cpu": "0A:C0FF",
+          "end_cpu": "0A:C12A",
+          "raw_hex": "fd09bed3b73e684583885c6d87455f69e400528f69f0386af3f1358ef16447658a6d4a6c3a7d625e4e3fff",
+          "japanese": "<FD:09>ハヤト「どうやらそのようだな。　こんな時に<F3>何を考えてるのかね、まったく」<FF>",
+          "byte_length": 43,
+          "context": "g37/e040 ends at 0A:C0FF; g37/e045 starts at 0A:C12A",
+          "same_bank_16bit_refs": [],
+          "root_table_slot": false,
+          "provable": "complete FF-terminated Japanese literal; not a D277 root slot; no same-bank 16-bit pointer or branch operand found",
+          "unproven": "computed/relative access or runtime path not recovered; display reachability not proven"
+        },
+        {
+          "source_cpu": "0A:F453",
+          "end_cpu": "0A:F469",
+          "raw_hex": "c6da3e9fdbce116e8354564e56654e8b8a818f153fff",
+          "japanese": "プル「グレミ－はやさしくしてくれるもん！」<FF>",
+          "byte_length": 22,
+          "context": "g37/e231 ends at 0A:F453; g37/e232 starts at 0A:F469",
+          "same_bank_16bit_refs": [],
+          "root_table_slot": false,
+          "provable": "complete FF-terminated Japanese literal; not a D277 root slot; no same-bank 16-bit pointer or branch operand found",
+          "unproven": "computed/relative access or runtime path not recovered; display reachability not proven"
+        },
+        {
+          "source_cpu": "0B:9693",
+          "end_cpu": "0B:96AB",
+          "raw_hex": "fd8cce11913e4983804e5f54433a9bda11aff0c715153fff",
+          "japanese": "<FD:8C>ミ－ア「おやめください、ガル－ダ様！！」<FF>",
+          "byte_length": 24,
+          "context": "g38/e049 ends at 0B:9693; next segment starts at 0B:96AB",
+          "same_bank_16bit_refs": [],
+          "root_table_slot": false,
+          "provable": "complete FF-terminated Japanese literal; not a D277 root slot; no same-bank 16-bit pointer or branch operand found",
+          "unproven": "computed/relative access or runtime path not recovered; display reachability not proven"
+        },
+        {
+          "source_cpu": "0B:96AB",
+          "end_cpu": "0B:96DB",
+          "raw_hex": "fd859bda11af3edccbb2b7745b434bf2f08e6e547f693ace11911515f3528b6ef03c67f03c6df05343696d5f15153fff",
+          "japanese": "<FD:85>ガル－ダ「ロボットふぜいが口をはさむな、ミ－ア！！<F3>これは男と男の闘いなのだ！！」<FF>",
+          "byte_length": 48,
+          "context": "continuation of the same unreferenced block; next segment starts at 0B:96DB",
+          "same_bank_16bit_refs": [],
+          "root_table_slot": false,
+          "provable": "complete FF-terminated Japanese literal; not a D277 root slot; no same-bank 16-bit pointer or branch operand found",
+          "unproven": "computed/relative access or runtime path not recovered; display reachability not proven"
+        },
+        {
+          "source_cpu": "0B:96DB",
+          "end_cpu": "0B:96EF",
+          "raw_hex": "fd8cce11913e3b3b3b9bda11aff0c73b3b3b3fff",
+          "japanese": "<FD:8C>ミ－ア「・・・ガル－ダ様・・・」<FF>",
+          "byte_length": 20,
+          "context": "last segment; g38/e050 starts at 0B:96EF",
+          "same_bank_16bit_refs": [],
+          "root_table_slot": false,
+          "provable": "complete FF-terminated Japanese literal; not a D277 root slot; no same-bank 16-bit pointer or branch operand found",
+          "unproven": "computed/relative access or runtime path not recovered; display reachability not proven"
+        }
+      ],
+      "provable_range": "Ten complete FF-terminated Japanese segments in banks 08/09/0A/0B, each outside every recovered root/branch span and not a root table slot; no same-bank 16-bit reference found.",
+      "unproven_range": "No runtime/computed reference was resolved; these may be dead/unused text or reached by an unknown selector. Do not add to translation coverage without a trace."
+    },
+    "group32_layout_length_counterexample": {
+      "status": "layout upper bound only",
+      "root_cpu": "08:8000",
+      "layout_slots": 64,
+      "text_start_cpu": "08:8080",
+      "valid_text_slots": "0..37",
+      "non_text_slots": "38..63",
+      "slot_38_raw_hex": "1e831e831e831e831e831e831e831e831e831e831e831e831e831e831e831e831e831e831e831e831e831e831e831e831e831e83",
+      "evidence": "Slots 38..63 all contain 0x831E, which is group 33 table root 08:831E, not a text address. The control audit rejects these 26 slots. Reading 0x831E as text would parse the group 33 pointer table.",
+      "provable_range": "Text slots 0..37; table region 08:8000-08:8080.",
+      "unproven_range": "Whether slots 38..63 are unused, aliases, or selected by an unknown mechanism; count 64 must not be used as a proven text count."
+    },
+    "name_groups": {
+      "status": "no meaningful missing name text found",
+      "groups": {
+        "16": {
+          "count": 192,
+          "covered": 176,
+          "missing": [
+            {
+              "entry": 0,
+              "pointer": "D4B9",
+              "text": "<FF>"
+            },
+            {
+              "entry": 1,
+              "pointer": "109B",
+              "text": null
+            },
+            {
+              "entry": 2,
+              "pointer": "10A9",
+              "text": null
+            },
+            {
+              "entry": 178,
+              "pointer": "DA3C",
+              "text": "<FF>"
+            },
+            {
+              "entry": 179,
+              "pointer": "DA3D",
+              "text": "<FF>"
+            },
+            {
+              "entry": 180,
+              "pointer": "DA3E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 181,
+              "pointer": "DA3F",
+              "text": "<FF>"
+            },
+            {
+              "entry": 182,
+              "pointer": "DA40",
+              "text": "<FF>"
+            },
+            {
+              "entry": 183,
+              "pointer": "DA41",
+              "text": "<FF>"
+            },
+            {
+              "entry": 184,
+              "pointer": "DA42",
+              "text": "<FF>"
+            },
+            {
+              "entry": 185,
+              "pointer": "DA43",
+              "text": "<FF>"
+            },
+            {
+              "entry": 186,
+              "pointer": "DA44",
+              "text": "<FF>"
+            },
+            {
+              "entry": 187,
+              "pointer": "DA45",
+              "text": "<FF>"
+            },
+            {
+              "entry": 188,
+              "pointer": "DA46",
+              "text": "<FF>"
+            },
+            {
+              "entry": 189,
+              "pointer": "DA47",
+              "text": "<FF>"
+            },
+            {
+              "entry": 190,
+              "pointer": "DA48",
+              "text": "<FF>"
+            }
+          ]
+        },
+        "17": {
+          "count": 192,
+          "covered": 176,
+          "missing": [
+            {
+              "entry": 0,
+              "pointer": "DBCE",
+              "text": "<FF>"
+            },
+            {
+              "entry": 1,
+              "pointer": "10B7",
+              "text": null
+            },
+            {
+              "entry": 2,
+              "pointer": "10BE",
+              "text": null
+            },
+            {
+              "entry": 178,
+              "pointer": "DF21",
+              "text": "<FF>"
+            },
+            {
+              "entry": 179,
+              "pointer": "DF22",
+              "text": "<FF>"
+            },
+            {
+              "entry": 180,
+              "pointer": "DF23",
+              "text": "<FF>"
+            },
+            {
+              "entry": 181,
+              "pointer": "DF24",
+              "text": "<FF>"
+            },
+            {
+              "entry": 182,
+              "pointer": "DF25",
+              "text": "<FF>"
+            },
+            {
+              "entry": 183,
+              "pointer": "DF26",
+              "text": "<FF>"
+            },
+            {
+              "entry": 184,
+              "pointer": "DF27",
+              "text": "<FF>"
+            },
+            {
+              "entry": 185,
+              "pointer": "DF28",
+              "text": "<FF>"
+            },
+            {
+              "entry": 186,
+              "pointer": "DF29",
+              "text": "<FF>"
+            },
+            {
+              "entry": 187,
+              "pointer": "DF2A",
+              "text": "<FF>"
+            },
+            {
+              "entry": 188,
+              "pointer": "DF2B",
+              "text": "<FF>"
+            },
+            {
+              "entry": 189,
+              "pointer": "DF2C",
+              "text": "<FF>"
+            },
+            {
+              "entry": 190,
+              "pointer": "DF2D",
+              "text": "<FF>"
+            }
+          ]
+        },
+        "18": {
+          "count": 208,
+          "covered": 207,
+          "missing": [
+            {
+              "entry": 0,
+              "pointer": "E0D3",
+              "text": "<FF>"
+            }
+          ]
+        },
+        "19": {
+          "count": 256,
+          "covered": 254,
+          "missing": [
+            {
+              "entry": 0,
+              "pointer": "E770",
+              "text": "<FF>"
+            },
+            {
+              "entry": 255,
+              "pointer": "0000",
+              "text": null
+            }
+          ]
+        },
+        "20": {
+          "count": 112,
+          "covered": 108,
+          "missing": [
+            {
+              "entry": 0,
+              "pointer": "EFDC",
+              "text": "<FF>"
+            },
+            {
+              "entry": 43,
+              "pointer": "F0EB",
+              "text": "<FF>"
+            },
+            {
+              "entry": 92,
+              "pointer": "F25E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 105,
+              "pointer": "F2D8",
+              "text": "<FF>"
+            }
+          ]
+        },
+        "23": {
+          "count": 64,
+          "covered": 46,
+          "missing": [
+            {
+              "entry": 0,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 14,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 43,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 44,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 50,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 51,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 52,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 53,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 54,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 55,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 56,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 57,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 58,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 59,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 60,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 61,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 62,
+              "pointer": "F35E",
+              "text": "<FF>"
+            },
+            {
+              "entry": 63,
+              "pointer": "F35E",
+              "text": "<FF>"
+            }
+          ]
+        },
+        "24": {
+          "count": 32,
+          "covered": 32,
+          "missing": []
+        },
+        "25": {
+          "count": 32,
+          "covered": 27,
+          "missing": [
+            {
+              "entry": 0,
+              "pointer": "F50F",
+              "text": "<FF>"
+            },
+            {
+              "entry": 15,
+              "pointer": "0000",
+              "text": null
+            },
+            {
+              "entry": 29,
+              "pointer": "0000",
+              "text": null
+            },
+            {
+              "entry": 30,
+              "pointer": "0000",
+              "text": null
+            },
+            {
+              "entry": 31,
+              "pointer": "0000",
+              "text": null
+            }
+          ]
+        },
+        "26": {
+          "count": 49,
+          "covered": 46,
+          "missing": [
+            {
+              "entry": 34,
+              "pointer": "0000",
+              "text": null
+            },
+            {
+              "entry": 35,
+              "pointer": "0000",
+              "text": null
+            },
+            {
+              "entry": 40,
+              "pointer": "F67D",
+              "text": "<FF>"
+            }
+          ]
+        }
+      },
+      "provable_range": "Name groups 16-20 and 23-26 cover all pointer slots that decode to meaningful Japanese text; uncovered slots point to FF, 0000, or the four-dash placeholder.",
+      "unproven_range": "Per-consumer length proofs and dynamic WRAM pointers remain pending."
+    }
+  },
+  "unresolved": [
+    {
+      "source_cpu": "03:D192",
+      "raw_hex": "f066fd1993f0b6f3f0f1f3f04ff3f06cf06df3fd1d93f582f3f582f3f582f3f582fd0197f6ff",
+      "reason": "Candidate text block (応/空/陸/海/宇宙 labels) between known group 0 entries; no same-bank pointer or branch operand found. Reachability and table structure unproven."
+    },
+    {
+      "source_cpu": "03:EB51",
+      "reason": "Group 2 entries are F4 + portrait + single expression glyph + opaque F7 operands; not confirmed as visible text and not included in the menu literal count."
+    }
+  ]
+}

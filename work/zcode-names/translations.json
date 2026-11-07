@@ -1,0 +1,5741 @@
+{
+  "source_rom_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "entries": [
+    {
+      "id": "name-06-D4BA",
+      "japanese": "アムロ　レイ",
+      "translation": "阿姆罗·雷",
+      "display": "阿姆罗·雷"
+    },
+    {
+      "id": "name-06-D4C1",
+      "japanese": "カミ－ユ　ビダン",
+      "translation": "卡缪·比丹",
+      "display": "卡缪·比丹"
+    },
+    {
+      "id": "name-06-D4CA",
+      "japanese": "ジュド－　ア－シタ",
+      "translation": "捷多·亚西塔",
+      "display": "捷多·亚西塔"
+    },
+    {
+      "id": "name-06-D4D4",
+      "japanese": "シ－ブック　アノ－",
+      "translation": "西布克·阿诺",
+      "display": "西布克·阿诺"
+    },
+    {
+      "id": "name-06-D4DE",
+      "japanese": "車弁慶",
+      "translation": "车弁庆",
+      "display": "车弁庆"
+    },
+    {
+      "id": "name-06-D4E5",
+      "japanese": "流竜馬",
+      "translation": "流龙马",
+      "display": "流龙马"
+    },
+    {
+      "id": "name-06-D4EC",
+      "japanese": "神隼人",
+      "translation": "神隼人",
+      "display": "神隼人"
+    },
+    {
+      "id": "name-06-D4F3",
+      "japanese": "巴武蔵",
+      "translation": "巴武藏",
+      "display": "巴武藏"
+    },
+    {
+      "id": "name-06-D4FA",
+      "japanese": "葵豹馬",
+      "translation": "葵豹马",
+      "display": "葵豹马"
+    },
+    {
+      "id": "name-06-D501",
+      "japanese": "浪花十三",
+      "translation": "浪花十三",
+      "display": "浪花十三"
+    },
+    {
+      "id": "name-06-D50A",
+      "japanese": "南原ちずる",
+      "translation": "南原千鹤",
+      "display": "南原千鹤"
+    },
+    {
+      "id": "name-06-D512",
+      "japanese": "西川大作",
+      "translation": "西川大作",
+      "display": "西川大作"
+    },
+    {
+      "id": "name-06-D51B",
+      "japanese": "北小介",
+      "translation": "北小介",
+      "display": "北小介"
+    },
+    {
+      "id": "name-06-D522",
+      "japanese": "ひびき洸",
+      "translation": "响洸",
+      "display": "响洸"
+    },
+    {
+      "id": "name-06-D528",
+      "japanese": "破嵐万丈",
+      "translation": "破岚万丈",
+      "display": "破岚万丈"
+    },
+    {
+      "id": "name-06-D531",
+      "japanese": "ブライト　ノア",
+      "translation": "布莱德·诺亚",
+      "display": "布莱德·诺亚"
+    },
+    {
+      "id": "name-06-D539",
+      "japanese": "カイ　シデン",
+      "translation": "凯·西登",
+      "display": "凯·西登"
+    },
+    {
+      "id": "name-06-D540",
+      "japanese": "ハヤト　コバヤシ",
+      "translation": "小林隼人",
+      "display": "小林隼人"
+    },
+    {
+      "id": "name-06-D549",
+      "japanese": "リュウ　ホセイ",
+      "translation": "龙·何塞",
+      "display": "龙·何塞"
+    },
+    {
+      "id": "name-06-D551",
+      "japanese": "ミライ　ヤシマ",
+      "translation": "米莱·八洲",
+      "display": "米莱·八洲"
+    },
+    {
+      "id": "name-06-D559",
+      "japanese": "セイラ　マス",
+      "translation": "塞拉·玛斯",
+      "display": "塞拉·玛斯"
+    },
+    {
+      "id": "name-06-D560",
+      "japanese": "フラウ　ボゥ",
+      "translation": "芙劳·波",
+      "display": "芙劳·波"
+    },
+    {
+      "id": "name-06-D567",
+      "japanese": "スレッガ－　ロウ",
+      "translation": "斯雷格·罗",
+      "display": "斯雷格·罗"
+    },
+    {
+      "id": "name-06-D570",
+      "japanese": "マチルダ　アジャン",
+      "translation": "玛蒂尔达·阿贾恩",
+      "display": "玛蒂尔达·阿贾恩"
+    },
+    {
+      "id": "name-06-D57A",
+      "japanese": "エマ　シ－ン",
+      "translation": "艾玛·辛",
+      "display": "艾玛·辛"
+    },
+    {
+      "id": "name-06-D581",
+      "japanese": "レコア　ロンド",
+      "translation": "蕾柯亚·隆德",
+      "display": "蕾柯亚·隆德"
+    },
+    {
+      "id": "name-06-D589",
+      "japanese": "ファ　ユイリィ",
+      "translation": "花园丽",
+      "display": "花园丽"
+    },
+    {
+      "id": "name-06-D591",
+      "japanese": "ヘンケン　ベッケナ－",
+      "translation": "汉肯·贝克纳",
+      "display": "汉肯·贝克纳"
+    },
+    {
+      "id": "name-06-D59C",
+      "japanese": "クワトロ　バジ－ナ",
+      "translation": "克瓦特罗·巴吉纳",
+      "display": "克瓦特罗·巴吉纳"
+    },
+    {
+      "id": "name-06-D5A6",
+      "japanese": "アポリ－",
+      "translation": "阿波利",
+      "display": "阿波利"
+    },
+    {
+      "id": "name-06-D5AB",
+      "japanese": "ロベルト",
+      "translation": "罗贝尔特",
+      "display": "罗贝尔特"
+    },
+    {
+      "id": "name-06-D5B0",
+      "japanese": "カツ　コバヤシ",
+      "translation": "小林卡兹",
+      "display": "小林卡兹"
+    },
+    {
+      "id": "name-06-D5B8",
+      "japanese": "エル　ビアンノ",
+      "translation": "艾露·比安诺",
+      "display": "艾露·比安诺"
+    },
+    {
+      "id": "name-06-D5C0",
+      "japanese": "ル－　ルカ",
+      "translation": "露·鲁卡",
+      "display": "露·鲁卡"
+    },
+    {
+      "id": "name-06-D5C6",
+      "japanese": "イ－ノ　アッバ－ブ",
+      "translation": "伊诺·阿巴布",
+      "display": "伊诺·阿巴布"
+    },
+    {
+      "id": "name-06-D5D0",
+      "japanese": "ビ－チャ　オ－レグ",
+      "translation": "比查·奥雷格",
+      "display": "比查·奥雷格"
+    },
+    {
+      "id": "name-06-D5DA",
+      "japanese": "モンド　アカゲ",
+      "translation": "蒙多·阿卡盖",
+      "display": "蒙多·阿卡盖"
+    },
+    {
+      "id": "name-06-D5E2",
+      "japanese": "セシリ－　フェアチャイルド",
+      "translation": "塞西莉·费尔柴尔德",
+      "display": "塞西莉",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-D5F0",
+      "japanese": "弓さやか",
+      "translation": "弓沙也加",
+      "display": "弓沙也加"
+    },
+    {
+      "id": "name-06-D5F6",
+      "japanese": "ボス",
+      "translation": "波士",
+      "display": "波士"
+    },
+    {
+      "id": "name-06-D5F9",
+      "japanese": "剣鉄也",
+      "translation": "剑铁也",
+      "display": "剑铁也"
+    },
+    {
+      "id": "name-06-D600",
+      "japanese": "炎ジュン",
+      "translation": "炎纯",
+      "display": "炎纯"
+    },
+    {
+      "id": "name-06-D606",
+      "japanese": "兜甲児",
+      "translation": "兜甲儿",
+      "display": "兜甲儿"
+    },
+    {
+      "id": "name-06-D60D",
+      "japanese": "ジャック　キング",
+      "translation": "杰克·王",
+      "display": "杰克·王"
+    },
+    {
+      "id": "name-06-D616",
+      "japanese": "早乙女ミチル",
+      "translation": "早乙女美智琉",
+      "display": "早乙女美智琉"
+    },
+    {
+      "id": "name-06-D620",
+      "japanese": "神宮寺力",
+      "translation": "神宫寺力",
+      "display": "神宫寺力"
+    },
+    {
+      "id": "name-06-D629",
+      "japanese": "猿丸太郎",
+      "translation": "猿丸太郎",
+      "display": "猿丸太郎"
+    },
+    {
+      "id": "name-06-D632",
+      "japanese": "桜野マリ",
+      "translation": "樱野玛丽",
+      "display": "樱野玛丽"
+    },
+    {
+      "id": "name-06-D639",
+      "japanese": "明日香麗",
+      "translation": "明日香丽",
+      "display": "明日香丽"
+    },
+    {
+      "id": "name-06-D642",
+      "japanese": "ビュ－ティ　タチバナ",
+      "translation": "比尤蒂·橘",
+      "display": "比尤蒂·橘"
+    },
+    {
+      "id": "name-06-D64D",
+      "japanese": "三条レイカ",
+      "translation": "三条丽华",
+      "display": "三条丽华"
+    },
+    {
+      "id": "name-06-D655",
+      "japanese": "ギャリソン時間",
+      "translation": "加里森时田",
+      "display": "加里森时田",
+      "notes": "原文作「時間」，按系列角色ギャリソン時田统一为加里森时田；原文保持不变。"
+    },
+    {
+      "id": "name-06-D65F",
+      "japanese": "戸間矢太",
+      "translation": "户间矢太",
+      "display": "户间矢太"
+    },
+    {
+      "id": "name-06-D668",
+      "japanese": "シャア　アズナブル",
+      "translation": "夏亚·阿兹纳布尔",
+      "display": "夏亚·阿兹纳布尔"
+    },
+    {
+      "id": "name-06-D672",
+      "japanese": "ララァ　スン",
+      "translation": "拉拉·辛",
+      "display": "拉拉·辛"
+    },
+    {
+      "id": "name-06-D679",
+      "japanese": "マ　クベ",
+      "translation": "马克贝",
+      "display": "马克贝"
+    },
+    {
+      "id": "name-06-D67E",
+      "japanese": "ランバ　ラル",
+      "translation": "兰巴·拉尔",
+      "display": "兰巴·拉尔"
+    },
+    {
+      "id": "name-06-D685",
+      "japanese": "ガイア",
+      "translation": "盖亚",
+      "display": "盖亚"
+    },
+    {
+      "id": "name-06-D689",
+      "japanese": "マッシュ",
+      "translation": "马修",
+      "display": "马修"
+    },
+    {
+      "id": "name-06-D68E",
+      "japanese": "オルテガ",
+      "translation": "欧迪加",
+      "display": "欧迪加"
+    },
+    {
+      "id": "name-06-D693",
+      "japanese": "ガルマ　ザビ",
+      "translation": "卡尔玛·扎比",
+      "display": "卡尔玛·扎比"
+    },
+    {
+      "id": "name-06-D69A",
+      "japanese": "ドズル　ザビ",
+      "translation": "多兹鲁·扎比",
+      "display": "多兹鲁·扎比"
+    },
+    {
+      "id": "name-06-D6A1",
+      "japanese": "ジェリド　メサ",
+      "translation": "捷利德·梅萨",
+      "display": "捷利德·梅萨"
+    },
+    {
+      "id": "name-06-D6A9",
+      "japanese": "カクリコン　カク－ラ－",
+      "translation": "卡克利孔·卡库拉",
+      "display": "卡克利孔·卡库拉"
+    },
+    {
+      "id": "name-06-D6B5",
+      "japanese": "ライラ　ミラ　ライラ",
+      "translation": "莱拉·米拉·莱拉",
+      "display": "莱拉·米拉·莱拉"
+    },
+    {
+      "id": "name-06-D6C0",
+      "japanese": "フォウ　ムラサメ",
+      "translation": "村雨凤",
+      "display": "村雨凤"
+    },
+    {
+      "id": "name-06-D6C9",
+      "japanese": "ロザミア　バダム",
+      "translation": "罗莎米娅·巴达姆",
+      "display": "罗莎米娅·巴达姆"
+    },
+    {
+      "id": "name-06-D6D2",
+      "japanese": "ベン　ウッダ－",
+      "translation": "本·威德",
+      "display": "本·威德"
+    },
+    {
+      "id": "name-06-D6DA",
+      "japanese": "ブラン　ブルタ－ク",
+      "translation": "布朗·布尔塔克",
+      "display": "布朗·布尔塔克"
+    },
+    {
+      "id": "name-06-D6E4",
+      "japanese": "サラ　ザビアロフ",
+      "translation": "莎拉·萨比亚罗夫",
+      "display": "莎拉·萨比亚罗夫"
+    },
+    {
+      "id": "name-06-D6ED",
+      "japanese": "マウア－　ファラオ",
+      "translation": "玛瓦·法劳",
+      "display": "玛瓦·法劳"
+    },
+    {
+      "id": "name-06-D6F7",
+      "japanese": "ゲ－ツ　キャパ",
+      "translation": "盖茨·卡帕",
+      "display": "盖茨·卡帕"
+    },
+    {
+      "id": "name-06-D6FF",
+      "japanese": "ヤザン　ゲ－ブル",
+      "translation": "亚赞·盖布尔",
+      "display": "亚赞·盖布尔"
+    },
+    {
+      "id": "name-06-D708",
+      "japanese": "ラムサス　ハサ",
+      "translation": "拉姆萨斯·哈萨",
+      "display": "拉姆萨斯·哈萨"
+    },
+    {
+      "id": "name-06-D710",
+      "japanese": "パプティマス　シロッコ",
+      "translation": "帕普提马斯·西罗克",
+      "display": "西罗克",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-D71C",
+      "japanese": "ハマ－ン　カ－ン",
+      "translation": "哈曼·卡恩",
+      "display": "哈曼·卡恩"
+    },
+    {
+      "id": "name-06-D725",
+      "japanese": "エルピ－　プル",
+      "translation": "艾露比·普露",
+      "display": "艾露比·普露"
+    },
+    {
+      "id": "name-06-D72D",
+      "japanese": "マシュマ－　セロ",
+      "translation": "马修曼·塞罗",
+      "display": "马修曼·塞罗"
+    },
+    {
+      "id": "name-06-D736",
+      "japanese": "ゴットン　ゴ－",
+      "translation": "哥顿·高",
+      "display": "哥顿·高"
+    },
+    {
+      "id": "name-06-D73E",
+      "japanese": "グレミ－　トト",
+      "translation": "格雷米·托托",
+      "display": "格雷米·托托"
+    },
+    {
+      "id": "name-06-D746",
+      "japanese": "キャラ　ス－ン",
+      "translation": "姬拉·森",
+      "display": "姬拉·森"
+    },
+    {
+      "id": "name-06-D74E",
+      "japanese": "オウギュスト　ギダン",
+      "translation": "奥古斯特·吉丹",
+      "display": "奥古斯特·吉丹"
+    },
+    {
+      "id": "name-06-D759",
+      "japanese": "アリアス　モマ",
+      "translation": "阿里亚斯·莫玛",
+      "display": "阿里亚斯·莫玛"
+    },
+    {
+      "id": "name-06-D761",
+      "japanese": "ラカン　ダカラン",
+      "translation": "拉坎·达卡兰",
+      "display": "拉坎·达卡兰"
+    },
+    {
+      "id": "name-06-D76A",
+      "japanese": "イリア　パゾム",
+      "translation": "伊莉娅·帕索姆",
+      "display": "伊莉娅·帕索姆"
+    },
+    {
+      "id": "name-06-D772",
+      "japanese": "プルツ－",
+      "translation": "普露兹",
+      "display": "普露兹"
+    },
+    {
+      "id": "name-06-D777",
+      "japanese": "ニ－　ギ－レン",
+      "translation": "尼·基伦",
+      "display": "尼·基伦"
+    },
+    {
+      "id": "name-06-D77F",
+      "japanese": "ランス　ギ－レン",
+      "translation": "兰斯·基伦",
+      "display": "兰斯·基伦"
+    },
+    {
+      "id": "name-06-D788",
+      "japanese": "ドレル　ロナ",
+      "translation": "多雷尔·罗纳",
+      "display": "多雷尔·罗纳"
+    },
+    {
+      "id": "name-06-D78F",
+      "japanese": "アンナマリ－　ブル－ジュ",
+      "translation": "安娜玛丽·布鲁日",
+      "display": "安娜玛丽·布鲁日"
+    },
+    {
+      "id": "name-06-D79C",
+      "japanese": "ザビ－ネ　シャル",
+      "translation": "扎比尼·夏尔",
+      "display": "扎比尼·夏尔"
+    },
+    {
+      "id": "name-06-D7A5",
+      "japanese": "カロッゾ　ロナ",
+      "translation": "卡罗佐·罗纳",
+      "display": "卡罗佐·罗纳"
+    },
+    {
+      "id": "name-06-D7AD",
+      "japanese": "クリスチ－ナ　マッケンジ－",
+      "translation": "克莉丝蒂娜·马肯吉",
+      "display": "克莉丝蒂娜",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-D7BB",
+      "japanese": "バ－ナ－ド　ワイズマン",
+      "translation": "巴纳德·威兹曼",
+      "display": "巴纳德·威兹曼"
+    },
+    {
+      "id": "name-06-D7C7",
+      "japanese": "アストナ－ジ　メドッソ",
+      "translation": "阿斯托纳吉·梅多索",
+      "display": "阿斯托纳吉",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-D7D3",
+      "japanese": "エマリ－　オンス",
+      "translation": "艾玛丽·昂斯",
+      "display": "艾玛丽·昂斯"
+    },
+    {
+      "id": "name-06-D7DC",
+      "japanese": "カムラン　ブル－ム",
+      "translation": "卡姆兰·布鲁姆",
+      "display": "卡姆兰·布鲁姆"
+    },
+    {
+      "id": "name-06-D7E6",
+      "japanese": "キシリア　ザビ",
+      "translation": "基西莉亚·扎比",
+      "display": "基西莉亚·扎比"
+    },
+    {
+      "id": "name-06-D7EE",
+      "japanese": "ギュネイ　ガス",
+      "translation": "邱尼·盖斯",
+      "display": "邱尼·盖斯"
+    },
+    {
+      "id": "name-06-D7F6",
+      "japanese": "ギレン　ザビ",
+      "translation": "基连·扎比",
+      "display": "基连·扎比"
+    },
+    {
+      "id": "name-06-D7FD",
+      "japanese": "クェス　パラヤ",
+      "translation": "柯丝·帕拉雅",
+      "display": "柯丝·帕拉雅"
+    },
+    {
+      "id": "name-06-D805",
+      "japanese": "クラウレ　ハモン",
+      "translation": "克劳蕾·哈蒙",
+      "display": "克劳蕾·哈蒙"
+    },
+    {
+      "id": "name-06-D80E",
+      "japanese": "クランプ",
+      "translation": "克兰普",
+      "display": "克兰普"
+    },
+    {
+      "id": "name-06-D813",
+      "japanese": "ケ－ラ　スゥ",
+      "translation": "凯拉·苏",
+      "display": "凯拉·苏"
+    },
+    {
+      "id": "name-06-D81A",
+      "japanese": "コズン　グラハム",
+      "translation": "科兹恩·格拉汉姆",
+      "display": "科兹恩·格拉汉姆"
+    },
+    {
+      "id": "name-06-D823",
+      "japanese": "コンスコン",
+      "translation": "康斯康",
+      "display": "康斯康"
+    },
+    {
+      "id": "name-06-D829",
+      "japanese": "デニム",
+      "translation": "德尼姆",
+      "display": "德尼姆"
+    },
+    {
+      "id": "name-06-D82D",
+      "japanese": "ジ－ン",
+      "translation": "吉恩",
+      "display": "吉恩"
+    },
+    {
+      "id": "name-06-D831",
+      "japanese": "スレンダ－",
+      "translation": "斯伦达",
+      "display": "斯伦达"
+    },
+    {
+      "id": "name-06-D837",
+      "japanese": "チェ－ン　アギ",
+      "translation": "倩恩·阿吉",
+      "display": "倩恩·阿吉"
+    },
+    {
+      "id": "name-06-D83F",
+      "japanese": "ナナイ　ミゲル",
+      "translation": "娜娜伊·米格尔",
+      "display": "娜娜伊·米格尔"
+    },
+    {
+      "id": "name-06-D847",
+      "japanese": "ハサウェイ　ノア",
+      "translation": "哈萨维·诺亚",
+      "display": "哈萨维·诺亚"
+    },
+    {
+      "id": "name-06-D850",
+      "japanese": "バスク　オム",
+      "translation": "巴斯克·欧姆",
+      "display": "巴斯克·欧姆"
+    },
+    {
+      "id": "name-06-D857",
+      "japanese": "フラナガン　ブ－ン",
+      "translation": "弗拉纳冈·布恩",
+      "display": "弗拉纳冈·布恩"
+    },
+    {
+      "id": "name-06-D861",
+      "japanese": "ベルト－チカ　イルマ",
+      "translation": "贝托蒂嘉·伊露玛",
+      "display": "贝托蒂嘉·伊露玛"
+    },
+    {
+      "id": "name-06-D86C",
+      "japanese": "リィナ　ア－シタ",
+      "translation": "莉娜·亚西塔",
+      "display": "莉娜·亚西塔"
+    },
+    {
+      "id": "name-06-D875",
+      "japanese": "レズン　シュナイダ－",
+      "translation": "蕾森·施耐德",
+      "display": "蕾森·施耐德"
+    },
+    {
+      "id": "name-06-D880",
+      "japanese": "コウ　ウラキ",
+      "translation": "浦木宏",
+      "display": "浦木宏"
+    },
+    {
+      "id": "name-06-D887",
+      "japanese": "シュタイナ－　ハ－ディ",
+      "translation": "斯坦纳·哈迪",
+      "display": "斯坦纳·哈迪"
+    },
+    {
+      "id": "name-06-D893",
+      "japanese": "アナベル　ガト－",
+      "translation": "阿纳贝尔·卡多",
+      "display": "阿纳贝尔·卡多"
+    },
+    {
+      "id": "name-06-D89C",
+      "japanese": "デュ－ク　フリ－ド",
+      "translation": "杜克·弗里德",
+      "display": "杜克·弗里德"
+    },
+    {
+      "id": "name-06-D8A6",
+      "japanese": "マリア　フリ－ド",
+      "translation": "玛丽亚·弗里德",
+      "display": "玛丽亚·弗里德"
+    },
+    {
+      "id": "name-06-D8AF",
+      "japanese": "シャリア　ブル",
+      "translation": "夏利亚·布尔",
+      "display": "夏利亚·布尔"
+    },
+    {
+      "id": "name-06-D8B7",
+      "japanese": "リュ－ネ　ゾルダ－ク",
+      "translation": "琉妮·佐尔达克",
+      "display": "琉妮·佐尔达克"
+    },
+    {
+      "id": "name-06-D8C2",
+      "japanese": "マサキ　アンド－",
+      "translation": "安藤正树",
+      "display": "安藤正树"
+    },
+    {
+      "id": "name-06-D8CB",
+      "japanese": "シュウ　シラカワ",
+      "translation": "白河愁",
+      "display": "白河愁"
+    },
+    {
+      "id": "name-06-D8D4",
+      "japanese": "ニナ　パ－プルトン",
+      "translation": "妮娜·珀普尔顿",
+      "display": "妮娜·珀普尔顿"
+    },
+    {
+      "id": "name-06-D8DE",
+      "japanese": "あしゅら男爵",
+      "translation": "阿修罗男爵",
+      "display": "阿修罗男爵"
+    },
+    {
+      "id": "name-06-D8E7",
+      "japanese": "ブロッケン伯爵",
+      "translation": "布兰肯伯爵",
+      "display": "布兰肯伯爵"
+    },
+    {
+      "id": "name-06-D8F1",
+      "japanese": "シャ－キン",
+      "translation": "夏金",
+      "display": "夏金"
+    },
+    {
+      "id": "name-06-D8F7",
+      "japanese": "ガル－ダ",
+      "translation": "嘉鲁达",
+      "display": "嘉鲁达"
+    },
+    {
+      "id": "name-06-D8FC",
+      "japanese": "レビル将軍",
+      "translation": "雷比尔将军",
+      "display": "雷比尔将军"
+    },
+    {
+      "id": "name-06-D904",
+      "japanese": "牧場ひかる",
+      "translation": "牧场光",
+      "display": "牧场光"
+    },
+    {
+      "id": "name-06-D90C",
+      "japanese": "カリウス",
+      "translation": "卡里乌斯",
+      "display": "卡里乌斯"
+    },
+    {
+      "id": "name-06-D911",
+      "japanese": "エイパ－　シナプス",
+      "translation": "艾帕·西纳普斯",
+      "display": "艾帕·西纳普斯"
+    },
+    {
+      "id": "name-06-D91B",
+      "japanese": "チャック　キ－ス",
+      "translation": "查克·基斯",
+      "display": "查克·基斯"
+    },
+    {
+      "id": "name-06-D924",
+      "japanese": "ルセット　オデビ－",
+      "translation": "露塞特·奥德比",
+      "display": "露塞特·奥德比"
+    },
+    {
+      "id": "name-06-D92E",
+      "japanese": "ミ－ア",
+      "translation": "米娅",
+      "display": "米娅"
+    },
+    {
+      "id": "name-06-D932",
+      "japanese": "ミハル　ラトキエ",
+      "translation": "米哈尔·拉托基耶",
+      "display": "米哈尔·拉托基耶"
+    },
+    {
+      "id": "name-06-D93B",
+      "japanese": "ベルナンド　モンシア",
+      "translation": "贝尔南德·蒙夏",
+      "display": "贝尔南德·蒙夏"
+    },
+    {
+      "id": "name-06-D946",
+      "japanese": "凸蝶鬼",
+      "translation": "凸蝶鬼",
+      "display": "凸蝶鬼"
+    },
+    {
+      "id": "name-06-D94D",
+      "japanese": "鉄甲鬼",
+      "translation": "铁甲鬼",
+      "display": "铁甲鬼"
+    },
+    {
+      "id": "name-06-D954",
+      "japanese": "弓弦之介",
+      "translation": "弓弦之介",
+      "display": "弓弦之介"
+    },
+    {
+      "id": "name-06-D95D",
+      "japanese": "早乙女博士",
+      "translation": "早乙女博士",
+      "display": "早乙女博士"
+    },
+    {
+      "id": "name-06-D968",
+      "japanese": "四谷博士",
+      "translation": "四谷博士",
+      "display": "四谷博士"
+    },
+    {
+      "id": "name-06-D971",
+      "japanese": "ロペット",
+      "translation": "罗佩特",
+      "display": "罗佩特"
+    },
+    {
+      "id": "name-06-D976",
+      "japanese": "もりもり博士",
+      "translation": "森森博士",
+      "display": "森森博士"
+    },
+    {
+      "id": "name-06-D97F",
+      "japanese": "せわし博士",
+      "translation": "塞瓦西博士",
+      "display": "塞瓦西博士"
+    },
+    {
+      "id": "name-06-D987",
+      "japanese": "のっそり博士",
+      "translation": "慢吞吞博士",
+      "display": "慢吞吞博士"
+    },
+    {
+      "id": "name-06-D990",
+      "japanese": "シ－マ　ガラハウ",
+      "translation": "西玛·加拉豪",
+      "display": "西玛·加拉豪"
+    },
+    {
+      "id": "name-06-D999",
+      "japanese": "デミトリ－",
+      "translation": "德米特里",
+      "display": "德米特里"
+    },
+    {
+      "id": "name-06-D99F",
+      "japanese": "トクワン",
+      "translation": "托克万",
+      "display": "托克万"
+    },
+    {
+      "id": "name-06-D9A4",
+      "japanese": "ドレン",
+      "translation": "多伦",
+      "display": "多伦"
+    },
+    {
+      "id": "name-06-D9A8",
+      "japanese": "ボラスキニフ",
+      "translation": "博拉斯基尼夫",
+      "display": "博拉斯基尼夫"
+    },
+    {
+      "id": "name-06-D9AF",
+      "japanese": "ナイ－ダ",
+      "translation": "娜伊达",
+      "display": "娜伊达"
+    },
+    {
+      "id": "name-06-D9B4",
+      "japanese": "キリカ",
+      "translation": "基莉卡",
+      "display": "基莉卡"
+    },
+    {
+      "id": "name-06-D9B8",
+      "japanese": "暗黒大将軍",
+      "translation": "暗黑大将军",
+      "display": "暗黑大将军"
+    },
+    {
+      "id": "name-06-D9C3",
+      "japanese": "ハロ",
+      "translation": "哈罗",
+      "display": "哈罗"
+    },
+    {
+      "id": "name-06-D9C6",
+      "japanese": "ＤＣ兵士",
+      "translation": "DC士兵",
+      "display": "DC士兵"
+    },
+    {
+      "id": "name-06-D9CD",
+      "japanese": "バイオロイド兵士",
+      "translation": "生化兵",
+      "display": "生化兵"
+    },
+    {
+      "id": "name-06-D9D8",
+      "japanese": "ヴィガジ",
+      "translation": "维加吉",
+      "display": "维加吉"
+    },
+    {
+      "id": "name-06-D9DD",
+      "japanese": "シカログ",
+      "translation": "西卡罗格",
+      "display": "西卡罗格"
+    },
+    {
+      "id": "name-06-D9E2",
+      "japanese": "メキボス",
+      "translation": "梅基波斯",
+      "display": "梅基波斯"
+    },
+    {
+      "id": "name-06-D9E7",
+      "japanese": "アギ－ハ",
+      "translation": "阿基哈",
+      "display": "阿基哈"
+    },
+    {
+      "id": "name-06-D9EC",
+      "japanese": "ウェンドロ",
+      "translation": "温德罗",
+      "display": "温德罗"
+    },
+    {
+      "id": "name-06-D9F2",
+      "japanese": "メリ－　キング",
+      "translation": "梅莉·王",
+      "display": "梅莉·王"
+    },
+    {
+      "id": "name-06-D9FA",
+      "japanese": "ＤＣ兵士",
+      "translation": "DC士兵",
+      "display": "DC士兵"
+    },
+    {
+      "id": "name-06-DA01",
+      "japanese": "アルフレッド　イズルハ",
+      "translation": "阿尔弗雷德·伊兹鲁哈",
+      "display": "阿尔弗雷德",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-DA0D",
+      "japanese": "人工知能",
+      "translation": "人工智能",
+      "display": "人工智能"
+    },
+    {
+      "id": "name-06-DA16",
+      "japanese": "狙撃兵",
+      "translation": "狙击兵",
+      "display": "狙击兵"
+    },
+    {
+      "id": "name-06-DA1D",
+      "japanese": "人工知能改",
+      "translation": "人工智能改",
+      "display": "人工智能改"
+    },
+    {
+      "id": "name-06-DA28",
+      "japanese": "エリ－ト兵士",
+      "translation": "精英士兵",
+      "display": "精英士兵"
+    },
+    {
+      "id": "name-06-DA31",
+      "japanese": "強化バイオロイド",
+      "translation": "强化生化兵",
+      "display": "强化生化兵"
+    },
+    {
+      "id": "name-06-DA49",
+      "japanese": "－－－－",
+      "translation": "----",
+      "display": "----"
+    },
+    {
+      "id": "name-06-DBCF",
+      "japanese": "アムロ",
+      "translation": "阿姆罗",
+      "display": "阿姆罗"
+    },
+    {
+      "id": "name-06-DBD3",
+      "japanese": "カミ－ユ",
+      "translation": "卡缪",
+      "display": "卡缪"
+    },
+    {
+      "id": "name-06-DBD8",
+      "japanese": "ジュド－",
+      "translation": "捷多",
+      "display": "捷多"
+    },
+    {
+      "id": "name-06-DBDD",
+      "japanese": "シ－ブック",
+      "translation": "西布克",
+      "display": "西布克"
+    },
+    {
+      "id": "name-06-DBE3",
+      "japanese": "ベンケイ",
+      "translation": "弁庆",
+      "display": "弁庆"
+    },
+    {
+      "id": "name-06-DBE8",
+      "japanese": "リョウ",
+      "translation": "龙马",
+      "display": "龙马"
+    },
+    {
+      "id": "name-06-DBEC",
+      "japanese": "ハヤト",
+      "translation": "隼人",
+      "display": "隼人"
+    },
+    {
+      "id": "name-06-DBF0",
+      "japanese": "ムサシ",
+      "translation": "武藏",
+      "display": "武藏"
+    },
+    {
+      "id": "name-06-DBF4",
+      "japanese": "豹馬",
+      "translation": "豹马",
+      "display": "豹马"
+    },
+    {
+      "id": "name-06-DBF9",
+      "japanese": "十三",
+      "translation": "十三",
+      "display": "十三"
+    },
+    {
+      "id": "name-06-DBFE",
+      "japanese": "ちずる",
+      "translation": "千鹤",
+      "display": "千鹤"
+    },
+    {
+      "id": "name-06-DC02",
+      "japanese": "大作",
+      "translation": "大作",
+      "display": "大作"
+    },
+    {
+      "id": "name-06-DC07",
+      "japanese": "小介",
+      "translation": "小介",
+      "display": "小介"
+    },
+    {
+      "id": "name-06-DC0C",
+      "japanese": "洸",
+      "translation": "洸",
+      "display": "洸"
+    },
+    {
+      "id": "name-06-DC0F",
+      "japanese": "万丈",
+      "translation": "万丈",
+      "display": "万丈"
+    },
+    {
+      "id": "name-06-DC14",
+      "japanese": "ブライト",
+      "translation": "布莱德",
+      "display": "布莱德"
+    },
+    {
+      "id": "name-06-DC19",
+      "japanese": "カイ",
+      "translation": "凯",
+      "display": "凯"
+    },
+    {
+      "id": "name-06-DC1C",
+      "japanese": "ハヤト",
+      "translation": "隼人",
+      "display": "隼人"
+    },
+    {
+      "id": "name-06-DC20",
+      "japanese": "リュウ",
+      "translation": "龙",
+      "display": "龙"
+    },
+    {
+      "id": "name-06-DC24",
+      "japanese": "ミライ",
+      "translation": "米莱",
+      "display": "米莱"
+    },
+    {
+      "id": "name-06-DC28",
+      "japanese": "セイラ",
+      "translation": "塞拉",
+      "display": "塞拉"
+    },
+    {
+      "id": "name-06-DC2C",
+      "japanese": "フラウ",
+      "translation": "芙劳",
+      "display": "芙劳"
+    },
+    {
+      "id": "name-06-DC30",
+      "japanese": "スレッガ－",
+      "translation": "斯雷格",
+      "display": "斯雷格"
+    },
+    {
+      "id": "name-06-DC36",
+      "japanese": "マチルダ",
+      "translation": "玛蒂尔达",
+      "display": "玛蒂"
+    },
+    {
+      "id": "name-06-DC3B",
+      "japanese": "エマ",
+      "translation": "艾玛",
+      "display": "艾玛"
+    },
+    {
+      "id": "name-06-DC3E",
+      "japanese": "レコア",
+      "translation": "蕾柯亚",
+      "display": "蕾柯亚"
+    },
+    {
+      "id": "name-06-DC42",
+      "japanese": "ファ",
+      "translation": "花园丽",
+      "display": "花园丽"
+    },
+    {
+      "id": "name-06-DC45",
+      "japanese": "ヘンケン",
+      "translation": "汉肯",
+      "display": "汉肯"
+    },
+    {
+      "id": "name-06-DC4A",
+      "japanese": "クワトロ",
+      "translation": "克瓦特罗",
+      "display": "克瓦特罗"
+    },
+    {
+      "id": "name-06-DC4F",
+      "japanese": "アポリ－",
+      "translation": "阿波利",
+      "display": "阿波利"
+    },
+    {
+      "id": "name-06-DC54",
+      "japanese": "ロベルト",
+      "translation": "罗贝尔特",
+      "display": "罗贝尔特"
+    },
+    {
+      "id": "name-06-DC59",
+      "japanese": "カツ",
+      "translation": "卡兹",
+      "display": "卡兹"
+    },
+    {
+      "id": "name-06-DC5C",
+      "japanese": "エル",
+      "translation": "艾露",
+      "display": "艾露"
+    },
+    {
+      "id": "name-06-DC5F",
+      "japanese": "ル－",
+      "translation": "露",
+      "display": "露"
+    },
+    {
+      "id": "name-06-DC62",
+      "japanese": "イ－ノ",
+      "translation": "伊诺",
+      "display": "伊诺"
+    },
+    {
+      "id": "name-06-DC66",
+      "japanese": "ビ－チャ",
+      "translation": "比查",
+      "display": "比查"
+    },
+    {
+      "id": "name-06-DC6B",
+      "japanese": "モンド",
+      "translation": "蒙多",
+      "display": "蒙多"
+    },
+    {
+      "id": "name-06-DC6F",
+      "japanese": "セシリ－",
+      "translation": "塞西莉",
+      "display": "塞西莉"
+    },
+    {
+      "id": "name-06-DC74",
+      "japanese": "さやか",
+      "translation": "沙也加",
+      "display": "沙也加"
+    },
+    {
+      "id": "name-06-DC78",
+      "japanese": "ボス",
+      "translation": "波士",
+      "display": "波士"
+    },
+    {
+      "id": "name-06-DC7B",
+      "japanese": "鉄也",
+      "translation": "铁也",
+      "display": "铁也"
+    },
+    {
+      "id": "name-06-DC80",
+      "japanese": "ジュン",
+      "translation": "纯",
+      "display": "纯"
+    },
+    {
+      "id": "name-06-DC84",
+      "japanese": "甲児",
+      "translation": "甲儿",
+      "display": "甲儿"
+    },
+    {
+      "id": "name-06-DC89",
+      "japanese": "ジャック",
+      "translation": "杰克",
+      "display": "杰克"
+    },
+    {
+      "id": "name-06-DC8E",
+      "japanese": "ミチル",
+      "translation": "美智琉",
+      "display": "美智琉"
+    },
+    {
+      "id": "name-06-DC92",
+      "japanese": "神宮寺",
+      "translation": "神宫寺",
+      "display": "神宫寺"
+    },
+    {
+      "id": "name-06-DC99",
+      "japanese": "猿丸",
+      "translation": "猿丸",
+      "display": "猿丸"
+    },
+    {
+      "id": "name-06-DC9E",
+      "japanese": "マリ",
+      "translation": "玛丽",
+      "display": "玛丽"
+    },
+    {
+      "id": "name-06-DCA1",
+      "japanese": "麗",
+      "translation": "丽",
+      "display": "丽"
+    },
+    {
+      "id": "name-06-DCA4",
+      "japanese": "ビュ－ティ",
+      "translation": "比尤蒂",
+      "display": "比尤蒂"
+    },
+    {
+      "id": "name-06-DCAA",
+      "japanese": "レイカ",
+      "translation": "丽华",
+      "display": "丽华"
+    },
+    {
+      "id": "name-06-DCAE",
+      "japanese": "ギャリソン",
+      "translation": "加里森",
+      "display": "加里森"
+    },
+    {
+      "id": "name-06-DCB4",
+      "japanese": "トッポ",
+      "translation": "托波",
+      "display": "托波"
+    },
+    {
+      "id": "name-06-DCB8",
+      "japanese": "シャア",
+      "translation": "夏亚",
+      "display": "夏亚"
+    },
+    {
+      "id": "name-06-DCBC",
+      "japanese": "ララァ",
+      "translation": "拉拉",
+      "display": "拉拉"
+    },
+    {
+      "id": "name-06-DCC0",
+      "japanese": "マ　クベ",
+      "translation": "马克贝",
+      "display": "马克贝"
+    },
+    {
+      "id": "name-06-DCC5",
+      "japanese": "ランバ　ラル",
+      "translation": "兰巴·拉尔",
+      "display": "兰巴",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-DCCC",
+      "japanese": "ガイア",
+      "translation": "盖亚",
+      "display": "盖亚"
+    },
+    {
+      "id": "name-06-DCD0",
+      "japanese": "マッシュ",
+      "translation": "马修",
+      "display": "马修"
+    },
+    {
+      "id": "name-06-DCD5",
+      "japanese": "オルテガ",
+      "translation": "欧迪加",
+      "display": "欧迪加"
+    },
+    {
+      "id": "name-06-DCDA",
+      "japanese": "ガルマ",
+      "translation": "卡尔玛",
+      "display": "卡尔玛"
+    },
+    {
+      "id": "name-06-DCDE",
+      "japanese": "ドズル",
+      "translation": "多兹鲁",
+      "display": "多兹鲁"
+    },
+    {
+      "id": "name-06-DCE2",
+      "japanese": "ジェリド",
+      "translation": "捷利德",
+      "display": "捷利德"
+    },
+    {
+      "id": "name-06-DCE7",
+      "japanese": "カクリコン",
+      "translation": "卡克利孔",
+      "display": "卡克利孔"
+    },
+    {
+      "id": "name-06-DCED",
+      "japanese": "ライラ",
+      "translation": "莱拉",
+      "display": "莱拉"
+    },
+    {
+      "id": "name-06-DCF1",
+      "japanese": "フォウ",
+      "translation": "凤",
+      "display": "凤"
+    },
+    {
+      "id": "name-06-DCF5",
+      "japanese": "ロザミア",
+      "translation": "罗莎米娅",
+      "display": "罗莎米娅"
+    },
+    {
+      "id": "name-06-DCFA",
+      "japanese": "ウッダ－",
+      "translation": "威德",
+      "display": "威德"
+    },
+    {
+      "id": "name-06-DCFF",
+      "japanese": "ブラン",
+      "translation": "布朗",
+      "display": "布朗"
+    },
+    {
+      "id": "name-06-DD03",
+      "japanese": "サラ",
+      "translation": "莎拉",
+      "display": "莎拉"
+    },
+    {
+      "id": "name-06-DD06",
+      "japanese": "マウア－",
+      "translation": "玛瓦",
+      "display": "玛瓦"
+    },
+    {
+      "id": "name-06-DD0B",
+      "japanese": "ゲ－ツ",
+      "translation": "盖茨",
+      "display": "盖茨"
+    },
+    {
+      "id": "name-06-DD0F",
+      "japanese": "ヤザン",
+      "translation": "亚赞",
+      "display": "亚赞"
+    },
+    {
+      "id": "name-06-DD13",
+      "japanese": "ラムサス",
+      "translation": "拉姆萨斯",
+      "display": "拉姆萨斯"
+    },
+    {
+      "id": "name-06-DD18",
+      "japanese": "シロッコ",
+      "translation": "西罗克",
+      "display": "西罗克"
+    },
+    {
+      "id": "name-06-DD1D",
+      "japanese": "ハマ－ン",
+      "translation": "哈曼",
+      "display": "哈曼"
+    },
+    {
+      "id": "name-06-DD22",
+      "japanese": "プル",
+      "translation": "普露",
+      "display": "普露"
+    },
+    {
+      "id": "name-06-DD25",
+      "japanese": "マシュマ－",
+      "translation": "马修曼",
+      "display": "马修曼"
+    },
+    {
+      "id": "name-06-DD2B",
+      "japanese": "ゴットン",
+      "translation": "哥顿",
+      "display": "哥顿"
+    },
+    {
+      "id": "name-06-DD30",
+      "japanese": "グレミ－",
+      "translation": "格雷米",
+      "display": "格雷米"
+    },
+    {
+      "id": "name-06-DD35",
+      "japanese": "キャラ",
+      "translation": "姬拉",
+      "display": "姬拉"
+    },
+    {
+      "id": "name-06-DD39",
+      "japanese": "オウギュスト",
+      "translation": "奥古斯特",
+      "display": "奥古斯特"
+    },
+    {
+      "id": "name-06-DD40",
+      "japanese": "アリアス",
+      "translation": "阿里亚斯",
+      "display": "阿里亚斯"
+    },
+    {
+      "id": "name-06-DD45",
+      "japanese": "ラカン",
+      "translation": "拉坎",
+      "display": "拉坎"
+    },
+    {
+      "id": "name-06-DD49",
+      "japanese": "イリア",
+      "translation": "伊莉娅",
+      "display": "伊莉娅"
+    },
+    {
+      "id": "name-06-DD4D",
+      "japanese": "プルツ－",
+      "translation": "普露兹",
+      "display": "普露兹"
+    },
+    {
+      "id": "name-06-DD52",
+      "japanese": "ニ－",
+      "translation": "尼",
+      "display": "尼"
+    },
+    {
+      "id": "name-06-DD55",
+      "japanese": "ランス",
+      "translation": "兰斯",
+      "display": "兰斯"
+    },
+    {
+      "id": "name-06-DD59",
+      "japanese": "ドレル",
+      "translation": "多雷尔",
+      "display": "多雷尔"
+    },
+    {
+      "id": "name-06-DD5D",
+      "japanese": "アンナマリ－",
+      "translation": "安娜玛丽",
+      "display": "安娜玛丽"
+    },
+    {
+      "id": "name-06-DD64",
+      "japanese": "ザビ－ネ",
+      "translation": "扎比尼",
+      "display": "扎比尼"
+    },
+    {
+      "id": "name-06-DD69",
+      "japanese": "カロッゾ",
+      "translation": "卡罗佐",
+      "display": "卡罗佐"
+    },
+    {
+      "id": "name-06-DD6E",
+      "japanese": "クリス",
+      "translation": "克莉丝",
+      "display": "克莉丝"
+    },
+    {
+      "id": "name-06-DD72",
+      "japanese": "バ－ニィ",
+      "translation": "巴尼",
+      "display": "巴尼"
+    },
+    {
+      "id": "name-06-DD77",
+      "japanese": "アストナ－ジ",
+      "translation": "阿斯托纳吉",
+      "display": "阿斯托纳",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-DD7E",
+      "japanese": "エマリ－",
+      "translation": "艾玛丽",
+      "display": "艾玛丽"
+    },
+    {
+      "id": "name-06-DD83",
+      "japanese": "カムラン",
+      "translation": "卡姆兰",
+      "display": "卡姆兰"
+    },
+    {
+      "id": "name-06-DD88",
+      "japanese": "キシリア",
+      "translation": "基西莉亚",
+      "display": "基西莉亚"
+    },
+    {
+      "id": "name-06-DD8D",
+      "japanese": "ギュネイ",
+      "translation": "邱尼",
+      "display": "邱尼"
+    },
+    {
+      "id": "name-06-DD92",
+      "japanese": "ギレン",
+      "translation": "基连",
+      "display": "基连"
+    },
+    {
+      "id": "name-06-DD96",
+      "japanese": "クェス",
+      "translation": "柯丝",
+      "display": "柯丝"
+    },
+    {
+      "id": "name-06-DD9A",
+      "japanese": "ハモン",
+      "translation": "哈蒙",
+      "display": "哈蒙"
+    },
+    {
+      "id": "name-06-DD9E",
+      "japanese": "クランプ",
+      "translation": "克兰普",
+      "display": "克兰普"
+    },
+    {
+      "id": "name-06-DDA3",
+      "japanese": "ケ－ラ",
+      "translation": "凯拉",
+      "display": "凯拉"
+    },
+    {
+      "id": "name-06-DDA7",
+      "japanese": "コズン",
+      "translation": "科兹恩",
+      "display": "科兹恩"
+    },
+    {
+      "id": "name-06-DDAB",
+      "japanese": "コンスコン",
+      "translation": "康斯康",
+      "display": "康斯康"
+    },
+    {
+      "id": "name-06-DDB1",
+      "japanese": "デニム",
+      "translation": "德尼姆",
+      "display": "德尼姆"
+    },
+    {
+      "id": "name-06-DDB5",
+      "japanese": "ジ－ン",
+      "translation": "吉恩",
+      "display": "吉恩"
+    },
+    {
+      "id": "name-06-DDB9",
+      "japanese": "スレンダ－",
+      "translation": "斯伦达",
+      "display": "斯伦达"
+    },
+    {
+      "id": "name-06-DDBF",
+      "japanese": "チェ－ン",
+      "translation": "倩恩",
+      "display": "倩恩"
+    },
+    {
+      "id": "name-06-DDC4",
+      "japanese": "ナナイ",
+      "translation": "娜娜伊",
+      "display": "娜娜伊"
+    },
+    {
+      "id": "name-06-DDC8",
+      "japanese": "ハサウェイ",
+      "translation": "哈萨维",
+      "display": "哈萨维"
+    },
+    {
+      "id": "name-06-DDCE",
+      "japanese": "バスク",
+      "translation": "巴斯克",
+      "display": "巴斯克"
+    },
+    {
+      "id": "name-06-DDD2",
+      "japanese": "ブ－ン",
+      "translation": "布恩",
+      "display": "布恩"
+    },
+    {
+      "id": "name-06-DDD6",
+      "japanese": "ベルト－チカ",
+      "translation": "贝托蒂嘉",
+      "display": "贝托蒂嘉"
+    },
+    {
+      "id": "name-06-DDDD",
+      "japanese": "リィナ",
+      "translation": "莉娜",
+      "display": "莉娜"
+    },
+    {
+      "id": "name-06-DDE1",
+      "japanese": "レズン",
+      "translation": "蕾森",
+      "display": "蕾森"
+    },
+    {
+      "id": "name-06-DDE5",
+      "japanese": "コウ",
+      "translation": "浦木",
+      "display": "浦木"
+    },
+    {
+      "id": "name-06-DDE8",
+      "japanese": "シュタイナ－",
+      "translation": "斯坦纳",
+      "display": "斯坦纳"
+    },
+    {
+      "id": "name-06-DDEF",
+      "japanese": "ガト－",
+      "translation": "卡多",
+      "display": "卡多"
+    },
+    {
+      "id": "name-06-DDF3",
+      "japanese": "デュ－ク",
+      "translation": "杜克",
+      "display": "杜克"
+    },
+    {
+      "id": "name-06-DDF8",
+      "japanese": "マリア",
+      "translation": "玛丽亚",
+      "display": "玛丽亚"
+    },
+    {
+      "id": "name-06-DDFC",
+      "japanese": "シャリア",
+      "translation": "夏利亚",
+      "display": "夏利亚"
+    },
+    {
+      "id": "name-06-DE01",
+      "japanese": "リュ－ネ",
+      "translation": "琉妮",
+      "display": "琉妮"
+    },
+    {
+      "id": "name-06-DE06",
+      "japanese": "マサキ",
+      "translation": "正树",
+      "display": "正树"
+    },
+    {
+      "id": "name-06-DE0A",
+      "japanese": "シュウ",
+      "translation": "白河愁",
+      "display": "白河愁"
+    },
+    {
+      "id": "name-06-DE0E",
+      "japanese": "ニナ",
+      "translation": "妮娜",
+      "display": "妮娜"
+    },
+    {
+      "id": "name-06-DE11",
+      "japanese": "あしゅら",
+      "translation": "阿修罗",
+      "display": "阿修罗"
+    },
+    {
+      "id": "name-06-DE16",
+      "japanese": "ブロッケン",
+      "translation": "布兰肯",
+      "display": "布兰肯"
+    },
+    {
+      "id": "name-06-DE1C",
+      "japanese": "シャ－キン",
+      "translation": "夏金",
+      "display": "夏金"
+    },
+    {
+      "id": "name-06-DE22",
+      "japanese": "ガル－ダ",
+      "translation": "嘉鲁达",
+      "display": "嘉鲁达"
+    },
+    {
+      "id": "name-06-DE27",
+      "japanese": "レビル",
+      "translation": "雷比尔",
+      "display": "雷比尔"
+    },
+    {
+      "id": "name-06-DE2B",
+      "japanese": "ひかる",
+      "translation": "光",
+      "display": "光"
+    },
+    {
+      "id": "name-06-DE2F",
+      "japanese": "カリウス",
+      "translation": "卡里乌斯",
+      "display": "卡里乌斯"
+    },
+    {
+      "id": "name-06-DE34",
+      "japanese": "シナプス",
+      "translation": "西纳普斯",
+      "display": "西纳普斯"
+    },
+    {
+      "id": "name-06-DE39",
+      "japanese": "キ－ス",
+      "translation": "基斯",
+      "display": "基斯"
+    },
+    {
+      "id": "name-06-DE3D",
+      "japanese": "ルセット",
+      "translation": "露塞特",
+      "display": "露塞特"
+    },
+    {
+      "id": "name-06-DE42",
+      "japanese": "ミ－ア",
+      "translation": "米娅",
+      "display": "米娅"
+    },
+    {
+      "id": "name-06-DE46",
+      "japanese": "ミハル",
+      "translation": "米哈尔",
+      "display": "米哈尔"
+    },
+    {
+      "id": "name-06-DE4A",
+      "japanese": "モンシア",
+      "translation": "蒙夏",
+      "display": "蒙夏"
+    },
+    {
+      "id": "name-06-DE4F",
+      "japanese": "凸蝶鬼",
+      "translation": "凸蝶鬼",
+      "display": "凸蝶鬼"
+    },
+    {
+      "id": "name-06-DE56",
+      "japanese": "鉄甲鬼",
+      "translation": "铁甲鬼",
+      "display": "铁甲鬼"
+    },
+    {
+      "id": "name-06-DE5D",
+      "japanese": "弓教授",
+      "translation": "弓教授",
+      "display": "弓教授"
+    },
+    {
+      "id": "name-06-DE64",
+      "japanese": "早乙女博士",
+      "translation": "早乙女博士",
+      "display": "早乙女",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-DE6F",
+      "japanese": "四谷博士",
+      "translation": "四谷博士",
+      "display": "四谷博士"
+    },
+    {
+      "id": "name-06-DE78",
+      "japanese": "ロペット",
+      "translation": "罗佩特",
+      "display": "罗佩特"
+    },
+    {
+      "id": "name-06-DE7D",
+      "japanese": "もりもり博士",
+      "translation": "森森博士",
+      "display": "森森"
+    },
+    {
+      "id": "name-06-DE86",
+      "japanese": "せわし博士",
+      "translation": "塞瓦西博士",
+      "display": "塞瓦西",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-DE8E",
+      "japanese": "のっそり博士",
+      "translation": "慢吞吞博士",
+      "display": "慢吞吞",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-DE97",
+      "japanese": "シ－マ",
+      "translation": "西玛",
+      "display": "西玛"
+    },
+    {
+      "id": "name-06-DE9B",
+      "japanese": "デミトリ－",
+      "translation": "德米特里",
+      "display": "德米特里"
+    },
+    {
+      "id": "name-06-DEA1",
+      "japanese": "トクワン",
+      "translation": "托克万",
+      "display": "托克万"
+    },
+    {
+      "id": "name-06-DEA6",
+      "japanese": "ドレン",
+      "translation": "多伦",
+      "display": "多伦"
+    },
+    {
+      "id": "name-06-DEAA",
+      "japanese": "ボラスキニフ",
+      "translation": "博拉斯基尼夫",
+      "display": "博拉斯基",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-DEB1",
+      "japanese": "ナイ－ダ",
+      "translation": "娜伊达",
+      "display": "娜伊达"
+    },
+    {
+      "id": "name-06-DEB6",
+      "japanese": "キリカ",
+      "translation": "基莉卡",
+      "display": "基莉卡"
+    },
+    {
+      "id": "name-06-DEBA",
+      "japanese": "暗黒大将軍",
+      "translation": "暗黑大将军",
+      "display": "暗黑大将",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-DEC5",
+      "japanese": "ハロ",
+      "translation": "哈罗",
+      "display": "哈罗"
+    },
+    {
+      "id": "name-06-DEC8",
+      "japanese": "兵士",
+      "translation": "士兵",
+      "display": "士兵"
+    },
+    {
+      "id": "name-06-DECD",
+      "japanese": "兵士",
+      "translation": "士兵",
+      "display": "士兵"
+    },
+    {
+      "id": "name-06-DED2",
+      "japanese": "ヴィガジ",
+      "translation": "维加吉",
+      "display": "维加吉"
+    },
+    {
+      "id": "name-06-DED7",
+      "japanese": "シカログ",
+      "translation": "西卡罗格",
+      "display": "西卡罗格"
+    },
+    {
+      "id": "name-06-DEDC",
+      "japanese": "メキボス",
+      "translation": "梅基波斯",
+      "display": "梅基波斯"
+    },
+    {
+      "id": "name-06-DEE1",
+      "japanese": "アギ－ハ",
+      "translation": "阿基哈",
+      "display": "阿基哈"
+    },
+    {
+      "id": "name-06-DEE6",
+      "japanese": "ウェンドロ",
+      "translation": "温德罗",
+      "display": "温德罗"
+    },
+    {
+      "id": "name-06-DEEC",
+      "japanese": "メリ－",
+      "translation": "梅莉",
+      "display": "梅莉"
+    },
+    {
+      "id": "name-06-DEF0",
+      "japanese": "兵士",
+      "translation": "士兵",
+      "display": "士兵"
+    },
+    {
+      "id": "name-06-DEF5",
+      "japanese": "アル",
+      "translation": "阿尔",
+      "display": "阿尔"
+    },
+    {
+      "id": "name-06-DEF8",
+      "japanese": "人工知能",
+      "translation": "人工智能",
+      "display": "人工智能"
+    },
+    {
+      "id": "name-06-DF01",
+      "japanese": "狙撃兵",
+      "translation": "狙击兵",
+      "display": "狙击兵"
+    },
+    {
+      "id": "name-06-DF08",
+      "japanese": "人工知能改",
+      "translation": "人工智能改",
+      "display": "智能改",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-DF13",
+      "japanese": "エリ－ト兵",
+      "translation": "精英兵",
+      "display": "精英兵"
+    },
+    {
+      "id": "name-06-DF1A",
+      "japanese": "強化兵",
+      "translation": "强化兵",
+      "display": "强化兵"
+    },
+    {
+      "id": "name-06-DF2E",
+      "japanese": "－－－－",
+      "translation": "----",
+      "display": "----"
+    },
+    {
+      "id": "name-06-E0D4",
+      "japanese": "コンバトラ－Ｖ",
+      "translation": "孔巴特拉V",
+      "display": "孔巴特拉V"
+    },
+    {
+      "id": "name-06-E0DC",
+      "japanese": "バトルジェット",
+      "translation": "战斗喷气机",
+      "display": "战斗喷气机"
+    },
+    {
+      "id": "name-06-E0E4",
+      "japanese": "バトルクラッシャ－",
+      "translation": "战斗轰炸机",
+      "display": "战斗轰炸机"
+    },
+    {
+      "id": "name-06-E0EE",
+      "japanese": "バトルタンク",
+      "translation": "战斗坦克",
+      "display": "战斗坦克"
+    },
+    {
+      "id": "name-06-E0F5",
+      "japanese": "バトルマリン",
+      "translation": "战斗潜艇",
+      "display": "战斗潜艇"
+    },
+    {
+      "id": "name-06-E0FC",
+      "japanese": "バトルクラフト",
+      "translation": "战斗飞行器",
+      "display": "战斗飞行器"
+    },
+    {
+      "id": "name-06-E104",
+      "japanese": "プロトゲッタ－ロボ",
+      "translation": "原型盖塔机器人",
+      "display": "原型盖塔机器人"
+    },
+    {
+      "id": "name-06-E10E",
+      "japanese": "プロトゲッタ－１",
+      "translation": "原型盖塔1",
+      "display": "原型盖塔1"
+    },
+    {
+      "id": "name-06-E117",
+      "japanese": "プロトゲッタ－２",
+      "translation": "原型盖塔2",
+      "display": "原型盖塔2"
+    },
+    {
+      "id": "name-06-E120",
+      "japanese": "プロトゲッタ－３",
+      "translation": "原型盖塔3",
+      "display": "原型盖塔3"
+    },
+    {
+      "id": "name-06-E129",
+      "japanese": "ジャムル・フィン",
+      "translation": "贾姆鲁·芬",
+      "display": "贾姆鲁·芬"
+    },
+    {
+      "id": "name-06-E132",
+      "japanese": "ザク",
+      "translation": "扎古",
+      "display": "扎古"
+    },
+    {
+      "id": "name-06-E135",
+      "japanese": "ゲッタ－ロボ",
+      "translation": "盖塔机器人",
+      "display": "盖塔机器人"
+    },
+    {
+      "id": "name-06-E13C",
+      "japanese": "ゲッタ－１",
+      "translation": "盖塔1",
+      "display": "盖塔1"
+    },
+    {
+      "id": "name-06-E142",
+      "japanese": "ゲッタ－２",
+      "translation": "盖塔2",
+      "display": "盖塔2"
+    },
+    {
+      "id": "name-06-E148",
+      "japanese": "ゲッタ－３",
+      "translation": "盖塔3",
+      "display": "盖塔3"
+    },
+    {
+      "id": "name-06-E14E",
+      "japanese": "ジオング",
+      "translation": "吉翁号",
+      "display": "吉翁号"
+    },
+    {
+      "id": "name-06-E153",
+      "japanese": "ゼンⅡ",
+      "translation": "赞Ⅱ",
+      "display": "赞Ⅱ"
+    },
+    {
+      "id": "name-06-E157",
+      "japanese": "ゲッタ－ロボＧ",
+      "translation": "盖塔机器人G",
+      "display": "盖塔机器人G"
+    },
+    {
+      "id": "name-06-E15F",
+      "japanese": "ゲッタ－ドラゴン",
+      "translation": "盖塔龙",
+      "display": "盖塔龙"
+    },
+    {
+      "id": "name-06-E168",
+      "japanese": "ゲッタ－ライガ－",
+      "translation": "盖塔狮虎",
+      "display": "盖塔狮虎"
+    },
+    {
+      "id": "name-06-E171",
+      "japanese": "ゲッタ－ポセイドン",
+      "translation": "盖塔海皇",
+      "display": "盖塔海皇"
+    },
+    {
+      "id": "name-06-E17B",
+      "japanese": "メカ鉄甲鬼",
+      "translation": "机械铁甲鬼",
+      "display": "机械铁甲鬼"
+    },
+    {
+      "id": "name-06-E184",
+      "japanese": "メカ凸蝶鬼",
+      "translation": "机械凸蝶鬼",
+      "display": "机械凸蝶鬼"
+    },
+    {
+      "id": "name-06-E18D",
+      "japanese": "ヴァルシオン",
+      "translation": "瓦尔西昂",
+      "display": "瓦尔西昂"
+    },
+    {
+      "id": "name-06-E194",
+      "japanese": "グレンダイザ－",
+      "translation": "古连泰沙",
+      "display": "古连泰沙"
+    },
+    {
+      "id": "name-06-E19C",
+      "japanese": "スペイザ－",
+      "translation": "斯佩扎",
+      "display": "斯佩扎"
+    },
+    {
+      "id": "name-06-E1A2",
+      "japanese": "ダブルスペイザ－",
+      "translation": "双联斯佩扎",
+      "display": "双联斯佩扎"
+    },
+    {
+      "id": "name-06-E1AB",
+      "japanese": "マリンスペイザ－",
+      "translation": "海洋斯佩扎",
+      "display": "海洋斯佩扎"
+    },
+    {
+      "id": "name-06-E1B4",
+      "japanese": "ドリルスペイザ－",
+      "translation": "钻头斯佩扎",
+      "display": "钻头斯佩扎"
+    },
+    {
+      "id": "name-06-E1BD",
+      "japanese": "グレンダイザ－",
+      "translation": "古连泰沙",
+      "display": "古连泰沙"
+    },
+    {
+      "id": "name-06-E1C5",
+      "japanese": "マジンガ－Ｚ",
+      "translation": "魔神Z",
+      "display": "魔神Z"
+    },
+    {
+      "id": "name-06-E1CC",
+      "japanese": "グレ－トマジンガ－",
+      "translation": "大魔神",
+      "display": "大魔神"
+    },
+    {
+      "id": "name-06-E1D6",
+      "japanese": "ガンダム",
+      "translation": "高达",
+      "display": "高达"
+    },
+    {
+      "id": "name-06-E1DB",
+      "japanese": "νガンダム",
+      "translation": "ν高达",
+      "display": "ν高达"
+    },
+    {
+      "id": "name-06-E1E1",
+      "japanese": "Ｚガンダム",
+      "translation": "Z高达",
+      "display": "Z高达"
+    },
+    {
+      "id": "name-06-E1E7",
+      "japanese": "ウェイブライダ－",
+      "translation": "冲浪者",
+      "display": "冲浪者"
+    },
+    {
+      "id": "name-06-E1F0",
+      "japanese": "ＺＺガンダム",
+      "translation": "ZZ高达",
+      "display": "ZZ高达"
+    },
+    {
+      "id": "name-06-E1F7",
+      "japanese": "Ｇフォ－トレス",
+      "translation": "G堡垒",
+      "display": "G堡垒"
+    },
+    {
+      "id": "name-06-E1FF",
+      "japanese": "Ｆ－９１",
+      "translation": "F-91",
+      "display": "F-91"
+    },
+    {
+      "id": "name-06-E204",
+      "japanese": "ライディ－ン",
+      "translation": "莱汀",
+      "display": "莱汀"
+    },
+    {
+      "id": "name-06-E20B",
+      "japanese": "ゴッドバ－ド",
+      "translation": "神鸟",
+      "display": "神鸟"
+    },
+    {
+      "id": "name-06-E212",
+      "japanese": "ダイタ－ン３",
+      "translation": "泰坦3",
+      "display": "泰坦3"
+    },
+    {
+      "id": "name-06-E219",
+      "japanese": "ダイファイタ－",
+      "translation": "泰坦战机",
+      "display": "泰坦战机"
+    },
+    {
+      "id": "name-06-E221",
+      "japanese": "ダイタンク",
+      "translation": "泰坦坦克",
+      "display": "泰坦坦克"
+    },
+    {
+      "id": "name-06-E227",
+      "japanese": "サイバスタ－",
+      "translation": "塞巴斯塔",
+      "display": "塞巴斯塔"
+    },
+    {
+      "id": "name-06-E22E",
+      "japanese": "サイバ－ド",
+      "translation": "塞鸟形态",
+      "display": "塞鸟形态"
+    },
+    {
+      "id": "name-06-E234",
+      "japanese": "グランゾン",
+      "translation": "古兰森",
+      "display": "古兰森"
+    },
+    {
+      "id": "name-06-E23A",
+      "japanese": "ヴァルシオ－ネ",
+      "translation": "瓦尔西奥妮",
+      "display": "瓦尔西奥妮"
+    },
+    {
+      "id": "name-06-E242",
+      "japanese": "テキサスマック",
+      "translation": "德州马克",
+      "display": "德州马克"
+    },
+    {
+      "id": "name-06-E24A",
+      "japanese": "ゲッタ－Ｑ",
+      "translation": "盖塔Q",
+      "display": "盖塔Q"
+    },
+    {
+      "id": "name-06-E250",
+      "japanese": "ボスボロット",
+      "translation": "波士波罗特",
+      "display": "波士波罗特"
+    },
+    {
+      "id": "name-06-E257",
+      "japanese": "アフロダイＡ",
+      "translation": "阿弗洛狄A",
+      "display": "阿弗洛狄A"
+    },
+    {
+      "id": "name-06-E25E",
+      "japanese": "ダイアナンＡ",
+      "translation": "黛安娜A",
+      "display": "黛安娜A"
+    },
+    {
+      "id": "name-06-E265",
+      "japanese": "ビュ－ナスＡ",
+      "translation": "维纳斯A",
+      "display": "维纳斯A"
+    },
+    {
+      "id": "name-06-E26C",
+      "japanese": "ブル－ガ－",
+      "translation": "布鲁加",
+      "display": "布鲁加"
+    },
+    {
+      "id": "name-06-E272",
+      "japanese": "アレックス",
+      "translation": "亚历克斯",
+      "display": "亚历克斯"
+    },
+    {
+      "id": "name-06-E278",
+      "japanese": "ガンダムｍｋⅡ",
+      "translation": "高达Mk-II",
+      "display": "高达Mk-II"
+    },
+    {
+      "id": "name-06-E280",
+      "japanese": "ス－パ－ガンダム",
+      "translation": "超级高达",
+      "display": "超级高达"
+    },
+    {
+      "id": "name-06-E289",
+      "japanese": "百式",
+      "translation": "百式",
+      "display": "百式"
+    },
+    {
+      "id": "name-06-E28E",
+      "japanese": "ＧＰ－０１",
+      "translation": "高达GP-01",
+      "display": "高达GP-01"
+    },
+    {
+      "id": "name-06-E294",
+      "japanese": "ＧＰ－０１Ｆｂ",
+      "translation": "高达GP-01Fb",
+      "display": "高达GP-01Fb"
+    },
+    {
+      "id": "name-06-E29C",
+      "japanese": "ガンキャノン",
+      "translation": "钢加农",
+      "display": "钢加农"
+    },
+    {
+      "id": "name-06-E2A3",
+      "japanese": "メタス",
+      "translation": "美塔斯",
+      "display": "美塔斯"
+    },
+    {
+      "id": "name-06-E2A7",
+      "japanese": "リックディアス",
+      "translation": "里克·迪亚斯",
+      "display": "里克·迪亚斯"
+    },
+    {
+      "id": "name-06-E2AF",
+      "japanese": "ネモ",
+      "translation": "尼莫",
+      "display": "尼莫"
+    },
+    {
+      "id": "name-06-E2B2",
+      "japanese": "ジェガン",
+      "translation": "杰钢",
+      "display": "杰钢"
+    },
+    {
+      "id": "name-06-E2B7",
+      "japanese": "リガズィ",
+      "translation": "灵格斯",
+      "display": "灵格斯"
+    },
+    {
+      "id": "name-06-E2BC",
+      "japanese": "ＧＰ－０３オ－キス",
+      "translation": "高达GP-03石斛兰",
+      "display": "GP-03石斛兰",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-E2C6",
+      "japanese": "ＧＰ－０３ステイメン",
+      "translation": "高达GP-03S雄蕊",
+      "display": "GP-03S雄蕊"
+    },
+    {
+      "id": "name-06-E2D1",
+      "japanese": "ザク",
+      "translation": "扎古",
+      "display": "扎古"
+    },
+    {
+      "id": "name-06-E2D4",
+      "japanese": "グフ",
+      "translation": "古夫",
+      "display": "古夫"
+    },
+    {
+      "id": "name-06-E2D7",
+      "japanese": "ドム",
+      "translation": "大魔",
+      "display": "大魔"
+    },
+    {
+      "id": "name-06-E2DA",
+      "japanese": "ズゴックＥ",
+      "translation": "魔蟹E",
+      "display": "魔蟹E"
+    },
+    {
+      "id": "name-06-E2E0",
+      "japanese": "ハイゴッグ",
+      "translation": "高战蟹",
+      "display": "高战蟹"
+    },
+    {
+      "id": "name-06-E2E6",
+      "japanese": "ギャン",
+      "translation": "强人",
+      "display": "强人"
+    },
+    {
+      "id": "name-06-E2EA",
+      "japanese": "ビグザム",
+      "translation": "大扎姆",
+      "display": "大扎姆"
+    },
+    {
+      "id": "name-06-E2EF",
+      "japanese": "ゲルググ",
+      "translation": "格鲁古古",
+      "display": "格鲁古古"
+    },
+    {
+      "id": "name-06-E2F4",
+      "japanese": "ゲルググＪ",
+      "translation": "格鲁古古J",
+      "display": "格鲁古古J"
+    },
+    {
+      "id": "name-06-E2FA",
+      "japanese": "ゲルググＭ",
+      "translation": "格鲁古古M",
+      "display": "格鲁古古M"
+    },
+    {
+      "id": "name-06-E300",
+      "japanese": "ゲルググＭ",
+      "translation": "格鲁古古M",
+      "display": "格鲁古古M"
+    },
+    {
+      "id": "name-06-E306",
+      "japanese": "ゲルググ",
+      "translation": "格鲁古古",
+      "display": "格鲁古古"
+    },
+    {
+      "id": "name-06-E30B",
+      "japanese": "エルメス",
+      "translation": "艾尔美斯",
+      "display": "艾尔美斯"
+    },
+    {
+      "id": "name-06-E310",
+      "japanese": "ジャラガ",
+      "translation": "贾拉加",
+      "display": "贾拉加"
+    },
+    {
+      "id": "name-06-E315",
+      "japanese": "マラサイ",
+      "translation": "马拉塞",
+      "display": "马拉塞"
+    },
+    {
+      "id": "name-06-E31A",
+      "japanese": "アッシマ－",
+      "translation": "亚修玛",
+      "display": "亚修玛"
+    },
+    {
+      "id": "name-06-E320",
+      "japanese": "バイアラン",
+      "translation": "拜亚兰",
+      "display": "拜亚兰"
+    },
+    {
+      "id": "name-06-E326",
+      "japanese": "ギャプラン",
+      "translation": "卡普兰",
+      "display": "卡普兰"
+    },
+    {
+      "id": "name-06-E32C",
+      "japanese": "ガブスレイ",
+      "translation": "加布斯雷",
+      "display": "加布斯雷"
+    },
+    {
+      "id": "name-06-E332",
+      "japanese": "ハンブラビ",
+      "translation": "汉布拉比",
+      "display": "汉布拉比"
+    },
+    {
+      "id": "name-06-E338",
+      "japanese": "メッサ－ラ",
+      "translation": "梅萨拉",
+      "display": "梅萨拉"
+    },
+    {
+      "id": "name-06-E33E",
+      "japanese": "パラス・アテネ",
+      "translation": "帕拉斯·雅典娜",
+      "display": "帕拉斯·雅典娜"
+    },
+    {
+      "id": "name-06-E346",
+      "japanese": "バウンド・ドッグ",
+      "translation": "猎犬",
+      "display": "猎犬"
+    },
+    {
+      "id": "name-06-E34F",
+      "japanese": "ジ・Ｏ",
+      "translation": "铁奥",
+      "display": "铁奥"
+    },
+    {
+      "id": "name-06-E353",
+      "japanese": "キュベレイ",
+      "translation": "卡碧尼",
+      "display": "卡碧尼"
+    },
+    {
+      "id": "name-06-E359",
+      "japanese": "キュベレイｍｋⅡ",
+      "translation": "卡碧尼Mk-II",
+      "display": "卡碧尼Mk-II"
+    },
+    {
+      "id": "name-06-E362",
+      "japanese": "サイコガンダム",
+      "translation": "精神力高达",
+      "display": "精神力高达"
+    },
+    {
+      "id": "name-06-E36A",
+      "japanese": "サイコガンダムｍｋⅡ",
+      "translation": "精神力高达Mk-II",
+      "display": "精神力Mk-II",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-E375",
+      "japanese": "ＧＭ",
+      "translation": "吉姆",
+      "display": "吉姆"
+    },
+    {
+      "id": "name-06-E378",
+      "japanese": "ズサ",
+      "translation": "兹萨",
+      "display": "兹萨"
+    },
+    {
+      "id": "name-06-E37B",
+      "japanese": "ドライセン",
+      "translation": "德莱森",
+      "display": "德莱森"
+    },
+    {
+      "id": "name-06-E381",
+      "japanese": "カプ－ル",
+      "translation": "卡普尔",
+      "display": "卡普尔"
+    },
+    {
+      "id": "name-06-E386",
+      "japanese": "バウ",
+      "translation": "龙飞",
+      "display": "龙飞"
+    },
+    {
+      "id": "name-06-E389",
+      "japanese": "ザクⅢ",
+      "translation": "扎古Ⅲ",
+      "display": "扎古Ⅲ"
+    },
+    {
+      "id": "name-06-E38D",
+      "japanese": "ザクⅢ改",
+      "translation": "扎古Ⅲ改",
+      "display": "扎古Ⅲ改"
+    },
+    {
+      "id": "name-06-E393",
+      "japanese": "ド－ベンウルフ",
+      "translation": "飙狼",
+      "display": "飙狼"
+    },
+    {
+      "id": "name-06-E39B",
+      "japanese": "ゲ－マルク",
+      "translation": "盖马克",
+      "display": "盖马克"
+    },
+    {
+      "id": "name-06-E3A1",
+      "japanese": "クイン・マンサ",
+      "translation": "昆·曼沙",
+      "display": "昆·曼沙"
+    },
+    {
+      "id": "name-06-E3A9",
+      "japanese": "ギラ・ド－ガ",
+      "translation": "基拉·多加",
+      "display": "基拉·多加"
+    },
+    {
+      "id": "name-06-E3B0",
+      "japanese": "ヤクト・ド－ガ",
+      "translation": "亚克特·多加",
+      "display": "亚克特·多加"
+    },
+    {
+      "id": "name-06-E3B8",
+      "japanese": "サザビ－",
+      "translation": "沙扎比",
+      "display": "沙扎比"
+    },
+    {
+      "id": "name-06-E3BD",
+      "japanese": "α・アジ－ル",
+      "translation": "α·瓦索龙",
+      "display": "α·瓦索龙"
+    },
+    {
+      "id": "name-06-E3C4",
+      "japanese": "ドラッツェ",
+      "translation": "德拉茨",
+      "display": "德拉茨"
+    },
+    {
+      "id": "name-06-E3CA",
+      "japanese": "ノイエ・ジ－ル",
+      "translation": "诺维·捷露",
+      "display": "诺维·捷露"
+    },
+    {
+      "id": "name-06-E3D2",
+      "japanese": "ガ－ベラ・テトラ",
+      "translation": "红色角马",
+      "display": "红色角马"
+    },
+    {
+      "id": "name-06-E3DB",
+      "japanese": "ケンプファ－",
+      "translation": "京宝梵",
+      "display": "京宝梵"
+    },
+    {
+      "id": "name-06-E3E2",
+      "japanese": "ダギ・イルス",
+      "translation": "达基·伊里斯",
+      "display": "达基·伊里斯"
+    },
+    {
+      "id": "name-06-E3E9",
+      "japanese": "ベルガ・ギロス",
+      "translation": "贝尔加·基罗斯",
+      "display": "贝尔加·基罗斯"
+    },
+    {
+      "id": "name-06-E3F1",
+      "japanese": "ビギナ・ギナ",
+      "translation": "比基娜·基娜",
+      "display": "比基娜·基娜"
+    },
+    {
+      "id": "name-06-E3F8",
+      "japanese": "ラフレシア",
+      "translation": "拉芙蕾西亚",
+      "display": "拉芙蕾西亚"
+    },
+    {
+      "id": "name-06-E3FE",
+      "japanese": "ＧＰ－０２",
+      "translation": "高达GP-02",
+      "display": "高达GP-02"
+    },
+    {
+      "id": "name-06-E404",
+      "japanese": "ガラダＫ７",
+      "translation": "伽拉达K7",
+      "display": "伽拉达K7"
+    },
+    {
+      "id": "name-06-E40A",
+      "japanese": "ダブラスＭ２",
+      "translation": "达布拉斯M2",
+      "display": "达布拉斯M2"
+    },
+    {
+      "id": "name-06-E411",
+      "japanese": "ラインＸ１",
+      "translation": "莱因X1",
+      "display": "莱因X1"
+    },
+    {
+      "id": "name-06-E417",
+      "japanese": "ジェノバＭ９",
+      "translation": "杰诺瓦M9",
+      "display": "杰诺瓦M9"
+    },
+    {
+      "id": "name-06-E41E",
+      "japanese": "スパルタンＫ５",
+      "translation": "斯巴达K5",
+      "display": "斯巴达K5"
+    },
+    {
+      "id": "name-06-E426",
+      "japanese": "ミネルバＸ",
+      "translation": "密涅瓦X",
+      "display": "密涅瓦X"
+    },
+    {
+      "id": "name-06-E42C",
+      "japanese": "グロッサムＸ２",
+      "translation": "格罗萨姆X2",
+      "display": "格罗萨姆X2"
+    },
+    {
+      "id": "name-06-E434",
+      "japanese": "アブドラＵ６",
+      "translation": "阿布德拉U6",
+      "display": "阿布德拉U6"
+    },
+    {
+      "id": "name-06-E43B",
+      "japanese": "暗黒大将軍",
+      "translation": "暗黑大将军",
+      "display": "暗黑大将军"
+    },
+    {
+      "id": "name-06-E446",
+      "japanese": "ザイ",
+      "translation": "扎依",
+      "display": "扎依"
+    },
+    {
+      "id": "name-06-E449",
+      "japanese": "ズ－",
+      "translation": "兹",
+      "display": "兹"
+    },
+    {
+      "id": "name-06-E44C",
+      "japanese": "バド",
+      "translation": "巴德",
+      "display": "巴德"
+    },
+    {
+      "id": "name-06-E44F",
+      "japanese": "サキ",
+      "translation": "萨基",
+      "display": "萨基"
+    },
+    {
+      "id": "name-06-E452",
+      "japanese": "シグ",
+      "translation": "西格",
+      "display": "西格"
+    },
+    {
+      "id": "name-06-E455",
+      "japanese": "ダイ",
+      "translation": "戴",
+      "display": "戴"
+    },
+    {
+      "id": "name-06-E458",
+      "japanese": "ドロ－メ",
+      "translation": "多罗梅",
+      "display": "多罗梅"
+    },
+    {
+      "id": "name-06-E45D",
+      "japanese": "ガンテ",
+      "translation": "甘特",
+      "display": "甘特"
+    },
+    {
+      "id": "name-06-E461",
+      "japanese": "ギルディ－ン",
+      "translation": "基尔汀",
+      "display": "基尔汀"
+    },
+    {
+      "id": "name-06-E468",
+      "japanese": "メカガンテ",
+      "translation": "机械甘特",
+      "display": "机械甘特"
+    },
+    {
+      "id": "name-06-E46E",
+      "japanese": "巨大シャ－キン",
+      "translation": "巨大夏金",
+      "display": "巨大夏金"
+    },
+    {
+      "id": "name-06-E478",
+      "japanese": "ビッグガル－ダ",
+      "translation": "大嘉鲁达",
+      "display": "大嘉鲁达"
+    },
+    {
+      "id": "name-06-E480",
+      "japanese": "ディジェＳＥ－Ｒ",
+      "translation": "迪杰SE-R",
+      "display": "迪杰SE-R"
+    },
+    {
+      "id": "name-06-E489",
+      "japanese": "ギルギル",
+      "translation": "基鲁基鲁",
+      "display": "基鲁基鲁"
+    },
+    {
+      "id": "name-06-E48E",
+      "japanese": "ズメズメ",
+      "translation": "兹梅兹梅",
+      "display": "兹梅兹梅"
+    },
+    {
+      "id": "name-06-E493",
+      "japanese": "ゴスゴス",
+      "translation": "戈斯戈斯",
+      "display": "戈斯戈斯"
+    },
+    {
+      "id": "name-06-E498",
+      "japanese": "ドラゴノザウルス",
+      "translation": "龙扎乌鲁斯",
+      "display": "龙扎乌鲁斯"
+    },
+    {
+      "id": "name-06-E4A1",
+      "japanese": "ピグドロン",
+      "translation": "皮古德隆",
+      "display": "皮古德隆"
+    },
+    {
+      "id": "name-06-E4A7",
+      "japanese": "トロスＤ７",
+      "translation": "特罗斯D7",
+      "display": "特罗斯D7"
+    },
+    {
+      "id": "name-06-E4AD",
+      "japanese": "グラトニオス",
+      "translation": "古拉特尼奥斯",
+      "display": "古拉特尼奥斯"
+    },
+    {
+      "id": "name-06-E4B4",
+      "japanese": "マグマ獣ガルムス",
+      "translation": "岩浆兽加鲁姆斯",
+      "display": "加鲁姆斯"
+    },
+    {
+      "id": "name-06-E4BE",
+      "japanese": "ブ－ド",
+      "translation": "布德",
+      "display": "布德"
+    },
+    {
+      "id": "name-06-E4C2",
+      "japanese": "グ－ル",
+      "translation": "古鲁",
+      "display": "古鲁"
+    },
+    {
+      "id": "name-06-E4C6",
+      "japanese": "ホワイトベ－ス",
+      "translation": "白色基地",
+      "display": "白色基地"
+    },
+    {
+      "id": "name-06-E4CE",
+      "japanese": "ア－ガマ",
+      "translation": "亚加玛",
+      "display": "亚加玛"
+    },
+    {
+      "id": "name-06-E4D3",
+      "japanese": "ネェル・ア－ガマ",
+      "translation": "新亚加玛",
+      "display": "新亚加玛"
+    },
+    {
+      "id": "name-06-E4DC",
+      "japanese": "ラ－・カイラム",
+      "translation": "拉·凯拉姆",
+      "display": "拉·凯拉姆"
+    },
+    {
+      "id": "name-06-E4E4",
+      "japanese": "化右獣バストドン",
+      "translation": "化石兽巴斯托顿",
+      "display": "巴斯托顿",
+      "notes": "原文作「化右獣」，按系列名化石獣バストドン译；原文保持不变。"
+    },
+    {
+      "id": "name-06-E4F0",
+      "japanese": "ドゴス・ギア",
+      "translation": "多戈斯·基亚",
+      "display": "多戈斯·基亚"
+    },
+    {
+      "id": "name-06-E4F7",
+      "japanese": "ドロス",
+      "translation": "多洛斯",
+      "display": "多洛斯"
+    },
+    {
+      "id": "name-06-E4FB",
+      "japanese": "ムサイ",
+      "translation": "姆塞",
+      "display": "姆塞"
+    },
+    {
+      "id": "name-06-E4FF",
+      "japanese": "ザクレロ",
+      "translation": "扎古莱罗",
+      "display": "扎古莱罗"
+    },
+    {
+      "id": "name-06-E504",
+      "japanese": "ミデア",
+      "translation": "米迪亚",
+      "display": "米迪亚"
+    },
+    {
+      "id": "name-06-E508",
+      "japanese": "ギルギルガン",
+      "translation": "基尔基尔刚",
+      "display": "基尔基尔刚"
+    },
+    {
+      "id": "name-06-E50F",
+      "japanese": "メカギルギルガン",
+      "translation": "机械基尔基尔刚",
+      "display": "机械基尔基尔刚"
+    },
+    {
+      "id": "name-06-E518",
+      "japanese": "ドル－キン",
+      "translation": "多鲁金",
+      "display": "多鲁金"
+    },
+    {
+      "id": "name-06-E51E",
+      "japanese": "グレイタ－キン",
+      "translation": "格雷达金",
+      "display": "格雷达金"
+    },
+    {
+      "id": "name-06-E526",
+      "japanese": "ガルガウ",
+      "translation": "加尔加乌",
+      "display": "加尔加乌"
+    },
+    {
+      "id": "name-06-E52B",
+      "japanese": "シルベルヴィント",
+      "translation": "希尔文特",
+      "display": "希尔文特"
+    },
+    {
+      "id": "name-06-E534",
+      "japanese": "ディカステス",
+      "translation": "迪卡斯特斯",
+      "display": "迪卡斯特斯"
+    },
+    {
+      "id": "name-06-E53B",
+      "japanese": "ネオ・グランゾン",
+      "translation": "新·古兰森",
+      "display": "新·古兰森"
+    },
+    {
+      "id": "name-06-E544",
+      "japanese": "Ｇディフェンサ－",
+      "translation": "G防卫者",
+      "display": "G防卫者"
+    },
+    {
+      "id": "name-06-E54D",
+      "japanese": "ガルガンチュワ",
+      "translation": "加尔刚丘亚",
+      "display": "加尔刚丘亚"
+    },
+    {
+      "id": "name-06-E555",
+      "japanese": "パンタグリュエル",
+      "translation": "潘塔格利尔",
+      "display": "潘塔格利尔"
+    },
+    {
+      "id": "name-06-E55E",
+      "japanese": "ガザＣ",
+      "translation": "加萨C",
+      "display": "加萨C"
+    },
+    {
+      "id": "name-06-E562",
+      "japanese": "ヴァルシオン改",
+      "translation": "瓦尔西昂改",
+      "display": "瓦尔西昂改"
+    },
+    {
+      "id": "name-06-E56B",
+      "japanese": "－－－－",
+      "translation": "----",
+      "display": "----"
+    },
+    {
+      "id": "name-06-E771",
+      "japanese": "ゲッタ－パンチ",
+      "translation": "盖塔飞拳",
+      "display": "盖塔飞拳"
+    },
+    {
+      "id": "name-06-E779",
+      "japanese": "ゲッタ－トマホ－ク",
+      "translation": "盖塔战斧",
+      "display": "盖塔战斧"
+    },
+    {
+      "id": "name-06-E783",
+      "japanese": "トマホ－クブ－メラン",
+      "translation": "战斧回旋镖",
+      "display": "战斧回旋镖"
+    },
+    {
+      "id": "name-06-E78E",
+      "japanese": "ゲッタ－ビ－ム",
+      "translation": "盖塔光束",
+      "display": "盖塔光束"
+    },
+    {
+      "id": "name-06-E796",
+      "japanese": "ゲッタ－ドリル",
+      "translation": "盖塔钻头",
+      "display": "盖塔钻头"
+    },
+    {
+      "id": "name-06-E79E",
+      "japanese": "ドリルスト－ム",
+      "translation": "钻头风暴",
+      "display": "钻头风暴"
+    },
+    {
+      "id": "name-06-E7A6",
+      "japanese": "ゲッタ－ア－ム",
+      "translation": "盖塔手臂",
+      "display": "盖塔手臂"
+    },
+    {
+      "id": "name-06-E7AE",
+      "japanese": "ドリルパンチ",
+      "translation": "钻头飞拳",
+      "display": "钻头飞拳"
+    },
+    {
+      "id": "name-06-E7B5",
+      "japanese": "ゲッタ－ミサイル",
+      "translation": "盖塔导弹",
+      "display": "盖塔导弹"
+    },
+    {
+      "id": "name-06-E7BE",
+      "japanese": "大雪山おろし",
+      "translation": "大雪山崩落",
+      "display": "大雪山崩落"
+    },
+    {
+      "id": "name-06-E7C8",
+      "japanese": "スピンカッタ－",
+      "translation": "旋转切割",
+      "display": "旋转切割"
+    },
+    {
+      "id": "name-06-E7D0",
+      "japanese": "ダブルトマホ－ク",
+      "translation": "双重战斧",
+      "display": "双重战斧"
+    },
+    {
+      "id": "name-06-E7D9",
+      "japanese": "ダブルトマホ－クブ－メラン",
+      "translation": "双重战斧回旋镖",
+      "display": "双重战斧回旋镖"
+    },
+    {
+      "id": "name-06-E7E7",
+      "japanese": "シャインスパ－ク",
+      "translation": "闪光冲击",
+      "display": "闪光冲击"
+    },
+    {
+      "id": "name-06-E7F0",
+      "japanese": "ドリルア－ム",
+      "translation": "钻头手臂",
+      "display": "钻头手臂"
+    },
+    {
+      "id": "name-06-E7F7",
+      "japanese": "チェ－ンアタック",
+      "translation": "锁链攻击",
+      "display": "锁链攻击"
+    },
+    {
+      "id": "name-06-E800",
+      "japanese": "ライガ－ミサイル",
+      "translation": "狮虎导弹",
+      "display": "狮虎导弹"
+    },
+    {
+      "id": "name-06-E809",
+      "japanese": "ゲッタ－サイクロン",
+      "translation": "盖塔旋风",
+      "display": "盖塔旋风"
+    },
+    {
+      "id": "name-06-E813",
+      "japanese": "ストロングミサイル",
+      "translation": "强力导弹",
+      "display": "强力导弹"
+    },
+    {
+      "id": "name-06-E81D",
+      "japanese": "ロケットパンチ",
+      "translation": "火箭飞拳",
+      "display": "火箭飞拳"
+    },
+    {
+      "id": "name-06-E825",
+      "japanese": "ミサイルパンチ",
+      "translation": "导弹飞拳",
+      "display": "导弹飞拳"
+    },
+    {
+      "id": "name-06-E82D",
+      "japanese": "光子力ビ－ム",
+      "translation": "光子力光束",
+      "display": "光子力光束"
+    },
+    {
+      "id": "name-06-E837",
+      "japanese": "ルストハリケ－ン",
+      "translation": "锈蚀飓风",
+      "display": "锈蚀飓风"
+    },
+    {
+      "id": "name-06-E840",
+      "japanese": "冷凍ビ－ム",
+      "translation": "冷冻光束",
+      "display": "冷冻光束"
+    },
+    {
+      "id": "name-06-E848",
+      "japanese": "ブレストファイヤ－",
+      "translation": "胸部火焰",
+      "display": "胸部火焰"
+    },
+    {
+      "id": "name-06-E852",
+      "japanese": "アイアンカッタ－",
+      "translation": "钢铁切割",
+      "display": "钢铁切割"
+    },
+    {
+      "id": "name-06-E85B",
+      "japanese": "ドリルミサイル",
+      "translation": "钻头导弹",
+      "display": "钻头导弹"
+    },
+    {
+      "id": "name-06-E863",
+      "japanese": "スクランダ－カッタ－",
+      "translation": "飞翼切割",
+      "display": "飞翼切割"
+    },
+    {
+      "id": "name-06-E86E",
+      "japanese": "サザンクロスナイフ",
+      "translation": "南十字星刀",
+      "display": "南十字星刀"
+    },
+    {
+      "id": "name-06-E878",
+      "japanese": "ニ－インパルスキック",
+      "translation": "膝部冲击踢",
+      "display": "膝部冲击踢"
+    },
+    {
+      "id": "name-06-E883",
+      "japanese": "バックスピンキック",
+      "translation": "后旋踢",
+      "display": "后旋踢"
+    },
+    {
+      "id": "name-06-E88D",
+      "japanese": "マジンガ－ブレ－ド",
+      "translation": "魔神刃",
+      "display": "魔神刃"
+    },
+    {
+      "id": "name-06-E897",
+      "japanese": "スクランブルカッタ－",
+      "translation": "紧急切割",
+      "display": "紧急切割"
+    },
+    {
+      "id": "name-06-E8A2",
+      "japanese": "ネ－ブルミサイル",
+      "translation": "脐部导弹",
+      "display": "脐部导弹"
+    },
+    {
+      "id": "name-06-E8AB",
+      "japanese": "アトミックパンチ",
+      "translation": "原子飞拳",
+      "display": "原子飞拳"
+    },
+    {
+      "id": "name-06-E8B4",
+      "japanese": "グレ－トタイフ－ン",
+      "translation": "大台风",
+      "display": "大台风"
+    },
+    {
+      "id": "name-06-E8BE",
+      "japanese": "サンダ－ブレ－ク",
+      "translation": "雷电破",
+      "display": "雷电破"
+    },
+    {
+      "id": "name-06-E8C7",
+      "japanese": "ブレストバ－ン",
+      "translation": "胸部燃烧",
+      "display": "胸部燃烧"
+    },
+    {
+      "id": "name-06-E8CF",
+      "japanese": "ドリルプレッシャ－パンチ",
+      "translation": "钻头压力飞拳",
+      "display": "钻头压力飞拳"
+    },
+    {
+      "id": "name-06-E8DC",
+      "japanese": "グレ－トブ－メラン",
+      "translation": "大回旋镖",
+      "display": "大回旋镖"
+    },
+    {
+      "id": "name-06-E8E6",
+      "japanese": "ビ－ムサ－ベル",
+      "translation": "光束军刀",
+      "display": "光束军刀"
+    },
+    {
+      "id": "name-06-E8EE",
+      "japanese": "ビ－ムライフル",
+      "translation": "光束步枪",
+      "display": "光束步枪"
+    },
+    {
+      "id": "name-06-E8F6",
+      "japanese": "バルカン",
+      "translation": "火神炮",
+      "display": "火神炮"
+    },
+    {
+      "id": "name-06-E8FB",
+      "japanese": "ハイパ－ハンマ－",
+      "translation": "超级铁锤",
+      "display": "超级铁锤"
+    },
+    {
+      "id": "name-06-E904",
+      "japanese": "ハイパ－バズ－カ",
+      "translation": "超级火箭炮",
+      "display": "超级火箭炮"
+    },
+    {
+      "id": "name-06-E90D",
+      "japanese": "νハイパ－バズ－カ",
+      "translation": "ν超级火箭炮",
+      "display": "ν超级火箭炮"
+    },
+    {
+      "id": "name-06-E917",
+      "japanese": "フィンファンネル",
+      "translation": "飞翅浮游炮",
+      "display": "飞翅浮游炮"
+    },
+    {
+      "id": "name-06-E920",
+      "japanese": "ファンネル",
+      "translation": "浮游炮",
+      "display": "浮游炮"
+    },
+    {
+      "id": "name-06-E926",
+      "japanese": "ミサイル",
+      "translation": "导弹",
+      "display": "导弹"
+    },
+    {
+      "id": "name-06-E92B",
+      "japanese": "ホ－ミングミサイル",
+      "translation": "追踪导弹",
+      "display": "追踪导弹"
+    },
+    {
+      "id": "name-06-E935",
+      "japanese": "グレネ－ドランチャ－",
+      "translation": "榴弹发射器",
+      "display": "榴弹发射器"
+    },
+    {
+      "id": "name-06-E940",
+      "japanese": "ビ－ムキャノン",
+      "translation": "光束加农炮",
+      "display": "光束加农炮"
+    },
+    {
+      "id": "name-06-E948",
+      "japanese": "メガビ－ムキャノン",
+      "translation": "兆光束加农炮",
+      "display": "兆光束加农炮"
+    },
+    {
+      "id": "name-06-E952",
+      "japanese": "ハイメガランチャ－",
+      "translation": "超级米加发射器",
+      "display": "超级米加发射器"
+    },
+    {
+      "id": "name-06-E95C",
+      "japanese": "ビ－ムガン",
+      "translation": "光束枪",
+      "display": "光束枪"
+    },
+    {
+      "id": "name-06-E962",
+      "japanese": "クロ－",
+      "translation": "爪",
+      "display": "爪"
+    },
+    {
+      "id": "name-06-E966",
+      "japanese": "メガビ－ムサ－ベル",
+      "translation": "兆光束军刀",
+      "display": "兆光束军刀"
+    },
+    {
+      "id": "name-06-E970",
+      "japanese": "ダブルビ－ムライフル",
+      "translation": "双联光束步枪",
+      "display": "双联光束步枪"
+    },
+    {
+      "id": "name-06-E97B",
+      "japanese": "マゼラトップ砲．±",
+      "translation": "马泽拉炮",
+      "display": "马泽拉炮",
+      "notes": "原文末尾「．±」为控制符，译文按名称本体处理，原文保持不变。"
+    },
+    {
+      "id": "name-06-E986",
+      "japanese": "メガマシンキャノン",
+      "translation": "兆机关炮",
+      "display": "兆机关炮"
+    },
+    {
+      "id": "name-06-E990",
+      "japanese": "ヴェスバ－",
+      "translation": "维斯巴",
+      "display": "维斯巴"
+    },
+    {
+      "id": "name-06-E996",
+      "japanese": "超電磁ヨ－ヨ－",
+      "translation": "超电磁悠悠球",
+      "display": "超电磁悠悠球"
+    },
+    {
+      "id": "name-06-E9A1",
+      "japanese": "超電磁スピン",
+      "translation": "超电磁旋转",
+      "display": "超电磁旋转"
+    },
+    {
+      "id": "name-06-E9AB",
+      "japanese": "ビッグブラスト",
+      "translation": "大型爆破",
+      "display": "大型爆破"
+    },
+    {
+      "id": "name-06-E9B3",
+      "japanese": "ビッグブラスト・ディバイダ－",
+      "translation": "大型爆破·分裂",
+      "display": "大型爆破·分裂"
+    },
+    {
+      "id": "name-06-E9C2",
+      "japanese": "Ｖレ－ザ－",
+      "translation": "V激光",
+      "display": "V激光"
+    },
+    {
+      "id": "name-06-E9C8",
+      "japanese": "ツインランサ－",
+      "translation": "双联长枪",
+      "display": "双联长枪"
+    },
+    {
+      "id": "name-06-E9D0",
+      "japanese": "バトルチェ－ンソ－",
+      "translation": "战斗链锯",
+      "display": "战斗链锯"
+    },
+    {
+      "id": "name-06-E9DA",
+      "japanese": "バトルガレッガ－",
+      "translation": "战斗加莱格",
+      "display": "战斗加莱格"
+    },
+    {
+      "id": "name-06-E9E3",
+      "japanese": "ロックファイタ－",
+      "translation": "岩石战机",
+      "display": "岩石战机"
+    },
+    {
+      "id": "name-06-E9EC",
+      "japanese": "補給装置",
+      "translation": "补给装置",
+      "display": "补给装置"
+    },
+    {
+      "id": "name-06-E9F7",
+      "japanese": "マグネクロ－",
+      "translation": "磁力爪",
+      "display": "磁力爪"
+    },
+    {
+      "id": "name-06-E9FE",
+      "japanese": "スプリングクラッシャ－",
+      "translation": "弹簧粉碎",
+      "display": "弹簧粉碎"
+    },
+    {
+      "id": "name-06-EA0A",
+      "japanese": "アトミックバ－ナ－",
+      "translation": "原子燃烧器",
+      "display": "原子燃烧器"
+    },
+    {
+      "id": "name-06-EA14",
+      "japanese": "超電磁スパ－ク",
+      "translation": "超电磁火花",
+      "display": "超电磁火花"
+    },
+    {
+      "id": "name-06-EA1F",
+      "japanese": "ドスブレッシャ－",
+      "translation": "多斯压迫",
+      "display": "多斯压迫"
+    },
+    {
+      "id": "name-06-EA28",
+      "japanese": "スカイリッパ－",
+      "translation": "天空利刃",
+      "display": "天空利刃"
+    },
+    {
+      "id": "name-06-EA30",
+      "japanese": "マグネレ－ザ－",
+      "translation": "磁力激光",
+      "display": "磁力激光"
+    },
+    {
+      "id": "name-06-EA38",
+      "japanese": "アトミックボム．±",
+      "translation": "原子弹",
+      "display": "原子弹",
+      "notes": "原文末尾「．±」为控制符，译文按名称本体处理，原文保持不变。"
+    },
+    {
+      "id": "name-06-EA42",
+      "japanese": "ロックファイタ－",
+      "translation": "岩石战机",
+      "display": "岩石战机"
+    },
+    {
+      "id": "name-06-EA4B",
+      "japanese": "エレクトロダ－ト",
+      "translation": "电子飞镖",
+      "display": "电子飞镖"
+    },
+    {
+      "id": "name-06-EA54",
+      "japanese": "補給装置",
+      "translation": "补给装置",
+      "display": "补给装置"
+    },
+    {
+      "id": "name-06-EA5D",
+      "japanese": "補給装置",
+      "translation": "补给装置",
+      "display": "补给装置"
+    },
+    {
+      "id": "name-06-EA67",
+      "japanese": "アンカ－ナックル",
+      "translation": "锚形指虎",
+      "display": "锚形指虎"
+    },
+    {
+      "id": "name-06-EA70",
+      "japanese": "３８０ミリ戦車砲",
+      "translation": "380毫米坦克炮",
+      "display": "380毫米坦克炮"
+    },
+    {
+      "id": "name-06-EA7C",
+      "japanese": "メカニフィクサ－",
+      "translation": "机械修复装置",
+      "display": "机械修复装置"
+    },
+    {
+      "id": "name-06-EA85",
+      "japanese": "爆雷",
+      "translation": "深水炸弹",
+      "display": "深水炸弹"
+    },
+    {
+      "id": "name-06-EA8A",
+      "japanese": "クラフトドリル",
+      "translation": "飞行器钻头",
+      "display": "飞行器钻头"
+    },
+    {
+      "id": "name-06-EA92",
+      "japanese": "ゴッドブレイカ－",
+      "translation": "神之破坏者",
+      "display": "神之破坏者"
+    },
+    {
+      "id": "name-06-EA9B",
+      "japanese": "ゴッドミサイル",
+      "translation": "神之导弹",
+      "display": "神之导弹"
+    },
+    {
+      "id": "name-06-EAA3",
+      "japanese": "ゴッドブ－メラン",
+      "translation": "神之回旋镖",
+      "display": "神之回旋镖"
+    },
+    {
+      "id": "name-06-EAAC",
+      "japanese": "ゴ－ガンソ－ド",
+      "translation": "刚岩剑",
+      "display": "刚岩剑"
+    },
+    {
+      "id": "name-06-EAB4",
+      "japanese": "エネルギ－カッタ－",
+      "translation": "能量切割",
+      "display": "能量切割"
+    },
+    {
+      "id": "name-06-EABE",
+      "japanese": "ゴッドアルファ",
+      "translation": "神之α",
+      "display": "神之α"
+    },
+    {
+      "id": "name-06-EAC6",
+      "japanese": "ゴッドプレッシャ－",
+      "translation": "神之压力",
+      "display": "神之压力"
+    },
+    {
+      "id": "name-06-EAD0",
+      "japanese": "ゴッドアロ－",
+      "translation": "神之箭",
+      "display": "神之箭"
+    },
+    {
+      "id": "name-06-EAD7",
+      "japanese": "ゴッドゴ－ガン",
+      "translation": "神之刚岩",
+      "display": "神之刚岩"
+    },
+    {
+      "id": "name-06-EADF",
+      "japanese": "ゴッドバ－ド",
+      "translation": "神鸟",
+      "display": "神鸟"
+    },
+    {
+      "id": "name-06-EAE6",
+      "japanese": "ゴッドボイス",
+      "translation": "神之声音",
+      "display": "神之声音"
+    },
+    {
+      "id": "name-06-EAED",
+      "japanese": "ゴッドサンダ－",
+      "translation": "神之雷",
+      "display": "神之雷"
+    },
+    {
+      "id": "name-06-EAF5",
+      "japanese": "ダイタ－ンハンマ－",
+      "translation": "泰坦铁锤",
+      "display": "泰坦铁锤"
+    },
+    {
+      "id": "name-06-EAFF",
+      "japanese": "ダイタ－ンザンバ－",
+      "translation": "泰坦赞巴",
+      "display": "泰坦赞巴"
+    },
+    {
+      "id": "name-06-EB09",
+      "japanese": "ダイタ－ンウェッブ",
+      "translation": "泰坦网",
+      "display": "泰坦网"
+    },
+    {
+      "id": "name-06-EB13",
+      "japanese": "ダイタ－ンミサイル",
+      "translation": "泰坦导弹",
+      "display": "泰坦导弹"
+    },
+    {
+      "id": "name-06-EB1D",
+      "japanese": "ダイタ－ンキャノン",
+      "translation": "泰坦加农炮",
+      "display": "泰坦加农炮"
+    },
+    {
+      "id": "name-06-EB27",
+      "japanese": "サンレ－ザ－",
+      "translation": "太阳激光",
+      "display": "太阳激光"
+    },
+    {
+      "id": "name-06-EB2E",
+      "japanese": "サンアタック",
+      "translation": "太阳攻击",
+      "display": "太阳攻击"
+    },
+    {
+      "id": "name-06-EB35",
+      "japanese": "電撃",
+      "translation": "电击",
+      "display": "电击"
+    },
+    {
+      "id": "name-06-EB3A",
+      "japanese": "ビ－ムランチャ－",
+      "translation": "光束发射器",
+      "display": "光束发射器"
+    },
+    {
+      "id": "name-06-EB43",
+      "japanese": "ディスカッタ－",
+      "translation": "圆盘切割",
+      "display": "圆盘切割"
+    },
+    {
+      "id": "name-06-EB4B",
+      "japanese": "サイフラッシュ．±",
+      "translation": "念力闪光",
+      "display": "念力闪光",
+      "notes": "原文末尾「．±」为控制符，译文按名称本体处理，原文保持不变。"
+    },
+    {
+      "id": "name-06-EB55",
+      "japanese": "ハイ・ファミリア",
+      "translation": "高位使魔",
+      "display": "高位使魔"
+    },
+    {
+      "id": "name-06-EB5E",
+      "japanese": "アカシックバスタ－",
+      "translation": "阿卡夏破坏炮",
+      "display": "阿卡夏破坏炮"
+    },
+    {
+      "id": "name-06-EB68",
+      "japanese": "コスモノヴァ",
+      "translation": "宇宙新星",
+      "display": "宇宙新星"
+    },
+    {
+      "id": "name-06-EB6F",
+      "japanese": "カロリックミサイル",
+      "translation": "卡路里导弹",
+      "display": "卡路里导弹"
+    },
+    {
+      "id": "name-06-EB79",
+      "japanese": "グランワ－ムソ－ド",
+      "translation": "巨虫剑",
+      "display": "巨虫剑"
+    },
+    {
+      "id": "name-06-EB83",
+      "japanese": "ワ－ムスマッシャ－",
+      "translation": "蠕虫粉碎",
+      "display": "蠕虫粉碎"
+    },
+    {
+      "id": "name-06-EB8D",
+      "japanese": "グラビトロンカノン．±",
+      "translation": "重力子加农炮",
+      "display": "重力子加农炮",
+      "notes": "原文末尾「．±」为控制符，译文按名称本体处理，原文保持不变。"
+    },
+    {
+      "id": "name-06-EB99",
+      "japanese": "ブラックホ－ルクラスタ－",
+      "translation": "黑洞集束",
+      "display": "黑洞集束"
+    },
+    {
+      "id": "name-06-EBA6",
+      "japanese": "ディバインア－ム",
+      "translation": "神威手臂",
+      "display": "神威手臂"
+    },
+    {
+      "id": "name-06-EBAF",
+      "japanese": "クロスマッシャ－",
+      "translation": "交叉粉碎",
+      "display": "交叉粉碎"
+    },
+    {
+      "id": "name-06-EBB8",
+      "japanese": "ハイメガキャノン",
+      "translation": "超级米加加农炮",
+      "display": "超级米加加农炮"
+    },
+    {
+      "id": "name-06-EBC1",
+      "japanese": "サイコブラスタ－．±",
+      "translation": "精神破坏炮",
+      "display": "精神破坏炮",
+      "notes": "原文末尾「．±」为控制符，译文按名称本体处理，原文保持不变。"
+    },
+    {
+      "id": "name-06-EBCC",
+      "japanese": "テキサスソ－ド",
+      "translation": "德州剑",
+      "display": "德州剑"
+    },
+    {
+      "id": "name-06-EBD4",
+      "japanese": "マックリボルバ－",
+      "translation": "马克左轮",
+      "display": "马克左轮"
+    },
+    {
+      "id": "name-06-EBDD",
+      "japanese": "マックライフル",
+      "translation": "马克步枪",
+      "display": "马克步枪"
+    },
+    {
+      "id": "name-06-EBE5",
+      "japanese": "マックライアット",
+      "translation": "马克镇暴",
+      "display": "马克镇暴"
+    },
+    {
+      "id": "name-06-EBEE",
+      "japanese": "ゲッタ－ビ－ム",
+      "translation": "盖塔光束",
+      "display": "盖塔光束"
+    },
+    {
+      "id": "name-06-EBF6",
+      "japanese": "冷凍光線",
+      "translation": "冷冻光线",
+      "display": "冷冻光线"
+    },
+    {
+      "id": "name-06-EBFF",
+      "japanese": "ボロットパンチ",
+      "translation": "波罗特飞拳",
+      "display": "波罗特飞拳"
+    },
+    {
+      "id": "name-06-EC07",
+      "japanese": "スペシャルボロットパンチ",
+      "translation": "特别波罗特飞拳",
+      "display": "特别波罗特飞拳"
+    },
+    {
+      "id": "name-06-EC14",
+      "japanese": "爆裂ボロットパンチ．±",
+      "translation": "爆裂波罗特飞拳",
+      "display": "爆裂波罗特飞拳",
+      "notes": "原文末尾「．±」为控制符，译文按名称本体处理，原文保持不变。"
+    },
+    {
+      "id": "name-06-EC23",
+      "japanese": "ミサイル",
+      "translation": "导弹",
+      "display": "导弹"
+    },
+    {
+      "id": "name-06-EC28",
+      "japanese": "修理装置",
+      "translation": "修理装置",
+      "display": "修理装置"
+    },
+    {
+      "id": "name-06-EC31",
+      "japanese": "ミサイル",
+      "translation": "导弹",
+      "display": "导弹"
+    },
+    {
+      "id": "name-06-EC36",
+      "japanese": "スカ－レットビ－ム",
+      "translation": "绯红光束",
+      "display": "绯红光束"
+    },
+    {
+      "id": "name-06-EC40",
+      "japanese": "フィンガ－ミサイル",
+      "translation": "手指导弹",
+      "display": "手指导弹"
+    },
+    {
+      "id": "name-06-EC4A",
+      "japanese": "光子力ミサイル",
+      "translation": "光子力导弹",
+      "display": "光子力导弹"
+    },
+    {
+      "id": "name-06-EC55",
+      "japanese": "光子力ビ－ム",
+      "translation": "光子力光束",
+      "display": "光子力光束"
+    },
+    {
+      "id": "name-06-EC5F",
+      "japanese": "２０ミリバルカン",
+      "translation": "20毫米火神炮",
+      "display": "20毫米火神炮"
+    },
+    {
+      "id": "name-06-EC68",
+      "japanese": "９０ミリガトリングガン",
+      "translation": "90毫米加特林炮",
+      "display": "90毫米加特林炮"
+    },
+    {
+      "id": "name-06-EC74",
+      "japanese": "拡散ビ－ム砲",
+      "translation": "扩散光束炮",
+      "display": "扩散光束炮"
+    },
+    {
+      "id": "name-06-EC7E",
+      "japanese": "メガバズ－カランチャ－",
+      "translation": "兆火箭炮发射器",
+      "display": "兆火箭炮发射器"
+    },
+    {
+      "id": "name-06-EC8C",
+      "japanese": "２４０ミリライフル砲",
+      "translation": "240毫米步枪炮",
+      "display": "240毫米步枪炮"
+    },
+    {
+      "id": "name-06-EC98",
+      "japanese": "ビ－ムスプレ－ガン",
+      "translation": "光束喷射枪",
+      "display": "光束喷射枪"
+    },
+    {
+      "id": "name-06-ECA2",
+      "japanese": "ア－ムビ－ムガン",
+      "translation": "手臂光束枪",
+      "display": "手臂光束枪"
+    },
+    {
+      "id": "name-06-ECAB",
+      "japanese": "ビ－ムピストル",
+      "translation": "光束手枪",
+      "display": "光束手枪"
+    },
+    {
+      "id": "name-06-ECB3",
+      "japanese": "クレイバズ－カ",
+      "translation": "克莱火箭炮",
+      "display": "克莱火箭炮"
+    },
+    {
+      "id": "name-06-ECBB",
+      "japanese": "バルカン・ファランクス",
+      "translation": "火神炮·方阵",
+      "display": "火神炮·方阵"
+    },
+    {
+      "id": "name-06-ECC7",
+      "japanese": "ハンドグレネ－ド",
+      "translation": "手榴弹",
+      "display": "手榴弹"
+    },
+    {
+      "id": "name-06-ECD0",
+      "japanese": "ビ－ムカノン",
+      "translation": "光束加农",
+      "display": "光束加农"
+    },
+    {
+      "id": "name-06-ECD7",
+      "japanese": "フォ－ルディングバズ－カ",
+      "translation": "折叠火箭炮",
+      "display": "折叠火箭炮"
+    },
+    {
+      "id": "name-06-ECE4",
+      "japanese": "メガビ－ム砲",
+      "translation": "兆光束炮",
+      "display": "兆光束炮"
+    },
+    {
+      "id": "name-06-ECEC",
+      "japanese": "大型ビ－ムサ－ベル",
+      "translation": "大型光束军刀",
+      "display": "大型光束军刀"
+    },
+    {
+      "id": "name-06-ECF8",
+      "japanese": "１０５ミリバルカン",
+      "translation": "105毫米火神炮",
+      "display": "105毫米火神炮"
+    },
+    {
+      "id": "name-06-ED02",
+      "japanese": "マイクロミサイル．±",
+      "translation": "微型导弹",
+      "display": "微型导弹",
+      "notes": "原文末尾「．±」为控制符，译文按名称本体处理，原文保持不变。"
+    },
+    {
+      "id": "name-06-ED0D",
+      "japanese": "ザクマシンガン",
+      "translation": "扎古机枪",
+      "display": "扎古机枪"
+    },
+    {
+      "id": "name-06-ED18",
+      "japanese": "ザクバズ－カ",
+      "translation": "扎古火箭炮",
+      "display": "扎古火箭炮"
+    },
+    {
+      "id": "name-06-ED22",
+      "japanese": "ヒ－トホ－ク",
+      "translation": "热能斧",
+      "display": "热能斧"
+    },
+    {
+      "id": "name-06-ED29",
+      "japanese": "７５ミリ機関砲",
+      "translation": "75毫米机关炮",
+      "display": "75毫米机关炮"
+    },
+    {
+      "id": "name-06-ED34",
+      "japanese": "ヒ－トロッド",
+      "translation": "热能鞭",
+      "display": "热能鞭"
+    },
+    {
+      "id": "name-06-ED3B",
+      "japanese": "ヒ－トサ－ベル",
+      "translation": "热能军刀",
+      "display": "热能军刀"
+    },
+    {
+      "id": "name-06-ED43",
+      "japanese": "ジャイアントバズ",
+      "translation": "巨型火箭炮",
+      "display": "巨型火箭炮"
+    },
+    {
+      "id": "name-06-ED4C",
+      "japanese": "拡散ビ－ム砲",
+      "translation": "扩散光束炮",
+      "display": "扩散光束炮"
+    },
+    {
+      "id": "name-06-ED56",
+      "japanese": "ビ－ムカノン",
+      "translation": "光束加农",
+      "display": "光束加农"
+    },
+    {
+      "id": "name-06-ED5D",
+      "japanese": "魚雷",
+      "translation": "鱼雷",
+      "display": "鱼雷"
+    },
+    {
+      "id": "name-06-ED62",
+      "japanese": "アイアンネイル",
+      "translation": "钢铁指甲",
+      "display": "钢铁指甲"
+    },
+    {
+      "id": "name-06-ED6A",
+      "japanese": "ハンドミサイル",
+      "translation": "手部导弹",
+      "display": "手部导弹"
+    },
+    {
+      "id": "name-06-ED72",
+      "japanese": "クロ－",
+      "translation": "爪",
+      "display": "爪"
+    },
+    {
+      "id": "name-06-ED76",
+      "japanese": "ハイドボンブ",
+      "translation": "隐蔽炸弹",
+      "display": "隐蔽炸弹"
+    },
+    {
+      "id": "name-06-ED7D",
+      "japanese": "大型メガ粒子砲",
+      "translation": "大型米加粒子炮",
+      "display": "大型米加粒子炮"
+    },
+    {
+      "id": "name-06-ED8A",
+      "japanese": "対空メガ粒子砲",
+      "translation": "对空米加粒子炮",
+      "display": "对空米加粒子炮"
+    },
+    {
+      "id": "name-06-ED97",
+      "japanese": "ビ－ムナギナタ",
+      "translation": "光束薙刀",
+      "display": "光束薙刀"
+    },
+    {
+      "id": "name-06-ED9F",
+      "japanese": "メガ粒子砲",
+      "translation": "米加粒子炮",
+      "display": "米加粒子炮"
+    },
+    {
+      "id": "name-06-EDA8",
+      "japanese": "ビット",
+      "translation": "比特",
+      "display": "比特"
+    },
+    {
+      "id": "name-06-EDAC",
+      "japanese": "ワイヤ－ビ－ム砲",
+      "translation": "有线光束炮",
+      "display": "有线光束炮"
+    },
+    {
+      "id": "name-06-EDB6",
+      "japanese": "フェダ－インライフル",
+      "translation": "费达因步枪",
+      "display": "费达因步枪"
+    },
+    {
+      "id": "name-06-EDC1",
+      "japanese": "海ヘビ",
+      "translation": "海蛇",
+      "display": "海蛇"
+    },
+    {
+      "id": "name-06-EDC6",
+      "japanese": "ファンネル",
+      "translation": "浮游炮",
+      "display": "浮游炮"
+    },
+    {
+      "id": "name-06-EDCC",
+      "japanese": "メガ粒子砲",
+      "translation": "米加粒子炮",
+      "display": "米加粒子炮"
+    },
+    {
+      "id": "name-06-EDD5",
+      "japanese": "破壊光線",
+      "translation": "破坏光线",
+      "display": "破坏光线"
+    },
+    {
+      "id": "name-06-EDDE",
+      "japanese": "ミニミサイル",
+      "translation": "微型导弹",
+      "display": "微型导弹"
+    },
+    {
+      "id": "name-06-EDE5",
+      "japanese": "対艦ミサイル",
+      "translation": "对舰导弹",
+      "display": "对舰导弹"
+    },
+    {
+      "id": "name-06-EDEE",
+      "japanese": "拡散メガ粒子砲",
+      "translation": "扩散米加粒子炮",
+      "display": "扩散米加粒子炮"
+    },
+    {
+      "id": "name-06-EDFB",
+      "japanese": "ビ－ムトマホ－ク",
+      "translation": "光束战斧",
+      "display": "光束战斧"
+    },
+    {
+      "id": "name-06-EE04",
+      "japanese": "補給装置",
+      "translation": "补给装置",
+      "display": "补给装置"
+    },
+    {
+      "id": "name-06-EE0D",
+      "japanese": "ビ－ムソ－ド",
+      "translation": "光束剑",
+      "display": "光束剑"
+    },
+    {
+      "id": "name-06-EE14",
+      "japanese": "ビ－ム砲",
+      "translation": "光束炮",
+      "display": "光束炮"
+    },
+    {
+      "id": "name-06-EE1A",
+      "japanese": "マゼラトップ砲．±",
+      "translation": "马泽拉炮",
+      "display": "马泽拉炮",
+      "notes": "原文末尾「．±」为控制符，译文按名称本体处理，原文保持不变。"
+    },
+    {
+      "id": "name-06-EE26",
+      "japanese": "補給装置",
+      "translation": "补给装置",
+      "display": "补给装置"
+    },
+    {
+      "id": "name-06-EE31",
+      "japanese": "リフレクタ－ビット",
+      "translation": "反射比特",
+      "display": "反射比特"
+    },
+    {
+      "id": "name-06-EE3B",
+      "japanese": "ハンドキャノン",
+      "translation": "手部加农炮",
+      "display": "手部加农炮"
+    },
+    {
+      "id": "name-06-EE43",
+      "japanese": "トライブレ－ド",
+      "translation": "三叉刃",
+      "display": "三叉刃"
+    },
+    {
+      "id": "name-06-EE4B",
+      "japanese": "ビ－ムトマホ－ク",
+      "translation": "光束战斧",
+      "display": "光束战斧"
+    },
+    {
+      "id": "name-06-EE54",
+      "japanese": "レ－ザ－ビ－ム",
+      "translation": "激光束",
+      "display": "激光束"
+    },
+    {
+      "id": "name-06-EE5C",
+      "japanese": "ソニックブラスト",
+      "translation": "音速爆破",
+      "display": "音速爆破"
+    },
+    {
+      "id": "name-06-EE65",
+      "japanese": "ハイパ－メガ粒子砲．±",
+      "translation": "超级米加粒子炮",
+      "display": "超级米加粒子炮",
+      "notes": "原文末尾「．±」为控制符，译文按名称本体处理，原文保持不变。"
+    },
+    {
+      "id": "name-06-EE81",
+      "japanese": "ハンドビ－ム砲",
+      "translation": "手部光束炮",
+      "display": "手部光束炮"
+    },
+    {
+      "id": "name-06-EE8A",
+      "japanese": "メガランチャ－",
+      "translation": "米加发射器",
+      "display": "米加发射器"
+    },
+    {
+      "id": "name-06-EE92",
+      "japanese": "インコム",
+      "translation": "英克姆",
+      "display": "英克姆"
+    },
+    {
+      "id": "name-06-EE97",
+      "japanese": "メガビ－ムカノン",
+      "translation": "兆光束加农",
+      "display": "兆光束加农"
+    },
+    {
+      "id": "name-06-EE74",
+      "japanese": "ハイパ－メガ粒子砲",
+      "translation": "超级米加粒子炮",
+      "display": "超级米加粒子炮"
+    },
+    {
+      "id": "name-06-EEA0",
+      "japanese": "ビ－ムマシンガン",
+      "translation": "光束机枪",
+      "display": "光束机枪"
+    },
+    {
+      "id": "name-06-EEA9",
+      "japanese": "ビ－ムソ－ドアックス",
+      "translation": "光束剑斧",
+      "display": "光束剑斧"
+    },
+    {
+      "id": "name-06-EEB4",
+      "japanese": "スツルムファウスト",
+      "translation": "风暴铁拳",
+      "display": "风暴铁拳"
+    },
+    {
+      "id": "name-06-EEBE",
+      "japanese": "ビ－ムアサルトライフル",
+      "translation": "光束突击步枪",
+      "display": "光束突击步枪"
+    },
+    {
+      "id": "name-06-EECA",
+      "japanese": "ビ－ムショットライフル",
+      "translation": "光束射击步枪",
+      "display": "光束射击步枪"
+    },
+    {
+      "id": "name-06-EED6",
+      "japanese": "メガア－ム砲",
+      "translation": "兆手臂炮",
+      "display": "兆手臂炮"
+    },
+    {
+      "id": "name-06-EEDE",
+      "japanese": "有線クロ－ア－ム",
+      "translation": "有线爪臂",
+      "display": "有线爪臂"
+    },
+    {
+      "id": "name-06-EEE9",
+      "japanese": "メガカノン砲",
+      "translation": "兆加农炮",
+      "display": "兆加农炮"
+    },
+    {
+      "id": "name-06-EEF1",
+      "japanese": "１１０ミリマシンガン",
+      "translation": "110毫米机枪",
+      "display": "110毫米机枪"
+    },
+    {
+      "id": "name-06-EFDD",
+      "japanese": "ショットガン",
+      "translation": "霰弹枪",
+      "display": "霰弹枪"
+    },
+    {
+      "id": "name-06-EFE4",
+      "japanese": "パンツァ－ファウスト",
+      "translation": "铁拳火箭筒",
+      "display": "铁拳火箭筒"
+    },
+    {
+      "id": "name-06-EFEF",
+      "japanese": "６０ミリ機関砲",
+      "translation": "60毫米机关炮",
+      "display": "60毫米机关炮"
+    },
+    {
+      "id": "name-06-EFFA",
+      "japanese": "ショットランサ－",
+      "translation": "射击长枪",
+      "display": "射击长枪"
+    },
+    {
+      "id": "name-06-F003",
+      "japanese": "ヘビ－マシンガン",
+      "translation": "重型机枪",
+      "display": "重型机枪"
+    },
+    {
+      "id": "name-06-F00C",
+      "japanese": "ビ－ムライフル",
+      "translation": "光束步枪",
+      "display": "光束步枪"
+    },
+    {
+      "id": "name-06-F014",
+      "japanese": "メガビ－ムキャノン",
+      "translation": "兆光束加农炮",
+      "display": "兆光束加农炮"
+    },
+    {
+      "id": "name-06-F01E",
+      "japanese": "テンタクラ－ロッド",
+      "translation": "触手杖",
+      "display": "触手杖"
+    },
+    {
+      "id": "name-06-F028",
+      "japanese": "バグ",
+      "translation": "虫",
+      "display": "虫"
+    },
+    {
+      "id": "name-06-F02B",
+      "japanese": "アトミックバズ－カ",
+      "translation": "原子火箭炮",
+      "display": "原子火箭炮"
+    },
+    {
+      "id": "name-06-F037",
+      "japanese": "かま",
+      "translation": "镰刀",
+      "display": "镰刀"
+    },
+    {
+      "id": "name-06-F03A",
+      "japanese": "レ－ザ－",
+      "translation": "激光",
+      "display": "激光"
+    },
+    {
+      "id": "name-06-F03F",
+      "japanese": "ムチ",
+      "translation": "鞭",
+      "display": "鞭"
+    },
+    {
+      "id": "name-06-F042",
+      "japanese": "ピストル",
+      "translation": "手枪",
+      "display": "手枪"
+    },
+    {
+      "id": "name-06-F047",
+      "japanese": "ライフル",
+      "translation": "步枪",
+      "display": "步枪"
+    },
+    {
+      "id": "name-06-F04C",
+      "japanese": "スピア",
+      "translation": "长枪",
+      "display": "长枪"
+    },
+    {
+      "id": "name-06-F050",
+      "japanese": "ハリケ－ン",
+      "translation": "飓风",
+      "display": "飓风"
+    },
+    {
+      "id": "name-06-F056",
+      "japanese": "クロスシザ－ス",
+      "translation": "十字剪刀",
+      "display": "十字剪刀"
+    },
+    {
+      "id": "name-06-F05E",
+      "japanese": "ホ－ミング魚雷",
+      "translation": "追踪鱼雷",
+      "display": "追踪鱼雷"
+    },
+    {
+      "id": "name-06-F068",
+      "japanese": "パンチ",
+      "translation": "拳",
+      "display": "拳"
+    },
+    {
+      "id": "name-06-F06C",
+      "japanese": "破壊光線",
+      "translation": "破坏光线",
+      "display": "破坏光线"
+    },
+    {
+      "id": "name-06-F075",
+      "japanese": "ダ－クサ－ベル",
+      "translation": "暗黑军刀",
+      "display": "暗黑军刀"
+    },
+    {
+      "id": "name-06-F07D",
+      "japanese": "たいあたり",
+      "translation": "撞击",
+      "display": "撞击"
+    },
+    {
+      "id": "name-06-F083",
+      "japanese": "火炎",
+      "translation": "火焰",
+      "display": "火焰"
+    },
+    {
+      "id": "name-06-F088",
+      "japanese": "マグマ弾",
+      "translation": "岩浆弹",
+      "display": "岩浆弹"
+    },
+    {
+      "id": "name-06-F08E",
+      "japanese": "ハイメガ粒子砲",
+      "translation": "超级米加粒子炮",
+      "display": "超级米加粒子炮"
+    },
+    {
+      "id": "name-06-F099",
+      "japanese": "大砲",
+      "translation": "大炮",
+      "display": "大炮"
+    },
+    {
+      "id": "name-06-F09E",
+      "japanese": "ガンテミサイル",
+      "translation": "甘特导弹",
+      "display": "甘特导弹"
+    },
+    {
+      "id": "name-06-F0A6",
+      "japanese": "ギルソ－ド",
+      "translation": "基尔剑",
+      "display": "基尔剑"
+    },
+    {
+      "id": "name-06-F0AC",
+      "japanese": "ギルアロ－",
+      "translation": "基尔箭",
+      "display": "基尔箭"
+    },
+    {
+      "id": "name-06-F0B2",
+      "japanese": "ビッグミサイル",
+      "translation": "大型导弹",
+      "display": "大型导弹"
+    },
+    {
+      "id": "name-06-F0BA",
+      "japanese": "妖魔サ－ベル",
+      "translation": "妖魔军刀",
+      "display": "妖魔军刀"
+    },
+    {
+      "id": "name-06-F0C3",
+      "japanese": "ウイングソ－ド",
+      "translation": "翼剑",
+      "display": "翼剑"
+    },
+    {
+      "id": "name-06-F0CB",
+      "japanese": "ビッグボウ",
+      "translation": "巨弓",
+      "display": "巨弓"
+    },
+    {
+      "id": "name-06-F0D1",
+      "japanese": "多弾頭ミサイル",
+      "translation": "多弹头导弹",
+      "display": "多弹头导弹"
+    },
+    {
+      "id": "name-06-F0DC",
+      "japanese": "リッパ－クロ－",
+      "translation": "撕裂爪",
+      "display": "撕裂爪"
+    },
+    {
+      "id": "name-06-F0E4",
+      "japanese": "電磁もり",
+      "translation": "电磁鱼叉",
+      "display": "电磁鱼叉"
+    },
+    {
+      "id": "name-06-F0EC",
+      "japanese": "うずまき",
+      "translation": "漩涡",
+      "display": "漩涡"
+    },
+    {
+      "id": "name-06-F0F1",
+      "japanese": "ライトニングアロ－",
+      "translation": "闪电箭",
+      "display": "闪电箭"
+    },
+    {
+      "id": "name-06-F0FB",
+      "japanese": "ドリル",
+      "translation": "钻头",
+      "display": "钻头"
+    },
+    {
+      "id": "name-06-F0FF",
+      "japanese": "振動波",
+      "translation": "振动波",
+      "display": "振动波"
+    },
+    {
+      "id": "name-06-F106",
+      "japanese": "リング光線",
+      "translation": "环状光线",
+      "display": "环状光线"
+    },
+    {
+      "id": "name-06-F10E",
+      "japanese": "磁力光線",
+      "translation": "磁力光线",
+      "display": "磁力光线"
+    },
+    {
+      "id": "name-06-F117",
+      "japanese": "ショックビ－ム",
+      "translation": "冲击光束",
+      "display": "冲击光束"
+    },
+    {
+      "id": "name-06-F11F",
+      "japanese": "３０ミリ機銃",
+      "translation": "30毫米机炮",
+      "display": "30毫米机炮"
+    },
+    {
+      "id": "name-06-F128",
+      "japanese": "２０インチ砲",
+      "translation": "20英寸炮",
+      "display": "20英寸炮"
+    },
+    {
+      "id": "name-06-F130",
+      "japanese": "４０ミリ機銃",
+      "translation": "40毫米机炮",
+      "display": "40毫米机炮"
+    },
+    {
+      "id": "name-06-F139",
+      "japanese": "５０ミリ機銃",
+      "translation": "50毫米机炮",
+      "display": "50毫米机炮"
+    },
+    {
+      "id": "name-06-F142",
+      "japanese": "６０ミリ機銃",
+      "translation": "60毫米机炮",
+      "display": "60毫米机炮"
+    },
+    {
+      "id": "name-06-F196",
+      "japanese": "反重力スト－ム",
+      "translation": "反重力风暴",
+      "display": "反重力风暴"
+    },
+    {
+      "id": "name-06-F14B",
+      "japanese": "ダブルキャノン",
+      "translation": "双联加农炮",
+      "display": "双联加农炮"
+    },
+    {
+      "id": "name-06-F153",
+      "japanese": "ロングライフル",
+      "translation": "长步枪",
+      "display": "长步枪"
+    },
+    {
+      "id": "name-06-F15B",
+      "japanese": "蝶の舞",
+      "translation": "蝶之舞",
+      "display": "蝶之舞"
+    },
+    {
+      "id": "name-06-F161",
+      "japanese": "ブ－メラン",
+      "translation": "回旋镖",
+      "display": "回旋镖"
+    },
+    {
+      "id": "name-06-F167",
+      "japanese": "ハンドソルド",
+      "translation": "手部索德",
+      "display": "手部索德"
+    },
+    {
+      "id": "name-06-F16E",
+      "japanese": "ロケット弾",
+      "translation": "火箭弹",
+      "display": "火箭弹"
+    },
+    {
+      "id": "name-06-F175",
+      "japanese": "毒像",
+      "translation": "毒像",
+      "display": "毒像"
+    },
+    {
+      "id": "name-06-F17A",
+      "japanese": "トマホ－ク",
+      "translation": "战斧",
+      "display": "战斧"
+    },
+    {
+      "id": "name-06-F180",
+      "japanese": "ハンドビ－ム",
+      "translation": "手部光束",
+      "display": "手部光束"
+    },
+    {
+      "id": "name-06-F187",
+      "japanese": "スクリュ－クラッシャ－パンチ",
+      "translation": "螺旋粉碎飞拳",
+      "display": "螺旋粉碎飞拳"
+    },
+    {
+      "id": "name-06-F1A1",
+      "japanese": "ショルダ－ブ－メラン",
+      "translation": "肩部回旋镖",
+      "display": "肩部回旋镖"
+    },
+    {
+      "id": "name-06-F1AC",
+      "japanese": "スペ－スサンダ－",
+      "translation": "空间雷",
+      "display": "空间雷"
+    },
+    {
+      "id": "name-06-F1B5",
+      "japanese": "ダブルハ－ケン",
+      "translation": "双联钩爪",
+      "display": "双联钩爪"
+    },
+    {
+      "id": "name-06-F1BD",
+      "japanese": "スピンソ－サ－",
+      "translation": "旋转飞盘",
+      "display": "旋转飞盘"
+    },
+    {
+      "id": "name-06-F1C5",
+      "japanese": "ドリルソ－サ－",
+      "translation": "钻头飞盘",
+      "display": "钻头飞盘"
+    },
+    {
+      "id": "name-06-F1CD",
+      "japanese": "メルトシャワ－",
+      "translation": "熔融淋浴",
+      "display": "熔融淋浴"
+    },
+    {
+      "id": "name-06-F1D5",
+      "japanese": "ダブルカッタ－",
+      "translation": "双联切割",
+      "display": "双联切割"
+    },
+    {
+      "id": "name-06-F1DD",
+      "japanese": "サイクロンビ－ム",
+      "translation": "旋风光束",
+      "display": "旋风光束"
+    },
+    {
+      "id": "name-06-F1E6",
+      "japanese": "ドリルミサイル",
+      "translation": "钻头导弹",
+      "display": "钻头导弹"
+    },
+    {
+      "id": "name-06-F1EE",
+      "japanese": "スパ－クボンバ－",
+      "translation": "火花炸弹",
+      "display": "火花炸弹"
+    },
+    {
+      "id": "name-06-F1F7",
+      "japanese": "マリンミサイル",
+      "translation": "海洋导弹",
+      "display": "海洋导弹"
+    },
+    {
+      "id": "name-06-F1FF",
+      "japanese": "マリンカッタ－",
+      "translation": "海洋切割",
+      "display": "海洋切割"
+    },
+    {
+      "id": "name-06-F207",
+      "japanese": "アロ－ランサ－",
+      "translation": "箭形长枪",
+      "display": "箭形长枪"
+    },
+    {
+      "id": "name-06-F20F",
+      "japanese": "セラミックソ－ド",
+      "translation": "陶瓷剑",
+      "display": "陶瓷剑"
+    },
+    {
+      "id": "name-06-F218",
+      "japanese": "ナックルバスタ－",
+      "translation": "指虎破坏炮",
+      "display": "指虎破坏炮"
+    },
+    {
+      "id": "name-06-F221",
+      "japanese": "ハイメガキャノン",
+      "translation": "超级米加加农炮",
+      "display": "超级米加加农炮"
+    },
+    {
+      "id": "name-06-F22A",
+      "japanese": "小型ミサイル",
+      "translation": "小型导弹",
+      "display": "小型导弹"
+    },
+    {
+      "id": "name-06-F233",
+      "japanese": "アイアンクロ－",
+      "translation": "钢铁爪",
+      "display": "钢铁爪"
+    },
+    {
+      "id": "name-06-F23B",
+      "japanese": "アイアンクロ－",
+      "translation": "钢铁爪",
+      "display": "钢铁爪"
+    },
+    {
+      "id": "name-06-F243",
+      "japanese": "グラビトンウェ－ブ",
+      "translation": "重力波",
+      "display": "重力波"
+    },
+    {
+      "id": "name-06-F24D",
+      "japanese": "メガグラビトンウェ－ブ",
+      "translation": "兆重力波",
+      "display": "兆重力波"
+    },
+    {
+      "id": "name-06-F259",
+      "japanese": "ハンマ－",
+      "translation": "铁锤",
+      "display": "铁锤"
+    },
+    {
+      "id": "name-06-F25F",
+      "japanese": "バニッシュレ－ザ－",
+      "translation": "消灭激光",
+      "display": "消灭激光"
+    },
+    {
+      "id": "name-06-F269",
+      "japanese": "高周波ソ－ド",
+      "translation": "高频剑",
+      "display": "高频剑"
+    },
+    {
+      "id": "name-06-F273",
+      "japanese": "メガビ－ムサ－ベル",
+      "translation": "兆光束军刀",
+      "display": "兆光束军刀"
+    },
+    {
+      "id": "name-06-F27D",
+      "japanese": "メガビ－ムライフル",
+      "translation": "兆光束步枪",
+      "display": "兆光束步枪"
+    },
+    {
+      "id": "name-06-F287",
+      "japanese": "サンダ－クラッシュ．±",
+      "translation": "雷击",
+      "display": "雷击",
+      "notes": "原文末尾「．±」为控制符，译文按名称本体处理，原文保持不变。"
+    },
+    {
+      "id": "name-06-F293",
+      "japanese": "メガスマッシャ－",
+      "translation": "兆粉碎",
+      "display": "兆粉碎"
+    },
+    {
+      "id": "name-06-F29C",
+      "japanese": "高周波ブレ－ド",
+      "translation": "高频刀刃",
+      "display": "高频刀刃"
+    },
+    {
+      "id": "name-06-F2A7",
+      "japanese": "フォトンビ－ム砲",
+      "translation": "光子光束炮",
+      "display": "光子光束炮"
+    },
+    {
+      "id": "name-06-F2B1",
+      "japanese": "ボルテックシュ－タ－",
+      "translation": "涡流射手",
+      "display": "涡流射手"
+    },
+    {
+      "id": "name-06-F2BC",
+      "japanese": "メガフラッシャ－",
+      "translation": "兆闪光",
+      "display": "兆闪光"
+    },
+    {
+      "id": "name-06-F2C5",
+      "japanese": "ビッグバンウェ－ブ．±",
+      "translation": "大爆炸波",
+      "display": "大爆炸波",
+      "notes": "原文末尾「．±」为控制符，译文按名称本体处理，原文保持不变。"
+    },
+    {
+      "id": "name-06-F2D1",
+      "japanese": "縮退砲",
+      "translation": "缩退炮",
+      "display": "缩退炮"
+    },
+    {
+      "id": "name-06-F2D9",
+      "japanese": "バルカン",
+      "translation": "火神炮",
+      "display": "火神炮"
+    },
+    {
+      "id": "name-06-F35F",
+      "japanese": "平地",
+      "translation": "平地",
+      "display": "平地"
+    },
+    {
+      "id": "name-06-F364",
+      "japanese": "海",
+      "translation": "海",
+      "display": "海"
+    },
+    {
+      "id": "name-06-F367",
+      "japanese": "深海",
+      "translation": "深海",
+      "display": "深海"
+    },
+    {
+      "id": "name-06-F36C",
+      "japanese": "森",
+      "translation": "森林",
+      "display": "森",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-F36F",
+      "japanese": "砂地",
+      "translation": "沙地",
+      "display": "沙地"
+    },
+    {
+      "id": "name-06-F374",
+      "japanese": "山",
+      "translation": "山",
+      "display": "山"
+    },
+    {
+      "id": "name-06-F377",
+      "japanese": "高山",
+      "translation": "高山",
+      "display": "高山"
+    },
+    {
+      "id": "name-06-F37C",
+      "japanese": "市街地",
+      "translation": "市区",
+      "display": "市区"
+    },
+    {
+      "id": "name-06-F383",
+      "japanese": "道路",
+      "translation": "道路",
+      "display": "道路"
+    },
+    {
+      "id": "name-06-F388",
+      "japanese": "橋",
+      "translation": "桥",
+      "display": "桥"
+    },
+    {
+      "id": "name-06-F38B",
+      "japanese": "光子力研究所",
+      "translation": "光子力研究所",
+      "display": "光子力研究所"
+    },
+    {
+      "id": "name-06-F398",
+      "japanese": "早乙女研究所",
+      "translation": "早乙女研究所",
+      "display": "早乙女研究所"
+    },
+    {
+      "id": "name-06-F3A5",
+      "japanese": "南原コネクション",
+      "translation": "南原联络站",
+      "display": "南原联络站"
+    },
+    {
+      "id": "name-06-F3B0",
+      "japanese": "通路",
+      "translation": "通道",
+      "display": "通道"
+    },
+    {
+      "id": "name-06-F3B5",
+      "japanese": "宇宙",
+      "translation": "宇宙",
+      "display": "宇宙"
+    },
+    {
+      "id": "name-06-F3BA",
+      "japanese": "暗礁空域",
+      "translation": "暗礁空域",
+      "display": "暗礁空域"
+    },
+    {
+      "id": "name-06-F3C3",
+      "japanese": "コロニ－",
+      "translation": "殖民卫星",
+      "display": "殖民卫星",
+      "notes": "display估算宽度48px，超过参考预算32px；字体机制待验证。"
+    },
+    {
+      "id": "name-06-F3C8",
+      "japanese": "ソロモン",
+      "translation": "所罗门",
+      "display": "所罗门",
+      "notes": "display估算宽度36px，超过参考预算32px；字体机制待验证。"
+    },
+    {
+      "id": "name-06-F3CD",
+      "japanese": "ア・バオア・ク－",
+      "translation": "阿·巴瓦·库",
+      "display": "阿·巴瓦·库"
+    },
+    {
+      "id": "name-06-F3D6",
+      "japanese": "ラビアンロ－ズ",
+      "translation": "拉比安罗斯",
+      "display": "拉比安罗斯",
+      "notes": "display估算宽度60px，超过参考预算56px；字体机制待验证。"
+    },
+    {
+      "id": "name-06-F3DE",
+      "japanese": "月面",
+      "translation": "月面",
+      "display": "月面"
+    },
+    {
+      "id": "name-06-F3E3",
+      "japanese": "クレ－タ－",
+      "translation": "环形山",
+      "display": "环形山"
+    },
+    {
+      "id": "name-06-F3E9",
+      "japanese": "月面基地",
+      "translation": "月面基地",
+      "display": "月面基地"
+    },
+    {
+      "id": "name-06-F3F2",
+      "japanese": "地上基地",
+      "translation": "地上基地",
+      "display": "地上基地"
+    },
+    {
+      "id": "name-06-F3FB",
+      "japanese": "ルナⅡ",
+      "translation": "月神Ⅱ",
+      "display": "月神Ⅱ",
+      "notes": "display估算宽度32px，超过参考预算24px；字体机制待验证。"
+    },
+    {
+      "id": "name-06-F3FF",
+      "japanese": "アクシズ",
+      "translation": "阿克西斯",
+      "display": "阿克西斯",
+      "notes": "display估算宽度48px，超过参考预算32px；字体机制待验证。"
+    },
+    {
+      "id": "name-06-F404",
+      "japanese": "エネルギ－タンク",
+      "translation": "能量罐",
+      "display": "能量罐"
+    },
+    {
+      "id": "name-06-F40D",
+      "japanese": "コンテナ",
+      "translation": "集装箱",
+      "display": "货柜",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-F412",
+      "japanese": "配線",
+      "translation": "配线",
+      "display": "配线"
+    },
+    {
+      "id": "name-06-F417",
+      "japanese": "壁",
+      "translation": "墙壁",
+      "display": "墙",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-F41A",
+      "japanese": "あな",
+      "translation": "洞穴",
+      "display": "穴",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-F41D",
+      "japanese": "ミラ－",
+      "translation": "镜子",
+      "display": "镜子"
+    },
+    {
+      "id": "name-06-F421",
+      "japanese": "クレバス",
+      "translation": "裂缝",
+      "display": "裂缝"
+    },
+    {
+      "id": "name-06-F426",
+      "japanese": "ソ－ラ－システム",
+      "translation": "太阳能系统",
+      "display": "太阳能系统"
+    },
+    {
+      "id": "name-06-F6F7",
+      "japanese": "時をこえて",
+      "translation": "穿越时空",
+      "display": "穿越时空",
+      "notes": "display估算宽度48px，超过参考预算44px；字体机制待验证。"
+    },
+    {
+      "id": "name-06-F6FE",
+      "japanese": "ＭＥＭＯＲＹＳ",
+      "translation": "记忆",
+      "display": "记忆"
+    },
+    {
+      "id": "name-06-F706",
+      "japanese": "さっそうたるシャア",
+      "translation": "潇洒的夏亚",
+      "display": "潇洒的夏亚"
+    },
+    {
+      "id": "name-06-F710",
+      "japanese": "マジンガ－Ｚ",
+      "translation": "魔神Z",
+      "display": "魔神Z"
+    },
+    {
+      "id": "name-06-F717",
+      "japanese": "ゲッタ－ロボ！",
+      "translation": "盖塔机器人！",
+      "display": "盖塔机器人！",
+      "notes": "display估算宽度72px，超过参考预算56px；字体机制待验证。"
+    },
+    {
+      "id": "name-06-F71F",
+      "japanese": "魔装機神サイバスタ－",
+      "translation": "魔装机神塞巴斯塔",
+      "display": "魔装机神塞巴斯塔"
+    },
+    {
+      "id": "name-06-F72E",
+      "japanese": "カム・ヒア　ダイタ－ン３",
+      "translation": "来这里 泰坦3",
+      "display": "来这里 泰坦3"
+    },
+    {
+      "id": "name-06-F73B",
+      "japanese": "ゆうしゃライディ－ン",
+      "translation": "勇者莱汀",
+      "display": "勇者莱汀"
+    },
+    {
+      "id": "name-06-F746",
+      "japanese": "コン・バトラ－Ｖのテ－マ",
+      "translation": "孔巴特拉V的主题曲",
+      "display": "孔巴特拉V主题曲",
+      "notes": "全称按预算放入translation，display用短称。"
+    },
+    {
+      "id": "name-06-F753",
+      "japanese": "レッツ・コンバイン",
+      "translation": "合体吧",
+      "display": "合体吧"
+    },
+    {
+      "id": "name-06-F75D",
+      "japanese": "ＩＮＴＥＲＭＩＳＳＩＯＮ",
+      "translation": "幕间",
+      "display": "幕间"
+    },
+    {
+      "id": "name-06-F76A",
+      "japanese": "ＳＴＲＡＴＥＧＩＣ　ＣＯＭＭＡＮＤ",
+      "translation": "战略指挥",
+      "display": "战略指挥"
+    },
+    {
+      "id": "name-06-F77C",
+      "japanese": "ＬＯＯＫ　ＡＴ　ＭＥ",
+      "translation": "看着我",
+      "display": "看着我"
+    },
+    {
+      "id": "name-06-F787",
+      "japanese": "ＶＩＲＴＵＯＳＩＴＹ",
+      "translation": "精湛技艺",
+      "display": "精湛技艺"
+    },
+    {
+      "id": "name-06-F792",
+      "japanese": "ＳＨＯＣＫ",
+      "translation": "冲击",
+      "display": "冲击"
+    },
+    {
+      "id": "name-06-F798",
+      "japanese": "ＲＥＱＵＩＥＭ",
+      "translation": "安魂曲",
+      "display": "安魂曲"
+    },
+    {
+      "id": "name-06-F7A0",
+      "japanese": "ぞうえん部隊",
+      "translation": "增援部队",
+      "display": "增援部队"
+    },
+    {
+      "id": "name-06-F7A9",
+      "japanese": "ＤＲＥＡＭＥＲ",
+      "translation": "梦想家",
+      "display": "梦想家"
+    },
+    {
+      "id": "name-06-F7B1",
+      "japanese": "ＰＯＰＳ　ＴＯＷＮ",
+      "translation": "流行小镇",
+      "display": "流行小镇"
+    },
+    {
+      "id": "name-06-F7BB",
+      "japanese": "ＡＲＥ　ＹＯＵ　ＲＥＡＤＹ？",
+      "translation": "准备好了吗？",
+      "display": "准备好了吗？"
+    },
+    {
+      "id": "name-06-F7CA",
+      "japanese": "ＷＩＬＤＥＲＮＥＳＳ　ＷＡＲ",
+      "translation": "荒野战争",
+      "display": "荒野战争"
+    },
+    {
+      "id": "name-06-F7D9",
+      "japanese": "ＥＶＩＬ　ＭＡＣＨＩＮＥ",
+      "translation": "邪恶机器",
+      "display": "邪恶机器"
+    },
+    {
+      "id": "name-06-F7E6",
+      "japanese": "ＳＩＬＥＮＴ　ＭＯＯＮ",
+      "translation": "寂静之月",
+      "display": "寂静之月"
+    },
+    {
+      "id": "name-06-F7F2",
+      "japanese": "ＳＴＩＬＬＮＥＳＳ　ＦＯＯＴＳＴＥＰ",
+      "translation": "静寂的足音",
+      "display": "静寂的足音"
+    },
+    {
+      "id": "name-06-F805",
+      "japanese": "ＴＨＥ　ＵＮＩＶＥＲＳＥ",
+      "translation": "宇宙",
+      "display": "宇宙"
+    },
+    {
+      "id": "name-06-F812",
+      "japanese": "ＢＬＡＣＫ　ＳＴＡＲ",
+      "translation": "黑星",
+      "display": "黑星"
+    },
+    {
+      "id": "name-06-F81D",
+      "japanese": "ＧＲＯＵＮＤ　ＺＥＲＯ",
+      "translation": "零地带",
+      "display": "零地带"
+    },
+    {
+      "id": "name-06-F829",
+      "japanese": "ＭＥＣＨＡＮＩＣＡＬ　ＤＡＮＣＥ",
+      "translation": "机械之舞",
+      "display": "机械之舞"
+    },
+    {
+      "id": "name-06-F83A",
+      "japanese": "ＴＨＥ　ＬＡＳＴ　ＪＵＤＧＭＥＮＴ",
+      "translation": "最终审判",
+      "display": "最终审判"
+    },
+    {
+      "id": "name-06-F84C",
+      "japanese": "ＶＩＯＬＥＮＴ　ＢＡＴＴＬＥ",
+      "translation": "激烈战斗",
+      "display": "激烈战斗"
+    },
+    {
+      "id": "name-06-F85B",
+      "japanese": "ＴＨＥ　ＦＩＮＡＬ　ＥＮＥＭＹ",
+      "translation": "最终敌人",
+      "display": "最终敌人"
+    },
+    {
+      "id": "name-06-F86B",
+      "japanese": "ＡＲＭＡＧＥＤＤＯＮ",
+      "translation": "末日决战",
+      "display": "末日决战"
+    },
+    {
+      "id": "name-06-F510",
+      "japanese": "移動",
+      "translation": "移动",
+      "display": "移动"
+    },
+    {
+      "id": "name-06-F515",
+      "japanese": "発進",
+      "translation": "出击",
+      "display": "出击"
+    },
+    {
+      "id": "name-06-F51A",
+      "japanese": "攻撃",
+      "translation": "攻击",
+      "display": "攻击"
+    },
+    {
+      "id": "name-06-F51F",
+      "japanese": "説得",
+      "translation": "说服",
+      "display": "说服"
+    },
+    {
+      "id": "name-06-F524",
+      "japanese": "変形",
+      "translation": "变形",
+      "display": "变形"
+    },
+    {
+      "id": "name-06-F529",
+      "japanese": "分離",
+      "translation": "分离",
+      "display": "分离"
+    },
+    {
+      "id": "name-06-F52E",
+      "japanese": "精神",
+      "translation": "精神",
+      "display": "精神"
+    },
+    {
+      "id": "name-06-F533",
+      "japanese": "能力",
+      "translation": "能力",
+      "display": "能力"
+    },
+    {
+      "id": "name-06-F538",
+      "japanese": "地中",
+      "translation": "地下",
+      "display": "地下"
+    },
+    {
+      "id": "name-06-F53D",
+      "japanese": "水中",
+      "translation": "水中",
+      "display": "水中"
+    },
+    {
+      "id": "name-06-F542",
+      "japanese": "地上",
+      "translation": "地面",
+      "display": "地面"
+    },
+    {
+      "id": "name-06-F547",
+      "japanese": "空中",
+      "translation": "空中",
+      "display": "空中"
+    },
+    {
+      "id": "name-06-F54C",
+      "japanese": "待機",
+      "translation": "待机",
+      "display": "待机"
+    },
+    {
+      "id": "name-06-F551",
+      "japanese": "圧性",
+      "translation": "根性",
+      "display": "根性",
+      "notes": "原文作「圧性」，按精神指令「根性」译；原文保持不变。"
+    },
+    {
+      "id": "name-06-F556",
+      "japanese": "ド圧性",
+      "translation": "大根性",
+      "display": "大根性",
+      "notes": "原文作「ド圧性」，按精神指令「ド根性」译；原文保持不变。 display估算宽度36px，超过参考预算32px；字体机制待验证。"
+    },
+    {
+      "id": "name-06-F55C",
+      "japanese": "補給",
+      "translation": "补给",
+      "display": "补给"
+    },
+    {
+      "id": "name-06-F561",
+      "japanese": "友情",
+      "translation": "友情",
+      "display": "友情"
+    },
+    {
+      "id": "name-06-F566",
+      "japanese": "愛",
+      "translation": "爱",
+      "display": "爱"
+    },
+    {
+      "id": "name-06-F569",
+      "japanese": "激怒",
+      "translation": "激怒",
+      "display": "激怒"
+    },
+    {
+      "id": "name-06-F56E",
+      "japanese": "気合",
+      "translation": "气合",
+      "display": "气合"
+    },
+    {
+      "id": "name-06-F573",
+      "japanese": "加速",
+      "translation": "加速",
+      "display": "加速"
+    },
+    {
+      "id": "name-06-F578",
+      "japanese": "熱血",
+      "translation": "热血",
+      "display": "热血"
+    },
+    {
+      "id": "name-06-F57D",
+      "japanese": "必中",
+      "translation": "必中",
+      "display": "必中"
+    },
+    {
+      "id": "name-06-F582",
+      "japanese": "ひらめき",
+      "translation": "闪避",
+      "display": "闪避"
+    },
+    {
+      "id": "name-06-F587",
+      "japanese": "幸運",
+      "translation": "幸运",
+      "display": "幸运"
+    },
+    {
+      "id": "name-06-F58C",
+      "japanese": "集中",
+      "translation": "集中",
+      "display": "集中"
+    },
+    {
+      "id": "name-06-F5F3",
+      "japanese": "   陸",
+      "translation": "陆",
+      "display": "陆"
+    },
+    {
+      "id": "name-06-F5FC",
+      "japanese": "   空",
+      "translation": "空",
+      "display": "空"
+    },
+    {
+      "id": "name-06-F60E",
+      "japanese": "  水陸",
+      "translation": "水陆",
+      "display": "水陆"
+    },
+    {
+      "id": "name-06-F617",
+      "japanese": "  宇宙",
+      "translation": "宇宙",
+      "display": "宇宙"
+    },
+    {
+      "id": "name-06-F620",
+      "japanese": "  空陸",
+      "translation": "空陆",
+      "display": "空陆"
+    },
+    {
+      "id": "name-06-F629",
+      "japanese": "  水空",
+      "translation": "水空",
+      "display": "水空"
+    },
+    {
+      "id": "name-06-F632",
+      "japanese": " 水陸空",
+      "translation": "水陆空",
+      "display": "水陆空"
+    },
+    {
+      "id": "name-06-F63B",
+      "japanese": " 陸地中",
+      "translation": "陆地下",
+      "display": "陆地下"
+    },
+    {
+      "id": "name-06-F644",
+      "japanese": " 空地中",
+      "translation": "空地中",
+      "display": "空地中"
+    },
+    {
+      "id": "name-06-F64D",
+      "japanese": "空陸地中",
+      "translation": "空陆地下",
+      "display": "空陆地下"
+    },
+    {
+      "id": "name-06-F605",
+      "japanese": "   水",
+      "translation": "水",
+      "display": "水"
+    },
+    {
+      "id": "name-06-F656",
+      "japanese": "汎用",
+      "translation": "泛用",
+      "display": "泛用"
+    },
+    {
+      "id": "name-06-F65B",
+      "japanese": "地上専用",
+      "translation": "地上专用",
+      "display": "地上专用"
+    },
+    {
+      "id": "name-06-F664",
+      "japanese": "宇宙専用",
+      "translation": "宇宙专用",
+      "display": "宇宙专用"
+    },
+    {
+      "id": "name-06-F66D",
+      "japanese": "反応",
+      "translation": "反应",
+      "display": "反应"
+    },
+    {
+      "id": "name-06-F672",
+      "japanese": "装甲",
+      "translation": "装甲",
+      "display": "装甲"
+    },
+    {
+      "id": "name-06-F677",
+      "japanese": "ＥＮ",
+      "translation": "EN",
+      "display": "EN"
+    },
+    {
+      "id": "name-06-F67A",
+      "japanese": "ＨＰ",
+      "translation": "HP",
+      "display": "HP"
+    },
+    {
+      "id": "name-06-F67E",
+      "japanese": "変形",
+      "translation": "变形",
+      "display": "变形"
+    },
+    {
+      "id": "name-06-F683",
+      "japanese": "分離合体",
+      "translation": "分离合体",
+      "display": "分离合体"
+    },
+    {
+      "id": "name-06-F68C",
+      "japanese": "Ｉフィ－ルド",
+      "translation": "I力场",
+      "display": "I力场"
+    },
+    {
+      "id": "name-06-F693",
+      "japanese": "分身",
+      "translation": "分身",
+      "display": "分身"
+    },
+    {
+      "id": "name-06-F698",
+      "japanese": "分身",
+      "translation": "分身",
+      "display": "分身"
+    },
+    {
+      "id": "name-06-F6A1",
+      "japanese": "マッハスペシャル",
+      "translation": "马赫特别",
+      "display": "马赫特别"
+    },
+    {
+      "id": "name-06-F6AA",
+      "japanese": "ビ－ム吸収",
+      "translation": "光束吸收",
+      "display": "光束吸收"
+    },
+    {
+      "id": "name-06-F6B2",
+      "japanese": "合体",
+      "translation": "合体",
+      "display": "合体"
+    }
+  ]
+}

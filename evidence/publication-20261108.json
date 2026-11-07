@@ -1,0 +1,87 @@
+{
+  "status": "local-publication-checks-pass",
+  "date": "2026-11-08",
+  "source_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "target_sha256": "bcde4e317f945b23c4ceac6bca89e6725812eb94e53d3cd51cc0e09e0dd608cd",
+  "patch_sha256": "02e1faedf958940303802ea976fb3b37c662d420c71f9ec2f0e9166718d96696",
+  "byte_equal_builds": {
+    "hash_seeds": [
+      0,
+      123,
+      456
+    ],
+    "third_build_from_git_index_only": true,
+    "files": {
+      "remix4-cn.sfc": true,
+      "remix4-cn.bps": true,
+      "manifest.json": true,
+      "identity.json": true
+    }
+  },
+  "static": {
+    "status": "pass",
+    "rom_sha256": "bcde4e317f945b23c4ceac6bca89e6725812eb94e53d3cd51cc0e09e0dd608cd",
+    "source_changed_bytes": 46,
+    "nodes": 3622,
+    "menu_literals": 306,
+    "literal_runs_checked": 4879,
+    "distinct_literal_spans": 4768,
+    "control_tokens_checked": 7097,
+    "branch_and_fallthrough_edges_checked": 607,
+    "source_text_font_event_data_unchanged": true,
+    "claims": "static final-byte readback, native control operands except explicitly rebased same-bank edges, lookup identities and no cross-bank string; not gameplay proof"
+  },
+  "hooks": {
+    "status": "pass",
+    "model_scope": "actual 65816 hook instructions; M/X=16 native ABI; existing model plus local BIT dp implementation; not PPU timing or natural gameplay proof",
+    "cases": 17805,
+    "max_root_hook_instructions": 431,
+    "rom_sha256": "bcde4e317f945b23c4ceac6bca89e6725812eb94e53d3cd51cc0e09e0dd608cd",
+    "model_sha256": "6fad6945f60d58c840f9699f2c76a0fe06df1df0b446daa4ca743a0cfa580b8e"
+  },
+  "extraction": {
+    "nodes": 2663,
+    "literal_spans": 3805,
+    "unknown_nodes": 0,
+    "invalid_anchors": 0,
+    "node_and_span_id_sets_match_frozen_R1": true,
+    "byte_equal_graph": true
+  },
+  "portable_zip_tests": {
+    "new_process_zip_replay": "pass",
+    "wrong-source": "pass",
+    "truncated-source": "pass",
+    "corrupt-patch": "pass",
+    "truncated-patch": "pass",
+    "existing-output-preserved": "pass",
+    "input-output-alias-refused": "pass"
+  },
+  "release_assets": {
+    "identity.json": {
+      "bytes": 345,
+      "sha256": "22e787875176f9cdc18fcded268d6f67d0fb1b0c7d83a41d79b7e03a4b8cb22a"
+    },
+    "remix4-cn-R1.bps": {
+      "bytes": 524460,
+      "sha256": "02e1faedf958940303802ea976fb3b37c662d420c71f9ec2f0e9166718d96696"
+    },
+    "SRW3-ReMix4-CN-R1-patch.zip": {
+      "bytes": 145011,
+      "sha256": "f9be455f365e1e5069c575ff182106ff70952bae5553297d35d14109d4d357c3"
+    },
+    "SRW3-ReMix4-JP-text-extraction-R1.zip": {
+      "bytes": 2419431,
+      "sha256": "d1b9f0e62928eb321f0ceac8882a1c51c7b738882ce94ad436314ed4f6a3014d"
+    }
+  },
+  "publication_audit": {
+    "index_files_scanned": 150,
+    "git_index_matches_worktree_bytes": true,
+    "ROM_saves_memory_dumps_binaries_excluded": true,
+    "credential_patterns_absent": true
+  },
+  "runtime_rerun_this_publication": false,
+  "runtime_evidence_reused": "R1 same ROM SHA; original scope only",
+  "worker_audit": "Worker terminated without required report; not accepted; parent audited and clean-export rebuild verified",
+  "download_verification": "Separate publication-download receipt after upload"
+}

@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "rom_sha256": "bcde4e317f945b23c4ceac6bca89e6725812eb94e53d3cd51cc0e09e0dd608cd",
+  "source_changed_bytes": 46,
+  "nodes": 3622,
+  "menu_literals": 306,
+  "literal_runs_checked": 4879,
+  "distinct_literal_spans": 4768,
+  "control_tokens_checked": 7097,
+  "branch_and_fallthrough_edges_checked": 607,
+  "source_text_font_event_data_unchanged": true,
+  "claims": "static final-byte readback, native control operands except explicitly rebased same-bank edges, lookup identities and no cross-bank string; not gameplay proof"
+}

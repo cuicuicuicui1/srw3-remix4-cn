@@ -1,0 +1,12 @@
+{
+  "status": "pass",
+  "hash_seeds": [
+    0,
+    123
+  ],
+  "byte_equal": {
+    "remix4-cn.sfc": true,
+    "manifest.json": true
+  },
+  "rom_sha256": "bcde4e317f945b23c4ceac6bca89e6725812eb94e53d3cd51cc0e09e0dd608cd"
+}

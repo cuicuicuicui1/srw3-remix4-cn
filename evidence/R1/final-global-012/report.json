@@ -1,0 +1,16 @@
+{
+  "returncode": 0,
+  "source_sha256": "bcde4e317f945b23c4ceac6bca89e6725812eb94e53d3cd51cc0e09e0dd608cd",
+  "loaded_rom": "<LOCAL_PROJECT>\\work\\build\\graph-012\\remix4-cn.sfc",
+  "script_sha256": "a4ad20cf7e3577b161178d88b14bd0ce1caefbcc76250d439164e7535c7baed1",
+  "mesen_sha256": "d2eb03c2590c648bf329f127ebcfefd70130e7690a9e2ccdba8616faea1fe96b",
+  "elapsed_seconds": 5.932608366012573,
+  "fixture": "same final ROM checkpoint from explicit fresh SRAM cold start; joypad-only navigation to global menu",
+  "actual_script_sha256": "e9df7c5de69c3388efa9fc5a892612ee96c6dfb8ddaef4e6f481cd8f3cf4403c",
+  "isolated_rom_basename": "srw3-remix4-final-global-012.sfc",
+  "fresh_sram_before_native_reset": false,
+  "REMIX_STATE": {
+    "path": "<LOCAL_PROJECT>\\work\\runtime\\final-help-012\\help-menu.State",
+    "sha256": "0f607ea14c0ab1df610831e180e4d6e43b6421f53d9f486ae0ddd5e33b08061a"
+  }
+}

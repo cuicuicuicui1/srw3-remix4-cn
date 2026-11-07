@@ -1,0 +1,19 @@
+{
+  "entries": [
+    {
+      "id": "start",
+      "source": "START",
+      "translation": "开始"
+    },
+    {
+      "id": "continue",
+      "source": "CONTINUE",
+      "translation": "继续"
+    },
+    {
+      "id": "load",
+      "source": "LOAD",
+      "translation": "读取"
+    }
+  ]
+}

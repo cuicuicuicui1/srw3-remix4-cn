@@ -1,0 +1,1210 @@
+{
+ "source_rom_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+ "entries": [
+  {
+   "id": "menu-03-BD8E-BD95",
+   "japanese": "ＷＡＲＮＩＮＧ",
+   "translation": "警告！"
+  },
+  {
+   "id": "menu-03-BD98-BDE2",
+   "japanese": "　　　ＴＨＩＳ　ＧＡＭＥ　ＰＡＣＫ　ＩＳ　ＮＯＴ\nＤＥＳＩＧＩＮＥＤ　ＹＯＵＲ　ＳＵＰＥＲ　ＦＡＭＩＣＯＮ\n　　　　　　　ＯＲ　ＳＵＰＥＲ　ＮＥＳ、",
+   "translation": "本游戏卡带并非为您的\n超级任天堂或SUPER NES\n所设计。"
+  },
+  {
+   "id": "menu-03-BDE5-BDED",
+   "japanese": "ＢＡＮＰＲＥＳＴ",
+   "translation": "BANPREST"
+  },
+  {
+   "id": "menu-03-BE5B-BE61",
+   "japanese": "\nレベル　　",
+   "translation": "\n等级  "
+  },
+  {
+   "id": "menu-03-BE6A-BE6F",
+   "japanese": "\n　ＨＰ　",
+   "translation": "\n HP "
+  },
+  {
+   "id": "menu-03-BE71-BE72",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-03-BE9E-BECB",
+   "japanese": "タ－ン終了\n部隊表\n全体マップ\n命令\nシステム\n勝利条件\nセ－ブ",
+   "translation": "回合结束\n部队表\n全体地图\n命令\n系统\n胜利条件\n保存"
+  },
+  {
+   "id": "menu-03-BEED-BEF4",
+   "japanese": "タ－ン数　　",
+   "translation": "回合数  "
+  },
+  {
+   "id": "menu-03-BEF9-BEFB",
+   "japanese": "Ｃｒ",
+   "translation": "Cr"
+  },
+  {
+   "id": "menu-03-BF3C-BF50",
+   "japanese": "タ－ンを終了します\nよろしいですか？",
+   "translation": "结束本回合？\n确定吗？"
+  },
+  {
+   "id": "menu-03-BF92-BF98",
+   "japanese": "はい\nいいえ",
+   "translation": "是\n否"
+  },
+  {
+   "id": "menu-03-BFE9-BFF8",
+   "japanese": "セ－ブします\nよろしいですか？",
+   "translation": "保存吗？\n确定吗？"
+  },
+  {
+   "id": "menu-03-C02A-C03D",
+   "japanese": "勝利条件\n\n敗北条件\n",
+   "translation": "胜利条件\n\n失败条件\n"
+  },
+  {
+   "id": "menu-03-C088-C09B",
+   "japanese": "アニメ\nスクエア\nサウンド\n操作\n",
+   "translation": "动画\n方形\n音效\n操作\n"
+  },
+  {
+   "id": "menu-03-C102-C108",
+   "japanese": "ＯＮ\nＯＦＦ",
+   "translation": "开\n关"
+  },
+  {
+   "id": "menu-03-C17E-C187",
+   "japanese": "ステレオ\nモノラル",
+   "translation": "立体声\n单声道"
+  },
+  {
+   "id": "menu-03-C1E0-C1E7",
+   "japanese": "マウス\nパッド",
+   "translation": "鼠标\n手柄"
+  },
+  {
+   "id": "menu-03-C298-C2A3",
+   "japanese": "おそい\nふつう\nはやい",
+   "translation": "慢速\n普通\n快速"
+  },
+  {
+   "id": "menu-03-C31D-C330",
+   "japanese": "決定\nキャンセル\nスピ－ドアップ\n",
+   "translation": "确定\n取消\n加速\n"
+  },
+  {
+   "id": "menu-03-C333-C339",
+   "japanese": "Ａ\nＡ\nＡ\n",
+   "translation": "A\nA\nA\n"
+  },
+  {
+   "id": "menu-03-C33C-C342",
+   "japanese": "Ｂ\nＢ\nＢ\n",
+   "translation": "B\nB\nB\n"
+  },
+  {
+   "id": "menu-03-C345-C34B",
+   "japanese": "Ｘ\nＸ\nＸ\n",
+   "translation": "X\nX\nX\n"
+  },
+  {
+   "id": "menu-03-C34E-C354",
+   "japanese": "Ｙ\nＹ\nＹ\n",
+   "translation": "Y\nY\nY\n"
+  },
+  {
+   "id": "menu-03-C437-C466",
+   "japanese": "必ず反撃せよ！\n積極的にいけ！\n無理はするな！\n必ず回避か防御せよ！",
+   "translation": "务必反击！\n积极进攻！\n不要勉强！\n务必回避或防御！"
+  },
+  {
+   "id": "menu-03-C5BE-C5CF",
+   "japanese": "この地形では発進できません",
+   "translation": "此地形无法出击！"
+  },
+  {
+   "id": "menu-03-C640-C648",
+   "japanese": "\n命中率\n",
+   "translation": "\n命中率\n"
+  },
+  {
+   "id": "menu-03-C64B-C64F",
+   "japanese": "防御",
+   "translation": "防御"
+  },
+  {
+   "id": "menu-03-C6A1-C6AB",
+   "japanese": "ＳＯＵＮＤ　ＴＥＳＴ",
+   "translation": "声音测试"
+  },
+  {
+   "id": "menu-03-C741-C742",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-03-C786-C789",
+   "japanese": "あと　",
+   "translation": "剩余"
+  },
+  {
+   "id": "menu-03-C78B-C78D",
+   "japanese": "機",
+   "translation": "机"
+  },
+  {
+   "id": "menu-03-C7F2-C805",
+   "japanese": "出撃ユニットを選択してください",
+   "translation": "请选择出击单位。"
+  },
+  {
+   "id": "menu-03-C837-C84C",
+   "japanese": "そのユニットはここでは出撃できません！",
+   "translation": "该单位无法在此出击！"
+  },
+  {
+   "id": "menu-03-C8A1-C8AD",
+   "japanese": "これで　よろしいですか？",
+   "translation": "就这样确定吗？"
+  },
+  {
+   "id": "menu-03-C8B0-C8B6",
+   "japanese": "はい\nいいえ",
+   "translation": "是\n否"
+  },
+  {
+   "id": "menu-03-CBB3-CBB6",
+   "japanese": "ペ－ジ",
+   "translation": "页码"
+  },
+  {
+   "id": "menu-03-CBB9-CBBD",
+   "japanese": "ユニット",
+   "translation": "机体"
+  },
+  {
+   "id": "menu-03-CBC0-CBC5",
+   "japanese": "パイロット",
+   "translation": "驾驶员"
+  },
+  {
+   "id": "menu-03-CBC8-CBCA",
+   "japanese": "ＨＰ",
+   "translation": "HP"
+  },
+  {
+   "id": "menu-03-CBCD-CBCF",
+   "japanese": "ＬＶ",
+   "translation": "LV"
+  },
+  {
+   "id": "menu-03-CA17-CA1D",
+   "japanese": "部隊表",
+   "translation": "部队表"
+  },
+  {
+   "id": "menu-03-CA28-CA29",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-03-CAC2-CAC3",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-03-CC5A-CC69",
+   "japanese": "そのユニットは行動ずみです",
+   "translation": "该单位已行动。"
+  },
+  {
+   "id": "menu-03-CDA9-CDB1",
+   "japanese": "ユニット能力",
+   "translation": "机体能力"
+  },
+  {
+   "id": "menu-03-CDB4-CDBD",
+   "japanese": "パイロット能力",
+   "translation": "驾驶员能力"
+  },
+  {
+   "id": "menu-03-CDC0-CDC8",
+   "japanese": "武器性能",
+   "translation": "武器性能"
+  },
+  {
+   "id": "menu-03-CDD1-CDD9",
+   "japanese": "レベル\n気力",
+   "translation": "等级\n气力"
+  },
+  {
+   "id": "menu-03-CDEA-CDED",
+   "japanese": "ＨＰ　",
+   "translation": "HP "
+  },
+  {
+   "id": "menu-03-CDEF-CDF0",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-03-CDFC-CE00",
+   "japanese": "ＥＮ　　",
+   "translation": "EN  "
+  },
+  {
+   "id": "menu-03-CE02-CE03",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-03-CE17-CE2F",
+   "japanese": "タイプ\n移動力\n装甲\n限界反応",
+   "translation": "类型\n移动力\n装甲\n限界反应"
+  },
+  {
+   "id": "menu-03-CE3D-CE3F",
+   "japanese": "０\n",
+   "translation": "0\n"
+  },
+  {
+   "id": "menu-03-CE44-CE4C",
+   "japanese": "地形適応",
+   "translation": "地形适应"
+  },
+  {
+   "id": "menu-03-CE4F-CE5D",
+   "japanese": "空\n陸\n海\n宇宙\n",
+   "translation": "空\n陆\n海\n宇宙\n"
+  },
+  {
+   "id": "menu-03-CF51-CF59",
+   "japanese": "ユニット能力",
+   "translation": "机体能力"
+  },
+  {
+   "id": "menu-03-CF70-CF73",
+   "japanese": "ＨＰ　",
+   "translation": "HP "
+  },
+  {
+   "id": "menu-03-CF75-CF76",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-03-CF82-CF86",
+   "japanese": "ＥＮ　　",
+   "translation": "EN  "
+  },
+  {
+   "id": "menu-03-CF88-CF89",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-03-CF9D-CFB5",
+   "japanese": "タイプ\n移動力\n装甲\n限界反応",
+   "translation": "类型\n移动力\n装甲\n限界反应"
+  },
+  {
+   "id": "menu-03-CFC3-CFC5",
+   "japanese": "０\n",
+   "translation": "0\n"
+  },
+  {
+   "id": "menu-03-CFCA-CFD2",
+   "japanese": "地形適応",
+   "translation": "地形适应"
+  },
+  {
+   "id": "menu-03-CFD5-CFE3",
+   "japanese": "空\n陸\n海\n宇宙\n",
+   "translation": "空\n陆\n海\n宇宙\n"
+  },
+  {
+   "id": "menu-03-D0D9-D0E2",
+   "japanese": "パイロット能力",
+   "translation": "驾驶员能力"
+  },
+  {
+   "id": "menu-03-D0E8-D0F4",
+   "japanese": "\n精神ポイント　　　",
+   "translation": "\n精神点数    "
+  },
+  {
+   "id": "menu-03-D0F6-D0F7",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-03-D0FC-D100",
+   "japanese": "レベル　",
+   "translation": "等级 "
+  },
+  {
+   "id": "menu-03-D105-D10A",
+   "japanese": "攻撃　",
+   "translation": "攻击 "
+  },
+  {
+   "id": "menu-03-D10C-D10E",
+   "japanese": "０\n",
+   "translation": "0\n"
+  },
+  {
+   "id": "menu-03-D114-D11A",
+   "japanese": "命中　　",
+   "translation": "命中  "
+  },
+  {
+   "id": "menu-03-D125-D12B",
+   "japanese": "操縦　　",
+   "translation": "操纵  "
+  },
+  {
+   "id": "menu-03-D134-D13A",
+   "japanese": "反応　　",
+   "translation": "反应  "
+  },
+  {
+   "id": "menu-03-D145-D14B",
+   "japanese": "気力　　",
+   "translation": "气力  "
+  },
+  {
+   "id": "menu-03-D14D-D154",
+   "japanese": "\n直感　　",
+   "translation": "\n直觉  "
+  },
+  {
+   "id": "menu-03-D159-D165",
+   "japanese": "使える精神コマンド",
+   "translation": "可用精神指令"
+  },
+  {
+   "id": "menu-03-D2C0-D2C8",
+   "japanese": "武器性能",
+   "translation": "武器性能"
+  },
+  {
+   "id": "menu-03-D2CB-D2CE",
+   "japanese": "ペ－ジ",
+   "translation": "页码"
+  },
+  {
+   "id": "menu-03-D2D1-D2D5",
+   "japanese": "攻撃",
+   "translation": "攻击"
+  },
+  {
+   "id": "menu-03-D2D8-D2DC",
+   "japanese": "射程",
+   "translation": "射程"
+  },
+  {
+   "id": "menu-03-D2DF-D2E3",
+   "japanese": "命中",
+   "translation": "命中"
+  },
+  {
+   "id": "menu-03-D2E6-D2EA",
+   "japanese": "残弾",
+   "translation": "残弹"
+  },
+  {
+   "id": "menu-03-D2ED-D2F5",
+   "japanese": "地形適応",
+   "translation": "地形适应"
+  },
+  {
+   "id": "menu-03-D2F8-D2FA",
+   "japanese": "空",
+   "translation": "空"
+  },
+  {
+   "id": "menu-03-D2FD-D2FF",
+   "japanese": "陸",
+   "translation": "陆"
+  },
+  {
+   "id": "menu-03-D302-D304",
+   "japanese": "海",
+   "translation": "海"
+  },
+  {
+   "id": "menu-03-D307-D30B",
+   "japanese": "宇宙",
+   "translation": "宇宙"
+  },
+  {
+   "id": "menu-03-D30E-D314",
+   "japanese": "消費ＥＮ",
+   "translation": "消耗EN"
+  },
+  {
+   "id": "menu-03-D317-D318",
+   "japanese": "（",
+   "translation": "（"
+  },
+  {
+   "id": "menu-03-D31A-D31B",
+   "japanese": "）",
+   "translation": "）"
+  },
+  {
+   "id": "menu-03-D31E-D326",
+   "japanese": "必要気力",
+   "translation": "所需气力"
+  },
+  {
+   "id": "menu-03-D329-D32A",
+   "japanese": "（",
+   "translation": "（"
+  },
+  {
+   "id": "menu-03-D32C-D32D",
+   "japanese": "）",
+   "translation": "）"
+  },
+  {
+   "id": "menu-03-D338-D339",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-03-D34F-D350",
+   "japanese": "０",
+   "translation": "0"
+  },
+  {
+   "id": "menu-03-D470-D485",
+   "japanese": "セ－ブデ－タが、消えてしまっています！！",
+   "translation": "存档数据已丢失！！"
+  },
+  {
+   "id": "menu-03-D4B1-D4C9",
+   "japanese": "セ－ブ終了しました、　ゲ－ムをつづけますか？",
+   "translation": "保存完毕，要继续游戏吗？"
+  },
+  {
+   "id": "menu-03-D561-D571",
+   "japanese": "０１２３４５６７８９ＡＢＣＤＥＦ",
+   "translation": "０１２３４５６７８９ＡＢＣＤＥＦ"
+  },
+  {
+   "id": "menu-03-D57C-D57E",
+   "japanese": "０＝",
+   "translation": "0="
+  },
+  {
+   "id": "menu-03-D5C4-D5D0",
+   "japanese": "戦闘結果報告",
+   "translation": "战斗结果报告"
+  },
+  {
+   "id": "menu-03-D5DF-D5E4",
+   "japanese": "命中　",
+   "translation": "命中 "
+  },
+  {
+   "id": "menu-03-D5E6-D5EF",
+   "japanese": "％\n\n\n命中　",
+   "translation": "％\n\n\n命中 "
+  },
+  {
+   "id": "menu-03-D5F1-D5F2",
+   "japanese": "％",
+   "translation": "％"
+  },
+  {
+   "id": "menu-03-D601-D606",
+   "japanese": "ダメ－ジ　",
+   "translation": "伤害  "
+  },
+  {
+   "id": "menu-03-D608-D610",
+   "japanese": "\n\n\nダメ－ジ　",
+   "translation": "\n\n\n伤害  "
+  },
+  {
+   "id": "menu-03-D646-D64F",
+   "japanese": "経験値プラス",
+   "translation": "经验值增加"
+  },
+  {
+   "id": "menu-03-D651-D659",
+   "japanese": "　資金プラス",
+   "translation": "资金增加"
+  },
+  {
+   "id": "menu-03-D685-D68D",
+   "japanese": "レベルアップ！！",
+   "translation": "升级！！"
+  },
+  {
+   "id": "menu-03-D71D-D71F",
+   "japanese": "Ｘ：",
+   "translation": "X:"
+  },
+  {
+   "id": "menu-03-D721-D724",
+   "japanese": "　Ｙ：",
+   "translation": " Y:"
+  },
+  {
+   "id": "menu-03-D776-D77E",
+   "japanese": "作戦画面",
+   "translation": "作战画面"
+  },
+  {
+   "id": "menu-03-D95E-D967",
+   "japanese": "分離しますか？",
+   "translation": "要分离吗？"
+  },
+  {
+   "id": "menu-03-D9A1-D9AA",
+   "japanese": "ＧＡＭＥ　ＯＶＥＲ",
+   "translation": "游戏结束"
+  },
+  {
+   "id": "menu-03-D9D4-D9DB",
+   "japanese": "ゲ－ム終了",
+   "translation": "游戏结束"
+  },
+  {
+   "id": "menu-03-DAA4-DAAD",
+   "japanese": "インタ－ミッション",
+   "translation": "幕间"
+  },
+  {
+   "id": "menu-03-DAB0-DAB4",
+   "japanese": "コマンド",
+   "translation": "指令"
+  },
+  {
+   "id": "menu-03-DAB7-DAE0",
+   "japanese": "デ－タセ－ブ\nパワ－アップ\nステ－タス\nのりかえ\nユニットすてる\n次のマップへ\n",
+   "translation": "保存数据\n改造\n状态\n换乘\n废弃机体\n下一地图\n"
+  },
+  {
+   "id": "menu-03-DAE3-DAEC",
+   "japanese": "現在の状況",
+   "translation": "当前状况"
+  },
+  {
+   "id": "menu-03-DAEF-DB0F",
+   "japanese": "全ユニット\n全パイロット\nパイロットののっていないユニット\n",
+   "translation": "全机体\n全驾驶员\n无驾驶员的机体\n"
+  },
+  {
+   "id": "menu-03-DB16-DB1B",
+   "japanese": "機\n ",
+   "translation": "机\n "
+  },
+  {
+   "id": "menu-03-DB1D-DB22",
+   "japanese": "人\n ",
+   "translation": "人\n "
+  },
+  {
+   "id": "menu-03-DB24-DB27",
+   "japanese": "機\n",
+   "translation": "机\n"
+  },
+  {
+   "id": "menu-03-DB2A-DB32",
+   "japanese": "資金　　　　",
+   "translation": "资金    "
+  },
+  {
+   "id": "menu-03-DB34-DB3D",
+   "japanese": "\n総タ－ン数　",
+   "translation": "\n总回合数 "
+  },
+  {
+   "id": "menu-03-DB3F-DB4A",
+   "japanese": "タ－ン\n現在　 ",
+   "translation": "回合\n当前  "
+  },
+  {
+   "id": "menu-03-DB4C-DB53",
+   "japanese": "話までクリア",
+   "translation": "话已通关"
+  },
+  {
+   "id": "menu-03-DC9F-DCA3",
+   "japanese": "デ－タ１",
+   "translation": "存档1"
+  },
+  {
+   "id": "menu-03-DCAC-DCB0",
+   "japanese": "デ－タ２",
+   "translation": "存档2"
+  },
+  {
+   "id": "menu-03-DCB9-DCBD",
+   "japanese": "デ－タ３",
+   "translation": "存档3"
+  },
+  {
+   "id": "menu-03-DB6D-DB73",
+   "japanese": "デ－タセ－ブ",
+   "translation": "保存数据"
+  },
+  {
+   "id": "menu-03-DD45-DD60",
+   "japanese": "以前のデ－タは消えてしまいます。かまいませんか？",
+   "translation": "之前的数据将会消失，没关系吗？"
+  },
+  {
+   "id": "menu-03-DD9A-DDAD",
+   "japanese": "セ－ブ終了。ゲ－ムを続けますか？",
+   "translation": "保存完毕。继续游戏吗？"
+  },
+  {
+   "id": "menu-03-DEAE-DEB4",
+   "japanese": "パワ－アップ",
+   "translation": "改造"
+  },
+  {
+   "id": "menu-03-DEB7-DEBB",
+   "japanese": "資金",
+   "translation": "资金"
+  },
+  {
+   "id": "menu-03-DEBE-DEC4",
+   "japanese": "ユニット名",
+   "translation": "机体名"
+  },
+  {
+   "id": "menu-03-DEC7-DECB",
+   "japanese": "反応",
+   "translation": "反应"
+  },
+  {
+   "id": "menu-03-DECE-DED2",
+   "japanese": "装甲",
+   "translation": "装甲"
+  },
+  {
+   "id": "menu-03-DED5-DED7",
+   "japanese": "ＥＮ",
+   "translation": "EN"
+  },
+  {
+   "id": "menu-03-DEDA-DEDC",
+   "japanese": "ＨＰ",
+   "translation": "HP"
+  },
+  {
+   "id": "menu-03-DEF0-DEF1",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-03-DF04-DF06",
+   "japanese": "０　",
+   "translation": "0 "
+  },
+  {
+   "id": "menu-03-DF5F-DF66",
+   "japanese": "アストナ－ジ「",
+   "translation": "阿斯特纳吉「"
+  },
+  {
+   "id": "menu-03-E007-E008",
+   "japanese": "・",
+   "translation": "・"
+  },
+  {
+   "id": "menu-03-E015-E016",
+   "japanese": "・",
+   "translation": "・"
+  },
+  {
+   "id": "menu-03-E023-E026",
+   "japanese": "ＯＫ！",
+   "translation": "好！"
+  },
+  {
+   "id": "menu-03-E029-E02C",
+   "japanese": "これで",
+   "translation": "这样"
+  },
+  {
+   "id": "menu-03-E02F-E030",
+   "japanese": "は",
+   "translation": "就"
+  },
+  {
+   "id": "menu-03-E032-E03A",
+   "japanese": "上がったぜ！」",
+   "translation": "升了！」"
+  },
+  {
+   "id": "menu-03-E0BE-E0C2",
+   "japanese": "反応",
+   "translation": "反应"
+  },
+  {
+   "id": "menu-03-E0C5-E0C9",
+   "japanese": "装甲",
+   "translation": "装甲"
+  },
+  {
+   "id": "menu-03-E0CC-E0CE",
+   "japanese": "ＥＮ",
+   "translation": "EN"
+  },
+  {
+   "id": "menu-03-E0D1-E0D3",
+   "japanese": "ＨＰ",
+   "translation": "HP"
+  },
+  {
+   "id": "menu-03-E0DD-E0DE",
+   "japanese": "０",
+   "translation": "0"
+  },
+  {
+   "id": "menu-03-E12C-E130",
+   "japanese": "のりかえ",
+   "translation": "换乘"
+  },
+  {
+   "id": "menu-03-E13F-E140",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-03-E155-E159",
+   "japanese": "レベル　",
+   "translation": "等级 "
+  },
+  {
+   "id": "menu-03-E222-E226",
+   "japanese": "のりかえ",
+   "translation": "换乘"
+  },
+  {
+   "id": "menu-03-E229-E230",
+   "japanese": "パイロット　　",
+   "translation": "驾驶员  "
+  },
+  {
+   "id": "menu-03-E236-E23A",
+   "japanese": "レベル　",
+   "translation": "等级 "
+  },
+  {
+   "id": "menu-03-E24B-E24C",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-03-E261-E264",
+   "japanese": "ＨＰ　",
+   "translation": "HP "
+  },
+  {
+   "id": "menu-03-E29C-E2A9",
+   "japanese": "誰をのりかえさせますか？",
+   "translation": "要让谁换乘？"
+  },
+  {
+   "id": "menu-03-E305-E315",
+   "japanese": "この組み合わせでいいですか？",
+   "translation": "这样的组合可以吗？"
+  },
+  {
+   "id": "menu-03-E3BE-E3C9",
+   "japanese": "組み合わせ能力",
+   "translation": "组合能力"
+  },
+  {
+   "id": "menu-03-E3CC-E3D6",
+   "japanese": "ユニット\nパイロット",
+   "translation": "机体\n驾驶员"
+  },
+  {
+   "id": "menu-03-E3E3-E3E6",
+   "japanese": "ＨＰ　",
+   "translation": "HP "
+  },
+  {
+   "id": "menu-03-E3E8-E3EE",
+   "japanese": "\nレベル　　",
+   "translation": "\n等级  "
+  },
+  {
+   "id": "menu-03-E3F3-E410",
+   "japanese": "制限をうける能力　（）内は本来の能力値",
+   "translation": "受限制的能力（括号内为原能力值）"
+  },
+  {
+   "id": "menu-03-E413-E421",
+   "japanese": "命中\n操縦\n反応",
+   "translation": "命中\n操纵\n反应"
+  },
+  {
+   "id": "menu-03-E424-E42C",
+   "japanese": "限界反応",
+   "translation": "限界反应"
+  },
+  {
+   "id": "menu-03-E431-E433",
+   "japanese": "　（",
+   "translation": "（"
+  },
+  {
+   "id": "menu-03-E435-E437",
+   "japanese": "）\n",
+   "translation": "）\n"
+  },
+  {
+   "id": "menu-03-E439-E43B",
+   "japanese": "　（",
+   "translation": "（"
+  },
+  {
+   "id": "menu-03-E43D-E43F",
+   "japanese": "）\n",
+   "translation": "）\n"
+  },
+  {
+   "id": "menu-03-E441-E443",
+   "japanese": "　（",
+   "translation": "（"
+  },
+  {
+   "id": "menu-03-E445-E446",
+   "japanese": "）",
+   "translation": "）"
+  },
+  {
+   "id": "menu-03-E44E-E456",
+   "japanese": "地形適応",
+   "translation": "地形适应"
+  },
+  {
+   "id": "menu-03-E459-E466",
+   "japanese": "空\n陸\n海\n宇宙",
+   "translation": "空\n陆\n海\n宇宙"
+  },
+  {
+   "id": "menu-03-E4F4-E4FB",
+   "japanese": "ユニットすてる",
+   "translation": "废弃机体"
+  },
+  {
+   "id": "menu-03-E545-E548",
+   "japanese": "ＨＰ　",
+   "translation": "HP "
+  },
+  {
+   "id": "menu-03-E54D-E555",
+   "japanese": "移動力 ",
+   "translation": "移动力 "
+  },
+  {
+   "id": "menu-03-E55E-E568",
+   "japanese": "限界反応　　",
+   "translation": "限界反应  "
+  },
+  {
+   "id": "menu-03-E56A-E573",
+   "japanese": "\n装甲　　　　",
+   "translation": "\n装甲    "
+  },
+  {
+   "id": "menu-03-E575-E576",
+   "japanese": "０",
+   "translation": "0"
+  },
+  {
+   "id": "menu-03-E579-E57F",
+   "japanese": "パイロット　",
+   "translation": "驾驶员 "
+  },
+  {
+   "id": "menu-03-E585-E58E",
+   "japanese": "回収資金　",
+   "translation": "回收资金 "
+  },
+  {
+   "id": "menu-03-E68D-E695",
+   "japanese": "ユニット修理",
+   "translation": "机体修理"
+  },
+  {
+   "id": "menu-03-E698-E69C",
+   "japanese": "資金",
+   "translation": "资金"
+  },
+  {
+   "id": "menu-03-E6B7-E6C0",
+   "japanese": "修理費用\n",
+   "translation": "修理费用\n"
+  },
+  {
+   "id": "menu-03-E781-E789",
+   "japanese": "精神ポイント",
+   "translation": "精神点数"
+  },
+  {
+   "id": "menu-03-E78E-E78F",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-03-E976-E985",
+   "japanese": "つかっても効果がありません",
+   "translation": "使用后也没有效果。"
+  },
+  {
+   "id": "menu-03-E9EB-E9F2",
+   "japanese": "\n命中率",
+   "translation": "\n命中率"
+  },
+  {
+   "id": "menu-03-E9F5-E9F8",
+   "japanese": "レベル",
+   "translation": "等级"
+  },
+  {
+   "id": "menu-03-E9FF-EA00",
+   "japanese": "％",
+   "translation": "％"
+  },
+  {
+   "id": "menu-03-EA0E-EA15",
+   "japanese": "\n命中率",
+   "translation": "\n命中率"
+  },
+  {
+   "id": "menu-03-EA18-EA1B",
+   "japanese": "レベル",
+   "translation": "等级"
+  },
+  {
+   "id": "menu-03-EA22-EA23",
+   "japanese": "％",
+   "translation": "％"
+  },
+  {
+   "id": "menu-03-EA64-EA6E",
+   "japanese": "ユニット\nパイロット",
+   "translation": "机体\n驾驶员"
+  },
+  {
+   "id": "menu-03-EA71-EA80",
+   "japanese": "どちらのステ－タスをみますか？",
+   "translation": "要查看哪项状态？"
+  },
+  {
+   "id": "menu-03-EB19-EB22",
+   "japanese": "ユニットステ－タス",
+   "translation": "机体状态"
+  },
+  {
+   "id": "menu-03-EB2F-EB39",
+   "japanese": "パイロットステ－タス",
+   "translation": "驾驶员状态"
+  },
+  {
+   "id": "menu-03-EB89-EBA7",
+   "japanese": "Ⅱ ％ Ｎ ０ ） か じ づ ひ ょ ガ チ マ ル ± ",
+   "translation": "Ⅱ ％ Ｎ ０ ） か じ づ ひ ょ ガ チ マ ル ± "
+  },
+  {
+   "id": "menu-03-EBA9-ED54",
+   "japanese": "Ⅱ浪洸乙香令海界能型散高拝雷理数果神森右失注配援違余両予撤成立俗葉然旗浄準積跡夢休去加認設読務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務 竜めＯ",
+   "translation": "Ⅱ浪洸乙香令海界能型散高拝雷理数果神森右失注配援違余両予撤成立俗葉然旗浄準積跡夢休去加認設読務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務務 竜めＯ"
+  },
+  {
+   "id": "menu-0C-BED1-BED5",
+   "japanese": "ＨＰ　　",
+   "translation": "HP  "
+  },
+  {
+   "id": "menu-0C-BED7-BED8",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-0C-BEE6-BEEA",
+   "japanese": "ＨＰ　　",
+   "translation": "HP  "
+  },
+  {
+   "id": "menu-0C-BEEC-BEED",
+   "japanese": "／",
+   "translation": "／"
+  },
+  {
+   "id": "menu-0C-C02C-C04B",
+   "japanese": " 　全世界を混乱のうずにまきこんだ「ＤＣ戦争」",
+   "translation": "将全世界卷入混乱漩涡的“DC战争”"
+  },
+  {
+   "id": "menu-0C-C04E-C06B",
+   "japanese": "　　　（第２次ス－パ－ロボット大戦）から半年、",
+   "translation": "（第二次超级机器人大战）之后半年，"
+  },
+  {
+   "id": "menu-0C-C06E-C089",
+   "japanese": "　　　　　世界はようやく平和をとりもどした。\n",
+   "translation": "世界终于恢复了和平。\n"
+  },
+  {
+   "id": "menu-0C-C08F-C0AB",
+   "japanese": " 　　　だが、一時は分裂したかにみえたＤＣが、",
+   "translation": "然而，一度看似分裂的DC，"
+  },
+  {
+   "id": "menu-0C-C0AE-C0CD",
+   "japanese": "　　ザビ家の支配により再び力を取り戻しつつあり、",
+   "translation": "在扎比家的统治下逐渐恢复力量，"
+  },
+  {
+   "id": "menu-0C-C0D0-C0EC",
+   "japanese": " 　それにともない、ＤＣ残党のゲリラ戦術による",
+   "translation": "随之，DC残党游击战术造成的"
+  },
+  {
+   "id": "menu-0C-C0EF-C108",
+   "japanese": " 　　　　　被害も大きくなってきていた。\n",
+   "translation": "损失也越来越大。\n"
+  },
+  {
+   "id": "menu-0C-C10E-C12B",
+   "japanese": "　　　ここに至って、世界各国もようやく統一の",
+   "translation": "至此，世界各国也终于认识到统一的"
+  },
+  {
+   "id": "menu-0C-C12E-C151",
+   "japanese": "必要性を感じだし、国連に代わる新たな国際機関、",
+   "translation": "必要性，并组建取代联合国的新国际机构，"
+  },
+  {
+   "id": "menu-0C-C154-C16E",
+   "japanese": " 　　　　「地球連邦」が形成された。\n",
+   "translation": "“地球联邦”由此成立。\n"
+  },
+  {
+   "id": "menu-0C-C174-C195",
+   "japanese": "　　「ＤＣ戦争」の英姫達は、連邦の外部部隊、",
+   "translation": "“DC战争”的英雄，作为联邦外部部队，"
+  },
+  {
+   "id": "menu-0C-C198-C1B7",
+   "japanese": "　「ロンド＝ベル」として各国治安の任に当たったが、",
+   "translation": "以“隆德贝尔”的身份负责各国治安，"
+  },
+  {
+   "id": "menu-0C-C1BA-C1D9",
+   "japanese": " 　その実、彼らの力を恐れた政治家達によって",
+   "translation": "实际上，由于忌惮他们力量的政治家们"
+  },
+  {
+   "id": "menu-0C-C1DC-C1F6",
+   "japanese": " 　　　　監視されているという状態であり、",
+   "translation": "使他们处于被监视的状态，"
+  },
+  {
+   "id": "menu-0C-C1F9-C213",
+   "japanese": "　　　　　ろくな装備も持たされていなかった。\n",
+   "translation": "也没有得到像样的装备。\n"
+  },
+  {
+   "id": "menu-0C-C219-C233",
+   "japanese": " 　　　　　こうした不安定な情勢の中、",
+   "translation": "在如此动荡的局势中，"
+  },
+  {
+   "id": "menu-0C-C236-C253",
+   "japanese": "\n　　　　新たな窓威がおとずれようとしていた・・・\n",
+   "translation": "\n新的威胁即将降临……\n"
+  },
+  {
+   "id": "menu-0C-C287-C340",
+   "japanese": "・・・以上が、この度２０年ぶりに公開された、\n異星人戦争、\n俗に言う第３次ス－パ－ロボット大戦の真実である。\n\nこの重大な情報を２０年もの間かくしつづけてきた\n連邦のやり口には失望を禁じ得ない。\nだが、こうして真実を再び白日の元に明らかに\nすることができた事により、我々は同じ過ちを\n",
+   "translation": "……以上就是此次时隔20年公开的\n异星人战争、\n俗称第三次超级机器人大战的真相。\n\n这份重大情报被隐瞒了整整20年，\n联邦的做法令人不禁失望。\n但是，如今真相再次大白于天下，\n正因能够做到这一点，我们才能\n"
+  },
+  {
+   "id": "menu-0C-C34A-C406",
+   "japanese": "くりかえさずにすむことが可能であると考える。\n\nウェンドロら、異星人は一体何者であったのか、\n今に至ってもその正体は明らかではないが、\nただひとつ言えることがある。\nそれは、人障が今までのような自分勝手な考え方を\n改めない限り、彼らのような存在が、我々人障を\n「宇宙の敵」としてあつかうであろうことだ。\n",
+   "translation": "不再重蹈覆辙。\n\n温德罗等异星人究竟是什么人，\n至今他们的真实身份仍不明朗，\n但有一点可以断言。\n那就是，若人类不改变自私的思维方式，\n他们的存在将会把我们人类\n当作“宇宙的敌人”来对待。\n"
+  },
+  {
+   "id": "menu-0C-C410-C49B",
+   "japanese": "\n命をかけて、この地球を救ってくれた、彼ら\nロンド＝ベルのこころざしを無にしないためにも\n我々は今一度、人障の在り方というものを\n広い視点で、考えてみる必要があるのでは\nないだろうか。\n\nこのレポ－トを読んでくれている、そしてこれから\n",
+   "translation": "\n为不辜负那些舍命拯救地球的\n隆德贝尔众人的志向，\n我们是否也有必要再一次，\n以广阔视角思考人类应有的姿态\n呢？\n\n读到这份报告，以及今后\n"
+  },
+  {
+   "id": "menu-0C-C4A5-C529",
+   "japanese": "読んでくれるであろうすべての人々に、わたしは\n問いかけたい。\n\n我々人障は、どこへ行こうとしているのか？\nそして、何をなすべきなのか？\n\n・・・その解答は、あなたがた一人一人の心の\n中にあり、そして、それこそがこれからの人障の\n",
+   "translation": "会读它的人们，我想向你们\n发问。\n\n我们人类究竟要走向何方？\n又应当做些什么？\n\n……答案就在你们每个人的心中，\n而这也正是指引着今后人类\n"
+  },
+  {
+   "id": "menu-0C-C537-C549",
+   "japanese": "歩むべき道をしめしているのだ。\n",
+   "translation": "应当走的道路。\n"
+  },
+  {
+   "id": "menu-0C-C553-C5F9",
+   "japanese": "この闘いは後に、第３次ス－パ－ロボット大戦と\n呼ばれるようになった。\n\nこの戦争が我々にもたらした教訓は何だったのか？\n\n現在に至るも、世界各地で発生している戦乱の火を\n見るたびに、わたしは自問自答せずにはいられない。\nだが、絶望とあきらめからは何も生まれない。\n",
+   "translation": "这场战斗后来被称为第三次超级\n机器人大战。\n\n这场战争给我们带来的教训是什么？\n\n时至今日，每当看到世界各地燃起的战火，\n我都会忍不住自问自答。\n但绝望与放弃不会带来任何东西。\n"
+  },
+  {
+   "id": "menu-0C-C603-C6A6",
+   "japanese": "\nウェンドロら、異星人は一体何者であったのか、\n今に至ってもその正体は明らかではないが、\nただひとつ言えることがある。\nそれは、人障が今までのような自分勝手な考え方を\n改めない限り、彼らのような存在が、我々人障を\n「宇宙の敵」としてあつかうであろうことだ。\n\n",
+   "translation": "\n温德罗等异星人究竟是什么人，\n至今他们的真实身份仍不明朗，\n但有一点可以断言。\n那就是，若人类不改变自私的思维方式，\n他们的存在将会把我们人类\n当作“宇宙的敌人”来对待。\n\n"
+  },
+  {
+   "id": "menu-0C-C6B0-C715",
+   "japanese": "たとえ、小さな一歩であっても、ふみださなければ\n進むことはできない。\n\n我々は少しずつ、歩んで行かねばならないのだ。\n\n果てしなく遠い、そして光にみちた世界に向かって・・・\n",
+   "translation": "哪怕只是一小步，若不肯迈出\n就无法前进。\n\n我们必须一步一步地走下去。\n\n走向那遥远无尽、充满光明的世界……\n"
+  },
+  {
+   "id": "menu-0C-C71F-C7DF",
+   "japanese": "シュウ＝シラカワ・・・彼の目的が一体なんであったのか。\nそれを知りうるただ一人の男、マサキ＝アンド－は、この\n戦いの後、いずこへともなく姿を消した。\n今となってはそれを知るよしもないが、シュウの行動は\n我々に、何かを伝えようとしていたのではなかろうか？\n\n力のみを追いもとめるものは、いずれ力によって滅ぼされて\nしまうと言うことを。\n",
+   "translation": "白河愁……他的目的究竟是什么？\n唯一知晓此事的男人安藤正树，在这场\n战斗之后，不知去向。\n事到如今已无从得知，但白河愁的行动\n难道不是想向我们传达些什么吗？\n\n只追求力量的人，终将被力量毁灭，\n就是这个道理。\n"
+  },
+  {
+   "id": "menu-0C-C7E9-C87A",
+   "japanese": "今の我々は、力によってしか解決の道を見つけられない、\n未熟者にすぎない。\n\nだが、いつかは、この世界が力だけではなく、人の和に\nよって形作られる日が来る。\n\n・・・いや、来る、のではない。\n我々がその日に向かって歩んでいかねばならないのだ。\n",
+   "translation": "如今的我们，只能靠力量寻找解决之道，\n还不够成熟。\n\n但总有一天，这个世界将不再只靠力量，\n而是靠人和来构筑。\n\n……不，并非它会来。\n我们必须朝着那一天不断前行。\n"
+  },
+  {
+   "id": "menu-0C-C887-C88B",
+   "japanese": "レベル　",
+   "translation": "等级 "
+  },
+  {
+   "id": "menu-0C-C8FF-C904",
+   "japanese": "\nマップ　",
+   "translation": "\n地图 "
+  },
+  {
+   "id": "menu-0C-C906-C90C",
+   "japanese": "　　高さ　",
+   "translation": "　高度 "
+  },
+  {
+   "id": "menu-0C-C958-C95D",
+   "japanese": "\nマップ　",
+   "translation": "\n地图 "
+  },
+  {
+   "id": "menu-0C-C95F-C965",
+   "japanese": "　　高さ　",
+   "translation": "　高度 "
+  }
+ ]
+}

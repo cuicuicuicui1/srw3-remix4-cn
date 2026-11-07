@@ -1,0 +1,2611 @@
+{
+  "source_rom_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f",
+  "batch_id": "bulk-09",
+  "entries": [
+    {
+      "id": "0B-DD53-DD7A",
+      "japanese": "エマ（あのムサイにつんであるのが、ホントにＧ－３\nだとしたら・・・そんな！？）",
+      "translation": "艾玛（如果那艘姆塞上装载的真是G-3……不会吧！？）"
+    },
+    {
+      "id": "0B-DD7B-DD9F",
+      "japanese": "エマ（毒ガス作戦・・・バスク大佐が本当に\nそんなことを？）",
+      "translation": "艾玛（毒气作战……巴斯克上校真的会做那种事吗？）"
+    },
+    {
+      "id": "0B-DDA0-DDA7",
+      "japanese": "エマ（・・・）",
+      "translation": "艾玛（……）"
+    },
+    {
+      "id": "0B-DDA8-DDCE",
+      "japanese": "バスク「くっ！！　ええ－いっ！　こんな時にシャアは\n何をやっておる！！」",
+      "translation": "巴斯克“唔！！混账！这种时候夏亚在干什么！！”"
+    },
+    {
+      "id": "0B-DDCF-DE1D",
+      "japanese": "シャ－キン「やるな、ひびき洸！！　だが、それもここまでだ。\nこのわたしがじきじきに相手をしてくれる！　妖魔大帝\nバラオよ！　我に力を！！」",
+      "translation": "夏金“干得不错，响洸！！不过，到此为止了。本大爷亲自来会会你！妖魔大帝巴拉奥啊！赐我力量！！”"
+    },
+    {
+      "id": "0B-DE1E-DE45",
+      "japanese": "カリウス「異星人か！？　だが、今はヤツラにかまっている\nヒマはない！」",
+      "translation": "卡利乌斯“是外星人吗！？不过，现在没空理会他们！！”"
+    },
+    {
+      "id": "0B-DE46-DE5A",
+      "japanese": "フラウ「異星人の部隊です！！」",
+      "translation": "芙劳“是外星人部队！！”"
+    },
+    {
+      "id": "0B-DE5B-DE81",
+      "japanese": "リョウ「くっ！！　しかたがない、ＤＣはあきらめて\n異星人をたたこう！」",
+      "translation": "龙马“唔！！没办法，先不管DC，去攻打外星人吧！！”"
+    },
+    {
+      "id": "0B-DE82-DE91",
+      "japanese": "甲児「また出やがった！」",
+      "translation": "甲儿“又冒出来了！！”"
+    },
+    {
+      "id": "0B-DE92-DE9E",
+      "japanese": "リョウ「また増援か」",
+      "translation": "龙马“又是增援吗。”"
+    },
+    {
+      "id": "0B-DEA1-DEBE",
+      "japanese": "ムサシ「こいつら一体、どこからわいてきやがるんだ！？」",
+      "translation": "武藏“这些家伙到底是从哪里冒出来的！？”"
+    },
+    {
+      "id": "0B-DEBF-DEE2",
+      "japanese": "豹馬「おもしれえじゃねえか！　いくらでも\n来やがれってんだ！！」",
+      "translation": "豹马“这不是挺有意思吗！有多少就来多少吧！！”"
+    },
+    {
+      "id": "0B-DEE3-DEFA",
+      "japanese": "豹馬「了解！！　行くぜ、みんな！！」",
+      "translation": "豹马“明白！！上吧，各位！！”"
+    },
+    {
+      "id": "0B-DEFB-DF2D",
+      "japanese": "四谷博士「ぶわっかも－ん！！　なぁにをやっとるか、\n豹馬！！　これでは話にならん！！」",
+      "translation": "四谷博士“大笨蛋——！！你在搞什么，豹马！！这样根本没法打！！”"
+    },
+    {
+      "id": "0B-DF2E-DF5E",
+      "japanese": "四谷博士「十三！！　まったく、先ばしりおって・・・\nこれではコンバインできん！！」",
+      "translation": "四谷博士“十三！！真是的，抢什么先……这样就没法合体了！！”"
+    },
+    {
+      "id": "0B-DF5F-DF85",
+      "japanese": "あしゅら「ブロッケン伯爵、何をしている！　まったく、\nみちゃおれん！」",
+      "translation": "阿修罗“布兰肯伯爵，你在干什么！真是的，看不下去了！！”"
+    },
+    {
+      "id": "0B-DF86-DFB3",
+      "japanese": "ブロッケン「あしゅら男爵！　貴様、わしのグ－ルを\n勝手にもちだしおったな！！」",
+      "translation": "布兰肯“阿修罗男爵！你这家伙，竟敢擅自把我的飞行要塞古鲁开出来！！”"
+    },
+    {
+      "id": "0B-DFB4-DFD3",
+      "japanese": "あしゅら「助けに来てやったのに、そのいいぐさは何だ！！」",
+      "translation": "阿修罗“我好心来救你，你这是什么口气！！”"
+    },
+    {
+      "id": "0B-DFD4-E013",
+      "japanese": "ブロッケン「誰が助けなどたのんだ！！　この程度の\nやつら、わしひとりで十分だ！！　貴様は\nひっこんでおれ！！」",
+      "translation": "布兰肯“谁求你救了！！这种程度的家伙，我一个人就够了！！你给我退下！！”"
+    },
+    {
+      "id": "0B-E014-E04A",
+      "japanese": "あしゅら「誰がすきこのんで貴様など助けに来るか！\n命令だからしかたなしに来てやったのだ！！」",
+      "translation": "阿修罗“谁会特意来救你！我是因为命令才不得已来的！！”"
+    },
+    {
+      "id": "0B-E04B-E05E",
+      "japanese": "ブロッケン「なら、勝手にしろ！！」",
+      "translation": "布兰肯“那就随你的便！！”"
+    },
+    {
+      "id": "0B-E05F-E074",
+      "japanese": "あしゅら「いわれなくとも、そうするわ！！」",
+      "translation": "阿修罗“不用你说，我也会这么做的！！”"
+    },
+    {
+      "id": "0B-E075-E09E",
+      "japanese": "あしゅら「ブロッケン伯爵め、大きな口をたたいて\nおきながら、このザマか！」",
+      "translation": "阿修罗“布兰肯伯爵这家伙，嘴上说得那么厉害，结果就这副德性！”"
+    },
+    {
+      "id": "0B-E09F-E0D8",
+      "japanese": "シ－マ「おや、ちょいと遅かったようだね。　ガルマ＝ザビ\nともあろうものが、こうも簡単にやられるとはね・・・」",
+      "translation": "西玛“哎呀，看来我来晚了一点。卡尔玛·扎比那样的人物，居然这么轻易就被干掉了……”"
+    },
+    {
+      "id": "0B-E0D9-E117",
+      "japanese": "シ－マ「それにしてもシャアは何をやってたんだい？\nガルマのおもりをほったらかして・・・おかげでこっちは\nいい迷惑さね」",
+      "translation": "西玛“话说回来，夏亚到底在干什么？把照看卡尔玛的事扔在一边……托他的福，我们这边可倒了大霉。”"
+    },
+    {
+      "id": "0B-E118-E131",
+      "japanese": "ミライ「ブライト、入浄準備完了したわ」",
+      "translation": "米莱“布莱德，进坞准备完成了。”"
+    },
+    {
+      "id": "0B-E134-E14C",
+      "japanese": "カイ「やれやれ、これでようやくハネがのばせるぜ」",
+      "translation": "凯“哎呀，这下总算能放松一下了。”"
+    },
+    {
+      "id": "0B-E14D-E16B",
+      "japanese": "モンシア「なんだあ！？　誰が１号機を動かしてる！？」",
+      "translation": "蒙夏“什么！？谁在驾驶1号机！？”"
+    },
+    {
+      "id": "0B-E16E-E17B",
+      "japanese": "ニナ「ウラキ少尉よ！」",
+      "translation": "妮娜“是浦木少尉！”"
+    },
+    {
+      "id": "0B-E17E-E1A2",
+      "japanese": "モンシア「あの若造が！！　オレも出る！　キ－ス、\nお前もこい！」",
+      "translation": "蒙夏“那个毛头小子！！我也出击！基斯，你也来！！”"
+    },
+    {
+      "id": "0B-E3A5-E3AF",
+      "japanese": "「し、しまった！！」",
+      "translation": "“糟、糟了！！”"
+    },
+    {
+      "id": "0B-E3B2-E3BD",
+      "japanese": "「うわぁぁぁぁっ！！」",
+      "translation": "“哇啊啊啊啊！！”"
+    },
+    {
+      "id": "0B-E3C0-E3CE",
+      "japanese": "「うわっ！　やられたっ！！」",
+      "translation": "“哇！中招了！！”"
+    },
+    {
+      "id": "0B-E3D1-E3DE",
+      "japanese": "「うわっ！　しまった！！」",
+      "translation": "“哇！糟了！！”"
+    },
+    {
+      "id": "0B-E3E1-E3F5",
+      "japanese": "「うわっちゃあ！\nやられちまったぜ！！」",
+      "translation": "“哇呀！我可被打惨了！！”"
+    },
+    {
+      "id": "0B-E3F8-E403",
+      "japanese": "「うわああああっ！！」",
+      "translation": "“哇啊啊啊啊！！”"
+    },
+    {
+      "id": "0B-E406-E41E",
+      "japanese": "「ちっ！！　オレもヤキが\nまわったもんだぜ！！」",
+      "translation": "“啧！！我也真是退步了啊！！”"
+    },
+    {
+      "id": "0B-E421-E433",
+      "japanese": "「うわあっ！！　や、やられたあっ！」",
+      "translation": "“哇啊！！我、我被打中了！”"
+    },
+    {
+      "id": "0B-E436-E441",
+      "japanese": "「うわあぁぁぁっ！！」",
+      "translation": "“哇啊啊啊啊！！”"
+    },
+    {
+      "id": "0B-E444-E44E",
+      "japanese": "「きゃあああっ！！」",
+      "translation": "“呀啊啊啊！！”"
+    },
+    {
+      "id": "0B-E451-E458",
+      "japanese": "「うわっ！！」",
+      "translation": "“哇！！”"
+    },
+    {
+      "id": "0B-E45B-E466",
+      "japanese": "「う、うおおおっ！！」",
+      "translation": "“呜、呜啊啊啊！！”"
+    },
+    {
+      "id": "0B-E469-E478",
+      "japanese": "「しまった！！　やられたっ！」",
+      "translation": "“糟了！！被打中了！”"
+    },
+    {
+      "id": "0B-E47B-E484",
+      "japanese": "「きゃああっ！！」",
+      "translation": "“呀啊！！”"
+    },
+    {
+      "id": "0B-E487-E491",
+      "japanese": "「うおおおおおっ！」",
+      "translation": "“呜啊啊啊啊！”"
+    },
+    {
+      "id": "0B-E494-E4AA",
+      "japanese": "「うわっ！！　こ、このままじゃ\nやられる！」",
+      "translation": "“哇！！这、这样下去我会完蛋的！”"
+    },
+    {
+      "id": "0B-E4AD-E4C1",
+      "japanese": "「ダメだ、このままじゃ\nもたないっ！！」",
+      "translation": "“不行，这样下去撑不住了！！”"
+    },
+    {
+      "id": "0B-E4C4-E4DC",
+      "japanese": "「ヤバイっ！　このままじゃ\nやられちまうっ！！」",
+      "translation": "“不妙！这样下去我就完蛋了！！”"
+    },
+    {
+      "id": "0B-E4DF-E4ED",
+      "japanese": "「うわっ！　や、やられる！」",
+      "translation": "“哇！我、我要被打中了！”"
+    },
+    {
+      "id": "0B-E4F0-E504",
+      "japanese": "「うわっ！！　このままじゃ\nヤバイぞ！」",
+      "translation": "“哇！！这样下去可不妙！”"
+    },
+    {
+      "id": "0B-E507-E51C",
+      "japanese": "「ぐわっ！！　まずい！\nこのままでは！！」",
+      "translation": "“唔哇！！糟糕！这样下去的话！！”"
+    },
+    {
+      "id": "0B-E51F-E531",
+      "japanese": "「くっ！　このままじゃヤバイぜ！！」",
+      "translation": "“唔！这样下去可不妙！！”"
+    },
+    {
+      "id": "0B-E534-E543",
+      "japanese": "「うわっ！！　や、やばいっ！」",
+      "translation": "“哇！！不、不妙！”"
+    },
+    {
+      "id": "0B-E546-E55F",
+      "japanese": "「うわっ！！　こ、このままじゃ\nやられちまうぜ！」",
+      "translation": "“哇！！这、这样下去我可要完蛋了！”"
+    },
+    {
+      "id": "0B-E562-E57B",
+      "japanese": "「うっ！！　ダメだわ！\nこれじゃやられちゃう！！」",
+      "translation": "“唔！！不行！这样下去我会被打中的！！”"
+    },
+    {
+      "id": "0B-E57E-E593",
+      "japanese": "「わあぁぁっ！！\nや、やられちゃうっ！！」",
+      "translation": "“哇啊啊！！我、我要完蛋了！！”"
+    },
+    {
+      "id": "0B-E596-E5A6",
+      "japanese": "「うわっ！！　も、もつのか！？」",
+      "translation": "“哇！！还、还撑得住吗！？”"
+    },
+    {
+      "id": "0B-E5A9-E5C0",
+      "japanese": "「うわっ！　これはちょっと\nヤバイかな・・・」",
+      "translation": "“哇！这有点不妙啊……”"
+    },
+    {
+      "id": "0B-E5C3-E5D8",
+      "japanese": "「うわっ！　こ、これじゃ\nやられちまう！」",
+      "translation": "“哇！这、这样下去我会完蛋的！”"
+    },
+    {
+      "id": "0B-E5DB-E5EA",
+      "japanese": "「うわっ！　や、やられる！！」",
+      "translation": "“哇！我、我要被打中了！！”"
+    },
+    {
+      "id": "0B-E5ED-E5F5",
+      "japanese": "「直撃！？」",
+      "translation": "“直击！？”"
+    },
+    {
+      "id": "0B-E5F8-E60A",
+      "japanese": "「ぐっ！　こいつはちと\nヤバイかな」",
+      "translation": "“唔！这家伙有点不妙啊。”"
+    },
+    {
+      "id": "0B-E60D-E61F",
+      "japanese": "「くっ！　まだだ！　まだいける！！」",
+      "translation": "“唔！还没完！我还能行！！”"
+    },
+    {
+      "id": "0B-E622-E632",
+      "japanese": "「この程度のダメ－ジなら！」",
+      "translation": "“这种程度的损伤的话！”"
+    },
+    {
+      "id": "0B-E635-E644",
+      "japanese": "「くっ！！　まだいけるぜ！！」",
+      "translation": "“唔！！我还能行！！”"
+    },
+    {
+      "id": "0B-E647-E651",
+      "japanese": "「！！　まだだ！！」",
+      "translation": "“！！还没完！！”"
+    },
+    {
+      "id": "0B-E654-E671",
+      "japanese": "「あいたっ！　けど、この程度なら\nまだまだいけるぜ！」",
+      "translation": "“好痛！不过，这种程度我还完全能行！”"
+    },
+    {
+      "id": "0B-E674-E686",
+      "japanese": "「うおっ！！　これしきのことで！！」",
+      "translation": "“呜哦！！就这点小事！！”"
+    },
+    {
+      "id": "0B-E689-E695",
+      "japanese": "「うっ！！　やるな！！」",
+      "translation": "“唔！！干得不错！！”"
+    },
+    {
+      "id": "0B-E698-E6B0",
+      "japanese": "「あいたたっ！　やったな\nこんちくしょうっ！！」",
+      "translation": "“好痛痛！你竟敢动手，混蛋！！”"
+    },
+    {
+      "id": "0B-E6B3-E6C3",
+      "japanese": "「うあっ！　やりやがったなっ！」",
+      "translation": "“呜啊！竟敢动手！”"
+    },
+    {
+      "id": "0B-E6C6-E6CD",
+      "japanese": "「きゃあっ！」",
+      "translation": "“呀啊！”"
+    },
+    {
+      "id": "0B-E6D0-E6DE",
+      "japanese": "「わあっ！！　やられたっ！」",
+      "translation": "“哇啊！！被打中了！”"
+    },
+    {
+      "id": "0B-E6E1-E6E8",
+      "japanese": "「うわぁっ！」",
+      "translation": "“哇啊！”"
+    },
+    {
+      "id": "0B-E6EB-E6F9",
+      "japanese": "「くっ！　やるじゃないの！」",
+      "translation": "“唔！挺能干的嘛！”"
+    },
+    {
+      "id": "0B-E6FC-E70A",
+      "japanese": "「くっ！　つ、つええ・・・」",
+      "translation": "“唔！好、好强……”"
+    },
+    {
+      "id": "0B-E70D-E718",
+      "japanese": "「やる！　でもまだ！」",
+      "translation": "“挺厉害！不过还没完！”"
+    },
+    {
+      "id": "0B-E71B-E725",
+      "japanese": "「まだまだあっ！！」",
+      "translation": "“还早得很呢！！”"
+    },
+    {
+      "id": "0B-E728-E734",
+      "japanese": "「この程度なら！！」",
+      "translation": "“这种程度的话！！”"
+    },
+    {
+      "id": "0B-E737-E747",
+      "japanese": "「くっ！　まだだいじょうぶだ！」",
+      "translation": "“唔！还没问题！”"
+    },
+    {
+      "id": "0B-E74A-E75F",
+      "japanese": "「ちっ！　しかしまだ\nだいじょうぶだ！！」",
+      "translation": "“啧！不过还没问题！！”"
+    },
+    {
+      "id": "0B-E762-E771",
+      "japanese": "「こんなもん、効くかい！！」",
+      "translation": "“这种东西，怎么可能有用！！”"
+    },
+    {
+      "id": "0B-E774-E787",
+      "japanese": "「うっ！！　だが、この程度なら！」",
+      "translation": "“唔！！不过，这种程度的话！”"
+    },
+    {
+      "id": "0B-E78A-E799",
+      "japanese": "「ちっ！　あたっちまったか！」",
+      "translation": "“啧！还是被打中了吗！”"
+    },
+    {
+      "id": "0B-E79C-E7A3",
+      "japanese": "「あいてっ！」",
+      "translation": "“好痛！”"
+    },
+    {
+      "id": "0B-E7A6-E7B6",
+      "japanese": "「うっ！　なんの、これしき！！」",
+      "translation": "“唔！算什么，就这点程度！！”"
+    },
+    {
+      "id": "0B-E7B9-E7D0",
+      "japanese": "「きゃっ！　よかった、\nかすりキズですんだわ」",
+      "translation": "“呀！太好了，只是擦伤就没事了。”"
+    },
+    {
+      "id": "0B-E7D3-E7E3",
+      "japanese": "「わっ！　ま、まだだいじょうぶ」",
+      "translation": "“哇！还、还没问题。”"
+    },
+    {
+      "id": "0B-E7E6-E7EB",
+      "japanese": "「うっ！」",
+      "translation": "“唔！”"
+    },
+    {
+      "id": "0B-E7EE-E7FC",
+      "japanese": "「くっ！　この程度！！」",
+      "translation": "“唔！这种程度！！”"
+    },
+    {
+      "id": "0B-E7FF-E80F",
+      "japanese": "「うっ！　や、やるじゃないの！」",
+      "translation": "“唔！还、还挺能干的嘛！”"
+    },
+    {
+      "id": "0B-E812-E81E",
+      "japanese": "「うわっ！　やったな！」",
+      "translation": "“哇！你竟敢动手！”"
+    },
+    {
+      "id": "0B-E821-E82D",
+      "japanese": "「くっ！　まだまだ！！」",
+      "translation": "“唔！还早得很！！”"
+    },
+    {
+      "id": "0B-E830-E83F",
+      "japanese": "「くっ！　この程度なら！」",
+      "translation": "“唔！这种程度的话！”"
+    },
+    {
+      "id": "0B-E842-E84A",
+      "japanese": "「なんのっ！！」",
+      "translation": "“算什么！！”"
+    },
+    {
+      "id": "0B-E84D-E855",
+      "japanese": "「あまいっ！！」",
+      "translation": "“太天真了！！”"
+    },
+    {
+      "id": "0B-E858-E860",
+      "japanese": "「ムダだっ！！」",
+      "translation": "“没用的！！”"
+    },
+    {
+      "id": "0B-E863-E86B",
+      "japanese": "「あたるかっ！」",
+      "translation": "“怎么可能打中！”"
+    },
+    {
+      "id": "0B-E86E-E878",
+      "japanese": "「あたるかよっ！！」",
+      "translation": "“怎么可能打中！！”"
+    },
+    {
+      "id": "0B-E87B-E88F",
+      "japanese": "「ビ－ムは効かないって\nいってる！！」",
+      "translation": "“我都说了光束武器没用！！”"
+    },
+    {
+      "id": "0B-E892-E8A0",
+      "japanese": "「あたってたまるかよっ！！」",
+      "translation": "“我怎么可能被打中！！”"
+    },
+    {
+      "id": "0B-E8A3-E8B0",
+      "japanese": "「そんなんがきくもんか！」",
+      "translation": "“那种东西怎么可能管用！”"
+    },
+    {
+      "id": "0B-E8B3-E8C4",
+      "japanese": "「おおっと！　ツルカメ、ツルカメ」",
+      "translation": "“哎哟！好险好险，好险好险。”"
+    },
+    {
+      "id": "0B-E8C7-E8E0",
+      "japanese": "「フ・・・ゲッタ－のスピ－ドを\nあまくみるなよ！」",
+      "translation": "“哼……别小看盖塔的速度！”"
+    },
+    {
+      "id": "0B-E8E3-E8EF",
+      "japanese": "「ゲッタ－ビジョン！！」",
+      "translation": "“盖塔幻影！！”"
+    },
+    {
+      "id": "0B-E8F2-E8F9",
+      "japanese": "「おっとっと」",
+      "translation": "“哎哟哟。”"
+    },
+    {
+      "id": "0B-E8FC-E905",
+      "japanese": "「へへ－んだ！！」",
+      "translation": "“哼哼——！！”"
+    },
+    {
+      "id": "0B-E908-E918",
+      "japanese": "「きゃっ！　あぶなかった・・・」",
+      "translation": "“呀！好险……”"
+    },
+    {
+      "id": "0B-E91B-E925",
+      "japanese": "「ふう、たすかった」",
+      "translation": "“呼，得救了。”"
+    },
+    {
+      "id": "0B-E928-E934",
+      "japanese": "「ふう、あぶなかったぜ」",
+      "translation": "“呼，好险啊。”"
+    },
+    {
+      "id": "0B-E937-E944",
+      "japanese": "「間合いがあまいっ！」",
+      "translation": "“距离把握得太差了！”"
+    },
+    {
+      "id": "0B-E947-E94F",
+      "japanese": "「あまいなっ！」",
+      "translation": "“太天真了！”"
+    },
+    {
+      "id": "0B-E952-E95D",
+      "japanese": "「あぶねぇ、あぶねぇ」",
+      "translation": "“好险，好险。”"
+    },
+    {
+      "id": "0B-E960-E96C",
+      "japanese": "「効かないってよ！！」",
+      "translation": "“我说过没用的！！”"
+    },
+    {
+      "id": "0B-E96F-E97A",
+      "japanese": "「ふう、あぶなかった」",
+      "translation": "“呼，好险。”"
+    },
+    {
+      "id": "0B-E97D-E986",
+      "japanese": "「こんなもの！！」",
+      "translation": "“就这种程度！！”"
+    },
+    {
+      "id": "0B-E989-E991",
+      "japanese": "「そんなもの！」",
+      "translation": "“不过如此！”"
+    },
+    {
+      "id": "0B-E994-E9A0",
+      "japanese": "「ねらいがあまいぜ！！」",
+      "translation": "“瞄准得太差了！！”"
+    },
+    {
+      "id": "0B-E9A3-E9AB",
+      "japanese": "「効くかよ！」",
+      "translation": "“怎么可能有用！”"
+    },
+    {
+      "id": "0B-E9B8-E9C5",
+      "japanese": "「え－っ！？　なんで！？」",
+      "translation": "“诶——！？为什么！？”"
+    },
+    {
+      "id": "0B-E9C8-E9CE",
+      "japanese": "「えっ！？」",
+      "translation": "“诶！？”"
+    },
+    {
+      "id": "0B-E9D1-E9E6",
+      "japanese": "「なんじゃと！？\nどういうこっちゃい！？」",
+      "translation": "“你说什么！？这是怎么回事！？”"
+    },
+    {
+      "id": "0B-E9E9-E9FC",
+      "japanese": "「なんだっ！？　反撃できない！！」",
+      "translation": "“怎么回事！？无法反击！！”"
+    },
+    {
+      "id": "0B-E9FF-EA07",
+      "japanese": "「なんだと！？」",
+      "translation": "“你说什么！？”"
+    },
+    {
+      "id": "0B-EA0A-EA16",
+      "japanese": "「な、なんだなんだ！？」",
+      "translation": "“怎、怎么回事怎么回事！？”"
+    },
+    {
+      "id": "0B-EA19-EA31",
+      "japanese": "「なんだっ！？　み、身動きが\nとれねえっ！」",
+      "translation": "“怎么回事！？身、身体动不了了！”"
+    },
+    {
+      "id": "0B-EA34-EA40",
+      "japanese": "「えっ！？　なんで！？」",
+      "translation": "“诶！？为什么！？”"
+    },
+    {
+      "id": "0B-EA43-EA54",
+      "japanese": "「わっ！？　反撃をふうじた？」",
+      "translation": "“哇！？反击被封锁了？”"
+    },
+    {
+      "id": "0B-EA57-EA60",
+      "japanese": "「なんと－っ！？」",
+      "translation": "“什么——！？”"
+    },
+    {
+      "id": "0B-EA63-EA6E",
+      "japanese": "「な、なんだあっ！？」",
+      "translation": "“怎、怎么回事！？”"
+    },
+    {
+      "id": "0B-EA71-EA83",
+      "japanese": "「反撃できない！？\nなんで！？」",
+      "translation": "“无法反击！？为什么！？”"
+    },
+    {
+      "id": "0B-EA86-EA92",
+      "japanese": "「反撃できない！？」",
+      "translation": "“无法反击！？”"
+    },
+    {
+      "id": "0B-EA95-EA9F",
+      "japanese": "「え！？　なに！？」",
+      "translation": "“诶！？什么！？”"
+    },
+    {
+      "id": "0B-EAA2-EAB9",
+      "japanese": "「こ、こいつ！　妙なわざを\nつかいやがる！」",
+      "translation": "“这、这家伙！竟敢用这种古怪的招数！”"
+    },
+    {
+      "id": "0B-EABC-EAC5",
+      "japanese": "「弾切れ！？」",
+      "translation": "“没弹药了！？”"
+    },
+    {
+      "id": "0B-EAC8-EAD5",
+      "japanese": "「くっ！　遠すぎるか！」",
+      "translation": "“唔！太远了吗！”"
+    },
+    {
+      "id": "0B-EAD8-EAE7",
+      "japanese": "「ちっ！　弾切れかよ！！」",
+      "translation": "“啧！没弹药了吗！！”"
+    },
+    {
+      "id": "0B-EAEA-EAF8",
+      "japanese": "「だめだ！　とどかねえっ！」",
+      "translation": "“不行！够不着！”"
+    },
+    {
+      "id": "0B-EAFB-EB0B",
+      "japanese": "「しまった！！　弾切れか！」",
+      "translation": "“糟了！！没弹药了吗！”"
+    },
+    {
+      "id": "0B-EB0E-EB1B",
+      "japanese": "「くそっ！　とどかねえ！」",
+      "translation": "“可恶！够不着！”"
+    },
+    {
+      "id": "0B-EB1E-EB2B",
+      "japanese": "「くっ！　弾切れか！」",
+      "translation": "“唔！没弹药了吗！”"
+    },
+    {
+      "id": "0B-EB2E-EB3B",
+      "japanese": "「だめだわ、とどかない！」",
+      "translation": "“不行，够不着！”"
+    },
+    {
+      "id": "0B-EB3E-EB4A",
+      "japanese": "「だめだ、とどかない！」",
+      "translation": "“不行，够不着！”"
+    },
+    {
+      "id": "0B-EB4D-EB55",
+      "japanese": "「遠すぎる！」",
+      "translation": "“太远了！”"
+    },
+    {
+      "id": "0B-EB58-EB64",
+      "japanese": "「くっ！　とどかん！！」",
+      "translation": "“唔！够不着！！”"
+    },
+    {
+      "id": "0B-EB67-EB7A",
+      "japanese": "「え！？　うそっ！？　弾切れ！？」",
+      "translation": "“诶！？不会吧！？没弹药了！？”"
+    },
+    {
+      "id": "0B-EB7D-EBA1",
+      "japanese": "「ちょっと！！　どっから攻撃\nしてくんのよ！　このヒキョ－モノ！！」",
+      "translation": "“喂！！你是从哪儿攻击过来的！你这个卑鄙的家伙！！”"
+    },
+    {
+      "id": "0B-EBA4-EBB6",
+      "japanese": "「これはしたり。　弾切れですか」",
+      "translation": "“这可真是。没弹药了吗。”"
+    },
+    {
+      "id": "0B-EBB9-EBC8",
+      "japanese": "「だ、だめだ、とどかないよ！」",
+      "translation": "“不、不行，够不着啊！”"
+    },
+    {
+      "id": "0B-EBCB-EBDC",
+      "japanese": "「ジ－ザス！　エンプティ　ネ！！」",
+      "translation": "“耶稣啊！没弹药了呢！！”"
+    },
+    {
+      "id": "0B-EBDF-EBEC",
+      "japanese": "「ＯＨ！　トドキマセン！」",
+      "translation": "“噢！够不着！”"
+    },
+    {
+      "id": "0B-EBEF-EC06",
+      "japanese": "「少しばかり遠すぎるようで\nございますな」",
+      "translation": "“似乎稍微远了些呢。”"
+    },
+    {
+      "id": "0B-EC09-EC18",
+      "japanese": "「ありゃ！？　弾切れ！？」",
+      "translation": "“哎呀！？没弹药了！？”"
+    },
+    {
+      "id": "0B-EC1B-EC31",
+      "japanese": "「こ、このあたしが直撃をうけている！？」",
+      "translation": "“我、我居然被直接击中了！？”"
+    },
+    {
+      "id": "0B-EC34-EC41",
+      "japanese": "「ちっ！！　ドジった！！」",
+      "translation": "“啧！！失手了！！”"
+    },
+    {
+      "id": "0B-EC44-EC52",
+      "japanese": "「ビ－ムなど効かぬわ！！」",
+      "translation": "“光束之类根本没用！！”"
+    },
+    {
+      "id": "0B-EC55-EC65",
+      "japanese": "「ぐわっ！！　し、しもたっ！！」",
+      "translation": "“唔哇！！糟、糟了！！”"
+    },
+    {
+      "id": "0B-EC68-EC7B",
+      "japanese": "「うわっ！　あ、あかん！　ヤバイで！」",
+      "translation": "“哇！不、不行！不妙啊！”"
+    },
+    {
+      "id": "0B-EC7E-EC8E",
+      "japanese": "「あいたっ！！　やりおったな！」",
+      "translation": "“好痛！！竟敢动手！”"
+    },
+    {
+      "id": "0B-EC91-ECAE",
+      "japanese": "「うっ！　ま、まだや！\nこんなもんじゃビクともせんで！！」",
+      "translation": "“唔！还、还没完！这种东西根本伤不了我！！”"
+    },
+    {
+      "id": "0B-ECB1-ECC1",
+      "japanese": "「へん！　あたってたまるかい！」",
+      "translation": "“哼！我怎么可能被打中！”"
+    },
+    {
+      "id": "0B-ECC4-ECCF",
+      "japanese": "「な、なんやて！？」」",
+      "translation": "“什、什么！？”"
+    },
+    {
+      "id": "0B-ECD2-ECE0",
+      "japanese": "「ちっ！　弾切れかいな」",
+      "translation": "“啧！没弹药了吗。”"
+    },
+    {
+      "id": "0B-ECE3-ECEE",
+      "japanese": "「あかん、とどかん！」",
+      "translation": "“不行，够不着！”"
+    },
+    {
+      "id": "0B-ECF1-ED0B",
+      "japanese": "「わあぁぁっ！　こ、このままじゃ\n危険タイ！！」",
+      "translation": "“哇啊啊！这、这样下去太危险了！！”"
+    },
+    {
+      "id": "0B-ED0E-ED1D",
+      "japanese": "「ぐわっ！　なんばしよっと！」",
+      "translation": "“唔哇！你干什么！”"
+    },
+    {
+      "id": "0B-ED20-ED27",
+      "japanese": "「あいたっ！」",
+      "translation": "“好痛！”"
+    },
+    {
+      "id": "0B-ED2A-ED37",
+      "japanese": "「あたりゃせんですタイ！」",
+      "translation": "“根本打不中啊！”"
+    },
+    {
+      "id": "0B-ED3A-ED41",
+      "japanese": "「なんと！？」",
+      "translation": "“什么！？”"
+    },
+    {
+      "id": "0B-ED44-ED52",
+      "japanese": "「くっ！　遠すぎるタイ！」",
+      "translation": "“唔！太远了啊！”"
+    },
+    {
+      "id": "0B-ED55-ED67",
+      "japanese": "「しまった！　総員退避！！」",
+      "translation": "“糟了！全员退避！！”"
+    },
+    {
+      "id": "0B-ED6A-ED80",
+      "japanese": "「直撃か！　消火作業急げ！！」",
+      "translation": "“被直接击中了吗！快进行灭火作业！！”"
+    },
+    {
+      "id": "0B-ED83-ED9C",
+      "japanese": "「左抵、弾幕うすいぞ！\nなにやってんの！」",
+      "translation": "“左舷，弹幕太薄了！在干什么！”"
+    },
+    {
+      "id": "0B-ED9F-EDAB",
+      "japanese": "「くっ！　まだもつ！！」",
+      "translation": "“唔！还撑得住！！”"
+    },
+    {
+      "id": "0B-EDAE-EDB8",
+      "japanese": "「ふう、かわしたか」",
+      "translation": "“呼，躲过去了吗。”"
+    },
+    {
+      "id": "0B-EDBB-EDCD",
+      "japanese": "「くっ！　まだだ！\nまだおちるな！」",
+      "translation": "“唔！还没完！还不能掉下去！”"
+    },
+    {
+      "id": "0B-EDD0-EDDB",
+      "japanese": "「くっ！　ひるむな！」",
+      "translation": "“唔！别退缩！”"
+    },
+    {
+      "id": "0B-EDDE-EDE8",
+      "japanese": "「よし、かわした！」",
+      "translation": "“好，躲过去了！”"
+    },
+    {
+      "id": "0B-EDEB-EDF7",
+      "japanese": "「くっ！　やられたっ！」",
+      "translation": "“唔！被打中了！”"
+    },
+    {
+      "id": "0B-EDFA-EE06",
+      "japanese": "「くっ！　まだいける！」",
+      "translation": "“唔！还能行！”"
+    },
+    {
+      "id": "0B-EE09-EE15",
+      "japanese": "「あたった！？　でも！」",
+      "translation": "“被打中了！？不过！”"
+    },
+    {
+      "id": "0B-EE18-EE26",
+      "japanese": "「しまった！　脱出を！」",
+      "translation": "“糟了！快脱出！”"
+    },
+    {
+      "id": "0B-EE29-EE37",
+      "japanese": "「くっ！　や、やられる！！」",
+      "translation": "“唔！我、我要完蛋了！！”"
+    },
+    {
+      "id": "0B-EE3A-EE49",
+      "japanese": "「まだまだ！　こんなもので！」",
+      "translation": "“还早得很！就这种东西！”"
+    },
+    {
+      "id": "0B-EE4C-EE5B",
+      "japanese": "「この程度のダメ－ジ！！」",
+      "translation": "“这种程度的损伤！！”"
+    },
+    {
+      "id": "0B-EE5E-EE6A",
+      "japanese": "「まだ！　まだいける！」",
+      "translation": "“还没完！还能行！”"
+    },
+    {
+      "id": "0B-EE6D-EE75",
+      "japanese": "「こんなので！」",
+      "translation": "“就这种程度！”"
+    },
+    {
+      "id": "0B-EE78-EE80",
+      "japanese": "「あぶないっ！」",
+      "translation": "“危险！”"
+    },
+    {
+      "id": "0B-EE83-EE89",
+      "japanese": "「ちいっ！」",
+      "translation": "“啧！”"
+    },
+    {
+      "id": "0B-EE8C-EE9C",
+      "japanese": "「まだだ！　まだ終わらんよ！」",
+      "translation": "“还没完！还没结束！”"
+    },
+    {
+      "id": "0B-EE9F-EEAA",
+      "japanese": "「やる！　しかし！！」",
+      "translation": "“挺厉害！不过！！”"
+    },
+    {
+      "id": "0B-EEAD-EEB7",
+      "japanese": "「この程度で！」",
+      "translation": "“就这种程度！”"
+    },
+    {
+      "id": "0B-EEC5-EECC",
+      "japanese": "「させるか！」",
+      "translation": "“休想！”"
+    },
+    {
+      "id": "0B-EECF-EEDC",
+      "japanese": "「いかん！　やられる！？」",
+      "translation": "“不好！我要被打中了！？”"
+    },
+    {
+      "id": "0B-EEDF-EEF0",
+      "japanese": "「きゃあっ！！　やられちゃった！」",
+      "translation": "“呀啊！！我被打中了！”"
+    },
+    {
+      "id": "0B-EEF3-EF01",
+      "japanese": "「きゃっ！　も、もつの！？」",
+      "translation": "“呀！还、还撑得住吗！？”"
+    },
+    {
+      "id": "0B-EF04-EF18",
+      "japanese": "「きゃっ！　やってくれんじゃないのさ！」",
+      "translation": "“呀！你还真敢动手啊！”"
+    },
+    {
+      "id": "0B-EF1B-EF2A",
+      "japanese": "「まだまだ！　あまいんだよ！」",
+      "translation": "“还早得很！太天真了！”"
+    },
+    {
+      "id": "0B-EF2D-EF37",
+      "japanese": "「あたんないよ！！」",
+      "translation": "“打不中哦！！”"
+    },
+    {
+      "id": "0B-EF3A-EF49",
+      "japanese": "「ムダだっていってんじゃん！」",
+      "translation": "“我都说了没用的！”"
+    },
+    {
+      "id": "0B-EF4C-EF5E",
+      "japanese": "「え！？　なんで動けないのよ！？」",
+      "translation": "“诶！？为什么动不了啊！？”"
+    },
+    {
+      "id": "0B-EF61-EF70",
+      "japanese": "「きゃあっ！　や、やられた！」",
+      "translation": "“呀啊！我、我被打中了！”"
+    },
+    {
+      "id": "0B-EF73-EF82",
+      "japanese": "「くっ！　このままじゃ・・・」",
+      "translation": "“唔！这样下去……”"
+    },
+    {
+      "id": "0B-EF85-EF94",
+      "japanese": "「きゃっ！　やったわねえっ！」",
+      "translation": "“呀！你竟敢动手！”"
+    },
+    {
+      "id": "0B-EF97-EFA0",
+      "japanese": "「まだまだっ！！」",
+      "translation": "“还早得很！！”"
+    },
+    {
+      "id": "0B-EFA3-EFAE",
+      "japanese": "「あたるもんですか！」",
+      "translation": "“怎么可能打中！”"
+    },
+    {
+      "id": "0B-EFB1-EFB8",
+      "japanese": "「ムダよ！！」",
+      "translation": "“没用的！！”"
+    },
+    {
+      "id": "0B-EFBB-EFD3",
+      "japanese": "「うわあああっ！　だ、だから\nイヤだったんだ！」",
+      "translation": "“哇啊啊啊！所、所以我才讨厌啊！”"
+    },
+    {
+      "id": "0B-EFD6-EFE3",
+      "japanese": "「うわっ！　やったなっ！」",
+      "translation": "“哇！你竟敢动手！”"
+    },
+    {
+      "id": "0B-EFE6-EFF5",
+      "japanese": "「ふ－っ、かんいっぱつ・・・」",
+      "translation": "“呼——，千钧一发……”"
+    },
+    {
+      "id": "0B-EFF8-F00C",
+      "japanese": "「うわっ！　・・・あ、\nなんともないや」",
+      "translation": "“哇！……啊，什么事也没有。”"
+    },
+    {
+      "id": "0B-F01F-F030",
+      "japanese": "「くそっ！！　やられちまったい！」",
+      "translation": "“可恶！！我被打惨了！”"
+    },
+    {
+      "id": "0B-F033-F041",
+      "japanese": "「うわっ！！　や、やべぇ！」",
+      "translation": "“哇！！不、不妙！”"
+    },
+    {
+      "id": "0B-F044-F051",
+      "japanese": "「やったな、このやろう！」",
+      "translation": "“你竟敢动手，混蛋！”"
+    },
+    {
+      "id": "0B-F054-F05E",
+      "japanese": "「へ－き、へ－き！」",
+      "translation": "“没事，没事！”"
+    },
+    {
+      "id": "0B-F061-F06B",
+      "japanese": "「やられたあっ！！」",
+      "translation": "“被打中了！！”"
+    },
+    {
+      "id": "0B-F06E-F07F",
+      "japanese": "「うわっ！！　ど、どうしよう！？」",
+      "translation": "“哇！！怎、怎么办！？”"
+    },
+    {
+      "id": "0B-F082-F08E",
+      "japanese": "「くっ！　やるじゃん！」",
+      "translation": "“唔！挺能干的嘛！”"
+    },
+    {
+      "id": "0B-F091-F09F",
+      "japanese": "「くっ！　も、もたない！？」",
+      "translation": "“唔！撑、撑不住了！？”"
+    },
+    {
+      "id": "0B-F0A2-F0B2",
+      "japanese": "「きゃあっ！！　も、もうダメ！」",
+      "translation": "“呀啊！！不、不行了！”"
+    },
+    {
+      "id": "0B-F0B5-F0D2",
+      "japanese": "「えっ！？　どうして！？\nどうして反撃できないの！？」",
+      "translation": "“诶！？为什么！？为什么无法反击！？”"
+    },
+    {
+      "id": "0B-F0D5-F0E9",
+      "japanese": "「どわぁぁぁっ！！\nやられちまったい！」",
+      "translation": "“哇啊啊啊！！我被打惨了！”"
+    },
+    {
+      "id": "0B-F0EC-F103",
+      "japanese": "「あいたたっ！！　こ、こいつは\nやばいぜ！！」",
+      "translation": "“好痛痛！！这、这家伙可不妙！！”"
+    },
+    {
+      "id": "0B-F106-F11C",
+      "japanese": "「あいてっ！　よくも\nやりやがったなっ！！」",
+      "translation": "“好痛！你竟敢对我动手！！”"
+    },
+    {
+      "id": "0B-F11F-F12E",
+      "japanese": "「へへん！　効いてないぜ！」",
+      "translation": "“哼哼！根本没效！”"
+    },
+    {
+      "id": "0B-F131-F13F",
+      "japanese": "「うおっ！！　しまった！！」",
+      "translation": "“呜哦！！糟了！！”"
+    },
+    {
+      "id": "0B-F142-F157",
+      "japanese": "「くそっ！　こうダメ－ジを\n受けては！」",
+      "translation": "“可恶！受到这种程度的损伤的话！”"
+    },
+    {
+      "id": "0B-F15A-F173",
+      "japanese": "「くっ！！　だが、この程度なら\nまだいける！」",
+      "translation": "“唔！！不过，这种程度我还能行！”"
+    },
+    {
+      "id": "0B-F176-F17C",
+      "japanese": "「うっ！！」",
+      "translation": "“唔！！”"
+    },
+    {
+      "id": "0B-F17F-F187",
+      "japanese": "「おおっと！！」",
+      "translation": "“哎哟！！”"
+    },
+    {
+      "id": "0B-F18A-F19E",
+      "japanese": "「くっ！！　まだやられる\nわけには！！」",
+      "translation": "“唔！！我还不能就这么被打倒！！”"
+    },
+    {
+      "id": "0B-F1A1-F1B4",
+      "japanese": "「うっ！！　ま、まだ\nだいじょうぶ！」",
+      "translation": "“唔！！还、还没问题！”"
+    },
+    {
+      "id": "0B-F1B7-F1C6",
+      "japanese": "「あたってたまるものですか！」",
+      "translation": "“我怎么可能被打中！”"
+    },
+    {
+      "id": "0B-F1C9-F1DC",
+      "japanese": "「うっ！？　身動きがとれない！？」",
+      "translation": "“唔！？身体动不了了！？”"
+    },
+    {
+      "id": "0B-F1DF-F1F0",
+      "japanese": "「てめえ！　やりゃあがったな！！」",
+      "translation": "“你这混蛋！竟敢动手！！”"
+    },
+    {
+      "id": "0B-F1F3-F201",
+      "japanese": "「ヘン、その程度かよ！」",
+      "translation": "“哼，就这种程度吗！”"
+    },
+    {
+      "id": "0B-F204-F211",
+      "japanese": "「へへ－ん！　はぁずれ！」",
+      "translation": "“哼哼！打偏了！”"
+    },
+    {
+      "id": "0B-F214-F222",
+      "japanese": "「くそっ！　動けねえ！！」",
+      "translation": "“可恶！动不了！！”"
+    },
+    {
+      "id": "0B-F225-F233",
+      "japanese": "「ＯＨ！　サノバビッチ！！」",
+      "translation": "“噢！狗娘养的！！”"
+    },
+    {
+      "id": "0B-F236-F23E",
+      "japanese": "「ジ－ザス！！」",
+      "translation": "“耶稣啊！！”"
+    },
+    {
+      "id": "0B-F241-F249",
+      "japanese": "「ＳＨＩＴ！！」",
+      "translation": "“该死！！”"
+    },
+    {
+      "id": "0B-F24C-F254",
+      "japanese": "「ＯＵＣＨ！！」",
+      "translation": "“好痛！！”"
+    },
+    {
+      "id": "0B-F257-F267",
+      "japanese": "「ＨＡＨＡＨＡ！　ヘタクソね！」",
+      "translation": "“哈哈哈！真差劲！”"
+    },
+    {
+      "id": "0B-F26A-F272",
+      "japanese": "「ＷＨＡＴ！？」",
+      "translation": "“什么！？”"
+    },
+    {
+      "id": "0B-F275-F281",
+      "japanese": "「ちっ！　ドジったぜ！」",
+      "translation": "“啧！失手了！”"
+    },
+    {
+      "id": "0B-F284-F292",
+      "japanese": "「くっ！！　ヤバイな・・・」",
+      "translation": "“唔！！不妙啊……”"
+    },
+    {
+      "id": "0B-F295-F2A6",
+      "japanese": "「きゃああっ！！　あきらぁっ！！」",
+      "translation": "“呀啊啊！！阿基拉！！”"
+    },
+    {
+      "id": "0B-F2A9-F2B7",
+      "japanese": "「ダメ、やられちゃうっ！！」",
+      "translation": "“不行，我要被打中了！！”"
+    },
+    {
+      "id": "0B-F2BA-F2C5",
+      "japanese": "「いったあぁぁぁい！」",
+      "translation": "“好痛啊啊啊！”"
+    },
+    {
+      "id": "0B-F2C8-F2D7",
+      "japanese": "「ベ－だ！　あたんないわよ！」",
+      "translation": "“呸！打不中啦！”"
+    },
+    {
+      "id": "0B-F2DA-F2EF",
+      "japanese": "「なんで！？　なんで\n動けないのよっ！」",
+      "translation": "“为什么！？为什么动不了啊！”"
+    },
+    {
+      "id": "0B-F2F2-F2FE",
+      "japanese": "「くっ！　これまでか！」",
+      "translation": "“唔！到此为止了吗！”"
+    },
+    {
+      "id": "0B-F301-F30D",
+      "japanese": "「うっ！　やられる！？」",
+      "translation": "“唔！我要被打中了！？”"
+    },
+    {
+      "id": "0B-F310-F320",
+      "japanese": "「！！　まだ落ちるわけには！」",
+      "translation": "“！！我还不能被击落！”"
+    },
+    {
+      "id": "0B-F323-F330",
+      "japanese": "「まだ！！　かすりキズ！」",
+      "translation": "“还没完！！只是擦伤！”"
+    },
+    {
+      "id": "0B-F333-F33A",
+      "japanese": "「あまいっ！」",
+      "translation": "“太天真了！”"
+    },
+    {
+      "id": "0B-F33D-F349",
+      "japanese": "「くっ！！　まだっ！！」",
+      "translation": "“唔！！还没完！！”"
+    },
+    {
+      "id": "0B-F34C-F359",
+      "japanese": "「ぬ、ぬおおおおおっ！！」",
+      "translation": "“唔、唔哦哦哦哦！！”"
+    },
+    {
+      "id": "0B-F35C-F375",
+      "japanese": "「ぬうっ！！　まだだ！　まだ\nやられはせん！！」」",
+      "translation": "“唔！！还没完！我才不会被打倒！！”"
+    },
+    {
+      "id": "0B-F378-F385",
+      "japanese": "「おのれっ！　よくも！！」",
+      "translation": "“可恶！竟敢！！”"
+    },
+    {
+      "id": "0B-F388-F3A1",
+      "japanese": "「このわたしにキズをつけるとは・・・\nゆるさん！」",
+      "translation": "“竟敢伤到我……不可饶恕！”"
+    },
+    {
+      "id": "0B-F3A4-F3AE",
+      "japanese": "「その程度か！」",
+      "translation": "“就这种程度吗！”"
+    },
+    {
+      "id": "0B-F4D1-F4E4",
+      "japanese": "「どっから攻撃してきやがった！？」",
+      "translation": "“到底从哪里攻击过来的！？”"
+    },
+    {
+      "id": "0B-F4E7-F4F2",
+      "japanese": "「弾切れだと！？」",
+      "translation": "“没弹药了！？”"
+    },
+    {
+      "id": "0B-F4F5-F515",
+      "japanese": "「そんなところから攻撃して\nくるとは・・・ひきょうもの！！」",
+      "translation": "“居然从那种地方攻击过来……卑鄙小人！！”"
+    },
+    {
+      "id": "0B-F518-F529",
+      "japanese": "「ちょっと！！　ひきょうだよ！！」",
+      "translation": "“喂！！太卑鄙了！！”"
+    },
+    {
+      "id": "0B-F52C-F538",
+      "japanese": "「とどきませんか・・・」",
+      "translation": "“够不着吗……”"
+    },
+    {
+      "id": "0B-F53B-F554",
+      "japanese": "「な、なんだ！？　どこから\n攻撃してきた！？」",
+      "translation": "“怎、怎么回事！？从哪里攻击过来的！？”"
+    },
+    {
+      "id": "0B-F557-F55C",
+      "japanese": "「・・・」",
+      "translation": "“……”"
+    },
+    {
+      "id": "0B-F55F-F563",
+      "japanese": "「！！」",
+      "translation": "“！！”"
+    },
+    {
+      "id": "0B-F566-F56F",
+      "japanese": "「ムダなのだよ！」",
+      "translation": "“没用的！”"
+    },
+    {
+      "id": "0B-F572-F584",
+      "japanese": "「ぬうっ！？　な、なんだこれは！？」",
+      "translation": "“唔！？这、这是什么！？”"
+    },
+    {
+      "id": "0B-F587-F58F",
+      "japanese": "「うおおっ！！」",
+      "translation": "“呜哦哦！！”"
+    },
+    {
+      "id": "0B-F592-F59D",
+      "japanese": "「うぬっ！　やる！！」",
+      "translation": "“唔！挺厉害！！”"
+    },
+    {
+      "id": "0B-F5A0-F5B2",
+      "japanese": "「くっ！　やるな！　だが、まだ！！」",
+      "translation": "“唔！干得不错！不过，还没完！！”"
+    },
+    {
+      "id": "0B-F5B5-F5D0",
+      "japanese": "「ぬうっ！　こいつ、なみのパイロットでは\nないぞ！！」",
+      "translation": "“唔！这家伙，可不是普通驾驶员！！”"
+    },
+    {
+      "id": "0B-F5D3-F5DF",
+      "japanese": "「やるな！　しかし！！」",
+      "translation": "“挺厉害！不过！！”"
+    },
+    {
+      "id": "0B-F5E2-F5EE",
+      "japanese": "「フン、効かんわ！！」",
+      "translation": "“哼，根本没用！！”"
+    },
+    {
+      "id": "0B-F5F1-F5FA",
+      "japanese": "「ムダなことを！」",
+      "translation": "“白费力气！”"
+    },
+    {
+      "id": "0B-F5FD-F60C",
+      "japanese": "「ぬおっ！！　な、なんだ！？」",
+      "translation": "“唔哦！！怎、怎么回事！？”"
+    },
+    {
+      "id": "0B-F60F-F621",
+      "japanese": "「うぬっ！　このままではやられる！」",
+      "translation": "“唔！这样下去我会被打倒！”"
+    },
+    {
+      "id": "0B-F624-F62F",
+      "japanese": "「その程度かよ！」",
+      "translation": "“就这种程度吗！”"
+    },
+    {
+      "id": "0B-F632-F63C",
+      "japanese": "「あまいんだよ！！」",
+      "translation": "“太天真了！！”"
+    },
+    {
+      "id": "0B-F63F-F64C",
+      "japanese": "「う、うおおおおおっ！！」",
+      "translation": "“呜、呜哦哦哦哦！！”"
+    },
+    {
+      "id": "0B-F64F-F65F",
+      "japanese": "「なにっ！？　こ、こいつっ！！」",
+      "translation": "“什么！？这、这家伙！！”"
+    },
+    {
+      "id": "0B-F662-F66B",
+      "japanese": "「あまいわっ！！」",
+      "translation": "“太天真了！！”"
+    },
+    {
+      "id": "0B-F66E-F67E",
+      "japanese": "「な、なんだ！？　動けん！？」",
+      "translation": "“怎、怎么回事！？动不了！？”"
+    },
+    {
+      "id": "0B-F681-F695",
+      "japanese": "「うおっ！！　まだだ！　まだおちんぞ！」",
+      "translation": "“呜哦！！还没完！还不会掉下去！”"
+    },
+    {
+      "id": "0B-F698-F6A4",
+      "japanese": "「ちっ！　かすったか！」",
+      "translation": "“啧！擦到了吗！”"
+    },
+    {
+      "id": "0B-F6A7-F6B3",
+      "japanese": "「あたりはしないっ！！」",
+      "translation": "“才不会打中！！”"
+    },
+    {
+      "id": "0B-F6B6-F6BD",
+      "japanese": "「ムダだよ！」",
+      "translation": "“没用的！”"
+    },
+    {
+      "id": "0B-F6C0-F6D3",
+      "japanese": "「やらせはせん！　やらせはせんぞ！！」",
+      "translation": "“休想！我绝不会让你得逞！！”"
+    },
+    {
+      "id": "0B-F6D6-F6F2",
+      "japanese": "「その程度では、このビグザム、\nびくともせんわ！！」",
+      "translation": "“这种程度，休想撼动这架比格扎姆！！”"
+    },
+    {
+      "id": "0B-F6F5-F6FE",
+      "japanese": "「効かぬわっ！」",
+      "translation": "“根本没用！”"
+    },
+    {
+      "id": "0B-F701-F723",
+      "japanese": "「このビグザム、長距離ビ－ムなど\nどうということはないわ！！」",
+      "translation": "“这架比格扎姆，长距离光束根本不算什么！！”"
+    },
+    {
+      "id": "0B-F726-F739",
+      "japanese": "「くっ！　ダメ－ジがでかすぎるか！？」",
+      "translation": "“唔！损伤太大了吗！？”"
+    },
+    {
+      "id": "0B-F73C-F748",
+      "japanese": "「ちっ！！　まだだっ！」",
+      "translation": "“啧！！还没完！”"
+    },
+    {
+      "id": "0B-F74B-F75B",
+      "japanese": "「この程度のダメ－ジっ！！」",
+      "translation": "“这种程度的损伤！！”"
+    },
+    {
+      "id": "0B-F75E-F76E",
+      "japanese": "「そう簡単にあたるかよっ！」",
+      "translation": "“哪有那么容易被打中！”"
+    },
+    {
+      "id": "0B-F771-F780",
+      "japanese": "「フン！　ムダなことをっ！！」",
+      "translation": "“哼！白费力气！！”"
+    },
+    {
+      "id": "0B-F783-F792",
+      "japanese": "「くっ！！　も、もつのか！？」",
+      "translation": "“唔！！还、还撑得住吗！？”"
+    },
+    {
+      "id": "0B-F795-F7A0",
+      "japanese": "「うっ！　うわっ！！」",
+      "translation": "“唔！哇！！”"
+    },
+    {
+      "id": "0B-F7A3-F7B8",
+      "japanese": "「くっ！！　ダメ－ジを受けすぎたか！？」",
+      "translation": "“唔！！受到的损伤太多了吗！？”"
+    },
+    {
+      "id": "0B-F7BB-F7C8",
+      "japanese": "「この程度かいっ！！」",
+      "translation": "“就这种程度吗！！”"
+    },
+    {
+      "id": "0B-F7CB-F7D9",
+      "japanese": "「狙いがあまいんだよっ！」",
+      "translation": "“瞄准得太差了！”"
+    },
+    {
+      "id": "0B-F7DC-F7E8",
+      "japanese": "「なんだい、こりゃ！？」",
+      "translation": "“这、这是什么！？”"
+    },
+    {
+      "id": "0B-F7EB-F7F8",
+      "japanese": "「くっ！　このままでは！」",
+      "translation": "“唔！这样下去的话！”"
+    },
+    {
+      "id": "0B-F7FB-F80A",
+      "japanese": "「あたった！？　でもまだ！！」",
+      "translation": "“被打中了！？不过还没完！！”"
+    },
+    {
+      "id": "0B-F80D-F81C",
+      "japanese": "「この程度の攻撃！！」",
+      "translation": "“这种程度的攻击！！”"
+    },
+    {
+      "id": "0B-F81F-F829",
+      "japanese": "「あたらないよ！！」",
+      "translation": "“打不中哦！！”"
+    },
+    {
+      "id": "0B-F82C-F839",
+      "japanese": "「ムダだっていったろ！！」",
+      "translation": "“我都说过没用的！！”"
+    },
+    {
+      "id": "0B-F83C-F84D",
+      "japanese": "「その程度では落ちんよ！！」",
+      "translation": "“这种程度可打不下来！！”"
+    },
+    {
+      "id": "0B-F850-F864",
+      "japanese": "「くっ！　ま、まだやられるわけには！！」",
+      "translation": "“唔！我、我还不能被打倒！！”"
+    },
+    {
+      "id": "0B-F867-F878",
+      "japanese": "「くっ！！　やるじゃねえかっ！！」",
+      "translation": "“唔！！挺能干的嘛！！”"
+    },
+    {
+      "id": "0B-F87B-F88B",
+      "japanese": "「ちっ！！　やりやがったな！！」",
+      "translation": "“啧！！竟敢动手！！”"
+    },
+    {
+      "id": "0B-F88E-F898",
+      "japanese": "「ムダなんだよ！！」",
+      "translation": "“没用的！！”"
+    },
+    {
+      "id": "0B-F89B-F8AB",
+      "japanese": "「な・・・バ、バカな・・・！？」",
+      "translation": "“什……不、不可能……！？”"
+    },
+    {
+      "id": "0B-F8AE-F8BB",
+      "japanese": "「くっ！！　やるなっ！！」",
+      "translation": "“唔！！干得不错！！”"
+    },
+    {
+      "id": "0B-F8BE-F8CD",
+      "japanese": "「まだだ！　この程度！！」",
+      "translation": "“还没完！这种程度！！”"
+    },
+    {
+      "id": "0B-F8D0-F8E1",
+      "japanese": "「フン、この程度の攻撃！」",
+      "translation": "“哼，这种程度的攻击！”"
+    },
+    {
+      "id": "0B-F8E4-F8EF",
+      "japanese": "「フッ　効かんよ！」",
+      "translation": "“哼，没用！”"
+    },
+    {
+      "id": "0B-F8F2-F902",
+      "japanese": "「なんだ！？　なぜ動かん！？」",
+      "translation": "“怎么回事！？为什么动不了！？”"
+    },
+    {
+      "id": "0B-F905-F914",
+      "japanese": "「くっ！　やるっ！　だが！！」",
+      "translation": "“唔！挺厉害！不过！！”"
+    },
+    {
+      "id": "0B-F917-F927",
+      "japanese": "「くっ！　まだ、こんなもので！」",
+      "translation": "“唔！就这种东西！”"
+    },
+    {
+      "id": "0B-F92A-F93D",
+      "japanese": "「くっ！　ダメ－ジが大きすぎる！？」",
+      "translation": "“唔！损伤太大了！？”"
+    },
+    {
+      "id": "0B-F940-F950",
+      "japanese": "「まだよっ！！　このくらいっ！」",
+      "translation": "“还没完！！就这点程度！”"
+    },
+    {
+      "id": "0B-F953-F95C",
+      "japanese": "「ヘ－キだもん！」",
+      "translation": "“我没事的啦！”"
+    },
+    {
+      "id": "0B-F95F-F96F",
+      "japanese": "「え、なに！？　動けない！？」",
+      "translation": "“诶，什么！？动不了！？”"
+    },
+    {
+      "id": "0B-F972-F97E",
+      "japanese": "「な、なんとお－っ！？」",
+      "translation": "“什、什么——！？”"
+    },
+    {
+      "id": "0B-F981-F991",
+      "japanese": "「まだだ！　わたしは倒れん！」",
+      "translation": "“还没完！我不会倒下！”"
+    },
+    {
+      "id": "0B-F994-F9A2",
+      "japanese": "「わっ！！　ヤ、ヤバイ・・」",
+      "translation": "“哇！！不、不妙……”"
+    },
+    {
+      "id": "0B-F9A5-F9B2",
+      "japanese": "「あ、あぶなかった・・・」",
+      "translation": "“好、好险……”"
+    },
+    {
+      "id": "0B-F9B5-F9C2",
+      "japanese": "「くっ！！　や、やる！！」",
+      "translation": "“唔！！挺、挺厉害！！”"
+    },
+    {
+      "id": "0B-F9C5-F9D1",
+      "japanese": "「えっ！？　うわっ！！」",
+      "translation": "“诶！？哇！！”"
+    },
+    {
+      "id": "0B-F9E5-F9FE",
+      "japanese": "「くっ！　まだ、こんなもんじゃ\n落ちないよ！！」",
+      "translation": "“唔！就这种东西还打不下来！！”"
+    },
+    {
+      "id": "0B-FA01-FA13",
+      "japanese": "「ハハハハ、その程度かいっ！！」",
+      "translation": "“哈哈哈哈，就这种程度吗！！”"
+    },
+    {
+      "id": "0B-FA16-FA23",
+      "japanese": "「ハハハ、あたるもんか！」",
+      "translation": "“哈哈哈，怎么可能打中！”"
+    },
+    {
+      "id": "0B-FA26-FA31",
+      "japanese": "「な・・・やるな！！」",
+      "translation": "“什……挺厉害！！”"
+    },
+    {
+      "id": "0B-FA34-FA41",
+      "japanese": "「ちいっ！　しまった！！」",
+      "translation": "“啧！糟了！！”"
+    },
+    {
+      "id": "0B-FA44-FA5A",
+      "japanese": "「くっ！！　この程度で落ちるものか！」",
+      "translation": "“唔！！这种程度怎么可能被打下来！”"
+    },
+    {
+      "id": "0B-FA5D-FA68",
+      "japanese": "「こんなものかいっ！」",
+      "translation": "“就这种东西吗！”"
+    },
+    {
+      "id": "0B-FA6B-FA74",
+      "japanese": "「あたるものか！」",
+      "translation": "“怎么可能打中！”"
+    },
+    {
+      "id": "0B-FA77-FA84",
+      "japanese": "「えっ！？　しまった！！」",
+      "translation": "“诶！？糟了！！”"
+    },
+    {
+      "id": "0B-FA87-FA95",
+      "japanese": "「くっ！！　やったねっ！！」",
+      "translation": "“唔！！干得漂亮！”"
+    },
+    {
+      "id": "0B-FA98-FAA6",
+      "japanese": "「フン！　そんなものかい！」",
+      "translation": "“哼！就这种东西吗！”"
+    },
+    {
+      "id": "0B-FAA9-FAB4",
+      "japanese": "「あたらないんだよ！」",
+      "translation": "“根本打不中！”"
+    },
+    {
+      "id": "0B-FAB7-FACB",
+      "japanese": "「くっ！！　しかし、まだやられはせん！」",
+      "translation": "“唔！！不过，我还没被打倒！”"
+    },
+    {
+      "id": "0B-FACE-FADD",
+      "japanese": "「くっ！！　やりおったな！！」",
+      "translation": "“唔！！竟敢动手！！”"
+    },
+    {
+      "id": "0B-FAE0-FAF3",
+      "japanese": "「効かんよ！　その程度ではな！」",
+      "translation": "“没用！就这种程度！”"
+    },
+    {
+      "id": "0B-FAF6-FB01",
+      "japanese": "「あたりはせんよ！！」",
+      "translation": "“才不会打中！！”"
+    },
+    {
+      "id": "0B-FB04-FB11",
+      "japanese": "「えっ！？　直撃！？」",
+      "translation": "“诶！？直击！？”"
+    },
+    {
+      "id": "0B-FB14-FB23",
+      "japanese": "「くっ・・・ここまでか・・・」",
+      "translation": "“唔……到此为止了吗……”"
+    },
+    {
+      "id": "0B-FB26-FB35",
+      "japanese": "「くっ！　このままでは・・・」",
+      "translation": "“唔！这样下去……”"
+    },
+    {
+      "id": "0B-FB38-FB4B",
+      "japanese": "「砲撃手！　なにをやっている！」",
+      "translation": "“炮手！在干什么！”"
+    },
+    {
+      "id": "0B-FB4E-FB5D",
+      "japanese": "「ちいっ！　油断したわ！」",
+      "translation": "“啧！大意了！”"
+    },
+    {
+      "id": "0B-FB60-FB6A",
+      "japanese": "「ま、まさか・・・」",
+      "translation": "“难、难道……”"
+    },
+    {
+      "id": "0B-FB6D-FB73",
+      "japanese": "「くっ！？」",
+      "translation": "“唔！？”"
+    },
+    {
+      "id": "0B-FB76-FB84",
+      "japanese": "「くっ！　やりますね・・・」",
+      "translation": "“唔！挺有一套……”"
+    },
+    {
+      "id": "0B-FB87-FB97",
+      "japanese": "「まだまだ、この程度ですか」",
+      "translation": "“还早得很，就这种程度吗。”"
+    },
+    {
+      "id": "0B-FB9A-FBA6",
+      "japanese": "「あたりませんよ・・・」",
+      "translation": "“打不中哦……”"
+    },
+    {
+      "id": "0B-FBA9-FBB6",
+      "japanese": "「フフフ・・・ムダですよ」",
+      "translation": "“呵呵呵……没用的。”"
+    },
+    {
+      "id": "0B-FBB9-FBD2",
+      "japanese": "「ほう、・・・おもしろい武器を\n使いますね」",
+      "translation": "“哦……你用的武器挺有意思。”"
+    },
+    {
+      "id": "0B-FBD5-FBE8",
+      "japanese": "「ま、まさか、このあたしが・・・！？」",
+      "translation": "“难、难道，我居然会……！？”"
+    },
+    {
+      "id": "0B-FBEB-FBFB",
+      "japanese": "「ちっ！！　やってくれたね！！」",
+      "translation": "“啧！！你干的好事！！”"
+    },
+    {
+      "id": "0B-FBFE-FC0D",
+      "japanese": "「まだまだ、そんなものかい！」",
+      "translation": "“还早得很，就这种东西吗！”"
+    },
+    {
+      "id": "0B-FC10-FC1E",
+      "japanese": "「ふふ、かわいいじゃないか、",
+      "translation": "“呵呵，挺可爱的嘛，"
+    },
+    {
+      "id": "0B-FC22-FC26",
+      "japanese": "ぼうや」",
+      "translation": "小男孩”"
+    },
+    {
+      "id": "0B-FC27-FC2F",
+      "japanese": "おじょうちゃん」",
+      "translation": "小姑娘”"
+    },
+    {
+      "id": "0B-FC32-FC3F",
+      "japanese": "「反撃をふうじたか！」",
+      "translation": "“封锁了反击吗！”"
+    },
+    {
+      "id": "0B-FC42-FC50",
+      "japanese": "「や、やるじゃねえか・・・」",
+      "translation": "“挺、挺能干的嘛……”"
+    },
+    {
+      "id": "0B-FC53-FC5E",
+      "japanese": "「ちっ！　てごわい！」",
+      "translation": "“啧！真难缠！”"
+    },
+    {
+      "id": "0B-FC61-FC6A",
+      "japanese": "「やったねっ！！」",
+      "translation": "“成功了！！”"
+    },
+    {
+      "id": "0B-FC6D-FC79",
+      "japanese": "「その程度かい！！」",
+      "translation": "“就这种程度吗！！”"
+    },
+    {
+      "id": "0B-FC7C-FC91",
+      "japanese": "「反撃ふうじ・・・生意気っ！！」",
+      "translation": "“封锁反击……真狂妄！！”"
+    },
+    {
+      "id": "0B-FC94-FCA1",
+      "japanese": "「こ・・・この力・・・」",
+      "translation": "“这……这股力量……”"
+    },
+    {
+      "id": "0B-FCA4-FCB2",
+      "japanese": "「ぐっ！？　ま、まさか！？」",
+      "translation": "“唔！？难、难道！？”"
+    },
+    {
+      "id": "0B-FCB5-FCC3",
+      "japanese": "「くっ！　やってくれるね！」",
+      "translation": "“唔！你还真敢干！”"
+    },
+    {
+      "id": "0B-FCC6-FCD7",
+      "japanese": "「まだまだ、その程度かい！？」",
+      "translation": "“还早得很，就这种程度吗！？”"
+    },
+    {
+      "id": "0B-FCDA-FCE6",
+      "japanese": "「どこ狙ってるのさ！」",
+      "translation": "“你瞄准哪里啊！”"
+    },
+    {
+      "id": "0B-FCF3-FD04",
+      "japanese": "「反撃をふうじたくらいでっ！」",
+      "translation": "“不过是封锁了反击而已！”"
+    },
+    {
+      "id": "0B-FD05-FD10",
+      "japanese": "「ガォォォォォン！！」",
+      "translation": "“嘎嗷嗷嗷嗷！！”"
+    },
+    {
+      "id": "0B-FD11-FD1D",
+      "japanese": "「グオォォォォォン！！」",
+      "translation": "“咕嗷嗷嗷嗷！！”"
+    },
+    {
+      "id": "0B-FD20-FD2E",
+      "japanese": "「うおっ！？　しまった！！」",
+      "translation": "“呜哦！？糟了！！”"
+    },
+    {
+      "id": "0B-FD31-FD42",
+      "japanese": "「ちいっ！！　ちょいとヤバイぜ！」",
+      "translation": "“啧！！有点不妙啊！”"
+    },
+    {
+      "id": "0B-FD45-FD50",
+      "japanese": "「やりやがったな！！」",
+      "translation": "“竟敢动手！！”"
+    },
+    {
+      "id": "0B-FD53-FD6E",
+      "japanese": "「このモンシア様にあてるとは\nいいウデしてるぜ！！」",
+      "translation": "“竟能打中我蒙夏大爷，身手不错嘛！！”"
+    },
+    {
+      "id": "0B-FD71-FD7B",
+      "japanese": "「まだまだだな！！」",
+      "translation": "“还差得远呢！！”"
+    },
+    {
+      "id": "0B-FD8B-FD99",
+      "japanese": "「まだ、こんなものなら！！」",
+      "translation": "“如果只是这种东西的话！！”"
+    },
+    {
+      "id": "0B-FD9C-FDA8",
+      "japanese": "「くっ、かすりキズ！！」",
+      "translation": "“唔，只是擦伤！！”"
+    },
+    {
+      "id": "0B-FDAB-FDC3",
+      "japanese": "「バカな！？　このオレが\nおされているだと！？」",
+      "translation": "“不可能！？我居然被压制了！？”"
+    },
+    {
+      "id": "0B-FDC6-FDD1",
+      "japanese": "「う・・・あああっ！」",
+      "translation": "“呜……啊啊啊！”"
+    },
+    {
+      "id": "0B-FDD4-FDEF",
+      "japanese": "「くっ！　射程距離外からの\n攻撃とはな」",
+      "translation": "“唔！居然从射程外攻击啊。”"
+    },
+    {
+      "id": "0B-FDF2-FE0E",
+      "japanese": "「ええ－い、何をしておる！\n早く撃ち落とせ！！」",
+      "translation": "“可恶，在干什么！快把它打下来！！”"
+    },
+    {
+      "id": "0C-E094-E0B7",
+      "japanese": "リョウ「かつての仲間と戦うというのは、気が\n引けるが・・・」",
+      "translation": "龙马“和曾经的同伴战斗，虽然心里有些过意不去……”"
+    },
+    {
+      "id": "0C-E0BA-E0D8",
+      "japanese": "マサキ「そんなこと言ってたら、あいつにやられる\nだけだぜ」",
+      "translation": "正树“要是说这种话，只会被那家伙干掉哦。”"
+    },
+    {
+      "id": "0C-E0DB-E0F2",
+      "japanese": "デュ－ク「彼は、なぜこんなむえきなことを？」",
+      "translation": "迪克“他为什么要做这种没有意义的事？”"
+    },
+    {
+      "id": "0C-E0F5-E13A",
+      "japanese": "マサキ「・・・さあな・・・ただひとつだけ、はっきり\nしてることは、あいつを倒さない限り、平和はもどって\nこないってことだけだ！！」",
+      "translation": "正树“……谁知道呢……唯一确定的是，只要不打倒那家伙，和平就不会回来！！”"
+    },
+    {
+      "id": "0C-E13B-E154",
+      "japanese": "ウェンドロ「アギ－ハとシカログもやられちゃったね」",
+      "translation": "温德罗“阿基哈和希卡洛格也被干掉了呢。”"
+    },
+    {
+      "id": "0C-E157-E170",
+      "japanese": "メキボス「このままでは我々は全滅でしょうな」",
+      "translation": "梅基波斯“这样下去，我们大概会全军覆没吧。”"
+    },
+    {
+      "id": "0C-E173-E19B",
+      "japanese": "ウェンドロ「うん、ぼくもそう思う。　やはりここは\n手をひくしかないようだね」",
+      "translation": "温德罗“嗯，我也这么想。看来这里只能收手了。”"
+    },
+    {
+      "id": "0C-E19E-E1D1",
+      "japanese": "メキボス「しかしこのままでは、人障はやがて宇宙全体を\n支配しようとするのでは・・・？」",
+      "translation": "梅基波斯“不过，这样下去，人类迟早会企图支配整个宇宙吧……？”"
+    },
+    {
+      "id": "0C-E1D4-E21D",
+      "japanese": "ウェンドロ「・・・いや、その前にこいつらは自滅するよ。\nたった一つの自分達の星さえ守ろうとしないやつらだ、\n長くはもたないさ」",
+      "translation": "温德罗“……不，在那之前，这些家伙会自取灭亡的。他们连自己唯一的一颗星球都不愿守护，撑不了太久的。”"
+    },
+    {
+      "id": "0C-E21E-E243",
+      "japanese": "ウェンドロ「この星はもういいよ。　他の文明を監視に\n行こう」",
+      "translation": "温德罗“这颗星球已经够了。去监视其他文明吧。”"
+    },
+    {
+      "id": "0C-E246-E24F",
+      "japanese": "メキボス「・・・」",
+      "translation": "梅基波斯“……”"
+    },
+    {
+      "id": "0C-E252-E27B",
+      "japanese": "ウェンドロ「ま、このまま帰るのもシャクだから、おみやげは\nおいていってやろうか」",
+      "translation": "温德罗“不过，就这样回去也太不甘心了，就留点礼物再走吧。”"
+    },
+    {
+      "id": "0C-E27C-E2BF",
+      "japanese": "キシリア「・・・このままでは、わたしの計画はすべて\n水のアワ・・・ならばせめて、ロンド＝ベルに\nいっしむくいねば気がすまぬ！」",
+      "translation": "基西莉亚“……这样下去，我的计划就全都化为泡影了……既然如此，至少也要给隆德·贝尔一矢之报，否则我咽不下这口气！”"
+    },
+    {
+      "id": "0C-E2C0-E304",
+      "japanese": "ギレン「よくもったが・・・ここまでのようだな。\n今なら残りの戦力でロンド＝ベルをたたける！\nドロスを出せ！　わたしも出る！」",
+      "translation": "基连“撑得不错……不过看来到此为止了。现在还能用剩余战力打击隆德·贝尔！把多洛斯派出去！我也出击！”"
+    },
+    {
+      "id": "0C-E305-E328",
+      "japanese": "ル－「グレミ－・・・わたしのこと、好きだっていうの、\n忘れないよ」",
+      "translation": "露“格雷米……你说喜欢我这件事，我不会忘记的。”"
+    },
+    {
+      "id": "0C-E329-E345",
+      "japanese": "グレミ－「君か、ル－＝ルカ・・・君にやられる・・・」",
+      "translation": "格雷米“是你吗，露·鲁卡……我竟然被你打败……”"
+    },
+    {
+      "id": "0C-E346-E350",
+      "japanese": "ル－「ごめん・・・」",
+      "translation": "露“对不起……”"
+    },
+    {
+      "id": "0C-E351-E3A5",
+      "japanese": "グレミ－「よくもこの間はだましてくれたな・・・女は\n身を破滅させると、十分知っていたはずなのに・・・\nおまえを信じたわたしが・・・わたしがバカだった」",
+      "translation": "格雷米“上次竟敢那样骗我……我明明知道女人会招来毁灭……相信了你的我……我真是太傻了。”"
+    },
+    {
+      "id": "0C-E3A6-E3B8",
+      "japanese": "ル－「そうよ、あんたがバカなのよ！」",
+      "translation": "露“没错，就是你傻！”"
+    },
+    {
+      "id": "0C-E3B9-E3C0",
+      "japanese": "グレミ－「！」",
+      "translation": "格雷米“！”"
+    },
+    {
+      "id": "0C-E3C1-E3EB",
+      "japanese": "ル－「女を利用するくらいになんなきゃ、一人前の男とは\nいえないわよ！」",
+      "translation": "露“连利用女人都做不到，可算不上独当一面的男人哦！”"
+    },
+    {
+      "id": "0C-E3EC-E3F6",
+      "japanese": "ル－「グレミ－！！」",
+      "translation": "露“格雷米！！”"
+    },
+    {
+      "id": "0C-E3F7-E40D",
+      "japanese": "グレミ－「なにっ！？　ル－＝ルカなのか！？」",
+      "translation": "格雷米“什么！？是露·鲁卡吗！？”"
+    },
+    {
+      "id": "0C-E40E-E429",
+      "japanese": "ル－「だったらどうしたのよッ！　あなたしつこいわよ！」",
+      "translation": "露“是又怎么样！你烦不烦啊！”"
+    },
+    {
+      "id": "0C-E42A-E44B",
+      "japanese": "グレミ－「ル－＝ルカさん！　あなたにはそんなものは\nにあわない！」",
+      "translation": "格雷米“露·鲁卡小姐！那种东西不适合你！”"
+    },
+    {
+      "id": "0C-E44C-E45B",
+      "japanese": "ル－「よけいなお世話よ！」",
+      "translation": "露“多管闲事！”"
+    },
+    {
+      "id": "0C-E45C-E4A4",
+      "japanese": "ハマ－ン「ロンド＝ベルか・・・今の戦力ではかなうべくも\nないが・・・だが！！　わたしの意地にかけて、\nロンド＝ベルを始末する！！」",
+      "translation": "哈曼“隆德·贝尔吗……以现在的战力本来无法抗衡……但是！！赌上我的尊严，我也要收拾掉隆德·贝尔！！”"
+    },
+    {
+      "id": "0C-E4A5-E4E5",
+      "japanese": "アギ－ハ「・・・どうやらＤＣのヤツラ、ロンド＝ベルに戦いを\nいどむつもりらしいね・・・なら、ここは手出しせずに\nいようか」",
+      "translation": "阿基哈“……看来DC那些家伙打算向隆德·贝尔开战……既然如此，我们就在这里按兵不动吧。”"
+    },
+    {
+      "id": "0C-E4E6-E512",
+      "japanese": "ブライト「くっ！　やはりだめか・・・ハマ－ンは我々と\nあくまでも戦うつもりのようだ」",
+      "translation": "布莱德“唔！果然不行吗……看来哈曼无论如何都要与我们一战。”"
+    },
+    {
+      "id": "0C-E513-E535",
+      "japanese": "ハマ－ン「キャラとマシュマ－の強化は、完了して\nいるな！？」",
+      "translation": "哈曼“姬拉和马修曼的强化已经完成了吧！？”"
+    },
+    {
+      "id": "0C-E536-E544",
+      "japanese": "イリア「は、とどこおりなく」",
+      "translation": "伊莉雅“是，顺利完成。”"
+    },
+    {
+      "id": "0C-E545-E57C",
+      "japanese": "マシュマ－「わたしはやられんぞ！！　このマシュマ－＝セロ\nおのれのニクが、ホネからそぎとられるまで戦う！！」",
+      "translation": "马修曼“我不会被打倒的！！我马修曼·塞罗要战斗到自己的血肉从骨头上被削下来为止！！”"
+    },
+    {
+      "id": "0C-E57D-E5AD",
+      "japanese": "アギ－ハ「ま、こんなもんかね。　それじゃあたい達が\n相手をしてやるよ！！　覚悟しな！」",
+      "translation": "阿基哈“嗯，就这样吧。那我们就来当你们的对手！！做好觉悟吧！”"
+    },
+    {
+      "id": "0C-E5AE-E5CB",
+      "japanese": "ブライト「残るは、アクシズ内部の異星人のみだ」",
+      "translation": "布莱德“剩下的就只有阿克西斯内部的外星人了。”"
+    },
+    {
+      "id": "0C-E5CE-E5F3",
+      "japanese": "豹馬「異星人のボスか・・・・一体、どんなヤツ\nなんだろうな」",
+      "translation": "豹马“外星人的老大吗……到底是个什么样的家伙呢。”"
+    },
+    {
+      "id": "0C-E5F6-E61D",
+      "japanese": "ジュド－「パタ－ンとしては、やっぱりやたらえらそうな\nおっさんじゃないかな？」",
+      "translation": "捷多“按照套路，多半是个特别嚣张的大叔吧？”"
+    },
+    {
+      "id": "0C-E620-E63B",
+      "japanese": "十三「超美形キャラって可能性もあるで」",
+      "translation": "十三“也有可能是个超级美形的角色哦。”"
+    },
+    {
+      "id": "0C-E643-E651",
+      "japanese": "リュ－ネ「あ、それいいな！」",
+      "translation": "琉妮“啊，那个不错嘛！”"
+    },
+    {
+      "id": "0C-E654-E671",
+      "japanese": "デュ－ク「矢入するぞ！！　準備はすませたのか！？」",
+      "translation": "迪克“要突入了！！准备好了吗！？”"
+    },
+    {
+      "id": "0C-E674-E67F",
+      "japanese": "豹馬「あ、いけね」",
+      "translation": "豹马“啊，糟了。”"
+    },
+    {
+      "id": "0C-E680-E6A8",
+      "japanese": "マサキ「いよいよ敵の親玉とご対面ってワケだ！\nぞくぞくしてくるぜ！！」",
+      "translation": "正树“终于要和敌人的头目见面了！真让人兴奋啊！！”"
+    },
+    {
+      "id": "0C-E6AB-E6DD",
+      "japanese": "クワトロ「・・・しかし、ヤツラは一体どこから来て、なぜ\n地球を襲ったりしたのだ・・・？」",
+      "translation": "库瓦特罗“……不过，他们到底从哪里来，又为什么要袭击地球呢……？”"
+    },
+    {
+      "id": "0C-E6E0-E733",
+      "japanese": "シュウ「そんなことは、ささいなことです。　問題なのは\n彼らがどの程度の戦力を持っているかですよ。　せいぜい\n楽しませてもらえるといいですがね・・・」",
+      "translation": "修“那种事无关紧要。问题在于他们拥有多大程度的战力。但愿他们能尽量让我尽兴。”"
+    },
+    {
+      "id": "0C-E734-E758",
+      "japanese": "ハマ－ン「こんなところでくちはてる、おのれの身を\nのろうがいいっ！！」",
+      "translation": "哈曼“就在这种地方腐朽吧，尽管诅咒你自己吧！！”"
+    },
+    {
+      "id": "0C-E759-E766",
+      "japanese": "クワトロ「そうかなっ！？」",
+      "translation": "库瓦特罗“是吗！？”"
+    },
+    {
+      "id": "0C-E767-E7B2",
+      "japanese": "カミ－ユ「シロッコ・・・あいつだけは、許すわけには\nいかない！　あいつは・・・人を・・・人の命を、心を\nゴミのようにしか思っていない！！」",
+      "translation": "卡缪“西罗克……唯独那家伙，我绝不能原谅！他……把人……把人的生命和心都当成垃圾！！”"
+    },
+    {
+      "id": "0C-E7B5-E7D2",
+      "japanese": "アムロ「カミ－ユ、あまり思いつめるな。　冷静になれ」",
+      "translation": "阿姆罗“卡缪，别想太多了。冷静下来。”"
+    },
+    {
+      "id": "0C-E7D5-E810",
+      "japanese": "カミ－ユ「・・・わかってますよ、アムロさん。　でも\nあいつのせいでレコアさんが・・・決着だけは\nつけなきゃ・・・」",
+      "translation": "卡缪“……我知道，阿姆罗先生。可是，因为那家伙，蕾柯亚小姐她……至少我要做个了断……”"
+    },
+    {
+      "id": "0C-E818-E835",
+      "japanese": "フォウ「カミ－ユ、少し休みましょう。　つかれてるのよ」",
+      "translation": "凤“卡缪，稍微休息一下吧。你累了。”"
+    },
+    {
+      "id": "0C-E838-E847",
+      "japanese": "カミ－ユ「ありがとう、フォウ」",
+      "translation": "卡缪“谢谢你，凤。”"
+    },
+    {
+      "id": "0C-E848-E868",
+      "japanese": "フォウ「カミ－ユ！？　だめっ！！　カミ－ユは\nやらせないッ！！」",
+      "translation": "凤“卡缪！？不行！！我不会让卡缪出事的！！”"
+    },
+    {
+      "id": "0C-E869-E88F",
+      "japanese": "カミ－ユ「え！？　フォ・・・フォウ？　オ・・・\nオレは一体何を・・・」",
+      "translation": "卡缪“诶！？凤……凤？我……我到底做了什么……”"
+    },
+    {
+      "id": "0C-E890-E8AA",
+      "japanese": "フォウ「・・・だいじょうぶだったようね、カミ－ユ？」",
+      "translation": "凤“……看来你没事，卡缪？”"
+    },
+    {
+      "id": "0C-E8AB-E8C2",
+      "japanese": "カミ－ユ「今・・・一瞬シロッコが・・・」",
+      "translation": "卡缪“刚才……有一瞬间西罗克他……”"
+    },
+    {
+      "id": "0C-E8C3-E8ED",
+      "japanese": "フォウ「あぶなかったわ。　シロッコがあなたの心を\n道連れにしようとしていたの」",
+      "translation": "凤“好险。西罗克刚才想拉着你的心一起陪葬。”"
+    },
+    {
+      "id": "0C-E8EE-E90C",
+      "japanese": "マシュマ－「なんだ、バスクめ、もうやられているではないか！」",
+      "translation": "马修曼“什么嘛，巴斯克那家伙，不是已经被干掉了嘛！”"
+    },
+    {
+      "id": "0C-E90D-E91C",
+      "japanese": "シロッコ「サラ、無事か？」",
+      "translation": "西罗克“莎拉，你没事吧？”"
+    },
+    {
+      "id": "0C-E91D-E92E",
+      "japanese": "サラ「あ、はい、パプティマス様」",
+      "translation": "莎拉“啊，是，帕普提马斯大人。”"
+    },
+    {
+      "id": "0C-E92F-E96C",
+      "japanese": "シロッコ「・・・ここは手を出さずにいようと思っていたが、\n気が変わった！　相手をしてやるぞ、ロンド＝ベル！」",
+      "translation": "西罗克“……我本来打算在这里按兵不动，不过我改变主意了！隆德·贝尔，我来陪你们玩玩！”"
+    },
+    {
+      "id": "0C-E96D-E985",
+      "japanese": "リョウ「用意はいいな！？　矢入するぞ！」",
+      "translation": "龙马“准备好了吧！？要突入了！”"
+    },
+    {
+      "id": "0C-E988-E997",
+      "japanese": "ムサシ「まかせときなって！！」",
+      "translation": "武藏“交给我吧！！”"
+    },
+    {
+      "id": "0C-E99F-E9B6",
+      "japanese": "バ－ニィ「鬼が出るか、ジャがでるか・・・」",
+      "translation": "巴尼“不知会冒出鬼还是蛇……”"
+    },
+    {
+      "id": "0C-E9B9-E9CD",
+      "japanese": "クリス「あら、ふるえてるの？　バ－ニィ」",
+      "translation": "克丽丝“哎呀，你在发抖吗？巴尼。”"
+    },
+    {
+      "id": "0C-E9D0-E9E4",
+      "japanese": "バ－ニィ「そそ・・・そんなことないさ！」",
+      "translation": "巴尼“才、才没有那种事！”"
+    },
+    {
+      "id": "0C-E9E7-E9FD",
+      "japanese": "万丈「さて、それでは行くとしますか！」",
+      "translation": "万丈“那么，这就出发吧！”"
+    },
+    {
+      "id": "0C-E9FE-EA16",
+      "japanese": "ヴィガジ「今度こそ決着をつけてやる！！」",
+      "translation": "维加吉“这次一定要做个了断！！”"
+    },
+    {
+      "id": "0C-EA17-EA30",
+      "japanese": "フラウ「ブライト艦長、通信が入ってます」",
+      "translation": "芙劳“布莱德舰长，有通信进来。”"
+    },
+    {
+      "id": "0C-EA33-EA41",
+      "japanese": "ブライト「？　誰からだ？」",
+      "translation": "布莱德“？是谁？”"
+    },
+    {
+      "id": "0C-EA44-EA5A",
+      "japanese": "フラウ「・・・リュ－ネ＝ゾルダ－クからです」",
+      "translation": "芙劳“……是琉妮·佐尔达克打来的。”"
+    },
+    {
+      "id": "0C-EA5D-EA6A",
+      "japanese": "マサキ「あのオテンバか！」",
+      "translation": "正树“那个野丫头吗！”"
+    },
+    {
+      "id": "0C-EA6D-EA8D",
+      "japanese": "リュ－ネ「あんたら、まだそんなとこで、ぐずぐす\nしてるのかい？」",
+      "translation": "琉妮“你们还在那种地方磨磨蹭蹭吗？”"
+    },
+    {
+      "id": "0C-EA90-EAA1",
+      "japanese": "甲児「よけいなお世話だ！」",
+      "translation": "甲儿“多管闲事！”"
+    },
+    {
+      "id": "0C-EAA4-EAE3",
+      "japanese": "リュ－ネ「ザビ家のヤツラは、あたしがちょいといためつけて\nおいたよ。　あとは、あんたらでも何とかなるだろ。\nがんばりな！」",
+      "translation": "琉妮“扎比家那些家伙，我已经稍微教训过一顿了。剩下的你们也能应付吧。加油哦！”"
+    },
+    {
+      "id": "0C-EAE6-EB01",
+      "japanese": "マサキ「あ！　おいっ！！　・・・切っちまいやがった」",
+      "translation": "正树“啊！喂！！……居然给挂了。”"
+    },
+    {
+      "id": "0C-EB02-EB12",
+      "japanese": "シャア「ララァ、無事か！？」",
+      "translation": "夏亚“拉拉，你没事吧！？”"
+    },
+    {
+      "id": "0C-EB20-EB3E",
+      "japanese": "シャア「どうやら、本気で相手をせねばならんようだな」",
+      "translation": "夏亚“看来不得不认真对付了。”"
+    },
+    {
+      "id": "0C-EB3F-EB5B",
+      "japanese": "シャア「口では何とでも言えるのだよ、アムロ君！」",
+      "translation": "夏亚“嘴上想怎么说都行，阿姆罗君！”"
+    },
+    {
+      "id": "0C-EB5C-EB7F",
+      "japanese": "リョウ「だが、異星人はなぜ、地球をおそって\nきたんだろう？」",
+      "translation": "龙马“可是，外星人为什么要来袭击地球呢？”"
+    },
+    {
+      "id": "0C-EB80-EBB1",
+      "japanese": "洸「そういえば、ヤツラは宇宙の平和にとって\n人障はジャマだとか言っていたな・・・」",
+      "translation": "响洸“说起来，他们说过人类对宇宙和平来说是障碍……”"
+    },
+    {
+      "id": "0C-EBB2-EBE1",
+      "japanese": "シュウ「彼らの宇宙支配に、人障は窓威であった・・・\nそれが正解でしょう」",
+      "translation": "修“人类对他们的宇宙支配构成了威胁……这应该就是正确答案吧。”"
+    },
+    {
+      "id": "0C-EBE2-EC13",
+      "japanese": "リョウ「・・・我々は、もう一度、これからの進む道を\n考えてみなければならないな・・・」",
+      "translation": "龙马“……我们必须重新思考今后要走的道路了……”"
+    },
+    {
+      "id": "0C-EC14-EC34",
+      "japanese": "シュウ「さて、そろそろ本気を出さねば\nならないようですね」",
+      "translation": "修“那么，看来差不多该拿出真本事了。”"
+    },
+    {
+      "id": "0C-EC35-EC4E",
+      "japanese": "ガト－「くっ！　これがロンド＝ベルのやり口か！」",
+      "translation": "卡多“唔！这就是隆德·贝尔的做法吗！”"
+    },
+    {
+      "id": "0C-EC4F-EC67",
+      "japanese": "ブライト「これでようやく、ＤＣは壊滅したな」",
+      "translation": "布莱德“这样一来，DC终于被歼灭了。”"
+    },
+    {
+      "id": "0C-EC6F-EC9B",
+      "japanese": "マリア「ね、甲児！　この闘いが終わったら、２人で\nどっか遊びに行かない？」",
+      "translation": "玛丽亚“喂，甲儿！这场战斗结束后，我们两个人去哪里玩玩好不好？”"
+    },
+    {
+      "id": "0C-EC9E-ECCD",
+      "japanese": "甲児「そうだな。　誰もいない、広い荒野をツ－リング\nなんてのもいいかもしれないな」",
+      "translation": "甲儿“是啊。在无人的广阔荒野上兜风，或许也不错。”"
+    },
+    {
+      "id": "0C-ECD0-ECE4",
+      "japanese": "さやか「・・・ちょっと、甲児君！」",
+      "translation": "沙耶加“……等一下，甲儿君！”"
+    },
+    {
+      "id": "0C-ECE7-ED02",
+      "japanese": "甲児「わっ！　な・・・なんだよ、さやか・・・さん」",
+      "translation": "甲儿“哇！怎……怎么了，沙耶加……小姐。”"
+    },
+    {
+      "id": "0C-ED05-ED15",
+      "japanese": "さやか「・・・知らないッ！！」",
+      "translation": "沙耶加“……我不管了！！”"
+    },
+    {
+      "id": "0C-ED18-ED2F",
+      "japanese": "カイ「ニヒヒヒ、モテる男はつらいってとこね」",
+      "translation": "凯“嘻嘻嘻，这就是受欢迎男人的辛苦啊。”"
+    },
+    {
+      "id": "0C-ED32-ED55",
+      "japanese": "クワトロ「残るは、アクシズを占領した異星人\nのみか・・・」",
+      "translation": "库瓦特罗“剩下的就只有占领阿克西斯的外星人了吗……”"
+    },
+    {
+      "id": "0C-ED58-ED61",
+      "japanese": "カミ－ユ「・・・」",
+      "translation": "卡缪“……”"
+    },
+    {
+      "id": "0C-ED64-ED74",
+      "japanese": "アムロ「どうした？　カミ－ユ？」",
+      "translation": "阿姆罗“怎么了？卡缪？”"
+    },
+    {
+      "id": "0C-ED77-EDA3",
+      "japanese": "カミ－ユ「いえ・・・ちょっと・・・シロッコがあのまま\nひきさがったとは思えないんです」",
+      "translation": "卡缪“不……只是……我不觉得西罗克会就这样撤退。”"
+    },
+    {
+      "id": "0C-EDA6-EDC5",
+      "japanese": "ジュド－「確かにそうだよな。　あいつ、しつっこい\nからなあ」",
+      "translation": "捷多“确实是这样。那家伙可是很执着的。”"
+    },
+    {
+      "id": "0C-EDC8-EDF4",
+      "japanese": "アムロ「・・・レコア少尉の事もある・・・用心しておく\n必要がありそうだな」",
+      "translation": "阿姆罗“……还有蕾柯亚少尉的事……看来有必要小心一点。”"
+    },
+    {
+      "id": "0C-EDF5-EE11",
+      "japanese": "リョウ「・・・なぜ・・・まるで死に急ぐように・・・」",
+      "translation": "龙马“……为什么……简直像在急着送死一样……”"
+    },
+    {
+      "id": "0C-EE12-EE4A",
+      "japanese": "クワトロ「パプティマス＝シロッコ・・・前大戦の時から\n妙な動きをしていたが・・・ここまでやるとはな」",
+      "translation": "库瓦特罗“帕普提马斯·西罗克……从上次大战时就有奇怪的举动……没想到竟做到这种地步。”"
+    },
+    {
+      "id": "0C-EE4D-EE7F",
+      "japanese": "甲児「シロッコのヤロ－、前にコテンパンにのして\nやったってのに、こりねえヤツだぜ、まったく！」",
+      "translation": "甲儿“西罗克那混蛋，明明上次被我打得落花流水，居然还不长记性，真是的！”"
+    },
+    {
+      "id": "0C-EE82-EEBA",
+      "japanese": "リョウ「ヤツは、異星人の技術を手に入れたと\n言っていたな・・・十分注意しなければ・・・」",
+      "translation": "龙马“他说过得到了外星人的技术……必须十分小心……”"
+    },
+    {
+      "id": "0C-EEBB-EED1",
+      "japanese": "フラウ「スレッガ－さん・・・どうして・・・」",
+      "translation": "芙劳“斯雷格先生……为什么……”"
+    },
+    {
+      "id": "0C-EED2-EF00",
+      "japanese": "シュウ「まだです・・・まだこんなものでは\n終わりません・・・わたしにも意地があります」",
+      "translation": "修“还没完……不会就这样结束……我也有我的尊严。”"
+    },
+    {
+      "id": "0C-EF01-EF17",
+      "japanese": "シュウ「そう簡単には、いきませんよ！！」",
+      "translation": "修“可不会那么容易就结束哦！！”"
+    },
+    {
+      "id": "0C-EF18-EF2E",
+      "japanese": "マシュマ－「ハマ－ン様、ばんざ－いっ！！」",
+      "translation": "马修曼“哈曼大人，万岁！！”"
+    },
+    {
+      "id": "0C-EF2F-EF54",
+      "japanese": "キシリア「貴公・・・アナベル＝ガト－か！？　なぜ\nロンド＝ベルに！？」",
+      "translation": "基西莉亚“你……是阿纳贝尔·卡多！？为什么会在隆德·贝尔！？”"
+    },
+    {
+      "id": "0C-EF55-EF8D",
+      "japanese": "ガト－「大義はロンド＝ベルにありと、信じるがゆえに\n・・・今のディバイン・クルセイダ－ズに義はない！」",
+      "translation": "卡多“正因为我相信大义在隆德·贝尔一方……如今的神圣十字军已无大义！”"
+    },
+    {
+      "id": "0C-EF8E-EF9D",
+      "japanese": "キシリア「裏切り者が！」",
+      "translation": "基西莉亚“叛徒！”"
+    },
+    {
+      "id": "0C-EF9E-EFBE",
+      "japanese": "ガト－「ギレン閣下・・・お命、ちょうだい\nつかまつる！！」",
+      "translation": "卡多“基连阁下……请把您的性命交给我吧！！”"
+    },
+    {
+      "id": "0C-EFBF-EFED",
+      "japanese": "ギレン「・・・ガト－か・・・それもよかろう・・・\nだが、わたしのくび、そう安くはないぞ！」",
+      "translation": "基连“……是卡多吗……那也好……不过，我的人头可没那么便宜！”"
+    },
+    {
+      "id": "0C-EFEE-F013",
+      "japanese": "ドズル「貴公、ガト－か！？　おのれっ！！　おんを\nアダで返すか！！」",
+      "translation": "多兹鲁“你，是卡多吗！？可恶！！竟敢恩将仇报！！”"
+    },
+    {
+      "id": "0C-F014-F01C",
+      "japanese": "ガト－「・・・」",
+      "translation": "卡多“……”"
+    },
+    {
+      "id": "0C-F01D-F064",
+      "japanese": "ジュド－「あんた、マシュマ－さんだろ！　なんで\nハマ－ンなんかに手をかすんだよ！？　あんた、もっと\n正義感あふれてる人だったろ！？」",
+      "translation": "捷多“你，是马修曼先生吧！为什么要帮哈曼那种人！？你以前明明是个更有正义感的人吧！？”"
+    },
+    {
+      "id": "0C-F065-F0A1",
+      "japanese": "マシュマ－「ハマ－ン様の悪口とは、聞きずてならん！\nそれにわたしは、貴様のような子供など知らぬわ！！」",
+      "translation": "马修曼“竟敢说哈曼大人的坏话，我可不能置若罔闻！而且我根本不认识你这种小鬼！！”"
+    },
+    {
+      "id": "0C-F0A2-F0D2",
+      "japanese": "キャラ「ムダだよ、マシュマ－はもう、強化されすぎ\nちまってる・・・かわいそうだけどね・・・」",
+      "translation": "姬拉“没用的，马修曼已经被强化得太过了……虽然很可怜……”"
+    },
+    {
+      "id": "0C-F0D3-F0DF",
+      "japanese": "ジュド－「ダメか・・・」",
+      "translation": "捷多“不行吗……”"
+    },
+    {
+      "id": "0C-F0E0-F0FA",
+      "japanese": "ジュド－「キャラ！？　キャラ＝ス－ンじゃないか！？」",
+      "translation": "捷多“姬拉！？你不是姬拉·森吗！？”"
+    },
+    {
+      "id": "0C-F0FB-F10F",
+      "japanese": "キャラ「何！？　誰だ、おまえは！？」",
+      "translation": "姬拉“什么！？你是谁！？”"
+    },
+    {
+      "id": "0C-F110-F158",
+      "japanese": "ジュド－「忘れちまったのか！？　オレだよ、\nジュド－＝ア－シタ！　なあ、キャラ、こんな事やめて、\nセンタクでもやらない？　好きだったろ？」",
+      "translation": "捷多“你忘了吗！？是我啊，捷多·亚西塔！喂，姬拉，别干这种事了，要不要一起去洗衣服？你以前很喜欢吧？”"
+    },
+    {
+      "id": "0C-F159-F16A",
+      "japanese": "キャラ「何をふざけたことを！！」",
+      "translation": "姬拉“你在胡说什么！”"
+    },
+    {
+      "id": "0C-F16B-F185",
+      "japanese": "アムロ「ダメだ、ジュド－！！　キャラは、もう・・・」",
+      "translation": "阿姆罗“不行，捷多！！姬拉已经……”"
+    },
+    {
+      "id": "0C-F186-F198",
+      "japanese": "ジュド－「ち・・・ちくしょうっ！！」",
+      "translation": "捷多“可……可恶！！”"
+    },
+    {
+      "id": "0C-F199-F1D5",
+      "japanese": "メキボス「さて、まあ、こんなもんだな。　あとはお前達でも\n何とかなるだろう。　オレはこの辺で休ませてもらうぜ」",
+      "translation": "梅基波斯“好了，差不多就这样吧。剩下的你们也能应付吧。我就在这儿歇着了。”"
+    },
+    {
+      "id": "0C-F1D6-F1E6",
+      "japanese": "ファ「カミ－ユ！　カミ－ユ！！」",
+      "translation": "花“卡缪！卡缪！！”"
+    },
+    {
+      "id": "0C-F1E9-F224",
+      "japanese": "アムロ「・・・ファ・・・残念だが、カミ－ユの心は・・・\n元にもどるには、長いリハビリが必要だろう・・・」",
+      "translation": "阿姆罗“……花……很遗憾，卡缪的心……要恢复原状，恐怕需要漫长的康复治疗……”"
+    },
+    {
+      "id": "0C-F227-F231",
+      "japanese": "ファ「そんな・・・」",
+      "translation": "花“怎么会……”"
+    },
+    {
+      "id": "0C-F232-F250",
+      "japanese": "シュウ「我がグランゾンの本質は、\n破壊神シヴァ」",
+      "translation": "修“我这架古兰森的本质，是破坏神湿婆。”"
+    },
+    {
+      "id": "0C-F251-F26E",
+      "japanese": "シュウ「またの名をヴォルクルスと\n言いましてね・・・」",
+      "translation": "修“另一个名字叫沃尔克鲁斯……”"
+    },
+    {
+      "id": "0C-F26F-F284",
+      "japanese": "シュウ「オン・マケイシヴァラヤ・ソワカ！」",
+      "translation": "修“唵·摩醯湿伐罗耶·娑婆诃！”"
+    }
+  ]
+}

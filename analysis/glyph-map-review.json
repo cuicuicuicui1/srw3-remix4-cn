@@ -1,0 +1,18 @@
+{
+  "method": "manually transcribed rendered source font sheets plus existing kana mapping; ambiguous glyphs remain explicit unknown markers",
+  "manual_kanji_code_count": 768,
+  "uncertain_codes": [
+    "F22B",
+    "F26A",
+    "F26E",
+    "F279",
+    "F28A",
+    "F2F7"
+  ],
+  "sheets": [
+    "jp-glyph-page-0.png",
+    "jp-glyph-page-1.png",
+    "jp-glyph-page-2.png"
+  ],
+  "input_sha256": "edcffa7b6aa734735b64f7674f02e2cf4e24a7a499cfd24675ad34c86218fe8f"
+}

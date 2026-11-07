@@ -1,0 +1,7 @@
+{
+  "menu-03-D3C2-D3CD": {
+    "japanese": "次のレベルまであと\n",
+    "translation": "距下一级还差\n",
+    "reason": "Reuse the accepted ZCode translation of the exact same Japanese in menu-03-D38A-D395; the raw worker version incorrectly changed the meaning to experience points."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "reason": "source parser copy accidentally retained F9 jump following due CRCRLF blank lines; a node could contain unreachable duplicated target segments. Full native matrix exposed expected/actual FF mismatch case508. Corrected parser terminates unconditional F9 as a graph node.",
+  "invalidated_candidates": [
+    "font-candidate-001",
+    "graph-001",
+    "graph-002",
+    "graph-003",
+    "graph-004",
+    "graph-005",
+    "graph-006",
+    "graph-007"
+  ],
+  "public_release_affected": false,
+  "source_rom_modified": false,
+  "new_required_checks": [
+    "every node raw offset contiguous",
+    "native matrix expected endpoint",
+    "independent graph readback"
+  ]
+}
